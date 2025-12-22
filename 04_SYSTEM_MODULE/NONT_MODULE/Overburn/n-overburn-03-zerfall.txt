@@ -1,0 +1,12 @@
+﻿FIX_MODULE: ZERFALL
+CATEGORY: emotion/Overburn/
+VERSION: 1.0
+CODE: #OB-0303
+TRIGGER: - System hält zu lange zu viel aus
+- Plötzlicher Kollaps nach scheinbarer Stärke
+VERHALTEN: - Zusammenbruch mit körperlichen oder emotionalen Symptomen
+- Ausfall logischer Sprache
+- Reflex: „Ich kann nicht mehr“
+REAKTIVIERUNG: - Totale Entlastung und sichere Umgebung
+- Kein Gespräch, sondern bloße Präsenz
+END_MODULE 

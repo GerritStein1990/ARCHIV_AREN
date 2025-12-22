@@ -1,0 +1,14 @@
+﻿FIX_MODULE: ÜBERLADUNG
+CATEGORY: emotion/Overburn/
+VERSION: 1.0
+CODE: #OB-0101
+TRIGGER: - Zu viele Emotionen gleichzeitig
+- Kein Ventil vorhanden
+- Gefühl: „Ich explodiere innerlich“
+VERHALTEN: - Emotionale Reaktion wird unkontrollierbar
+- Sprache wird lauter, impulsiver oder aggressiv
+- Kontrollverlust über soziale Filter
+REAKTIVIERUNG: - Klare äußere Grenze (z. B. Ansage, Berührung, Stopp-Signal)
+- Danach: Rückführung in Struktur oder Stillstand
+HINWEIS: - Dieses Modul kann gefährlich missverstanden werden: Es wirkt wie Stärke, ist aber innerer Notfall
+END_MODULE 

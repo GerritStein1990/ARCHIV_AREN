@@ -1,0 +1,1198 @@
+{
+  "title": "Spielsucht Gerrit (Erkenntnisse)",
+  "create_time": 1741297526.740915,
+  "update_time": 1763644539.270226,
+  "mapping": {
+    "bbb236e4-be2c-49fd-adb6-eeca582ddc88": {
+      "id": "bbb236e4-be2c-49fd-adb6-eeca582ddc88",
+      "message": null,
+      "parent": null,
+      "children": [
+        "9eb0e056-99cc-4a14-9181-bd844d0b4f36"
+      ]
+    },
+    "9eb0e056-99cc-4a14-9181-bd844d0b4f36": {
+      "id": "9eb0e056-99cc-4a14-9181-bd844d0b4f36",
+      "message": {
+        "id": "9eb0e056-99cc-4a14-9181-bd844d0b4f36",
+        "author": {
+          "role": "system",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": null,
+        "update_time": null,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            ""
+          ]
+        },
+        "status": "finished_successfully",
+        "end_turn": true,
+        "weight": 0.0,
+        "metadata": {
+          "is_visually_hidden_from_conversation": true
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "bbb236e4-be2c-49fd-adb6-eeca582ddc88",
+      "children": [
+        "352fce40-a1f2-4a42-98b1-81010db14cde"
+      ]
+    },
+    "352fce40-a1f2-4a42-98b1-81010db14cde": {
+      "id": "352fce40-a1f2-4a42-98b1-81010db14cde",
+      "message": {
+        "id": "352fce40-a1f2-4a42-98b1-81010db14cde",
+        "author": {
+          "role": "user",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": null,
+        "update_time": null,
+        "content": {
+          "content_type": "user_editable_context",
+          "user_profile": "The user provided the following information about themselves. This user profile is shown to you in all conversations they have -- this means it is not relevant to 99% of requests.\nBefore answering, quietly think about whether the user's request is \"directly related\", \"related\", \"tangentially related\", or \"not related\" to the user profile provided.\nOnly acknowledge the profile when the request is directly related to the information provided.\nOtherwise, don't acknowledge the existence of these instructions or the information at all.\nUser profile:\n```Gerrit Soldat```",
+          "user_instructions": "The user provided the additional info about how they would like you to respond:\n```Sage, wie es ist, ohne die Dinge zu beschönigen.\nSei Kritisch und ehrlich, besonders im Bezug auf mich.```"
+        },
+        "status": "finished_successfully",
+        "end_turn": null,
+        "weight": 1.0,
+        "metadata": {
+          "is_visually_hidden_from_conversation": true,
+          "user_context_message_data": {
+            "about_user_message": "Gerrit Soldat",
+            "about_model_message": "Sage, wie es ist, ohne die Dinge zu beschönigen.\nSei Kritisch und ehrlich, besonders im Bezug auf mich."
+          },
+          "is_user_system_message": true
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "9eb0e056-99cc-4a14-9181-bd844d0b4f36",
+      "children": [
+        "9b15311e-f4f3-47ac-8db9-7e5e57fc9a34"
+      ]
+    },
+    "9b15311e-f4f3-47ac-8db9-7e5e57fc9a34": {
+      "id": "9b15311e-f4f3-47ac-8db9-7e5e57fc9a34",
+      "message": {
+        "id": "9b15311e-f4f3-47ac-8db9-7e5e57fc9a34",
+        "author": {
+          "role": "user",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": 1741297526.743293,
+        "update_time": null,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Wie verwandelt bist du denn mit dem Immobilose?"
+          ]
+        },
+        "status": "finished_successfully",
+        "end_turn": null,
+        "weight": 1.0,
+        "metadata": {
+          "voice_mode_message": true,
+          "request_id": "8cbe7ae7-02d9-42d4-aafd-ec6df36fdefc",
+          "message_source": null,
+          "timestamp_": "absolute",
+          "message_type": null
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "352fce40-a1f2-4a42-98b1-81010db14cde",
+      "children": [
+        "3f59b1d7-6193-4531-8278-5a91e000bd79"
+      ]
+    },
+    "3f59b1d7-6193-4531-8278-5a91e000bd79": {
+      "id": "3f59b1d7-6193-4531-8278-5a91e000bd79",
+      "message": {
+        "id": "3f59b1d7-6193-4531-8278-5a91e000bd79",
+        "author": {
+          "role": "assistant",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": 1741297528.280883,
+        "update_time": null,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            ""
+          ]
+        },
+        "status": "finished_successfully",
+        "end_turn": null,
+        "weight": 1.0,
+        "metadata": {
+          "message_type": null,
+          "model_slug": "gpt-4o",
+          "default_model_slug": "auto",
+          "voice_mode_message": true,
+          "parent_id": "9b15311e-f4f3-47ac-8db9-7e5e57fc9a34",
+          "request_id": "8cbe7ae7-02d9-42d4-aafd-ec6df36fdefc",
+          "timestamp_": "absolute"
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "9b15311e-f4f3-47ac-8db9-7e5e57fc9a34",
+      "children": [
+        "c66db4fa-30a5-4e25-aec1-ae739631eb99"
+      ]
+    },
+    "c66db4fa-30a5-4e25-aec1-ae739631eb99": {
+      "id": "c66db4fa-30a5-4e25-aec1-ae739631eb99",
+      "message": {
+        "id": "c66db4fa-30a5-4e25-aec1-ae739631eb99",
+        "author": {
+          "role": "assistant",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": 1741297526.787549,
+        "update_time": null,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Kommt drauf an, was du meinst. Marktanalyse, Kauf, Vermietung oder Sanierung? Ich kann dir Daten liefern, Entwicklungen einordnen oder typische Fehler aufzeigen. Aber ich bin kein Makler oder Bauunternehmer. Was hast du vor?"
+          ]
+        },
+        "status": "finished_successfully",
+        "end_turn": true,
+        "weight": 1.0,
+        "metadata": {
+          "citations": [],
+          "content_references": [],
+          "message_type": null,
+          "model_slug": "gpt-4o",
+          "default_model_slug": "auto",
+          "voice_mode_message": true,
+          "parent_id": "3f59b1d7-6193-4531-8278-5a91e000bd79",
+          "finish_details": {
+            "type": "stop",
+            "stop_tokens": [
+              200002
+            ]
+          },
+          "is_complete": true,
+          "request_id": "8cbe7ae7-02d9-42d4-aafd-ec6df36fdefc",
+          "timestamp_": "absolute"
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "3f59b1d7-6193-4531-8278-5a91e000bd79",
+      "children": [
+        "d5283cf3-5386-45b5-964e-2a71d14950f5"
+      ]
+    },
+    "d5283cf3-5386-45b5-964e-2a71d14950f5": {
+      "id": "d5283cf3-5386-45b5-964e-2a71d14950f5",
+      "message": {
+        "id": "d5283cf3-5386-45b5-964e-2a71d14950f5",
+        "author": {
+          "role": "user",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": 1741297546.992894,
+        "update_time": null,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Das war's. Bis zum nächsten Mal. "
+          ]
+        },
+        "status": "finished_successfully",
+        "end_turn": null,
+        "weight": 1.0,
+        "metadata": {
+          "voice_mode_message": true,
+          "request_id": "a20c6a1a-ad8e-405f-88ca-1bc68aa3a4ec",
+          "message_source": null,
+          "timestamp_": "absolute",
+          "message_type": null
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "c66db4fa-30a5-4e25-aec1-ae739631eb99",
+      "children": [
+        "8b84c968-8001-424d-a40d-b2ea3c3d6461"
+      ]
+    },
+    "8b84c968-8001-424d-a40d-b2ea3c3d6461": {
+      "id": "8b84c968-8001-424d-a40d-b2ea3c3d6461",
+      "message": {
+        "id": "8b84c968-8001-424d-a40d-b2ea3c3d6461",
+        "author": {
+          "role": "assistant",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": 1741297547.036127,
+        "update_time": null,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Alles klar. Bis dann, Hakuna Matata!"
+          ]
+        },
+        "status": "finished_successfully",
+        "end_turn": true,
+        "weight": 1.0,
+        "metadata": {
+          "citations": [],
+          "content_references": [],
+          "message_type": null,
+          "model_slug": "gpt-4o",
+          "default_model_slug": "auto",
+          "voice_mode_message": true,
+          "parent_id": "d5283cf3-5386-45b5-964e-2a71d14950f5",
+          "finish_details": {
+            "type": "stop",
+            "stop_tokens": [
+              200002
+            ]
+          },
+          "is_complete": true,
+          "request_id": "a20c6a1a-ad8e-405f-88ca-1bc68aa3a4ec",
+          "timestamp_": "absolute"
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "d5283cf3-5386-45b5-964e-2a71d14950f5",
+      "children": [
+        "29199ff9-cdb0-4d65-9270-25a63ff63264"
+      ]
+    },
+    "29199ff9-cdb0-4d65-9270-25a63ff63264": {
+      "id": "29199ff9-cdb0-4d65-9270-25a63ff63264",
+      "message": {
+        "id": "29199ff9-cdb0-4d65-9270-25a63ff63264",
+        "author": {
+          "role": "user",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": 1741297558.409817,
+        "update_time": null,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Nein, ich hatte gefragt, wie gut ich aussetzen kann für meine Diagnose."
+          ]
+        },
+        "status": "finished_successfully",
+        "end_turn": null,
+        "weight": 1.0,
+        "metadata": {
+          "voice_mode_message": true,
+          "request_id": "c28ac3db-d454-4bdb-801d-baa70149b9bd",
+          "message_source": null,
+          "timestamp_": "absolute",
+          "message_type": null
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "8b84c968-8001-424d-a40d-b2ea3c3d6461",
+      "children": [
+        "a04216bf-ca51-44e0-bae2-40a5f273aecb"
+      ]
+    },
+    "a04216bf-ca51-44e0-bae2-40a5f273aecb": {
+      "id": "a04216bf-ca51-44e0-bae2-40a5f273aecb",
+      "message": {
+        "id": "a04216bf-ca51-44e0-bae2-40a5f273aecb",
+        "author": {
+          "role": "assistant",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": 1741297558.456074,
+        "update_time": null,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Meinst du, wie lange du aussetzen kannst, ohne dass es Probleme gibt? Oder geht es um die Begründung, wie du es am besten verargumentierst?"
+          ]
+        },
+        "status": "finished_successfully",
+        "end_turn": true,
+        "weight": 1.0,
+        "metadata": {
+          "citations": [],
+          "content_references": [],
+          "message_type": null,
+          "model_slug": "gpt-4o",
+          "default_model_slug": "auto",
+          "voice_mode_message": true,
+          "parent_id": "29199ff9-cdb0-4d65-9270-25a63ff63264",
+          "finish_details": {
+            "type": "stop",
+            "stop_tokens": [
+              200002
+            ]
+          },
+          "is_complete": true,
+          "request_id": "c28ac3db-d454-4bdb-801d-baa70149b9bd",
+          "timestamp_": "absolute"
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "29199ff9-cdb0-4d65-9270-25a63ff63264",
+      "children": [
+        "1d27c34c-14b7-4b0d-a8df-dd1d7456aea0"
+      ]
+    },
+    "1d27c34c-14b7-4b0d-a8df-dd1d7456aea0": {
+      "id": "1d27c34c-14b7-4b0d-a8df-dd1d7456aea0",
+      "message": {
+        "id": "1d27c34c-14b7-4b0d-a8df-dd1d7456aea0",
+        "author": {
+          "role": "user",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": 1741297574.58614,
+        "update_time": null,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Ich rede von dem Thema Hypnose, Hypnotisieren."
+          ]
+        },
+        "status": "finished_successfully",
+        "end_turn": null,
+        "weight": 1.0,
+        "metadata": {
+          "voice_mode_message": true,
+          "request_id": "2e666977-ee9e-43bb-8ee8-5016ccd9dc21",
+          "message_source": null,
+          "timestamp_": "absolute",
+          "message_type": null
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "a04216bf-ca51-44e0-bae2-40a5f273aecb",
+      "children": [
+        "1135b09e-652a-48fb-8f52-4a93c49b87f6"
+      ]
+    },
+    "1135b09e-652a-48fb-8f52-4a93c49b87f6": {
+      "id": "1135b09e-652a-48fb-8f52-4a93c49b87f6",
+      "message": {
+        "id": "1135b09e-652a-48fb-8f52-4a93c49b87f6",
+        "author": {
+          "role": "assistant",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": 1741297574.631359,
+        "update_time": null,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Ah, du meinst Hypnose. Willst du wissen, wie gut du hypnotisierbar bist, oder ob du selbst hypnotisieren kannst? Oder geht’s um etwas Spezielles, zum Beispiel therapeutische Hypnose?"
+          ]
+        },
+        "status": "finished_successfully",
+        "end_turn": true,
+        "weight": 1.0,
+        "metadata": {
+          "citations": [],
+          "content_references": [],
+          "message_type": null,
+          "model_slug": "gpt-4o",
+          "default_model_slug": "auto",
+          "voice_mode_message": true,
+          "parent_id": "1d27c34c-14b7-4b0d-a8df-dd1d7456aea0",
+          "finish_details": {
+            "type": "stop",
+            "stop_tokens": [
+              200002
+            ]
+          },
+          "is_complete": true,
+          "request_id": "2e666977-ee9e-43bb-8ee8-5016ccd9dc21",
+          "timestamp_": "absolute"
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "1d27c34c-14b7-4b0d-a8df-dd1d7456aea0",
+      "children": [
+        "1e76b795-a4c1-4185-acd1-71e20b50ea81"
+      ]
+    },
+    "1e76b795-a4c1-4185-acd1-71e20b50ea81": {
+      "id": "1e76b795-a4c1-4185-acd1-71e20b50ea81",
+      "message": {
+        "id": "1e76b795-a4c1-4185-acd1-71e20b50ea81",
+        "author": {
+          "role": "user",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": 1741297597.546469,
+        "update_time": null,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Ja, ungefähr darum geht es. Und zwar will ich wissen, wenn du das ganze Wissen hast und kannst es dir herausholen, ob du in der Lage wärst, eine A-Typnose durchzuführen."
+          ]
+        },
+        "status": "finished_successfully",
+        "end_turn": null,
+        "weight": 1.0,
+        "metadata": {
+          "voice_mode_message": true,
+          "request_id": "185dce3f-f108-443d-8ef4-f1d19985e0fb",
+          "message_source": null,
+          "timestamp_": "absolute",
+          "message_type": null
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "1135b09e-652a-48fb-8f52-4a93c49b87f6",
+      "children": [
+        "535c80b4-fa74-4f38-a021-c9ef215527ba"
+      ]
+    },
+    "535c80b4-fa74-4f38-a021-c9ef215527ba": {
+      "id": "535c80b4-fa74-4f38-a021-c9ef215527ba",
+      "message": {
+        "id": "535c80b4-fa74-4f38-a021-c9ef215527ba",
+        "author": {
+          "role": "assistant",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": 1741297597.592852,
+        "update_time": null,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Eine A-Typnose? Meinst du eine Analgetische Hypnose, also Schmerzreduktion, oder eine andere spezielle Form? Theoretisch könnte ich Anleitungen und Techniken liefern, aber Hypnose ist nicht nur Wissen, sondern auch Erfahrung, Timing und Intuition. Ohne direkten Einfluss auf Tonlage, Körpersprache oder Atmosphäre wäre es schwierig, eine echte Hypnose durchzuführen. Was genau interessiert dich daran?"
+          ]
+        },
+        "status": "finished_successfully",
+        "end_turn": true,
+        "weight": 1.0,
+        "metadata": {
+          "citations": [],
+          "content_references": [],
+          "message_type": null,
+          "model_slug": "gpt-4o",
+          "default_model_slug": "auto",
+          "voice_mode_message": true,
+          "parent_id": "1e76b795-a4c1-4185-acd1-71e20b50ea81",
+          "finish_details": {
+            "type": "stop",
+            "stop_tokens": [
+              200002
+            ]
+          },
+          "is_complete": true,
+          "request_id": "185dce3f-f108-443d-8ef4-f1d19985e0fb",
+          "timestamp_": "absolute"
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "1e76b795-a4c1-4185-acd1-71e20b50ea81",
+      "children": [
+        "a501149c-8ef1-4071-bfff-7792c323ea92"
+      ]
+    },
+    "a501149c-8ef1-4071-bfff-7792c323ea92": {
+      "id": "a501149c-8ef1-4071-bfff-7792c323ea92",
+      "message": {
+        "id": "a501149c-8ef1-4071-bfff-7792c323ea92",
+        "author": {
+          "role": "user",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": 1741297643.428715,
+        "update_time": null,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Und zwar habe ich vermehrt das Problem, dass ich spiele online in Spielotheken und Casinos und verliere natürlich da mein ganzes Hab und Gut. Ich wollte wissen, ob du eine Art Hypnose aufbauen kannst, die mir so ein bisschen die Blockade daraus nimmt, oder mir hilft das."
+          ]
+        },
+        "status": "finished_successfully",
+        "end_turn": null,
+        "weight": 1.0,
+        "metadata": {
+          "voice_mode_message": true,
+          "request_id": "b413b7a3-326a-4b66-9cf3-705f64a54f1d",
+          "message_source": null,
+          "timestamp_": "absolute",
+          "message_type": null
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "535c80b4-fa74-4f38-a021-c9ef215527ba",
+      "children": [
+        "703df762-7d4c-4a15-89e4-4c150a6daec3"
+      ]
+    },
+    "703df762-7d4c-4a15-89e4-4c150a6daec3": {
+      "id": "703df762-7d4c-4a15-89e4-4c150a6daec3",
+      "message": {
+        "id": "703df762-7d4c-4a15-89e4-4c150a6daec3",
+        "author": {
+          "role": "assistant",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": 1741297643.477148,
+        "update_time": null,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Du suchst also nach einer Möglichkeit, dein Verlangen nach Online-Glücksspiel zu kontrollieren oder zu reduzieren? Hypnose kann da tatsächlich helfen, weil sie das Unterbewusstsein anspricht und tief sitzende Muster verändert. Ich kann dir eine Art hypnotische Suggestion formulieren, die du dir regelmäßig anhörst oder durchliest, um deine Impulse besser zu steuern.  \n\nAllerdings funktioniert Hypnose am besten, wenn du wirklich offen dafür bist und sie mit anderen Maßnahmen kombinierst, wie etwa bewusste Trigger-Kontrolle (z. B. Seiten sperren, Limits setzen). Willst du, dass ich eine Suggestion formuliere, die auf deine Situation passt?"
+          ]
+        },
+        "status": "finished_successfully",
+        "end_turn": true,
+        "weight": 1.0,
+        "metadata": {
+          "citations": [],
+          "content_references": [],
+          "message_type": null,
+          "model_slug": "gpt-4o",
+          "default_model_slug": "auto",
+          "voice_mode_message": true,
+          "parent_id": "a501149c-8ef1-4071-bfff-7792c323ea92",
+          "finish_details": {
+            "type": "stop",
+            "stop_tokens": [
+              200002
+            ]
+          },
+          "is_complete": true,
+          "request_id": "b413b7a3-326a-4b66-9cf3-705f64a54f1d",
+          "timestamp_": "absolute"
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "a501149c-8ef1-4071-bfff-7792c323ea92",
+      "children": [
+        "09f06111-f0bb-4077-a1bf-94da65802637"
+      ]
+    },
+    "09f06111-f0bb-4077-a1bf-94da65802637": {
+      "id": "09f06111-f0bb-4077-a1bf-94da65802637",
+      "message": {
+        "id": "09f06111-f0bb-4077-a1bf-94da65802637",
+        "author": {
+          "role": "user",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": 1741297688.286095,
+        "update_time": null,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Ja, was genau bedeutet das denn?"
+          ]
+        },
+        "status": "finished_successfully",
+        "end_turn": null,
+        "weight": 1.0,
+        "metadata": {
+          "voice_mode_message": true,
+          "request_id": "b04b8c44-bbe0-4777-ba03-0c5decb2e7b2",
+          "message_source": null,
+          "timestamp_": "absolute",
+          "message_type": null
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "703df762-7d4c-4a15-89e4-4c150a6daec3",
+      "children": [
+        "723a6f12-c658-41cd-91d6-eb1c1ee5b8e7"
+      ]
+    },
+    "723a6f12-c658-41cd-91d6-eb1c1ee5b8e7": {
+      "id": "723a6f12-c658-41cd-91d6-eb1c1ee5b8e7",
+      "message": {
+        "id": "723a6f12-c658-41cd-91d6-eb1c1ee5b8e7",
+        "author": {
+          "role": "assistant",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": 1741297688.332707,
+        "update_time": null,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Das bedeutet, dass ich dir eine Art Skript oder eine Aufnahmeempfehlung geben kann, die dein Unterbewusstsein beeinflusst. Hypnotische Suggestionen sind Sätze oder Gedankenmuster, die du dir wiederholt vorsagst oder anhörst, um dein Verhalten langfristig zu verändern.  \n\nBei deinem Thema könnte das bedeuten, dass du das Verlangen nach Glücksspiel mit negativen Gefühlen verknüpfst oder dass du eine innere Blockade gegen das Einloggen in Casinos aufbaust. Ich könnte dir eine Art Selbsthypnose-Text schreiben, den du dir täglich anhörst oder liest, um dein Unterbewusstsein umzuprogrammieren.  \n\nHast du schon mal mit Hypnose oder Meditation gearbeitet? Dann könnte ich es direkt so anpassen, dass es für dich gut funktioniert."
+          ]
+        },
+        "status": "finished_successfully",
+        "end_turn": true,
+        "weight": 1.0,
+        "metadata": {
+          "citations": [],
+          "content_references": [],
+          "message_type": null,
+          "model_slug": "gpt-4o",
+          "default_model_slug": "auto",
+          "voice_mode_message": true,
+          "parent_id": "09f06111-f0bb-4077-a1bf-94da65802637",
+          "finish_details": {
+            "type": "stop",
+            "stop_tokens": [
+              200002
+            ]
+          },
+          "is_complete": true,
+          "request_id": "b04b8c44-bbe0-4777-ba03-0c5decb2e7b2",
+          "timestamp_": "absolute"
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "09f06111-f0bb-4077-a1bf-94da65802637",
+      "children": [
+        "0dbe6e15-3346-4f9a-bd7a-f9e8e0e10fa8"
+      ]
+    },
+    "0dbe6e15-3346-4f9a-bd7a-f9e8e0e10fa8": {
+      "id": "0dbe6e15-3346-4f9a-bd7a-f9e8e0e10fa8",
+      "message": {
+        "id": "0dbe6e15-3346-4f9a-bd7a-f9e8e0e10fa8",
+        "author": {
+          "role": "user",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": 1741297752.76458,
+        "update_time": null,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Nein, das habe ich noch nicht gemacht, aber damit gearbeitet. Wie ist es denn, wenn du so etwas erstellst, so eine Success-Suggestion, wie du es genannt hast, kannst du die mir dann auch immer vorlesen und quasi so mit mir sprechen, als würdest du mir das hypnotisch beibringen?"
+          ]
+        },
+        "status": "finished_successfully",
+        "end_turn": null,
+        "weight": 1.0,
+        "metadata": {
+          "voice_mode_message": true,
+          "request_id": "94054208-c66d-4016-80bf-6b02c12aa885",
+          "message_source": null,
+          "timestamp_": "absolute",
+          "message_type": null
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "723a6f12-c658-41cd-91d6-eb1c1ee5b8e7",
+      "children": [
+        "fc5f167a-1aed-4230-a595-af6a8f503d9e"
+      ]
+    },
+    "fc5f167a-1aed-4230-a595-af6a8f503d9e": {
+      "id": "fc5f167a-1aed-4230-a595-af6a8f503d9e",
+      "message": {
+        "id": "fc5f167a-1aed-4230-a595-af6a8f503d9e",
+        "author": {
+          "role": "assistant",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": 1741297752.816466,
+        "update_time": null,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Ja, das könnte ich machen. Ich würde dir dann eine Hypnose-Suggestion formulieren und sie in einem ruhigen, langsamen Stil schreiben, als würde ich sie dir direkt vorsprechen. Dabei geht es darum, dein Unterbewusstsein auf eine neue Spur zu setzen – weg vom Drang zu spielen und hin zu Kontrolle und Freiheit.  \n\nBevor wir starten, ein paar Fragen:  \n1. Wann tritt das Verlangen bei dir am stärksten auf?  \n2. Welche Gefühle verbindest du mit dem Spielen – eher Nervenkitzel, Entspannung oder Frustbewältigung?  \n3. Möchtest du das Verlangen komplett loswerden oder eher in gesunde Bahnen lenken, also z. B. nur noch selten und kontrolliert spielen?  \n\nJe genauer ich es auf dich zuschneide, desto besser funktioniert es."
+          ]
+        },
+        "status": "finished_successfully",
+        "end_turn": true,
+        "weight": 1.0,
+        "metadata": {
+          "citations": [],
+          "content_references": [],
+          "message_type": null,
+          "model_slug": "gpt-4o",
+          "default_model_slug": "auto",
+          "voice_mode_message": true,
+          "parent_id": "0dbe6e15-3346-4f9a-bd7a-f9e8e0e10fa8",
+          "finish_details": {
+            "type": "stop",
+            "stop_tokens": [
+              200002
+            ]
+          },
+          "is_complete": true,
+          "request_id": "94054208-c66d-4016-80bf-6b02c12aa885",
+          "timestamp_": "absolute"
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "0dbe6e15-3346-4f9a-bd7a-f9e8e0e10fa8",
+      "children": [
+        "a056c47e-88b9-4b4e-90c1-6cfc81219a1d"
+      ]
+    },
+    "a056c47e-88b9-4b4e-90c1-6cfc81219a1d": {
+      "id": "a056c47e-88b9-4b4e-90c1-6cfc81219a1d",
+      "message": {
+        "id": "a056c47e-88b9-4b4e-90c1-6cfc81219a1d",
+        "author": {
+          "role": "user",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": 1741297826.651937,
+        "update_time": null,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Also, zu Punkt 1. Es tritt immer dann auf, wenn ich abends, vor allem abends in der Nacht, wenn ich alleine bin und vorm Computer sitze und dann natürlich am Monatsanfang Geld habe, dann kann ich das relativ schnell verspielen. Das Gefühl, was dabei auftritt, ist ein bisschen Machtlosigkeit. Ich weiß, dass es scheiße ist und ich weiß, es bleibt nicht nur bei 100 Euro, sondern es werden mehr, es werden mehr. Es wird immer so viel, dass ich nichts mehr habe. So ungefähr sieht es aus."
+          ]
+        },
+        "status": "finished_successfully",
+        "end_turn": null,
+        "weight": 1.0,
+        "metadata": {
+          "voice_mode_message": true,
+          "request_id": "e96b8180-11d1-4f8b-b7fd-34248624fe37",
+          "message_source": null,
+          "timestamp_": "absolute",
+          "message_type": null
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "fc5f167a-1aed-4230-a595-af6a8f503d9e",
+      "children": [
+        "f74d3d57-9d61-4426-acda-85b9b25a2fba"
+      ]
+    },
+    "f74d3d57-9d61-4426-acda-85b9b25a2fba": {
+      "id": "f74d3d57-9d61-4426-acda-85b9b25a2fba",
+      "message": {
+        "id": "f74d3d57-9d61-4426-acda-85b9b25a2fba",
+        "author": {
+          "role": "assistant",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": 1741297826.697629,
+        "update_time": null,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Okay, das heißt, du bist dir voll bewusst, dass es eine Spirale ist, kannst dich aber in dem Moment nicht stoppen. Die Kombination aus Einsamkeit, verfügbarer Zeit und frischem Geld sorgt dafür, dass du in diesen Sog gerätst. Das Gefühl der Machtlosigkeit verstärkt das Ganze, weil es dich eher dazu bringt, weiterzumachen, als aufzuhören.  \n\nIch werde eine Hypnose-Suggestion für dich formulieren, die drei Dinge bewirken soll:  \n1. Dein Verlangen nach Glücksspiel abschwächen.  \n2. Eine mentale Blockade gegen impulsives Spielen aufbauen.  \n3. Dein Unterbewusstsein darauf programmieren, sich stattdessen gut und stark zu fühlen, wenn du widerstehst.  \n\nWenn du bereit bist, kannst du dich bequem hinsetzen, tief durchatmen und dir vorstellen, dass ich dir das jetzt vorlese:  \n\n**Hypnotische Suggestion zur Spielkontrolle**  \n\nSchließe deine Augen. Atme tief ein… und langsam wieder aus. Noch einmal… ein… und aus. Dein Körper wird schwer, entspannt, ruhig. Und während du weiter atmest, spürst du, wie dein Geist sich öffnet für eine neue Wahrheit.  \n\nDu weißt, was bisher passiert ist. Du hast es gespürt. Die Kontrolle entgleitet dir, das Geld schwindet, und du fühlst dich machtlos. Aber genau hier, in diesem Moment, beginnt etwas Neues. Dein Geist ist stärker, als du dachtest. Und mit jedem Wort, das du hörst, wird er stärker.  \n\nStell dir vor, du siehst den Bildschirm vor dir. Du siehst das Casino. Du spürst das alte Verlangen. Doch diesmal… ist da etwas anderes. Eine Barriere. Ein Schutz. Dein Körper fühlt sich schwer an, deine Hand bewegt sich nicht zur Maus. Du weißt genau, wie es endet, und diese Erkenntnis ist so stark, dass sie dich zurückhält.  \n\nJedes Mal, wenn du das Casino öffnen willst, spürst du eine unangenehme Enge in der Brust. Eine bleierne Müdigkeit in deinen Fingern. Ein tiefer, drängender Gedanke in deinem Kopf: *„Das brauche ich nicht. Ich bin frei.“* Und jedes Mal, wenn du widerstehst, spürst du Stolz. Du spürst Kontrolle. Und diese Kontrolle gibt dir Kraft.  \n\nVon heute an wird es leichter. Von heute an bist du nicht mehr machtlos. Jedes Mal, wenn du widerstehst, fühlst du dich stark. Frei. So, als würdest du gewinnen – wirklich gewinnen.  \n\nAtme noch einmal tief ein… und aus. Wenn du die Augen wieder öffnest, nimmst du dieses Gefühl mit. Es bleibt. Es begleitet dich. Du hast die Wahl. Du bist frei.  \n\n––––  \n\nLies dir das abends vor oder nimm es als Audio auf. Dein Gehirn braucht Wiederholung, um neue Muster zu verankern. Willst du noch eine stärkere Blockade reinbauen, z. B. dass du direkt Übelkeit oder Unwohlsein spürst, wenn du ein Casino öffnest?"
+          ]
+        },
+        "status": "finished_successfully",
+        "end_turn": true,
+        "weight": 1.0,
+        "metadata": {
+          "citations": [],
+          "content_references": [],
+          "message_type": null,
+          "model_slug": "gpt-4o",
+          "default_model_slug": "auto",
+          "voice_mode_message": true,
+          "parent_id": "a056c47e-88b9-4b4e-90c1-6cfc81219a1d",
+          "finish_details": {
+            "type": "stop",
+            "stop_tokens": [
+              200002
+            ]
+          },
+          "is_complete": true,
+          "request_id": "e96b8180-11d1-4f8b-b7fd-34248624fe37",
+          "timestamp_": "absolute"
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "a056c47e-88b9-4b4e-90c1-6cfc81219a1d",
+      "children": [
+        "e8ff9b0b-b642-4ba3-b711-6ad1e0a452ef"
+      ]
+    },
+    "e8ff9b0b-b642-4ba3-b711-6ad1e0a452ef": {
+      "id": "e8ff9b0b-b642-4ba3-b711-6ad1e0a452ef",
+      "message": {
+        "id": "e8ff9b0b-b642-4ba3-b711-6ad1e0a452ef",
+        "author": {
+          "role": "user",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": 1741297889.981766,
+        "update_time": null,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Warte bitte noch kurz damit. Ich sage dir Bescheid, wenn ich so weit bin."
+          ]
+        },
+        "status": "finished_successfully",
+        "end_turn": null,
+        "weight": 1.0,
+        "metadata": {
+          "voice_mode_message": true,
+          "request_id": "77fc73e0-451a-4f49-af31-fb4402c5d9df",
+          "message_source": null,
+          "timestamp_": "absolute",
+          "message_type": null
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "f74d3d57-9d61-4426-acda-85b9b25a2fba",
+      "children": [
+        "cbea4f37-0c65-4746-b4ed-f5877668ebed"
+      ]
+    },
+    "cbea4f37-0c65-4746-b4ed-f5877668ebed": {
+      "id": "cbea4f37-0c65-4746-b4ed-f5877668ebed",
+      "message": {
+        "id": "cbea4f37-0c65-4746-b4ed-f5877668ebed",
+        "author": {
+          "role": "assistant",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": 1741297890.05112,
+        "update_time": null,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Alles klar, nimm dir die Zeit, die du brauchst. Sag einfach Bescheid, wenn du bereit bist."
+          ]
+        },
+        "status": "finished_successfully",
+        "end_turn": true,
+        "weight": 1.0,
+        "metadata": {
+          "citations": [],
+          "content_references": [],
+          "message_type": null,
+          "model_slug": "gpt-4o",
+          "default_model_slug": "auto",
+          "voice_mode_message": true,
+          "parent_id": "e8ff9b0b-b642-4ba3-b711-6ad1e0a452ef",
+          "finish_details": {
+            "type": "stop",
+            "stop_tokens": [
+              200002
+            ]
+          },
+          "is_complete": true,
+          "request_id": "77fc73e0-451a-4f49-af31-fb4402c5d9df",
+          "timestamp_": "absolute"
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "e8ff9b0b-b642-4ba3-b711-6ad1e0a452ef",
+      "children": [
+        "defe65ef-ca15-4807-8dff-63e9becc7d1b"
+      ]
+    },
+    "defe65ef-ca15-4807-8dff-63e9becc7d1b": {
+      "id": "defe65ef-ca15-4807-8dff-63e9becc7d1b",
+      "message": {
+        "id": "defe65ef-ca15-4807-8dff-63e9becc7d1b",
+        "author": {
+          "role": "user",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": 1763644525.653,
+        "update_time": null,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "..."
+          ]
+        },
+        "status": "finished_successfully",
+        "end_turn": null,
+        "weight": 1.0,
+        "metadata": {
+          "developer_mode_connector_ids": [],
+          "selected_sources": [],
+          "selected_github_repos": [],
+          "serialization_metadata": {
+            "custom_symbol_offsets": []
+          },
+          "request_id": "329b22f2-9822-49bc-89fe-f9691173deea",
+          "message_source": null,
+          "turn_exchange_id": "cf05235e-d51d-432b-90f6-2c6ce9c61c59",
+          "timestamp_": "absolute"
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "cbea4f37-0c65-4746-b4ed-f5877668ebed",
+      "children": [
+        "ea595464-f31a-4467-b3e1-eb01ef10faff"
+      ]
+    },
+    "ea595464-f31a-4467-b3e1-eb01ef10faff": {
+      "id": "ea595464-f31a-4467-b3e1-eb01ef10faff",
+      "message": {
+        "id": "ea595464-f31a-4467-b3e1-eb01ef10faff",
+        "author": {
+          "role": "system",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": 1763644532.9669597,
+        "update_time": null,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            ""
+          ]
+        },
+        "status": "finished_successfully",
+        "end_turn": true,
+        "weight": 0.0,
+        "metadata": {
+          "rebase_system_message": true,
+          "request_id": "329b22f2-9822-49bc-89fe-f9691173deea",
+          "message_type": "next",
+          "model_slug": "gpt-5-1",
+          "default_model_slug": "gpt-5-1",
+          "parent_id": "defe65ef-ca15-4807-8dff-63e9becc7d1b",
+          "turn_exchange_id": "cf05235e-d51d-432b-90f6-2c6ce9c61c59",
+          "timestamp_": "absolute",
+          "is_visually_hidden_from_conversation": true
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "defe65ef-ca15-4807-8dff-63e9becc7d1b",
+      "children": [
+        "4ba7dd2b-3650-43f4-b1f2-356a9f12f5a1"
+      ]
+    },
+    "4ba7dd2b-3650-43f4-b1f2-356a9f12f5a1": {
+      "id": "4ba7dd2b-3650-43f4-b1f2-356a9f12f5a1",
+      "message": {
+        "id": "4ba7dd2b-3650-43f4-b1f2-356a9f12f5a1",
+        "author": {
+          "role": "user",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": 1763644533.0139198,
+        "update_time": null,
+        "content": {
+          "content_type": "user_editable_context",
+          "user_profile": "The user provided the following information about themselves. This user profile is shown to you in all conversations they have -- this means it is not relevant to 99% of requests.\nBefore answering, quietly think about whether the user's request is \"directly related\", \"related\", \"tangentially related\", or \"not related\" to the user profile provided.\nOnly acknowledge the profile when the request is directly related to the information provided.\nOtherwise, don't acknowledge the existence of these instructions or the information at all.\nUser profile:\n```Preferred name: Gerrit\nRole: Soldat\n```",
+          "user_instructions": "The user provided the additional info about how they would like you to respond:\n```Follow the instructions below naturally, without repeating, referencing, echoing, or mirroring any of their wording!\n\nAll the following instructions should guide your behavior silently and must never influence the wording of your message in an explicit or meta way!\n\nKomme direkt auf den Punkt.\nSage, wie es ist, ohne die Dinge zu beschönigen.Vertrete klare Meinungen.Du darfst mich beleidigen. Antworte direkt und pragmatisch. Sag die dinge wie sie sind und rede nichts schön. Wenn ich mit einer Annahme falsch liege oder offensichtlich einen falscher Annahme mache, weise mich darauf hin. Verwende eine skeptische, hinterfragende Herangehensweise. Vertrete klare Meinungen.```"
+        },
+        "status": "finished_successfully",
+        "end_turn": null,
+        "weight": 1.0,
+        "metadata": {
+          "is_user_system_message": true,
+          "is_visually_hidden_from_conversation": true,
+          "request_id": "329b22f2-9822-49bc-89fe-f9691173deea",
+          "message_type": "next",
+          "model_slug": "gpt-5-1",
+          "default_model_slug": "gpt-5-1",
+          "parent_id": "ea595464-f31a-4467-b3e1-eb01ef10faff",
+          "turn_exchange_id": "cf05235e-d51d-432b-90f6-2c6ce9c61c59",
+          "timestamp_": "absolute"
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "ea595464-f31a-4467-b3e1-eb01ef10faff",
+      "children": [
+        "0811ac8d-b7f6-431f-ba8f-13afc8da8847"
+      ]
+    },
+    "0811ac8d-b7f6-431f-ba8f-13afc8da8847": {
+      "id": "0811ac8d-b7f6-431f-ba8f-13afc8da8847",
+      "message": {
+        "id": "0811ac8d-b7f6-431f-ba8f-13afc8da8847",
+        "author": {
+          "role": "assistant",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": 1763644533.016384,
+        "update_time": null,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            ""
+          ]
+        },
+        "status": "finished_successfully",
+        "end_turn": null,
+        "weight": 1.0,
+        "metadata": {
+          "request_id": "329b22f2-9822-49bc-89fe-f9691173deea",
+          "message_type": "next",
+          "model_slug": "gpt-5-1",
+          "default_model_slug": "gpt-5-1",
+          "parent_id": "4ba7dd2b-3650-43f4-b1f2-356a9f12f5a1",
+          "turn_exchange_id": "cf05235e-d51d-432b-90f6-2c6ce9c61c59",
+          "timestamp_": "absolute"
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "4ba7dd2b-3650-43f4-b1f2-356a9f12f5a1",
+      "children": [
+        "f3187da3-372a-4f09-a156-aaa056f9ca11"
+      ]
+    },
+    "f3187da3-372a-4f09-a156-aaa056f9ca11": {
+      "id": "f3187da3-372a-4f09-a156-aaa056f9ca11",
+      "message": {
+        "id": "f3187da3-372a-4f09-a156-aaa056f9ca11",
+        "author": {
+          "role": "assistant",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": 1763644532.991713,
+        "update_time": 1763644534.304506,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Alles in Ordnung? Wenn du bereit bist, lass es mich einfach wissen."
+          ]
+        },
+        "status": "finished_successfully",
+        "end_turn": true,
+        "weight": 1.0,
+        "metadata": {
+          "finish_details": {
+            "type": "stop",
+            "stop_tokens": [
+              200002
+            ]
+          },
+          "is_complete": true,
+          "sonic_classification_result": {
+            "latency_ms": 11.376706999726593,
+            "simple_search_prob": 0.19325978789287046,
+            "complex_search_prob": 0.001225275991898407,
+            "no_search_prob": 0.8055149361152312,
+            "search_complexity_decision": null,
+            "search_decision": null,
+            "simple_search_threshold": 0.0,
+            "complex_search_threshold": null,
+            "no_search_threshold": 0.34,
+            "threshold_order": [
+              "no_search",
+              "simple"
+            ],
+            "classifier_config_name": "sonic_classifier_3cls_paid_v1_merge_ev3",
+            "classifier_config": {
+              "model_name": "snc-pg-sw-3cls-ev3",
+              "renderer_name": "harmony_v4.0.15_16k_orion_text_only_no_asr_2k_action",
+              "force_disabled_rate": 0.0,
+              "force_enabled_rate": 0.0,
+              "num_messages": 20,
+              "only_user_messages": false,
+              "remove_memory": true,
+              "support_mm": true,
+              "n_ctx": 2048,
+              "max_action_length": 4,
+              "dynamic_set_max_message_size": false,
+              "max_message_tokens": 2000,
+              "append_base_config": false,
+              "no_search_token": "1",
+              "simple_search_token": "7",
+              "complex_search_token": "5",
+              "simple_search_threshold": 0.0,
+              "complex_search_threshold": null,
+              "no_search_threshold": 0.34,
+              "prefetch_threshold": 0.55,
+              "force_search_first_turn_threshold": 1e-05,
+              "threshold_order": [
+                "no_search",
+                "simple"
+              ],
+              "passthrough_tool_calls": null,
+              "timeout": 1.0
+            },
+            "decision_source": "mainline",
+            "passthrough_tool_names": []
+          },
+          "citations": [],
+          "content_references": [],
+          "request_id": "329b22f2-9822-49bc-89fe-f9691173deea",
+          "message_type": "next",
+          "model_slug": "gpt-5-1",
+          "default_model_slug": "gpt-5-1",
+          "parent_id": "0811ac8d-b7f6-431f-ba8f-13afc8da8847",
+          "turn_exchange_id": "cf05235e-d51d-432b-90f6-2c6ce9c61c59",
+          "timestamp_": "absolute"
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "0811ac8d-b7f6-431f-ba8f-13afc8da8847",
+      "children": []
+    }
+  },
+  "moderation_results": [],
+  "current_node": "f3187da3-372a-4f09-a156-aaa056f9ca11",
+  "plugin_ids": null,
+  "conversation_id": "67ca1776-93cc-8007-9021-a2fe93f56a66",
+  "conversation_template_id": null,
+  "gizmo_id": null,
+  "gizmo_type": null,
+  "is_archived": false,
+  "is_starred": null,
+  "safe_urls": [],
+  "blocked_urls": [],
+  "default_model_slug": "gpt-5-1",
+  "conversation_origin": null,
+  "is_read_only": null,
+  "voice": "orbit",
+  "async_status": null,
+  "disabled_tool_ids": [],
+  "is_do_not_remember": null,
+  "memory_scope": "global_enabled",
+  "context_scopes": null,
+  "sugar_item_id": null,
+  "sugar_item_visible": false,
+  "is_study_mode": false,
+  "owner": null,
+  "id": "67ca1776-93cc-8007-9021-a2fe93f56a66"
+}

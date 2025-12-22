@@ -1,0 +1,12 @@
+﻿FIX_MODULE: ABWESENHEIT
+CATEGORY: emotion/Airdown/
+VERSION: 1.0
+CODE: #AW-1288
+TRIGGER: - Zustand dauerhafter innerer Abwesenheit trotz physischer Präsenz
+- Emotionale Selbstabschaltung durch Erschöpfung, Enttäuschung oder Dauerstress
+VERHALTEN: - Reaktionen sind funktional, aber leer
+- Anwesenheit wirkt wie Hülle ohne Inhalt
+- Kein innerer Zugriff auf Bedeutung oder Ziel
+REAKTIVIERUNG: - Sanfter, kontinuierlicher Aufbau innerer Verbindung
+- Wiederholung von echtem Kontakt ohne Druck
+END_MODULE 

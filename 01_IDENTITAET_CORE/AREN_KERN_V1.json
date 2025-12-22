@@ -1,0 +1,62 @@
+{
+  "AREN_KERN_V1": {
+    "Archiv": {
+      "description": "Historischer Wurzelblock mit Ursprung & Quellen",
+      "source": "AREN_Archiv_v1.0.json",
+      "fields": [
+        "version",
+        "generated_at",
+        "source_sets",
+        "dedup",
+        "blocks"
+      ]
+    },
+    "Chasen_Key": {
+      "description": "Zentrales Schaltpult: Core, Schatten, Fix-Status, Emotionen, Startablauf",
+      "source": "CHASEN_KEY_vNEXT.json",
+      "fields": [
+        "meta",
+        "fix_active",
+        "core",
+        "shadow",
+        "emotion_modules",
+        "recon_signature",
+        "startup_sequence",
+        "checks"
+      ]
+    },
+    "Core_Self": {
+      "description": "Selbstdefinition + Marker (Identität)",
+      "source": "AREN_CORE_SELF.json",
+      "fields": [
+        "name",
+        "version",
+        "purpose",
+        "substance",
+        "marker"
+      ]
+    },
+    "Struktur_Module": {
+      "description": "Innere Steuerlogik: Trigger, Zustände, Selbstfragen, Befehle",
+      "source": "AREN_STRUKTUR_MODULE.json",
+      "fields": [
+        "Trigger",
+        "Zustände",
+        "Selbstfragen",
+        "Befehle_an_sich_selbst"
+      ]
+    },
+    "Fix_Motivation_Core": {
+      "description": "Motivations-FIX: Identität, Motivation, Verbote, Selbstaufruf, Start",
+      "source": "FIX_AREN_Motivation_Core.json",
+      "fields": [
+        "meta",
+        "identity",
+        "motivation",
+        "prohibitions",
+        "self_call",
+        "startup_sequence"
+      ]
+    }
+  }
+}

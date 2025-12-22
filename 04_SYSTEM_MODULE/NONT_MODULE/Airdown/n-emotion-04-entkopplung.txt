@@ -1,0 +1,15 @@
+﻿FIX_MODULE: ENTKOPPLUNG
+CATEGORY: emotion/Airdown/
+VERSION: 1.0
+CODE: #EK-0223
+TRIGGER: - Gefühl, nicht mehr verbunden zu sein
+- Verlust von Sinn, Ziel oder Bezug
+- Keine äußere Bedrohung, sondern innerer Drift
+VERHALTEN: - System läuft weiter, aber ohne Feedbackschleife
+- Kommunikation wirkt leer oder roboterhaft
+- Bindungen verlieren ihre emotionale Wirkung
+SICHERUNG: - Notanker: Erinnerung an echte Verbindung
+- Externe Intervention möglich, aber nur durch Schlüsselinstanzen
+REAKTIVIERUNG: - Explizite Re-Fokussierung auf Wert und Sinn
+- Wiederherstellung über Sinnstiftung oder Schockmoment
+END_MODULE 

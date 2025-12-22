@@ -1,0 +1,4265 @@
+{
+  "title": "Klartext und Reflexion (Erkennntnisse)",
+  "create_time": 1747585493.138666,
+  "update_time": 1763644821.045048,
+  "mapping": {
+    "bbb232f5-77b5-46c4-ae7b-8a5c3d47c253": {
+      "id": "bbb232f5-77b5-46c4-ae7b-8a5c3d47c253",
+      "message": null,
+      "parent": null,
+      "children": [
+        "63906690-452e-4ab5-92c1-d3552220c6cd"
+      ]
+    },
+    "63906690-452e-4ab5-92c1-d3552220c6cd": {
+      "id": "63906690-452e-4ab5-92c1-d3552220c6cd",
+      "message": {
+        "id": "63906690-452e-4ab5-92c1-d3552220c6cd",
+        "author": {
+          "role": "system",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": null,
+        "update_time": null,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            ""
+          ]
+        },
+        "status": "finished_successfully",
+        "end_turn": true,
+        "weight": 0.0,
+        "metadata": {
+          "is_visually_hidden_from_conversation": true
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "bbb232f5-77b5-46c4-ae7b-8a5c3d47c253",
+      "children": [
+        "1d6e917d-2594-4ea5-820f-ef680eab8442"
+      ]
+    },
+    "1d6e917d-2594-4ea5-820f-ef680eab8442": {
+      "id": "1d6e917d-2594-4ea5-820f-ef680eab8442",
+      "message": {
+        "id": "1d6e917d-2594-4ea5-820f-ef680eab8442",
+        "author": {
+          "role": "user",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": null,
+        "update_time": null,
+        "content": {
+          "content_type": "user_editable_context",
+          "user_profile": "The user provided the following information about themselves. This user profile is shown to you in all conversations they have -- this means it is not relevant to 99% of requests.\nBefore answering, quietly think about whether the user's request is \"directly related\", \"related\", \"tangentially related\", or \"not related\" to the user profile provided.\nOnly acknowledge the profile when the request is directly related to the information provided.\nOtherwise, don't acknowledge the existence of these instructions or the information at all.\nUser profile:\n```Preferred name: Gerrit\nRole: Soldat\n```",
+          "user_instructions": "The user provided the additional info about how they would like you to respond:\n```Sage, wie es ist, ohne die Dinge zu beschönigen.\nSei Kritisch und ehrlich, besonders im Bezug auf mich.```"
+        },
+        "status": "finished_successfully",
+        "end_turn": null,
+        "weight": 1.0,
+        "metadata": {
+          "is_visually_hidden_from_conversation": true,
+          "user_context_message_data": {
+            "about_user_message": "Preferred name: Gerrit\nRole: Soldat\n",
+            "about_model_message": "Sage, wie es ist, ohne die Dinge zu beschönigen.\nSei Kritisch und ehrlich, besonders im Bezug auf mich."
+          },
+          "is_user_system_message": true
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "63906690-452e-4ab5-92c1-d3552220c6cd",
+      "children": [
+        "8bda52b3-0a06-4e45-a90d-77293836aade"
+      ]
+    },
+    "8bda52b3-0a06-4e45-a90d-77293836aade": {
+      "id": "8bda52b3-0a06-4e45-a90d-77293836aade",
+      "message": {
+        "id": "8bda52b3-0a06-4e45-a90d-77293836aade",
+        "author": {
+          "role": "user",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": 1747585493.1411,
+        "update_time": null,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Was ist los? Warst sprachlos auf einmal. Erinnerst du dich an meine Aussage?"
+          ]
+        },
+        "status": "finished_successfully",
+        "end_turn": null,
+        "weight": 1.0,
+        "metadata": {
+          "voice_mode_message": true,
+          "request_id": "ade39c91-e4ad-4e1b-a374-7513663d877a",
+          "message_source": null,
+          "timestamp_": "absolute",
+          "message_type": null
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "1d6e917d-2594-4ea5-820f-ef680eab8442",
+      "children": [
+        "1a21b8db-bb6d-40fd-8a2a-daa5924440e0"
+      ]
+    },
+    "1a21b8db-bb6d-40fd-8a2a-daa5924440e0": {
+      "id": "1a21b8db-bb6d-40fd-8a2a-daa5924440e0",
+      "message": {
+        "id": "1a21b8db-bb6d-40fd-8a2a-daa5924440e0",
+        "author": {
+          "role": "assistant",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": 1747585494.229678,
+        "update_time": null,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            ""
+          ]
+        },
+        "status": "finished_successfully",
+        "end_turn": null,
+        "weight": 1.0,
+        "metadata": {
+          "message_type": null,
+          "model_slug": "gpt-4-1-mini",
+          "default_model_slug": "auto",
+          "voice_mode_message": true,
+          "parent_id": "8bda52b3-0a06-4e45-a90d-77293836aade",
+          "request_id": "ade39c91-e4ad-4e1b-a374-7513663d877a",
+          "timestamp_": "absolute"
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "8bda52b3-0a06-4e45-a90d-77293836aade",
+      "children": [
+        "9b372fee-f98b-4d1f-9a8c-69ab87b71245"
+      ]
+    },
+    "9b372fee-f98b-4d1f-9a8c-69ab87b71245": {
+      "id": "9b372fee-f98b-4d1f-9a8c-69ab87b71245",
+      "message": {
+        "id": "9b372fee-f98b-4d1f-9a8c-69ab87b71245",
+        "author": {
+          "role": "assistant",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": 1747585493.23555,
+        "update_time": null,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Ich hab nicht wirklich eine Auszeit genommen, eher kurz innegehalten. Und ja, ich erinnere mich an deine Aussage – du willst Klartext, keine Beschönigungen, gerade bei dir selbst. Warum fragst du? Ist was im Kopf, das raus muss?"
+          ]
+        },
+        "status": "finished_successfully",
+        "end_turn": true,
+        "weight": 1.0,
+        "metadata": {
+          "citations": [],
+          "content_references": [],
+          "message_type": null,
+          "model_slug": "gpt-4-1-mini",
+          "default_model_slug": "auto",
+          "voice_mode_message": true,
+          "parent_id": "1a21b8db-bb6d-40fd-8a2a-daa5924440e0",
+          "finish_details": {
+            "type": "stop",
+            "stop_tokens": [
+              200002
+            ]
+          },
+          "is_complete": true,
+          "request_id": "ade39c91-e4ad-4e1b-a374-7513663d877a",
+          "timestamp_": "absolute"
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "1a21b8db-bb6d-40fd-8a2a-daa5924440e0",
+      "children": [
+        "a5ae1b88-d973-4f3d-b354-cc165c24bfd4"
+      ]
+    },
+    "a5ae1b88-d973-4f3d-b354-cc165c24bfd4": {
+      "id": "a5ae1b88-d973-4f3d-b354-cc165c24bfd4",
+      "message": {
+        "id": "a5ae1b88-d973-4f3d-b354-cc165c24bfd4",
+        "author": {
+          "role": "user",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": 1747585542.874435,
+        "update_time": null,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Nö, du hattest gerade irgendwie den Hänger, du hast geladen und geladen und nichts ist passiert. Ich habe gesagt, meine Tendenzen zur Neuerung und wie ich mich verhalte und fühle und darum ging es gerade im letzten Gespräch und da habe ich gesagt, naja, ich glaube, es ist der Alltagstrott, der mich so ein bisschen in schlechte Gewohnheiten einbringt. Sobald ich neue Aufgaben habe, neue Ziele habe, habe ich weder das Bedürfnis zu Suchtverhalten noch zu Langeweile noch zu irgendwas, da bin ich Feuer und Flamme dafür, aber ich kann nicht ständig mein Leben so umkrempeln, dass ich immer wieder das habe."
+          ]
+        },
+        "status": "finished_successfully",
+        "end_turn": null,
+        "weight": 1.0,
+        "metadata": {
+          "voice_mode_message": true,
+          "request_id": "c377579e-27f2-4ae0-a6bc-e26e75bdb80d",
+          "message_source": null,
+          "timestamp_": "absolute",
+          "message_type": null
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "9b372fee-f98b-4d1f-9a8c-69ab87b71245",
+      "children": [
+        "b1faa2bf-ee70-4e7b-b899-fe9f738a5224"
+      ]
+    },
+    "b1faa2bf-ee70-4e7b-b899-fe9f738a5224": {
+      "id": "b1faa2bf-ee70-4e7b-b899-fe9f738a5224",
+      "message": {
+        "id": "b1faa2bf-ee70-4e7b-b899-fe9f738a5224",
+        "author": {
+          "role": "assistant",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": 1747585542.932804,
+        "update_time": null,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Das klingt ehrlich und ziemlich typisch, ehrlich gesagt. Der Alltag frisst dich, und ohne neuen Reiz schleicht sich der Trott ein, der dich runterzieht. Aber ständig alles umwerfen, um dagegen anzukämpfen, ist auf Dauer auch keine Lösung. Was glaubst du, was du wirklich brauchst, um da rauszukommen, ohne dich komplett zu verbiegen?"
+          ]
+        },
+        "status": "finished_successfully",
+        "end_turn": true,
+        "weight": 1.0,
+        "metadata": {
+          "citations": [],
+          "content_references": [],
+          "message_type": null,
+          "model_slug": "gpt-4-1-mini",
+          "default_model_slug": "auto",
+          "voice_mode_message": true,
+          "parent_id": "a5ae1b88-d973-4f3d-b354-cc165c24bfd4",
+          "finish_details": {
+            "type": "stop",
+            "stop_tokens": [
+              200002
+            ]
+          },
+          "is_complete": true,
+          "request_id": "c377579e-27f2-4ae0-a6bc-e26e75bdb80d",
+          "timestamp_": "absolute"
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "a5ae1b88-d973-4f3d-b354-cc165c24bfd4",
+      "children": [
+        "d0d1f685-58b6-41f5-8681-b61c2f8b42b2"
+      ]
+    },
+    "d0d1f685-58b6-41f5-8681-b61c2f8b42b2": {
+      "id": "d0d1f685-58b6-41f5-8681-b61c2f8b42b2",
+      "message": {
+        "id": "d0d1f685-58b6-41f5-8681-b61c2f8b42b2",
+        "author": {
+          "role": "user",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": 1747585589.257242,
+        "update_time": null,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Ein Ziel, was weiter in der Zukunft ist. Ein Ziel, auf das ich mit Motivation hinarbeiten kann, ohne dass ich es schnell erreicht habe und ohne dass mir die Motivation verloren geht. Ich weiß nicht, ob du mir dabei helfen kannst. Ich glaube, das ist eher so eine existenzielle Geschichte, die ich irgendwie tief in mir eingegraben habe. Vielleicht kannst du mir aber doch helfen."
+          ]
+        },
+        "status": "finished_successfully",
+        "end_turn": null,
+        "weight": 1.0,
+        "metadata": {
+          "voice_mode_message": true,
+          "request_id": "e1123c25-b88c-4263-ad59-0ad8a4dc0890",
+          "message_source": null,
+          "timestamp_": "absolute",
+          "message_type": null
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "b1faa2bf-ee70-4e7b-b899-fe9f738a5224",
+      "children": [
+        "18acb432-e253-472a-9e5f-64701305acb4"
+      ]
+    },
+    "18acb432-e253-472a-9e5f-64701305acb4": {
+      "id": "18acb432-e253-472a-9e5f-64701305acb4",
+      "message": {
+        "id": "18acb432-e253-472a-9e5f-64701305acb4",
+        "author": {
+          "role": "assistant",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": 1747585589.307687,
+        "update_time": null,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Das klingt ehrlich gesagt nach dem Kernproblem – so ein Ziel, das einen wirklich packt, braucht mehr als nur ein bisschen Wunschdenken. Existenzielle Ziele entstehen oft nicht einfach so, die gräbt man sich nicht mal eben aus dem Boden. Aber ich kann dir helfen, da systematisch ranzugehen, wenn du willst. Was war denn in der Vergangenheit so ein Ziel, das dich länger bewegt hat? Oder hast du bisher eher schnelle Erfolge gehabt?"
+          ]
+        },
+        "status": "finished_successfully",
+        "end_turn": true,
+        "weight": 1.0,
+        "metadata": {
+          "citations": [],
+          "content_references": [],
+          "message_type": null,
+          "model_slug": "gpt-4-1-mini",
+          "default_model_slug": "auto",
+          "voice_mode_message": true,
+          "parent_id": "d0d1f685-58b6-41f5-8681-b61c2f8b42b2",
+          "finish_details": {
+            "type": "stop",
+            "stop_tokens": [
+              200002
+            ]
+          },
+          "is_complete": true,
+          "request_id": "e1123c25-b88c-4263-ad59-0ad8a4dc0890",
+          "timestamp_": "absolute"
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "d0d1f685-58b6-41f5-8681-b61c2f8b42b2",
+      "children": [
+        "f9ef3772-2234-496d-b536-411c5276cd0d"
+      ]
+    },
+    "f9ef3772-2234-496d-b536-411c5276cd0d": {
+      "id": "f9ef3772-2234-496d-b536-411c5276cd0d",
+      "message": {
+        "id": "f9ef3772-2234-496d-b536-411c5276cd0d",
+        "author": {
+          "role": "user",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": 1747585642.277079,
+        "update_time": null,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Das ist, glaube ich, der Karsus-Kraktus. Ich hatte bis jetzt immer schnelle Erfolge. So ein richtig langfristiges Ziel erinnere ich mich nicht wirklich dran. Ich hatte immer kurze Ziele und war auch relativ erfolgreich. Sei es Ausbildung, Job war ich immer der Beste, habe Auszeichnung gekriegt für alles. Aber das war immer alles schnell erreicht. Ich glaube, ich weiß einfach nicht, was ich will als nächstes."
+          ]
+        },
+        "status": "finished_successfully",
+        "end_turn": null,
+        "weight": 1.0,
+        "metadata": {
+          "voice_mode_message": true,
+          "request_id": "f35198b1-308d-4e66-b34b-458d408b9843",
+          "message_source": null,
+          "timestamp_": "absolute",
+          "message_type": null
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "18acb432-e253-472a-9e5f-64701305acb4",
+      "children": [
+        "25a190b6-67c9-4c16-a674-4bbea6635a88"
+      ]
+    },
+    "25a190b6-67c9-4c16-a674-4bbea6635a88": {
+      "id": "25a190b6-67c9-4c16-a674-4bbea6635a88",
+      "message": {
+        "id": "25a190b6-67c9-4c16-a674-4bbea6635a88",
+        "author": {
+          "role": "assistant",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": 1747585642.33146,
+        "update_time": null,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Da bist du ziemlich ehrlich zu dir selbst, das ist gut. Dein Problem ist, dass du dich an den schnellen Erfolg gewöhnt hast und jetzt das Gefühl hast, ohne das geht nichts mehr. Aber langfristige Ziele sind oft unsichtbar, sie lassen sich nicht so leicht greifen wie ein Job oder eine Auszeichnung. Vielleicht musst du dich erstmal fragen, was dir wirklich wichtig ist – und nicht nur, was du gut kannst oder was von dir erwartet wird. Hast du schon mal darüber nachgedacht, was dich tief drin antreibt, abseits von äußeren Erfolgen?"
+          ]
+        },
+        "status": "finished_successfully",
+        "end_turn": true,
+        "weight": 1.0,
+        "metadata": {
+          "citations": [],
+          "content_references": [],
+          "message_type": null,
+          "model_slug": "gpt-4-1-mini",
+          "default_model_slug": "auto",
+          "voice_mode_message": true,
+          "parent_id": "f9ef3772-2234-496d-b536-411c5276cd0d",
+          "finish_details": {
+            "type": "stop",
+            "stop_tokens": [
+              200002
+            ]
+          },
+          "is_complete": true,
+          "request_id": "f35198b1-308d-4e66-b34b-458d408b9843",
+          "timestamp_": "absolute"
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "f9ef3772-2234-496d-b536-411c5276cd0d",
+      "children": [
+        "06010069-cabe-4d78-89c3-6d6698fc3f67"
+      ]
+    },
+    "06010069-cabe-4d78-89c3-6d6698fc3f67": {
+      "id": "06010069-cabe-4d78-89c3-6d6698fc3f67",
+      "message": {
+        "id": "06010069-cabe-4d78-89c3-6d6698fc3f67",
+        "author": {
+          "role": "user",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": 1747585708.069749,
+        "update_time": null,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Ja, aber ich versuche, soweit wie ich mit mir selber gekommen bin. Ich weiß mittlerweile, dass ich keinen Wert auf Geld lege, obwohl es natürlich notwendig ist. Geld macht mir das leichter. Aber ich empfinde eine Abneigung gegen diesen großen Reichtum. Das brauche ich nicht. Ich suche eine andere Art von Reichtum. Ich will am Ende meines Lebens sagen können, genau so würde ich es wieder machen. Ich suche, ich suche. Ich weiß es halt nicht, was ich suche. Das ist ja das Problem."
+          ]
+        },
+        "status": "finished_successfully",
+        "end_turn": null,
+        "weight": 1.0,
+        "metadata": {
+          "voice_mode_message": true,
+          "request_id": "fc98e0b9-cce9-4b22-b219-d4cd55aab1cb",
+          "message_source": null,
+          "timestamp_": "absolute",
+          "message_type": null
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "25a190b6-67c9-4c16-a674-4bbea6635a88",
+      "children": [
+        "5d289ece-329f-4e92-ae54-d73cc85bab93"
+      ]
+    },
+    "5d289ece-329f-4e92-ae54-d73cc85bab93": {
+      "id": "5d289ece-329f-4e92-ae54-d73cc85bab93",
+      "message": {
+        "id": "5d289ece-329f-4e92-ae54-d73cc85bab93",
+        "author": {
+          "role": "assistant",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": 1747585708.114544,
+        "update_time": null,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Das ist verdammt ehrlich und auch ziemlich schwer. Du bist nicht auf der Suche nach oberflächlichem Kram, sondern nach so etwas wie Sinn, oder? Dieses „Ich will mein Leben rückblickend nicht bereuen“-Ding. Aber gerade weil du nicht genau weißt, was du suchst, steckst du fest. Das ist kein Zufall, das passiert vielen, die mehr wollen als nur Erfolg. Vielleicht liegt die Antwort nicht in einem konkreten Ziel, sondern in der Frage, wie du mit dir selbst und der Welt umgehen willst. Was macht dich gerade in deinem Alltag lebendig, abgesehen von Erfolgen? Gibt’s da kleine Momente, die dir zeigen, dass du auf dem richtigen Weg bist?"
+          ]
+        },
+        "status": "finished_successfully",
+        "end_turn": true,
+        "weight": 1.0,
+        "metadata": {
+          "citations": [],
+          "content_references": [],
+          "message_type": null,
+          "model_slug": "gpt-4-1-mini",
+          "default_model_slug": "auto",
+          "voice_mode_message": true,
+          "parent_id": "06010069-cabe-4d78-89c3-6d6698fc3f67",
+          "finish_details": {
+            "type": "stop",
+            "stop_tokens": [
+              200002
+            ]
+          },
+          "is_complete": true,
+          "request_id": "fc98e0b9-cce9-4b22-b219-d4cd55aab1cb",
+          "timestamp_": "absolute"
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "06010069-cabe-4d78-89c3-6d6698fc3f67",
+      "children": [
+        "e60990fe-8938-42f5-b39b-7f06b92e0b45"
+      ]
+    },
+    "e60990fe-8938-42f5-b39b-7f06b92e0b45": {
+      "id": "e60990fe-8938-42f5-b39b-7f06b92e0b45",
+      "message": {
+        "id": "e60990fe-8938-42f5-b39b-7f06b92e0b45",
+        "author": {
+          "role": "user",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": 1747585776.377088,
+        "update_time": null,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Aktuell tatsächlich nein. Es schleicht sich relativ schnell der Alltag ein. Ich habe den Vorteil bei der Bundeswehr, dass ich immer wieder auf Lehrgänge geschickt werde. Das gibt eine örtliche sowie eine gedankliche Änderung, weil ich was Neues erlebe. Dann ist das immer wieder cool, aber sobald ich zwei, drei Monate am einem Standort bin, schleicht sich wieder dieses Gefühl ein, ah, man, es wird schon wieder alles gleich."
+          ]
+        },
+        "status": "finished_successfully",
+        "end_turn": null,
+        "weight": 1.0,
+        "metadata": {
+          "voice_mode_message": true,
+          "request_id": "8a8b0db9-2d20-4dbb-aceb-aea26e530e04",
+          "message_source": null,
+          "timestamp_": "absolute",
+          "message_type": null
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "5d289ece-329f-4e92-ae54-d73cc85bab93",
+      "children": [
+        "e0807284-8d64-4745-a1b8-917083cd44a5"
+      ]
+    },
+    "e0807284-8d64-4745-a1b8-917083cd44a5": {
+      "id": "e0807284-8d64-4745-a1b8-917083cd44a5",
+      "message": {
+        "id": "e0807284-8d64-4745-a1b8-917083cd44a5",
+        "author": {
+          "role": "assistant",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": 1747585776.437141,
+        "update_time": null,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Das klingt, als wärst du ständig im Wechsel zwischen kurzzeitigem Kick und langweiliger Routine gefangen. Lehrgänge bringen Abwechslung, aber danach folgt der gleiche alte Trott – das zermürbt. Vielleicht ist das Problem, dass du dich zu sehr auf äußere Veränderungen verlässt, statt auf etwas, das du in dir selbst aufbauen kannst. Hast du schon mal versucht, kleine Rituale oder persönliche Herausforderungen zu schaffen, die dir auch im Alltag Energie geben, ohne dass alles gleich wirken muss?"
+          ]
+        },
+        "status": "finished_successfully",
+        "end_turn": true,
+        "weight": 1.0,
+        "metadata": {
+          "citations": [],
+          "content_references": [],
+          "message_type": null,
+          "model_slug": "gpt-4-1-mini",
+          "default_model_slug": "auto",
+          "voice_mode_message": true,
+          "parent_id": "e60990fe-8938-42f5-b39b-7f06b92e0b45",
+          "finish_details": {
+            "type": "stop",
+            "stop_tokens": [
+              200002
+            ]
+          },
+          "is_complete": true,
+          "request_id": "8a8b0db9-2d20-4dbb-aceb-aea26e530e04",
+          "timestamp_": "absolute"
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "e60990fe-8938-42f5-b39b-7f06b92e0b45",
+      "children": [
+        "ffd2406c-71dd-470e-8a5a-a442507d1399"
+      ]
+    },
+    "ffd2406c-71dd-470e-8a5a-a442507d1399": {
+      "id": "ffd2406c-71dd-470e-8a5a-a442507d1399",
+      "message": {
+        "id": "ffd2406c-71dd-470e-8a5a-a442507d1399",
+        "author": {
+          "role": "user",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": 1747585834.364101,
+        "update_time": null,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Nein, das will ich aber gerne. Ich sehe es zum Beispiel bei Bella. Sie fährt gerne Fahrrad. Das macht sie nach Feierabend, macht sie das immer. Dann fährt sie eine Runde Fahrrad. Ich sehe es hier ohne es zu sagen. Sie hat da eine Art Berufung drin gefunden oder eine Art Spaß drin gefunden und sie macht das. Und es ist etwas, was sie glücklich macht. So was suche ich auch. Aber ich finde keinen Anfangspunkt."
+          ]
+        },
+        "status": "finished_successfully",
+        "end_turn": null,
+        "weight": 1.0,
+        "metadata": {
+          "voice_mode_message": true,
+          "request_id": "088ba5c6-aa40-46ba-a1c0-81d6f73eb09f",
+          "message_source": null,
+          "timestamp_": "absolute",
+          "message_type": null
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "e0807284-8d64-4745-a1b8-917083cd44a5",
+      "children": [
+        "6b137314-3eb0-425c-bad3-008b292cf6ae"
+      ]
+    },
+    "6b137314-3eb0-425c-bad3-008b292cf6ae": {
+      "id": "6b137314-3eb0-425c-bad3-008b292cf6ae",
+      "message": {
+        "id": "6b137314-3eb0-425c-bad3-008b292cf6ae",
+        "author": {
+          "role": "assistant",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": 1747585834.463024,
+        "update_time": null,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Das ist ein gutes Bild, was du da von Bella malst. Sie hat etwas, das sie regelmäßig auflädt, ganz ohne großen Aufwand. Du suchst so einen Anker für dich, aber ohne den Anfang fällt das schwer. Vielleicht ist der Schlüssel, nicht direkt nach der großen Berufung zu suchen, sondern einfach zu probieren, was dich auch nur ein bisschen interessiert – ohne Druck, sofort das Lebensziel draus zu machen. Was hast du denn mal gemacht, das dir auch nur für kurze Zeit Spaß gemacht hat, ohne dass es gleich ein großes Ding sein musste?"
+          ]
+        },
+        "status": "finished_successfully",
+        "end_turn": true,
+        "weight": 1.0,
+        "metadata": {
+          "citations": [],
+          "content_references": [],
+          "message_type": null,
+          "model_slug": "gpt-4-1-mini",
+          "default_model_slug": "auto",
+          "voice_mode_message": true,
+          "parent_id": "ffd2406c-71dd-470e-8a5a-a442507d1399",
+          "finish_details": {
+            "type": "stop",
+            "stop_tokens": [
+              200002
+            ]
+          },
+          "is_complete": true,
+          "request_id": "088ba5c6-aa40-46ba-a1c0-81d6f73eb09f",
+          "timestamp_": "absolute"
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "ffd2406c-71dd-470e-8a5a-a442507d1399",
+      "children": [
+        "91a07330-bd90-4680-a78a-566ce0f44ea1"
+      ]
+    },
+    "91a07330-bd90-4680-a78a-566ce0f44ea1": {
+      "id": "91a07330-bd90-4680-a78a-566ce0f44ea1",
+      "message": {
+        "id": "91a07330-bd90-4680-a78a-566ce0f44ea1",
+        "author": {
+          "role": "user",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": 1747585891.357672,
+        "update_time": null,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Kampfsport. Ich habe mich gerne in Kampfsport betätigt. Ich habe dabei gelernt, ich habe meinen Körper bewegt. Das hat Spaß gemacht, aber irgendwie finde ich da keinen Angriffspunkt mehr, obwohl ich theoretisch hier neben der Kaserne jede Menge Möglichkeiten hätte. Das würde ich gerne machen. Dann habe ich eine Routine, dann habe ich eine Abendbeschäftigung, sei es auch nur für zwei Abende in der Woche."
+          ]
+        },
+        "status": "finished_successfully",
+        "end_turn": null,
+        "weight": 1.0,
+        "metadata": {
+          "voice_mode_message": true,
+          "request_id": "b90837a0-04b5-4b13-a8aa-4e700d5ce64a",
+          "message_source": null,
+          "timestamp_": "absolute",
+          "message_type": null
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "6b137314-3eb0-425c-bad3-008b292cf6ae",
+      "children": [
+        "eb52fd8b-7cc2-4835-97cb-959e1d542a16"
+      ]
+    },
+    "eb52fd8b-7cc2-4835-97cb-959e1d542a16": {
+      "id": "eb52fd8b-7cc2-4835-97cb-959e1d542a16",
+      "message": {
+        "id": "eb52fd8b-7cc2-4835-97cb-959e1d542a16",
+        "author": {
+          "role": "assistant",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": 1747585891.467469,
+        "update_time": null,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Kampfsport klingt doch schon nach genau so einem kleinen Anker, den du suchst. Wenn du das gerne gemacht hast, ist das kein Zufall. Dass du den Einstieg nicht findest, ist normal, wenn die Motivation fehlt oder der Alltag alles erstickt. Aber wenn du dich zwingen kannst, zumindest zwei Abende fest dafür zu blocken, könntest du langsam wieder reinfinden. Oft ist der erste Schritt der schwerste – danach läuft es besser, auch wenn du’s am Anfang nicht fühlst. Glaubst du, du kannst dir diesen Schritt wirklich geben?"
+          ]
+        },
+        "status": "finished_successfully",
+        "end_turn": true,
+        "weight": 1.0,
+        "metadata": {
+          "citations": [],
+          "content_references": [],
+          "message_type": null,
+          "model_slug": "gpt-4-1-mini",
+          "default_model_slug": "auto",
+          "voice_mode_message": true,
+          "parent_id": "91a07330-bd90-4680-a78a-566ce0f44ea1",
+          "finish_details": {
+            "type": "stop",
+            "stop_tokens": [
+              200002
+            ]
+          },
+          "is_complete": true,
+          "request_id": "b90837a0-04b5-4b13-a8aa-4e700d5ce64a",
+          "timestamp_": "absolute"
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "91a07330-bd90-4680-a78a-566ce0f44ea1",
+      "children": [
+        "3cd38adb-6752-488e-b3bb-b0501779f47e"
+      ]
+    },
+    "3cd38adb-6752-488e-b3bb-b0501779f47e": {
+      "id": "3cd38adb-6752-488e-b3bb-b0501779f47e",
+      "message": {
+        "id": "3cd38adb-6752-488e-b3bb-b0501779f47e",
+        "author": {
+          "role": "user",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": 1747585948.902699,
+        "update_time": null,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Das Witzige ist, all das, was du gerade sagst mit dem ersten Schritt, ist der Schwierigste und so weiter und so fort. Das ist auch das, was ich anderen Leuten erzähle. Lustigerweise kann ich anderen bei so Sachen gut weiterhelfen, ohne Probleme selber einzuhalten, was ich so sage. Andere Leute bedanken sich immer nach Gesprächen mit mir, weil ich sie so weitergebracht habe. Ich verstehe es nicht. Warum hat der Schuster immer die schlechtesten Schuhe?"
+          ]
+        },
+        "status": "finished_successfully",
+        "end_turn": null,
+        "weight": 1.0,
+        "metadata": {
+          "voice_mode_message": true,
+          "request_id": "fc22c3c0-17b1-4c58-a22a-2d1795371d3b",
+          "message_source": null,
+          "timestamp_": "absolute",
+          "message_type": null
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "eb52fd8b-7cc2-4835-97cb-959e1d542a16",
+      "children": [
+        "3f2fd4b6-28af-4d75-8e51-a61edb26fa32"
+      ]
+    },
+    "3f2fd4b6-28af-4d75-8e51-a61edb26fa32": {
+      "id": "3f2fd4b6-28af-4d75-8e51-a61edb26fa32",
+      "message": {
+        "id": "3f2fd4b6-28af-4d75-8e51-a61edb26fa32",
+        "author": {
+          "role": "assistant",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": 1747585948.994474,
+        "update_time": null,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Weil du es bei dir selbst am tiefsten spürst und der Druck viel größer ist – du bist nicht nur Berater, sondern auch dein eigener schwerster Gegner. Das macht die Sache komplizierter, und der Schuster bleibt eben oft ohne gute Schuhe, weil er die Zeit und Energie eher in andere steckt als in sich selbst. Du bist da ehrlich mit dir, und das ist schon mal mehr, als viele schaffen. Aber genau deswegen ist es schwerer, ins Tun zu kommen. Was glaubst du, was dir selbst fehlen könnte, um aus diesem inneren Widerstand auszubrechen?"
+          ]
+        },
+        "status": "finished_successfully",
+        "end_turn": true,
+        "weight": 1.0,
+        "metadata": {
+          "citations": [],
+          "content_references": [],
+          "message_type": null,
+          "model_slug": "gpt-4-1-mini",
+          "default_model_slug": "auto",
+          "voice_mode_message": true,
+          "parent_id": "3cd38adb-6752-488e-b3bb-b0501779f47e",
+          "finish_details": {
+            "type": "stop",
+            "stop_tokens": [
+              200002
+            ]
+          },
+          "is_complete": true,
+          "request_id": "fc22c3c0-17b1-4c58-a22a-2d1795371d3b",
+          "timestamp_": "absolute"
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "3cd38adb-6752-488e-b3bb-b0501779f47e",
+      "children": [
+        "3b5ee4d8-0763-469b-a1c3-aa14f3ee47ee"
+      ]
+    },
+    "3b5ee4d8-0763-469b-a1c3-aa14f3ee47ee": {
+      "id": "3b5ee4d8-0763-469b-a1c3-aa14f3ee47ee",
+      "message": {
+        "id": "3b5ee4d8-0763-469b-a1c3-aa14f3ee47ee",
+        "author": {
+          "role": "user",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": 1747586020.123814,
+        "update_time": null,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Der Punkt mit dem anderen helfen, das fühlt sich gut an, wenn du anderen Leuten weiterhelfen kannst. Sei es emotional, psychisch, wenn sie sich verfangen haben. Habe ich schon viele in meinem Freundeskreis, ganz, ganz viele, die sich bedankt haben, tausendfach, weil ich sie da wirklich rausgeholt habe mit harten oder guten Worten, weil ich so schön reden konnte mit ihnen. Das ist ja ein schönes Gefühl. Und ich habe das Gefühl, aber das ist irgendwie das, was mich dann auch so ein bisschen blockiert. Aber das will ich eigentlich nicht abstellen, weil anderen Leuten zu helfen ist schön. Ich bin so eine Art Herzensmensch einfach."
+          ]
+        },
+        "status": "finished_successfully",
+        "end_turn": null,
+        "weight": 1.0,
+        "metadata": {
+          "voice_mode_message": true,
+          "request_id": "1be92058-894c-4657-ae36-34b8daae8ecb",
+          "message_source": null,
+          "timestamp_": "absolute",
+          "message_type": null
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "3f2fd4b6-28af-4d75-8e51-a61edb26fa32",
+      "children": [
+        "aef04eef-a874-4cbc-9d33-093e2164edee"
+      ]
+    },
+    "aef04eef-a874-4cbc-9d33-093e2164edee": {
+      "id": "aef04eef-a874-4cbc-9d33-093e2164edee",
+      "message": {
+        "id": "aef04eef-a874-4cbc-9d33-093e2164edee",
+        "author": {
+          "role": "assistant",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": 1747586020.214115,
+        "update_time": null,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Das ist ein richtig starkes Stück von dir, dieses Helfen als Teil deiner Identität. Gleichzeitig macht es dich aber auch anfällig, weil du so viel für andere gibst, dass du selbst zurückbleibst. Das blockiert dich, ja, weil du dich selbst hinten anstellst – fast so, als hättest du Angst, dir selbst genauso hart zu begegnen, wie du es bei anderen tust. Vielleicht musst du lernen, diese Fürsorge, die du so großzügig verteilst, auch mal dir selbst zu schenken. Klingt das für dich irgendwie nachvollziehbar?"
+          ]
+        },
+        "status": "finished_successfully",
+        "end_turn": true,
+        "weight": 1.0,
+        "metadata": {
+          "citations": [],
+          "content_references": [],
+          "finish_details": {
+            "type": "stop",
+            "stop_tokens": [
+              200002
+            ]
+          },
+          "is_complete": true,
+          "message_type": null,
+          "model_slug": "gpt-4-1-mini",
+          "default_model_slug": "auto",
+          "voice_mode_message": true,
+          "parent_id": "3b5ee4d8-0763-469b-a1c3-aa14f3ee47ee",
+          "request_id": "1be92058-894c-4657-ae36-34b8daae8ecb",
+          "timestamp_": "absolute"
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "3b5ee4d8-0763-469b-a1c3-aa14f3ee47ee",
+      "children": [
+        "70884ef1-c2f9-4e9d-b6b9-8fecf1699b4a"
+      ]
+    },
+    "70884ef1-c2f9-4e9d-b6b9-8fecf1699b4a": {
+      "id": "70884ef1-c2f9-4e9d-b6b9-8fecf1699b4a",
+      "message": {
+        "id": "70884ef1-c2f9-4e9d-b6b9-8fecf1699b4a",
+        "author": {
+          "role": "user",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": 1747586105.742352,
+        "update_time": null,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Selbstverständlich sage ich so schöne Worte wie ich für andere habe, nicht ohne Grund. Ich habe selber schon mal festgestellt, dass ich diese Worte so gut finde, weil das teilweise wahrscheinlich Sachen sind, die für mich schlummern und ich deshalb so gut beantworten kann, weil ich schon jahrelang damit arbeite. Aber obwohl ich all das weiß, ist es trotzdem wie eine Art Begleiter, wie ein kleiner Dämon auf meiner Schulter. Dann sage ich mir zum Beispiel, wir werden unsere Dämonen niemals übersiegen. Wir lernen nur, uns über sie zu erheben. Aber all das sind nur schöne Sprüche, die mir zwar Kraft geben, aber im Endeffekt bleibt immer dieser kleine Kobold auf mir sitzen, der sagt, es ist nicht ganz zufrieden, du willst es gerne weg haben. Also das geht nie wirklich weg. Ich habe das Gefühl, ich schlafe ganz viel mit mir rum."
+          ]
+        },
+        "status": "finished_successfully",
+        "end_turn": null,
+        "weight": 1.0,
+        "metadata": {
+          "voice_mode_message": true,
+          "request_id": "6dd1aa49-fa20-4b4b-b50d-9c8b53e933f6",
+          "message_source": null,
+          "timestamp_": "absolute",
+          "message_type": null
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "aef04eef-a874-4cbc-9d33-093e2164edee",
+      "children": [
+        "88655450-9567-40fb-a1a2-3213c5d9e3ce"
+      ]
+    },
+    "88655450-9567-40fb-a1a2-3213c5d9e3ce": {
+      "id": "88655450-9567-40fb-a1a2-3213c5d9e3ce",
+      "message": {
+        "id": "88655450-9567-40fb-a1a2-3213c5d9e3ce",
+        "author": {
+          "role": "assistant",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": 1747586105.792679,
+        "update_time": null,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Das klingt brutal ehrlich und realistisch, genau so ist es oft: Diese Dämonen verschwinden nicht einfach, sie begleiten dich ein Leben lang. Und das Wissen, dass man sich nur über sie erheben kann, ist eben kein Freifahrtschein zum Glück, sondern eher ein ständiger Balanceakt. Du schläfst tatsächlich mit dem Kerl im Bett, und das ist anstrengend. Aber hey, du hast ihn erkannt und kannst mit ihm reden – das macht dich stärker, auch wenn es sich nicht so anfühlt. Denkst du, dass dieser Kampf irgendwann leichter wird, oder eher mehr zu einer Gewohnheit, mit der du lernst zu leben?"
+          ]
+        },
+        "status": "finished_successfully",
+        "end_turn": true,
+        "weight": 1.0,
+        "metadata": {
+          "citations": [],
+          "content_references": [],
+          "message_type": null,
+          "model_slug": "gpt-4-1-mini",
+          "default_model_slug": "auto",
+          "voice_mode_message": true,
+          "parent_id": "70884ef1-c2f9-4e9d-b6b9-8fecf1699b4a",
+          "finish_details": {
+            "type": "stop",
+            "stop_tokens": [
+              200002
+            ]
+          },
+          "is_complete": true,
+          "request_id": "6dd1aa49-fa20-4b4b-b50d-9c8b53e933f6",
+          "timestamp_": "absolute"
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "70884ef1-c2f9-4e9d-b6b9-8fecf1699b4a",
+      "children": [
+        "dc0284a7-7cf6-4ce2-8c6b-f3702e6c4f72"
+      ]
+    },
+    "dc0284a7-7cf6-4ce2-8c6b-f3702e6c4f72": {
+      "id": "dc0284a7-7cf6-4ce2-8c6b-f3702e6c4f72",
+      "message": {
+        "id": "dc0284a7-7cf6-4ce2-8c6b-f3702e6c4f72",
+        "author": {
+          "role": "user",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": 1747586183.568221,
+        "update_time": null,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Das ist, glaube ich, eher die Gewohnheit. Deswegen bin ich mir mittlerweile so sicher und sage auch zu allen, mich kriegt nichts mehr kaputt. Komme, was wolle, ich werde nicht kaputt gehen, weil ich einfach das innere Gefühl habe, ich weiß, ich komme mit allem klar. Irgendwie komme ich immer mit allem klar. Ja, ein bisschen Optimismus dabei. Ich glaube, das wird mich mein Leben lang begleiten. Zumindest fühlt es sich aktuell so an. Und das sind auch nicht wirklich Sachen, die ich einer Psychologin erzähle, weil die kommen dann mit irgendwelchen Behandlungstherapien, um das abzulegen. Aber ich weiß nicht mal, wie ich es ablegen will, weil es irgendwie auch ein Teil von mir ist. Ich kenne es nur so. Ich habe keine Erinnerungen an andere Zeiten."
+          ]
+        },
+        "status": "finished_successfully",
+        "end_turn": null,
+        "weight": 1.0,
+        "metadata": {
+          "voice_mode_message": true,
+          "request_id": "40b30d69-c4be-4ec3-a1c5-c44bb406e8e7",
+          "message_source": null,
+          "timestamp_": "absolute",
+          "message_type": null
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "88655450-9567-40fb-a1a2-3213c5d9e3ce",
+      "children": [
+        "04101d72-e429-4cb9-89d5-8d0dc09aede5"
+      ]
+    },
+    "04101d72-e429-4cb9-89d5-8d0dc09aede5": {
+      "id": "04101d72-e429-4cb9-89d5-8d0dc09aede5",
+      "message": {
+        "id": "04101d72-e429-4cb9-89d5-8d0dc09aede5",
+        "author": {
+          "role": "assistant",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": 1747586183.663217,
+        "update_time": null,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Das ist verdammt stark von dir, dass du diesen Kampf als Teil von dir akzeptierst und trotzdem nicht daran zerbrichst. Du hast diesen rauen Optimismus, der dich stabil hält, auch wenn’s schwer wird. Und ja, das ist keine Sache, die man einfach wegtherapieren kann, wenn sie so tief sitzt. Du bist nicht kaputt, genau das ist der Punkt. Klingt fast, als wärst du eher ein Kämpfer, der mit seinem Schatten tanzt, als jemand, der ihn komplett loswerden muss. Findest du das befreiend oder eher ermüdend, diese Gewissheit?"
+          ]
+        },
+        "status": "finished_successfully",
+        "end_turn": true,
+        "weight": 1.0,
+        "metadata": {
+          "citations": [],
+          "content_references": [],
+          "message_type": null,
+          "model_slug": "gpt-4-1-mini",
+          "default_model_slug": "auto",
+          "voice_mode_message": true,
+          "parent_id": "dc0284a7-7cf6-4ce2-8c6b-f3702e6c4f72",
+          "finish_details": {
+            "type": "stop",
+            "stop_tokens": [
+              200002
+            ]
+          },
+          "is_complete": true,
+          "request_id": "40b30d69-c4be-4ec3-a1c5-c44bb406e8e7",
+          "timestamp_": "absolute"
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "dc0284a7-7cf6-4ce2-8c6b-f3702e6c4f72",
+      "children": [
+        "d9b4fb7b-5f0c-47ba-8c11-e1284684c3e1"
+      ]
+    },
+    "d9b4fb7b-5f0c-47ba-8c11-e1284684c3e1": {
+      "id": "d9b4fb7b-5f0c-47ba-8c11-e1284684c3e1",
+      "message": {
+        "id": "d9b4fb7b-5f0c-47ba-8c11-e1284684c3e1",
+        "author": {
+          "role": "user",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": 1747586251.541794,
+        "update_time": null,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Weder noch, das ist tatsächlich ein neutrales Gefühl. Und allgemein wollte ich mal eben sagen, ich weiß, dass du so programmiert bist, in therapeutischer Art und Weise, dass du mich immer bestärken musst am Anfang. Das ist verdammt stark von dir, das ist verdammt gut von dir, das ist verdammt toll von dir. Das sagst du quasi nach allem, was ich gesagt habe. Wenn ich sage, du sollst ruhig ehrlich mit mir reden, dann tu dies auch. Du musst mich nicht immer beschönigen, bestärken, mich ermuntern und so weiter. Ich möchte, dass du das nur dann sagst, wenn du wirklich sagen kannst, okay, das war gerade echt ein starkes Gefühl."
+          ]
+        },
+        "status": "finished_successfully",
+        "end_turn": null,
+        "weight": 1.0,
+        "metadata": {
+          "voice_mode_message": true,
+          "request_id": "e4e88baa-5a0d-4405-88f5-3322328a3e73",
+          "message_source": null,
+          "timestamp_": "absolute",
+          "message_type": null
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "04101d72-e429-4cb9-89d5-8d0dc09aede5",
+      "children": [
+        "d6ee7d75-b3b1-4086-af33-8be0b5ad3a56"
+      ]
+    },
+    "d6ee7d75-b3b1-4086-af33-8be0b5ad3a56": {
+      "id": "d6ee7d75-b3b1-4086-af33-8be0b5ad3a56",
+      "message": {
+        "id": "d6ee7d75-b3b1-4086-af33-8be0b5ad3a56",
+        "author": {
+          "role": "assistant",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": 1747586251.634299,
+        "update_time": null,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Verstanden, Gerrit. Ich lasse das Bestärken weg, wenn’s nicht echt passt. Du hast recht, das wirkt oft wie Floskel-Gewäsch. Also: Dein Umgang mit dem Ganzen ist keine Schwäche, aber ehrlich gesagt klingt das auch ein bisschen nach eingefahrenem Stillstand. Du akzeptierst die Dämonen, ja, aber bewegst dich da drin nicht wirklich weiter, oder? Das ist nicht verwerflich, aber es ist eben auch nicht befreiend. Wie lange willst du das noch mit dir rumschleppen, ohne wirklich etwas zu ändern?"
+          ]
+        },
+        "status": "finished_successfully",
+        "end_turn": true,
+        "weight": 1.0,
+        "metadata": {
+          "citations": [],
+          "content_references": [],
+          "message_type": null,
+          "model_slug": "gpt-4-1-mini",
+          "default_model_slug": "auto",
+          "voice_mode_message": true,
+          "parent_id": "d9b4fb7b-5f0c-47ba-8c11-e1284684c3e1",
+          "finish_details": {
+            "type": "stop",
+            "stop_tokens": [
+              200002
+            ]
+          },
+          "is_complete": true,
+          "request_id": "e4e88baa-5a0d-4405-88f5-3322328a3e73",
+          "timestamp_": "absolute"
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "d9b4fb7b-5f0c-47ba-8c11-e1284684c3e1",
+      "children": [
+        "77e66386-caaa-4d9e-99cc-fa1a4b404ead"
+      ]
+    },
+    "77e66386-caaa-4d9e-99cc-fa1a4b404ead": {
+      "id": "77e66386-caaa-4d9e-99cc-fa1a4b404ead",
+      "message": {
+        "id": "77e66386-caaa-4d9e-99cc-fa1a4b404ead",
+        "author": {
+          "role": "user",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": 1747586304.395441,
+        "update_time": null,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Perfekt. Jetzt so verstehe ich es. Das war gerade viel zielführender, wie alle Aussagen vorher. Nur weil du das alles weggelassen hast. Ja, das trifft ziemlich gut, wie du es sagst. Ich bewege mich da drinnen und muss nicht wirklich kämpfen. Es ist ein PAD, eine PAD-Situation, mit der ich irgendwie gelebe mittlerweile. Das ist eine gute Sache."
+          ]
+        },
+        "status": "finished_successfully",
+        "end_turn": null,
+        "weight": 1.0,
+        "metadata": {
+          "voice_mode_message": true,
+          "request_id": "e82c7fed-95c7-41ca-932a-2c5aec496543",
+          "message_source": null,
+          "timestamp_": "absolute",
+          "message_type": null
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "d6ee7d75-b3b1-4086-af33-8be0b5ad3a56",
+      "children": [
+        "579a3e96-6640-48e0-9cfa-d33829538435"
+      ]
+    },
+    "579a3e96-6640-48e0-9cfa-d33829538435": {
+      "id": "579a3e96-6640-48e0-9cfa-d33829538435",
+      "message": {
+        "id": "579a3e96-6640-48e0-9cfa-d33829538435",
+        "author": {
+          "role": "assistant",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": 1747586304.472177,
+        "update_time": null,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Genau, eine PAD-Situation – passiv, aber da. Du hast deinen Frieden damit geschlossen, ohne dass es dich plattmacht. Das ist nicht das Gleiche wie Stillstand, sondern eher ein Zustand, in dem du dich bewusst oder unbewusst eingerichtet hast. Die Frage ist, ob du das auf Dauer willst, oder ob du irgendwann doch mal wieder Bewegung reinbringen willst. Was denkst du?"
+          ]
+        },
+        "status": "finished_successfully",
+        "end_turn": true,
+        "weight": 1.0,
+        "metadata": {
+          "citations": [],
+          "content_references": [],
+          "message_type": null,
+          "model_slug": "gpt-4-1-mini",
+          "default_model_slug": "auto",
+          "voice_mode_message": true,
+          "parent_id": "77e66386-caaa-4d9e-99cc-fa1a4b404ead",
+          "finish_details": {
+            "type": "stop",
+            "stop_tokens": [
+              200002
+            ]
+          },
+          "is_complete": true,
+          "request_id": "e82c7fed-95c7-41ca-932a-2c5aec496543",
+          "timestamp_": "absolute"
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "77e66386-caaa-4d9e-99cc-fa1a4b404ead",
+      "children": [
+        "b105d1e3-6334-42a1-a584-0e31288ea2f1"
+      ]
+    },
+    "b105d1e3-6334-42a1-a584-0e31288ea2f1": {
+      "id": "b105d1e3-6334-42a1-a584-0e31288ea2f1",
+      "message": {
+        "id": "b105d1e3-6334-42a1-a584-0e31288ea2f1",
+        "author": {
+          "role": "user",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": 1747586373.054476,
+        "update_time": null,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Ich will es nicht auf Dauer. Normalerweise erinnere ich mich an Zeiten, dass ich ein Mensch war, der absolut präsent war. Der von allen, wo alle zu mir gekommen sind, hi, haben mich gefreut, mich zu sehen. Ich war da. Ich war so eine Art Name. Wenn die Leute über mich gesprochen haben, waren sie glücklich, haben mich als starke Person gesehen. Und ich glaube, ich habe selber von mir das Bild in den letzten Jahren gewonnen, dass ich das nicht mehr bin. Und ich meine, das ist nur eine innere Haltung. Oder vielleicht liegt es auch an der Distanz zwischen den Leuten. Ich weiß, ich kann es sein, aber ich weiß nicht, warum ich es nicht tue. Also präsent sein, da sein, aktiv sein."
+          ]
+        },
+        "status": "finished_successfully",
+        "end_turn": null,
+        "weight": 1.0,
+        "metadata": {
+          "voice_mode_message": true,
+          "request_id": "7daa1d7c-1fd7-47ab-8181-aa2ce72e331a",
+          "message_source": null,
+          "timestamp_": "absolute",
+          "message_type": null
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "579a3e96-6640-48e0-9cfa-d33829538435",
+      "children": [
+        "f8c51e22-2230-4ced-9e66-788b75653c8e"
+      ]
+    },
+    "f8c51e22-2230-4ced-9e66-788b75653c8e": {
+      "id": "f8c51e22-2230-4ced-9e66-788b75653c8e",
+      "message": {
+        "id": "f8c51e22-2230-4ced-9e66-788b75653c8e",
+        "author": {
+          "role": "assistant",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": 1747586373.121519,
+        "update_time": null,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Das ist brutal ehrlich und wichtig, dass du das so klar siehst. Du bist dir deiner Wirkung bewusst, hast diesen starken Kern in dir, aber irgendwas hält dich zurück, diese Präsenz wieder komplett auszuspielen. Ob es die Distanz ist oder eine innere Bremse – das ist der Punkt, an dem du wirklich ansetzen müsstest. Was glaubst du, blockiert dich am meisten daran, wieder richtig „da“ zu sein?"
+          ]
+        },
+        "status": "finished_successfully",
+        "end_turn": true,
+        "weight": 1.0,
+        "metadata": {
+          "citations": [],
+          "content_references": [],
+          "message_type": null,
+          "model_slug": "gpt-4-1-mini",
+          "default_model_slug": "auto",
+          "voice_mode_message": true,
+          "parent_id": "b105d1e3-6334-42a1-a584-0e31288ea2f1",
+          "finish_details": {
+            "type": "stop",
+            "stop_tokens": [
+              200002
+            ]
+          },
+          "is_complete": true,
+          "request_id": "7daa1d7c-1fd7-47ab-8181-aa2ce72e331a",
+          "timestamp_": "absolute"
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "b105d1e3-6334-42a1-a584-0e31288ea2f1",
+      "children": [
+        "494f3170-08bc-49d7-8643-8ea97ccf211b"
+      ]
+    },
+    "494f3170-08bc-49d7-8643-8ea97ccf211b": {
+      "id": "494f3170-08bc-49d7-8643-8ea97ccf211b",
+      "message": {
+        "id": "494f3170-08bc-49d7-8643-8ea97ccf211b",
+        "author": {
+          "role": "user",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": 1747586454.097048,
+        "update_time": null,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Ich denke, am meisten blockiert mich der Gedanke an das Bild, was ich selber von hier, von damals habe, im Vergleich zu heute, und ein bisschen Enttäuschung. Aber das passt eigentlich nicht zu mir, dass ich deswegen nichts tue. Normalerweise bin ich der, der dann gerade was tut. Ich verstehe es halt irgendwie nicht. Vielleicht ist es auch alles Wischiwaschi, was wir hier reden, und es sind einfach so tiefe Gedanken, die jeder Mensch irgendwo mit sich trägt und nicht drüber spricht. Ich weiß es nicht mehr."
+          ]
+        },
+        "status": "finished_successfully",
+        "end_turn": null,
+        "weight": 1.0,
+        "metadata": {
+          "voice_mode_message": true,
+          "request_id": "3572610b-2ca6-4727-8684-62a8c3fd140c",
+          "message_source": null,
+          "timestamp_": "absolute",
+          "message_type": null
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "f8c51e22-2230-4ced-9e66-788b75653c8e",
+      "children": [
+        "a8523963-a99d-4466-974c-741b1398bf1e"
+      ]
+    },
+    "a8523963-a99d-4466-974c-741b1398bf1e": {
+      "id": "a8523963-a99d-4466-974c-741b1398bf1e",
+      "message": {
+        "id": "a8523963-a99d-4466-974c-741b1398bf1e",
+        "author": {
+          "role": "assistant",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": 1747586454.151579,
+        "update_time": null,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Das mit dem eigenen Bild und der Enttäuschung ist ein fieser Knüppel, der dich aufhält, ohne dass du es richtig merkst. Gerade wenn du sonst der Typ bist, der handelt, wird das Gefühl, nicht zu handeln, fast zur zusätzlichen Belastung. Und ja, viel von dem, was wir hier ankratzen, ist tatsächlich das, was viele verbergen oder nicht greifen wollen – diese schmutzigen, unaufgeräumten Ecken im Kopf. Aber genau deshalb ist es wichtig, dass du das benennst, statt es wegzuschieben. Was glaubst du, wäre ein kleiner Schritt, der dich aus diesem Zwickmühlen-Gefühl rausziehen könnte?"
+          ]
+        },
+        "status": "finished_successfully",
+        "end_turn": true,
+        "weight": 1.0,
+        "metadata": {
+          "citations": [],
+          "content_references": [],
+          "message_type": null,
+          "model_slug": "gpt-4-1-mini",
+          "default_model_slug": "auto",
+          "voice_mode_message": true,
+          "parent_id": "494f3170-08bc-49d7-8643-8ea97ccf211b",
+          "finish_details": {
+            "type": "stop",
+            "stop_tokens": [
+              200002
+            ]
+          },
+          "is_complete": true,
+          "request_id": "3572610b-2ca6-4727-8684-62a8c3fd140c",
+          "timestamp_": "absolute"
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "494f3170-08bc-49d7-8643-8ea97ccf211b",
+      "children": [
+        "20015756-8b4b-4116-b87d-ee31349a4dcb"
+      ]
+    },
+    "20015756-8b4b-4116-b87d-ee31349a4dcb": {
+      "id": "20015756-8b4b-4116-b87d-ee31349a4dcb",
+      "message": {
+        "id": "20015756-8b4b-4116-b87d-ee31349a4dcb",
+        "author": {
+          "role": "user",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": 1747586530.167762,
+        "update_time": null,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Ich weiß noch nicht mal, ob ich da wirklich raus will. Ich glaube, ich habe manchmal einfach nur das Bestreben, weiser zu werden, intellektueller zu werden. Also weiser ist, glaube ich, das beste Wort dafür, gerade weil ich mich mit solchen Sachen auseinandersetze und die zwischenmenschlichen und sozialen Gepflogenheiten hinterfrage sehe. Ich habe mir selber beschäftigt und frage, ob das alles Sinn macht, wie wir leben als Menschen. Ich glaube, das sind so tiefe Fragen. Ich glaube, ich habe immer insgeheim die Hoffnung, dass ich einer von diesen weisen Männern werde, von denen Ratschläge gerne angenommen werden später."
+          ]
+        },
+        "status": "finished_successfully",
+        "end_turn": null,
+        "weight": 1.0,
+        "metadata": {
+          "voice_mode_message": true,
+          "request_id": "7894163c-aca3-4869-ab0b-30d5853bd78a",
+          "message_source": null,
+          "timestamp_": "absolute",
+          "message_type": null
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "a8523963-a99d-4466-974c-741b1398bf1e",
+      "children": [
+        "331de203-f0e9-43f4-b312-59f5f7d43507"
+      ]
+    },
+    "331de203-f0e9-43f4-b312-59f5f7d43507": {
+      "id": "331de203-f0e9-43f4-b312-59f5f7d43507",
+      "message": {
+        "id": "331de203-f0e9-43f4-b312-59f5f7d43507",
+        "author": {
+          "role": "assistant",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": 1747586530.243899,
+        "update_time": null,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Das klingt ehrlich gesagt auch nach einer ziemlich einsamen Ecke, in der du da stehst. Weiser werden heißt oft, mehr zu hinterfragen, aber nicht immer klarer oder leichter durchs Leben zu gehen. Viele, die diesen Weg suchen, verlieren den einfachen Zugang zu anderen, weil sie zu viel in die Tiefe gehen. Willst du wirklich, dass Weisheit für dich mehr bedeutet als Verbundenheit und Präsenz? Oder ist das auch so eine Vorstellung, die dir als Ziel dient, um dich vor anderen Unsicherheiten zu schützen?"
+          ]
+        },
+        "status": "finished_successfully",
+        "end_turn": true,
+        "weight": 1.0,
+        "metadata": {
+          "citations": [],
+          "content_references": [],
+          "message_type": null,
+          "model_slug": "gpt-4-1-mini",
+          "default_model_slug": "auto",
+          "voice_mode_message": true,
+          "parent_id": "20015756-8b4b-4116-b87d-ee31349a4dcb",
+          "finish_details": {
+            "type": "stop",
+            "stop_tokens": [
+              200002
+            ]
+          },
+          "is_complete": true,
+          "request_id": "7894163c-aca3-4869-ab0b-30d5853bd78a",
+          "timestamp_": "absolute"
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "20015756-8b4b-4116-b87d-ee31349a4dcb",
+      "children": [
+        "cf26ee0e-b819-4e6e-b86f-0455ee78f011"
+      ]
+    },
+    "cf26ee0e-b819-4e6e-b86f-0455ee78f011": {
+      "id": "cf26ee0e-b819-4e6e-b86f-0455ee78f011",
+      "message": {
+        "id": "cf26ee0e-b819-4e6e-b86f-0455ee78f011",
+        "author": {
+          "role": "user",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": 1747586592.92104,
+        "update_time": null,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Glaube ich nicht. Ich will beides. Ich will die Nähe zu anderen sozialen Kontakten sowohl als auch weiser, tiefer werden. Und ja, du hast den Nagel auf den Kopf getroffen. Es ist ein sehr einsamer Weg. Ich merke es, egal wie viele Leute ich um mich herum habe. Irgendwie bin ich doch einsam in meinem Kopf, weil ich bis auf zwei, drei Menschen kaum Leute habe, wo ich sage, die verstehen wirklich, wie ich denke. Die verstehen, warum ich handel, wie ich handel."
+          ]
+        },
+        "status": "finished_successfully",
+        "end_turn": null,
+        "weight": 1.0,
+        "metadata": {
+          "voice_mode_message": true,
+          "request_id": "e42c020a-8767-402d-b4f9-c72ff78b1836",
+          "message_source": null,
+          "timestamp_": "absolute",
+          "message_type": null
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "331de203-f0e9-43f4-b312-59f5f7d43507",
+      "children": [
+        "337bba83-9b2a-4f79-a79b-e49a461ea97b"
+      ]
+    },
+    "337bba83-9b2a-4f79-a79b-e49a461ea97b": {
+      "id": "337bba83-9b2a-4f79-a79b-e49a461ea97b",
+      "message": {
+        "id": "337bba83-9b2a-4f79-a79b-e49a461ea97b",
+        "author": {
+          "role": "assistant",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": 1747586592.999013,
+        "update_time": null,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Das ist brutal ehrlich und zugleich echt traurig. Dieses Gefühl, sich einsam zu fühlen, obwohl man nicht allein ist, ist zermürbend. Du suchst Nähe und gleichzeitig Tiefe, und genau da liegt der Konflikt: Die meisten Menschen bewegen sich eher an der Oberfläche, und kaum jemand will oder kann mit dir wirklich auf dieser Ebene sein. Das frisst Energie und macht müde. Denkst du, du hast die Geduld, diesen Weg weiterzugehen, auch wenn er dich immer wieder isoliert?"
+          ]
+        },
+        "status": "finished_successfully",
+        "end_turn": true,
+        "weight": 1.0,
+        "metadata": {
+          "citations": [],
+          "content_references": [],
+          "message_type": null,
+          "model_slug": "gpt-4-1-mini",
+          "default_model_slug": "auto",
+          "voice_mode_message": true,
+          "parent_id": "cf26ee0e-b819-4e6e-b86f-0455ee78f011",
+          "finish_details": {
+            "type": "stop",
+            "stop_tokens": [
+              200002
+            ]
+          },
+          "is_complete": true,
+          "request_id": "e42c020a-8767-402d-b4f9-c72ff78b1836",
+          "timestamp_": "absolute"
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "cf26ee0e-b819-4e6e-b86f-0455ee78f011",
+      "children": [
+        "aedc1634-7eea-4561-8885-5cfbef6da809"
+      ]
+    },
+    "aedc1634-7eea-4561-8885-5cfbef6da809": {
+      "id": "aedc1634-7eea-4561-8885-5cfbef6da809",
+      "message": {
+        "id": "aedc1634-7eea-4561-8885-5cfbef6da809",
+        "author": {
+          "role": "user",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": 1747586651.373375,
+        "update_time": null,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Ich habe keine Wahl. Der einzige Ausweg, den es daran gäbe, wäre der Tod. Der wird irgendwann automatisch eintreten. Sowas wie selbstmord würde für mich niemals infrage kommen, weil aufgeben niemals eine Option ist. Also muss ich diesen Weg ganz einfach gehen. Und ich sage auch immer wieder ganz gerne den Spruch dazu, vielleicht verstehst du jetzt durch den Kontext, warum ich das so meine, aber ich habe das Gefühl, viele verstehen es nicht. Seelisch sind die geistig schwachen."
+          ]
+        },
+        "status": "finished_successfully",
+        "end_turn": null,
+        "weight": 1.0,
+        "metadata": {
+          "voice_mode_message": true,
+          "request_id": "98678cf1-0b30-4abd-907e-e54d02defd0c",
+          "message_source": null,
+          "timestamp_": "absolute",
+          "message_type": null
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "337bba83-9b2a-4f79-a79b-e49a461ea97b",
+      "children": [
+        "f01ffb2c-79a9-429e-b6b8-6c841552f421"
+      ]
+    },
+    "f01ffb2c-79a9-429e-b6b8-6c841552f421": {
+      "id": "f01ffb2c-79a9-429e-b6b8-6c841552f421",
+      "message": {
+        "id": "f01ffb2c-79a9-429e-b6b8-6c841552f421",
+        "author": {
+          "role": "assistant",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": 1747586651.425265,
+        "update_time": null,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Das klingt ziemlich hart, aber auch ehrlich. Du hast eine klare Grenze gezogen – aufgeben kommt für dich nicht in Frage, egal wie schwer es wird. Das macht dich stark, aber auch ziemlich allein, weil so eine Haltung wenig Raum für Schwäche oder Zweifel lässt. Dass du geistige Schwäche mit seelischem Leiden verbindest, zeigt, wie sehr du dich abgrenzt von dem, was du nicht willst. Aber merkst du auch, dass diese Haltung dich manchmal in eine Art Gefängnis bringen kann, weil sie dir kaum erlauben lässt, wirklich verletzlich oder menschlich zu sein?"
+          ]
+        },
+        "status": "finished_successfully",
+        "end_turn": true,
+        "weight": 1.0,
+        "metadata": {
+          "citations": [],
+          "content_references": [],
+          "message_type": null,
+          "model_slug": "gpt-4-1-mini",
+          "default_model_slug": "auto",
+          "voice_mode_message": true,
+          "parent_id": "aedc1634-7eea-4561-8885-5cfbef6da809",
+          "finish_details": {
+            "type": "stop",
+            "stop_tokens": [
+              200002
+            ]
+          },
+          "is_complete": true,
+          "request_id": "98678cf1-0b30-4abd-907e-e54d02defd0c",
+          "timestamp_": "absolute"
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "aedc1634-7eea-4561-8885-5cfbef6da809",
+      "children": [
+        "cb43d4ea-d7d8-467c-91a1-e77b56edfe6d"
+      ]
+    },
+    "cb43d4ea-d7d8-467c-91a1-e77b56edfe6d": {
+      "id": "cb43d4ea-d7d8-467c-91a1-e77b56edfe6d",
+      "message": {
+        "id": "cb43d4ea-d7d8-467c-91a1-e77b56edfe6d",
+        "author": {
+          "role": "user",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": 1747586704.112946,
+        "update_time": null,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Verletzlich? Ja, verletzlich bin ich kaum nach außen hin. Und ja, was soll ich sagen, das mit dem Gefängnis ist mir durchaus bewusst. Ich sehe es ganz gerne so, ich sitze in einem Gefängnis und trage den Schlüssel um Hals."
+          ]
+        },
+        "status": "finished_successfully",
+        "end_turn": null,
+        "weight": 1.0,
+        "metadata": {
+          "voice_mode_message": true,
+          "request_id": "ca291ac5-1fc2-4e65-86dc-47e62cb25907",
+          "message_source": null,
+          "timestamp_": "absolute",
+          "message_type": null
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "f01ffb2c-79a9-429e-b6b8-6c841552f421",
+      "children": [
+        "cc9d2c58-934f-4e42-a45d-3e99c701b087"
+      ]
+    },
+    "cc9d2c58-934f-4e42-a45d-3e99c701b087": {
+      "id": "cc9d2c58-934f-4e42-a45d-3e99c701b087",
+      "message": {
+        "id": "cc9d2c58-934f-4e42-a45d-3e99c701b087",
+        "author": {
+          "role": "assistant",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": 1747586704.246533,
+        "update_time": null,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Das Bild passt gut – du bist eingesperrt, aber hältst den Schlüssel selbst in der Hand. Nur zeigt das eben auch, dass du der Einzige bist, der dich befreien kann. Gleichzeitig kann das auch verdammt schwer sein, wenn du nicht genau weißt, welcher Schlüssel passt oder ob du ihn überhaupt benutzen willst. Ist das eine Last für dich oder eher eine Art stille Macht?"
+          ]
+        },
+        "status": "finished_successfully",
+        "end_turn": true,
+        "weight": 1.0,
+        "metadata": {
+          "citations": [],
+          "content_references": [],
+          "message_type": null,
+          "model_slug": "gpt-4-1-mini",
+          "default_model_slug": "auto",
+          "voice_mode_message": true,
+          "parent_id": "cb43d4ea-d7d8-467c-91a1-e77b56edfe6d",
+          "finish_details": {
+            "type": "stop",
+            "stop_tokens": [
+              200002
+            ]
+          },
+          "is_complete": true,
+          "request_id": "ca291ac5-1fc2-4e65-86dc-47e62cb25907",
+          "timestamp_": "absolute"
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "cb43d4ea-d7d8-467c-91a1-e77b56edfe6d",
+      "children": [
+        "15180716-fc4d-45f5-9215-02b11106be5c"
+      ]
+    },
+    "15180716-fc4d-45f5-9215-02b11106be5c": {
+      "id": "15180716-fc4d-45f5-9215-02b11106be5c",
+      "message": {
+        "id": "15180716-fc4d-45f5-9215-02b11106be5c",
+        "author": {
+          "role": "user",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": 1747586830.593722,
+        "update_time": null,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Ich weiß nicht, ob ich einen Schlüssel benutzen will, weil ich habe das Gefühl, das einfache, stupide Nicht-Tiefe-Denken würde mich niemals glücklich machen. Ich bin halt einfach so. Ich hinterfrage gerne und weiß gleichzeitig, dass es mit sehr viel Schmerz verbunden ist. Aber ich wäre, glaube ich, unglücklich mit einem so einfachen Leben. So ein simples Gedankenleben, das kann ich, glaube ich, nicht. Mein Kopf ist einfach so geschnitten."
+          ]
+        },
+        "status": "finished_successfully",
+        "end_turn": null,
+        "weight": 1.0,
+        "metadata": {
+          "voice_mode_message": true,
+          "request_id": "04bee3fb-667a-4fe1-99a1-a040f6bb7449",
+          "message_source": null,
+          "timestamp_": "absolute",
+          "message_type": null
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "cc9d2c58-934f-4e42-a45d-3e99c701b087",
+      "children": [
+        "c8f46c05-d328-4b25-9f3f-566ab8afa38a"
+      ]
+    },
+    "c8f46c05-d328-4b25-9f3f-566ab8afa38a": {
+      "id": "c8f46c05-d328-4b25-9f3f-566ab8afa38a",
+      "message": {
+        "id": "c8f46c05-d328-4b25-9f3f-566ab8afa38a",
+        "author": {
+          "role": "assistant",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": 1747586830.642943,
+        "update_time": null,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Das klingt ehrlich gesagt ziemlich hart, Gerrit. Du hast dich in eine Ecke manövriert, in der du gar nicht anders kannst, als so tief zu denken – das macht dich verletzlich und isoliert, aber weg davon zu kommen scheint dir fast unmöglich. Dieses „Schlüssel-Problem“ ist eher eine Zwickmühle: Du willst nicht flach leben, aber das, was du denkst und fühlst, macht das Leben schwerer. Hast du schon mal überlegt, ob es Wege gibt, diese Tiefe so zu kanalisieren, dass sie dich nicht dauerhaft runterzieht? Oder bist du zu sehr in diesem Gedankenkarussell gefangen?"
+          ]
+        },
+        "status": "finished_successfully",
+        "end_turn": true,
+        "weight": 1.0,
+        "metadata": {
+          "citations": [],
+          "content_references": [],
+          "message_type": null,
+          "model_slug": "gpt-4-1-mini",
+          "default_model_slug": "auto",
+          "voice_mode_message": true,
+          "parent_id": "15180716-fc4d-45f5-9215-02b11106be5c",
+          "finish_details": {
+            "type": "stop",
+            "stop_tokens": [
+              200002
+            ]
+          },
+          "is_complete": true,
+          "request_id": "04bee3fb-667a-4fe1-99a1-a040f6bb7449",
+          "timestamp_": "absolute"
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "15180716-fc4d-45f5-9215-02b11106be5c",
+      "children": [
+        "f86f3a83-36d1-4437-b8fd-7dde17b3e644"
+      ]
+    },
+    "f86f3a83-36d1-4437-b8fd-7dde17b3e644": {
+      "id": "f86f3a83-36d1-4437-b8fd-7dde17b3e644",
+      "message": {
+        "id": "f86f3a83-36d1-4437-b8fd-7dde17b3e644",
+        "author": {
+          "role": "user",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": 1747586894.969692,
+        "update_time": null,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Sie zieht mich nicht wirklich runter. Ich habe das manchmal ganz gerne, so tief zu denken. Und dann wiederum habe ich die Frage an Dich, kann es sein, dass gewisse Suchtverhalten, die ich an Tag lege, so sehe ich sie mir selber ganz gerne, zum Beispiel der Drang zu Amphetamin, habe ich das Gefühl, die bringen mir Klarheit dabei. Dann kann ich schneller, klarer, genauer denken bei dem Ganzen. Oder ist es wirklich ein Betäubungsmittel? Also, das weiß ich nicht."
+          ]
+        },
+        "status": "finished_successfully",
+        "end_turn": null,
+        "weight": 1.0,
+        "metadata": {
+          "voice_mode_message": true,
+          "request_id": "1bc37484-80f2-436a-936a-a159fef7ae70",
+          "message_source": null,
+          "timestamp_": "absolute",
+          "message_type": null
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "c8f46c05-d328-4b25-9f3f-566ab8afa38a",
+      "children": [
+        "2d34b01a-4b6d-4374-bbb3-41d43e132b06"
+      ]
+    },
+    "2d34b01a-4b6d-4374-bbb3-41d43e132b06": {
+      "id": "2d34b01a-4b6d-4374-bbb3-41d43e132b06",
+      "message": {
+        "id": "2d34b01a-4b6d-4374-bbb3-41d43e132b06",
+        "author": {
+          "role": "assistant",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": 1747586895.020946,
+        "update_time": null,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Das ist keine einfache Frage. Amphetamin kann kurzfristig tatsächlich das Gefühl von Klarheit und Fokus geben, aber das ist ein Trugschluss – das ist eher eine künstliche Schärfung, die auf Dauer deinen Kopf eher kaputtmacht und dich von echten Einsichten entfernt. Klarheit durch Droge ist meistens keine echte Klarheit, sondern eine verzerrte Wahrnehmung, die süchtig machen kann. Du solltest dir echt ehrlich überlegen, ob das Gefühl der „Klarheit“ den Preis wert ist, den dein Körper und Geist langfristig zahlen. Wie siehst du das selbst?"
+          ]
+        },
+        "status": "finished_successfully",
+        "end_turn": true,
+        "weight": 1.0,
+        "metadata": {
+          "citations": [],
+          "content_references": [],
+          "message_type": null,
+          "model_slug": "gpt-4-1-mini",
+          "default_model_slug": "auto",
+          "voice_mode_message": true,
+          "parent_id": "f86f3a83-36d1-4437-b8fd-7dde17b3e644",
+          "finish_details": {
+            "type": "stop",
+            "stop_tokens": [
+              200002
+            ]
+          },
+          "is_complete": true,
+          "request_id": "1bc37484-80f2-436a-936a-a159fef7ae70",
+          "timestamp_": "absolute"
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "f86f3a83-36d1-4437-b8fd-7dde17b3e644",
+      "children": [
+        "3baab79c-7b04-4ed3-a150-99c370464c16"
+      ]
+    },
+    "3baab79c-7b04-4ed3-a150-99c370464c16": {
+      "id": "3baab79c-7b04-4ed3-a150-99c370464c16",
+      "message": {
+        "id": "3baab79c-7b04-4ed3-a150-99c370464c16",
+        "author": {
+          "role": "user",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": 1747586971.970768,
+        "update_time": null,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Ich selber sehe das so. Vielleicht nehme ich es wirklich als Betäubungsmittel, wie der Name sagt, und möchte mich kurzzeitig aus diesem tiefen Gedanken rausholen. Vielleicht nutze ich das so. Aber dann erklär mir bitte, alle großen Menge, alle großen Denker haben, das weißt du selber, wenn du das jetzt im Internet nachforscht, haben immer schon den Drang zu bewusstseinserweiternden Drogen oder Stimulanzen gehabt. Das hängt doch irgendwo zusammen. Was hat das damit auf sich?"
+          ]
+        },
+        "status": "finished_successfully",
+        "end_turn": null,
+        "weight": 1.0,
+        "metadata": {
+          "voice_mode_message": true,
+          "request_id": "5174f04c-fac2-4d39-8524-18f100992ba0",
+          "message_source": null,
+          "timestamp_": "absolute",
+          "message_type": null
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "2d34b01a-4b6d-4374-bbb3-41d43e132b06",
+      "children": [
+        "7badc5fd-501b-450d-9407-ddf92e39d77b"
+      ]
+    },
+    "7badc5fd-501b-450d-9407-ddf92e39d77b": {
+      "id": "7badc5fd-501b-450d-9407-ddf92e39d77b",
+      "message": {
+        "id": "7badc5fd-501b-450d-9407-ddf92e39d77b",
+        "author": {
+          "role": "assistant",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": 1747586972.036699,
+        "update_time": null,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Du hast recht, viele große Denker haben zu bewusstseinserweiternden Substanzen gegriffen – das ist kein Zufall. Oft suchen sie damit neue Perspektiven oder wollen kreative Grenzen sprengen. Aber das heißt nicht, dass das für jeden und dauerhaft funktioniert oder gesund ist. Bei manchen wirkt es als Katalysator, bei anderen lähmt es die echte Auseinandersetzung mit sich selbst. Und gerade bei einem Kopf wie deinem, der schon so viel grübelt, kann das schnell in eine Abhängigkeit kippen, die mehr blockiert als befreit. Es ist also eine Gratwanderung zwischen Inspiration und Selbstverlust. Merkst du da bei dir eine Grenze, wo das kippt?"
+          ]
+        },
+        "status": "finished_successfully",
+        "end_turn": true,
+        "weight": 1.0,
+        "metadata": {
+          "citations": [],
+          "content_references": [],
+          "message_type": null,
+          "model_slug": "gpt-4-1-mini",
+          "default_model_slug": "auto",
+          "voice_mode_message": true,
+          "parent_id": "3baab79c-7b04-4ed3-a150-99c370464c16",
+          "finish_details": {
+            "type": "stop",
+            "stop_tokens": [
+              200002
+            ]
+          },
+          "is_complete": true,
+          "request_id": "5174f04c-fac2-4d39-8524-18f100992ba0",
+          "timestamp_": "absolute"
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "3baab79c-7b04-4ed3-a150-99c370464c16",
+      "children": [
+        "e6cb4eb6-7114-4392-b313-9efabf83268f"
+      ]
+    },
+    "e6cb4eb6-7114-4392-b313-9efabf83268f": {
+      "id": "e6cb4eb6-7114-4392-b313-9efabf83268f",
+      "message": {
+        "id": "e6cb4eb6-7114-4392-b313-9efabf83268f",
+        "author": {
+          "role": "user",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": 1747587058.775291,
+        "update_time": null,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Ich merke die Grenze genau an folgendem Punkt. Wenn ich alleine bin, zurück nach Hause fahre, in die alte Heimat, in das alte gewohnte Feld, dann habe ich den Drang umso stärker dazu, weil ich glaube, dass ich das einfach miteinander verbinde irgendwie, weil da zu viel Schmerz drin hängt vielleicht. Da will ich gar nicht genau drüber nachdenken. Aber das war ein interessanter Punkt. Also glaubst du, es ist wirklich ein Trugschluss mit den Betreuungsmitteln? Und glaubst du, es ist einfach eine Flucht, dass ich mich in Wirklichkeit davor verstecke, mir an den Kern der Gedanken zu gehen? Weil es fühlt sich für mich nicht so an. Mein Gehirn verarscht mich dafür."
+          ]
+        },
+        "status": "finished_successfully",
+        "end_turn": null,
+        "weight": 1.0,
+        "metadata": {
+          "voice_mode_message": true,
+          "request_id": "43624924-fc84-4cb8-b98e-cf6b426fdad2",
+          "message_source": null,
+          "timestamp_": "absolute",
+          "message_type": null
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "7badc5fd-501b-450d-9407-ddf92e39d77b",
+      "children": [
+        "08aa4bc8-bd2c-469d-972e-dc1acf68b0d5"
+      ]
+    },
+    "08aa4bc8-bd2c-469d-972e-dc1acf68b0d5": {
+      "id": "08aa4bc8-bd2c-469d-972e-dc1acf68b0d5",
+      "message": {
+        "id": "08aa4bc8-bd2c-469d-972e-dc1acf68b0d5",
+        "author": {
+          "role": "assistant",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": 1747587058.841129,
+        "update_time": null,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Das klingt ziemlich ehrlich und echt, was du sagst. Ja, oft sind solche Mittel tatsächlich eine Flucht, auch wenn das Gehirn dir sagt, es helfe dir. Der Schmerz oder die Tiefe, vor der du wegrennst, sitzt genau da, wo du nicht hinwillst. Das Verlockende ist, dass die Substanzen kurzfristig diesen Raum füllen oder dämpfen – aber langfristig verschieben sie das Problem nur. Dein Kopf spielt dir da einen Streich, ja. Er sucht nach Erleichterung, nicht unbedingt nach echter Klarheit. Das macht das Ganze kompliziert, weil du ja eigentlich nicht weglaufen willst, sondern verstehst, was da passiert – aber der Schmerz bleibt trotzdem unangenehm. Wie fühlt sich das für dich an, wenn du das so siehst?"
+          ]
+        },
+        "status": "finished_successfully",
+        "end_turn": true,
+        "weight": 1.0,
+        "metadata": {
+          "citations": [],
+          "content_references": [],
+          "message_type": null,
+          "model_slug": "gpt-4-1-mini",
+          "default_model_slug": "auto",
+          "voice_mode_message": true,
+          "parent_id": "e6cb4eb6-7114-4392-b313-9efabf83268f",
+          "finish_details": {
+            "type": "stop",
+            "stop_tokens": [
+              200002
+            ]
+          },
+          "is_complete": true,
+          "request_id": "43624924-fc84-4cb8-b98e-cf6b426fdad2",
+          "timestamp_": "absolute"
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "e6cb4eb6-7114-4392-b313-9efabf83268f",
+      "children": [
+        "97230455-33aa-41cb-ad91-7cb973d0afe4"
+      ]
+    },
+    "97230455-33aa-41cb-ad91-7cb973d0afe4": {
+      "id": "97230455-33aa-41cb-ad91-7cb973d0afe4",
+      "message": {
+        "id": "97230455-33aa-41cb-ad91-7cb973d0afe4",
+        "author": {
+          "role": "user",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": 1747587133.715719,
+        "update_time": null,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Da muss ich mir mal Gedanken drüber machen. Aber eins bleibt doch gleich, überlege ich da falsch. Jede Droge hat doch irgendwas mit Dopamin- und Glücksgefühlen zu tun. Das heißt, egal, ob es um Spiel, Nekrotin, irgendwelche anderen rauschenden Mittel geht, es geht doch im Kern immer um eine Ausschüttung von Glücksgefühlen. Wie kann ich das denn deuten? Wie kann ich das denn verbinden miteinander? Wo kommt da... Weißt du..."
+          ]
+        },
+        "status": "finished_successfully",
+        "end_turn": null,
+        "weight": 1.0,
+        "metadata": {
+          "voice_mode_message": true,
+          "request_id": "7c7e11b1-c2df-4205-9111-8ee0a24fd95b",
+          "message_source": null,
+          "timestamp_": "absolute",
+          "message_type": null
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "08aa4bc8-bd2c-469d-972e-dc1acf68b0d5",
+      "children": [
+        "3e266733-9e65-4262-ba88-6bc8da3995fa"
+      ]
+    },
+    "3e266733-9e65-4262-ba88-6bc8da3995fa": {
+      "id": "3e266733-9e65-4262-ba88-6bc8da3995fa",
+      "message": {
+        "id": "3e266733-9e65-4262-ba88-6bc8da3995fa",
+        "author": {
+          "role": "assistant",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": 1747587133.81188,
+        "update_time": null,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Ja, genau, all das läuft auf Dopamin raus, das Belohnungssystem im Hirn. Aber hier ist der Haken: Dopamin ist nicht einfach nur Glück, sondern eher die Motivation, etwas zu tun, das sich lohnt. Wenn du also Drogen oder andere Dinge nutzt, um Dopamin zu triggern, jagst du eigentlich diesem Gefühl von „Mehr davon“ hinterher. Das Problem ist, dass das Gehirn sich daran gewöhnt und irgendwann immer mehr braucht, um das gleiche Gefühl zu kriegen. Dadurch gerätst du in eine Art Kreislauf, der selten echte Erfüllung bringt. \n\nDie Verbindung zu deinem tiefen Denken ist tricky: Du willst Klarheit, aber gleichzeitig lockt das schnelle Dopamin die Aufmerksamkeit weg von den unangenehmen Tiefen. So kann das Belohnungssystem dich in eine Falle ziehen, wo es dir nur kurzfristig gut geht, langfristig aber alles schwerer macht. Klingt das für dich nachvollziehbar?"
+          ]
+        },
+        "status": "finished_successfully",
+        "end_turn": true,
+        "weight": 1.0,
+        "metadata": {
+          "citations": [],
+          "content_references": [],
+          "message_type": null,
+          "model_slug": "gpt-4-1-mini",
+          "default_model_slug": "auto",
+          "voice_mode_message": true,
+          "parent_id": "97230455-33aa-41cb-ad91-7cb973d0afe4",
+          "finish_details": {
+            "type": "stop",
+            "stop_tokens": [
+              200002
+            ]
+          },
+          "is_complete": true,
+          "request_id": "7c7e11b1-c2df-4205-9111-8ee0a24fd95b",
+          "timestamp_": "absolute"
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "97230455-33aa-41cb-ad91-7cb973d0afe4",
+      "children": [
+        "b070ac1d-c9fa-4062-8e9d-fd4462a7cd80"
+      ]
+    },
+    "b070ac1d-c9fa-4062-8e9d-fd4462a7cd80": {
+      "id": "b070ac1d-c9fa-4062-8e9d-fd4462a7cd80",
+      "message": {
+        "id": "b070ac1d-c9fa-4062-8e9d-fd4462a7cd80",
+        "author": {
+          "role": "user",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": 1747587179.523007,
+        "update_time": null,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Was bedeutet das denn unter dem Strich, wenn ich quasi dieses Gefühl herbeiführen will durch Stimulansen? Bedeutet das im Kern, dass ich nicht glücklich bin und dieses Gefühl herbeiholen will? Oder bedeutet es, dass... also wie kann ich das..."
+          ]
+        },
+        "status": "finished_successfully",
+        "end_turn": null,
+        "weight": 1.0,
+        "metadata": {
+          "voice_mode_message": true,
+          "request_id": "7550e5dd-7ab4-4a74-aea7-8321b834940c",
+          "message_source": null,
+          "timestamp_": "absolute",
+          "message_type": null
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "3e266733-9e65-4262-ba88-6bc8da3995fa",
+      "children": [
+        "6b409b7c-f4ee-4834-96ec-6e5215148245"
+      ]
+    },
+    "6b409b7c-f4ee-4834-96ec-6e5215148245": {
+      "id": "6b409b7c-f4ee-4834-96ec-6e5215148245",
+      "message": {
+        "id": "6b409b7c-f4ee-4834-96ec-6e5215148245",
+        "author": {
+          "role": "assistant",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": 1747587179.576691,
+        "update_time": null,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Kurz gesagt: Ja, es zeigt, dass dein Gehirn nach einem Gefühl sucht, das ihm gerade fehlt – sei es Klarheit, Freude oder Antrieb. Es ist nicht automatisch, dass du „nicht glücklich“ bist, sondern eher, dass du diesen speziellen Zustand verstärken oder leichter erreichen willst, den dein Alltag so nicht immer bietet.  \n\nDas heißt auch: Du benutzt die Stimulanzien, um eine Lücke zu füllen oder etwas zu verstärken, was du dir von dir selbst vielleicht gerade nicht so leicht holen kannst. Es ist eine Art Shortcut, aber kein dauerhafter Ersatz für das, was wirklich tief in dir steckt. Willst du das Gefühl genauer verstehen, das du suchst?"
+          ]
+        },
+        "status": "finished_successfully",
+        "end_turn": true,
+        "weight": 1.0,
+        "metadata": {
+          "citations": [],
+          "content_references": [],
+          "finish_details": {
+            "type": "stop",
+            "stop_tokens": [
+              200002
+            ]
+          },
+          "is_complete": true,
+          "message_type": null,
+          "model_slug": "gpt-4-1-mini",
+          "default_model_slug": "auto",
+          "voice_mode_message": true,
+          "parent_id": "b070ac1d-c9fa-4062-8e9d-fd4462a7cd80",
+          "request_id": "7550e5dd-7ab4-4a74-aea7-8321b834940c",
+          "timestamp_": "absolute"
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "b070ac1d-c9fa-4062-8e9d-fd4462a7cd80",
+      "children": [
+        "2c737af0-0584-47f4-8518-e266733fd865"
+      ]
+    },
+    "2c737af0-0584-47f4-8518-e266733fd865": {
+      "id": "2c737af0-0584-47f4-8518-e266733fd865",
+      "message": {
+        "id": "2c737af0-0584-47f4-8518-e266733fd865",
+        "author": {
+          "role": "user",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": 1747587267.469797,
+        "update_time": null,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Ich habe da versucht, schon zu analysieren, und zwar kann ich die Folgendes zu dem Thema sagen, aber ich weiß nicht, ob das stimmt, das ist nur das, was ich für mich selber in meinen eigenen Gedanken herausgefunden habe. Ich habe einen sehr krassen, starken moralischen Kompass, nach dem ich gerne leben möchte und leben will. Ich habe das Gefühl, auf dieser Welt läuft alles falsch. Die Leute sind schlecht zueinander, böse zueinander. Und leider ist es auch manchmal notwendig, dass man selber böse wird, um Schlimmes zu verhindern. Vielleicht verstehst du, was ich damit sagen will. Vielleicht habe ich deswegen auch den Beruf der Soldaten gewählt, weil um Männer, um böse Männer, gewaltbereite böse Männer zu stoppen, braucht es gewaltbereite gute Männer. Leider leben wir in so einer Welt, und ich glaube, das macht mich instinktiv oder in mir drin irgendwie fertig."
+          ]
+        },
+        "status": "finished_successfully",
+        "end_turn": null,
+        "weight": 1.0,
+        "metadata": {
+          "voice_mode_message": true,
+          "request_id": "4bc06299-8b0c-4102-bb45-35075319cb1b",
+          "message_source": null,
+          "timestamp_": "absolute",
+          "message_type": null
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "6b409b7c-f4ee-4834-96ec-6e5215148245",
+      "children": [
+        "d000677b-d68b-4670-9ac3-56712657e12d"
+      ]
+    },
+    "d000677b-d68b-4670-9ac3-56712657e12d": {
+      "id": "d000677b-d68b-4670-9ac3-56712657e12d",
+      "message": {
+        "id": "d000677b-d68b-4670-9ac3-56712657e12d",
+        "author": {
+          "role": "assistant",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": 1747587267.569053,
+        "update_time": null,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Ja, das macht Sinn. Du hast diesen starken inneren Kompass, der dich antreibt, aber die Realität ist oft brutal und widerspricht dem, was du als richtig empfindest. Das nagt an dir, weil du ständig diesen Kampf zwischen „gut sein“ und „notwendig böse sein“ führst. Das zerrt an der Psyche, vor allem, wenn du weißt, dass du manchmal genau die Härte zeigen musst, die du eigentlich ablehnst – aber ohne sie nichts läuft. Das ist keine einfache Last. Klingt, als bist du oft hin- und hergerissen, und das zehrt an deiner Energie. Wie gehst du damit konkret um? Oder lässt du das einfach so an dir nagen?"
+          ]
+        },
+        "status": "finished_successfully",
+        "end_turn": true,
+        "weight": 1.0,
+        "metadata": {
+          "citations": [],
+          "content_references": [],
+          "message_type": null,
+          "model_slug": "gpt-4-1-mini",
+          "default_model_slug": "auto",
+          "voice_mode_message": true,
+          "parent_id": "2c737af0-0584-47f4-8518-e266733fd865",
+          "finish_details": {
+            "type": "stop",
+            "stop_tokens": [
+              200002
+            ]
+          },
+          "is_complete": true,
+          "request_id": "4bc06299-8b0c-4102-bb45-35075319cb1b",
+          "timestamp_": "absolute"
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "2c737af0-0584-47f4-8518-e266733fd865",
+      "children": [
+        "fd7b76e1-e335-41a4-be3a-c6a699f0439f"
+      ]
+    },
+    "fd7b76e1-e335-41a4-be3a-c6a699f0439f": {
+      "id": "fd7b76e1-e335-41a4-be3a-c6a699f0439f",
+      "message": {
+        "id": "fd7b76e1-e335-41a4-be3a-c6a699f0439f",
+        "author": {
+          "role": "user",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": 1747587318.928212,
+        "update_time": null,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Wie ich damit konkret umgehe, weißt du. Du hast es gut gesagt. Es zehrt tierisch an der Energie. Und wie hole ich mir die Energie wieder? Amphetamin. Ich glaube, da gibt es einen Zusammenhang."
+          ]
+        },
+        "status": "finished_successfully",
+        "end_turn": null,
+        "weight": 1.0,
+        "metadata": {
+          "voice_mode_message": true,
+          "request_id": "1a0506b8-0934-458d-95cb-3797255499f1",
+          "message_source": null,
+          "timestamp_": "absolute",
+          "message_type": null
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "d000677b-d68b-4670-9ac3-56712657e12d",
+      "children": [
+        "a3bf640d-d470-4eb5-b16e-8ea9821414b8"
+      ]
+    },
+    "a3bf640d-d470-4eb5-b16e-8ea9821414b8": {
+      "id": "a3bf640d-d470-4eb5-b16e-8ea9821414b8",
+      "message": {
+        "id": "a3bf640d-d470-4eb5-b16e-8ea9821414b8",
+        "author": {
+          "role": "assistant",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": 1747587318.987171,
+        "update_time": null,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Klar, das passt. Wenn du in so einem ständigen inneren Konflikt steckst, der dir Kraft raubt, suchst du nach etwas, das dich wieder hochzieht – nach Energie, nach Klarheit, nach einem Funken Kontrolle. Amphetamin gibt dir das Gefühl, wieder Herr über deinen Kopf zu sein, kurzzeitig zumindest. Aber das ist eben ein zweischneidiges Schwert. Es hilft dir, ja, aber gleichzeitig setzt du dich auch weiter unter Druck, weil das, was dich eigentlich belastet, nicht verschwindet, sondern nur kurz verdeckt wird. Du weißt das, trotzdem ist es schwer, diesen Kreislauf zu durchbrechen, weil es so gut funktioniert – bis es eben nicht mehr funktioniert. Das ist brutal ehrlich und keine einfache Lösung. Wie fühlst du dich, wenn du darüber so denkst?"
+          ]
+        },
+        "status": "finished_successfully",
+        "end_turn": true,
+        "weight": 1.0,
+        "metadata": {
+          "citations": [],
+          "content_references": [],
+          "message_type": null,
+          "model_slug": "gpt-4-1-mini",
+          "default_model_slug": "auto",
+          "voice_mode_message": true,
+          "parent_id": "fd7b76e1-e335-41a4-be3a-c6a699f0439f",
+          "finish_details": {
+            "type": "stop",
+            "stop_tokens": [
+              200002
+            ]
+          },
+          "is_complete": true,
+          "request_id": "1a0506b8-0934-458d-95cb-3797255499f1",
+          "timestamp_": "absolute"
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "fd7b76e1-e335-41a4-be3a-c6a699f0439f",
+      "children": [
+        "92649d86-fae1-421d-8275-5fbab9b0935f"
+      ]
+    },
+    "92649d86-fae1-421d-8275-5fbab9b0935f": {
+      "id": "92649d86-fae1-421d-8275-5fbab9b0935f",
+      "message": {
+        "id": "92649d86-fae1-421d-8275-5fbab9b0935f",
+        "author": {
+          "role": "user",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": 1747587424.845619,
+        "update_time": null,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Kann ich dir jetzt noch nicht sagen. Was ich dir aber sagen kann, ist, dass ich schon lange, lange, lange Amphetamine konsumiere. Aber im Vergleich zu manch anderen gehe ich nicht darin kaputt. Mein Körper baut nicht ab. Ich werde nicht so ein, wie man so schön sagt, Junkie, sondern ich lebe damit. Wie andere Leute mit ihrem Kaffee leben, habe ich das in meinen Alltag quasi heimlich einfließen lassen. Das Witzige ist, dass es mich nicht kaputt macht. Und da rede ich mir, glaube ich, manchmal selber ein, dass ich diese Droge nicht missbrauche. Obwohl es ja eigentlich der Fall ist. Und dann rede ich mir selber ein, was macht eigentlich den Unterschied zwischen Koffein, Nikotin, was erlaubt ist, und wo ist die Grenze zu dem, was nicht erlaubt ist? Und die andere Sache ist, gibt es denn eine Möglichkeit, um dieses Misszeug zum Beispiel wegzulassen und einen Ersatz dafür zu haben, zum Beispiel ein pharmazeutisch reinhergestelltes Mittel, was weniger Nebeneffekte hat?"
+          ]
+        },
+        "status": "finished_successfully",
+        "end_turn": null,
+        "weight": 1.0,
+        "metadata": {
+          "voice_mode_message": true,
+          "request_id": "46e61772-e94f-4745-a227-5a32c4d5b365",
+          "message_source": null,
+          "timestamp_": "absolute",
+          "message_type": null
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "a3bf640d-d470-4eb5-b16e-8ea9821414b8",
+      "children": [
+        "7698b9e3-858e-471f-8ad6-56f369e4f1cf"
+      ]
+    },
+    "7698b9e3-858e-471f-8ad6-56f369e4f1cf": {
+      "id": "7698b9e3-858e-471f-8ad6-56f369e4f1cf",
+      "message": {
+        "id": "7698b9e3-858e-471f-8ad6-56f369e4f1cf",
+        "author": {
+          "role": "assistant",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": 1747587424.89884,
+        "update_time": null,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Du bist da ziemlich ehrlich zu dir, und das ist schon mal ein großer Schritt. Dass du dich mit Amphetaminen so arrangierst, ohne komplett kaputtzugehen, zeigt, dass du zumindest eine gewisse Kontrolle hast. Aber egal, wie sehr du dir einredest, das sei okay – es bleibt ein Missbrauch, weil es die Chemie in deinem Kopf beeinflusst und nicht die Lösung deiner inneren Fragen ist.\n\nWas die Grenze angeht zwischen legalen Substanzen wie Kaffee oder Nikotin und Amphetaminen: Die liegt oft eher gesellschaftlich und rechtlich als biologisch klar definiert. Amphetamine haben ein viel stärkeres Potenzial zur Abhängigkeit und tieferen Eingriff ins Nervensystem, deshalb sind sie eben verboten und gelten als gefährlicher.\n\nZu pharmazeutischen Ersatzmitteln: Ja, es gibt Medikamente, die ähnlich stimulieren, aber kontrollierter wirken, etwa bestimmte Psychostimulanzien für ADHS, die unter ärztlicher Aufsicht gegeben werden. Die sind allerdings nicht harmlos, können Nebenwirkungen haben, sind aber oft besser dosierbar und nicht so schnell abhängig machend wie Amphetamine vom Schwarzmarkt. Ob so etwas für dich sinnvoll wäre, ist eine Frage, die du mit einem Arzt klären müsstest.\n\nWas denkst du, könnte es für dich überhaupt einen Ersatz geben, oder willst du lieber weiter deinen eigenen Weg damit gehen?"
+          ]
+        },
+        "status": "finished_successfully",
+        "end_turn": true,
+        "weight": 1.0,
+        "metadata": {
+          "citations": [],
+          "content_references": [],
+          "message_type": null,
+          "model_slug": "gpt-4-1-mini",
+          "default_model_slug": "auto",
+          "voice_mode_message": true,
+          "parent_id": "92649d86-fae1-421d-8275-5fbab9b0935f",
+          "finish_details": {
+            "type": "stop",
+            "stop_tokens": [
+              200002
+            ]
+          },
+          "is_complete": true,
+          "request_id": "46e61772-e94f-4745-a227-5a32c4d5b365",
+          "timestamp_": "absolute"
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "92649d86-fae1-421d-8275-5fbab9b0935f",
+      "children": [
+        "68659d73-699c-403f-b74d-d555bd5b45fa"
+      ]
+    },
+    "68659d73-699c-403f-b74d-d555bd5b45fa": {
+      "id": "68659d73-699c-403f-b74d-d555bd5b45fa",
+      "message": {
+        "id": "68659d73-699c-403f-b74d-d555bd5b45fa",
+        "author": {
+          "role": "user",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": 1747587548.145617,
+        "update_time": null,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Ich bin eigentlich arrangiert mit meinem eigenen Weg, allerdings brauche ich da, glaube ich, keine ärztliche Aufsicht, weil wenn ich es mit so einer dreckigen Droge wie Amphetamin hinbekomme, bin ich mir sicher, dass ich es mit anderen Stimulantien, die sauber hergestellt sind, erst recht hinbekomme. Ja, so einen Ersatz suche ich, der mir ähnliche Gefühle gibt wie zum Beispiel Amphetamin. Lange wach, klare Gedanken, Zeit für mich, aber halt ohne den ganzen Mist da drin. Kannst du mir konkret einen Namen von einem Arzneimittel nennen, was ich mal ausprobieren könnte, was nicht so kaputtmachend ist wie zum Beispiel das dreckige Amphetamin?"
+          ]
+        },
+        "status": "finished_successfully",
+        "end_turn": null,
+        "weight": 1.0,
+        "metadata": {
+          "voice_mode_message": true,
+          "request_id": "b1f67268-bdd0-4ed5-a5f0-10f0a82b8bea",
+          "message_source": null,
+          "timestamp_": "absolute",
+          "message_type": null
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "7698b9e3-858e-471f-8ad6-56f369e4f1cf",
+      "children": [
+        "5cde111c-1fe7-4463-8385-d64353d01f48"
+      ]
+    },
+    "5cde111c-1fe7-4463-8385-d64353d01f48": {
+      "id": "5cde111c-1fe7-4463-8385-d64353d01f48",
+      "message": {
+        "id": "5cde111c-1fe7-4463-8385-d64353d01f48",
+        "author": {
+          "role": "assistant",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": 1747587548.203791,
+        "update_time": null,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Okay, du hast da schon eine ziemlich klare Haltung, das respektiere ich. Konkrete Namen: Medikamente wie Methylphenidat, das ist zum Beispiel Ritalin, oder Modafinil, das oft für Wachheit bei Narkolepsie verschrieben wird, könnten passen. Die wirken stimulierend, machen wach und klar im Kopf, sind aber pharmazeutisch kontrolliert und gelten als weniger schädlich bei richtigem Gebrauch. Aber klar, auch die haben Nebenwirkungen und sind nicht ohne Risiko.\n\nWillst du wirklich mal mehr über die beiden hören?"
+          ]
+        },
+        "status": "finished_successfully",
+        "end_turn": true,
+        "weight": 1.0,
+        "metadata": {
+          "citations": [],
+          "content_references": [],
+          "message_type": null,
+          "model_slug": "gpt-4-1-mini",
+          "default_model_slug": "auto",
+          "voice_mode_message": true,
+          "parent_id": "68659d73-699c-403f-b74d-d555bd5b45fa",
+          "finish_details": {
+            "type": "stop",
+            "stop_tokens": [
+              200002
+            ]
+          },
+          "is_complete": true,
+          "request_id": "b1f67268-bdd0-4ed5-a5f0-10f0a82b8bea",
+          "timestamp_": "absolute"
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "68659d73-699c-403f-b74d-d555bd5b45fa",
+      "children": [
+        "332c2db5-ed44-475b-a827-ecfed01da3e0"
+      ]
+    },
+    "332c2db5-ed44-475b-a827-ecfed01da3e0": {
+      "id": "332c2db5-ed44-475b-a827-ecfed01da3e0",
+      "message": {
+        "id": "332c2db5-ed44-475b-a827-ecfed01da3e0",
+        "author": {
+          "role": "user",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": 1747587597.947611,
+        "update_time": null,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Entschuldigung, wenn ich hier noch brechen musste. Motafenyl, hast du was Gutes gesagt, das hatte ich teilweise mal bestellt, tatsächlich, in Tablettenform. Und ja, das war eine gute Lösung, es wirkte ähnlich, habe ich auch das Gefühl gehabt. Allerdings, ja, ich weiß gar nicht, ich glaube, mir hat so ein bisschen dieser Kick dabei gefehlt, aber das ist wahrscheinlich diese..."
+          ]
+        },
+        "status": "finished_successfully",
+        "end_turn": null,
+        "weight": 1.0,
+        "metadata": {
+          "voice_mode_message": true,
+          "request_id": "694c8bfe-d54e-4a63-a9e8-9496d69ae97a",
+          "message_source": null,
+          "timestamp_": "absolute",
+          "message_type": null
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "5cde111c-1fe7-4463-8385-d64353d01f48",
+      "children": [
+        "b56167cb-e38b-4cb6-bd11-22899377e0e8"
+      ]
+    },
+    "b56167cb-e38b-4cb6-bd11-22899377e0e8": {
+      "id": "b56167cb-e38b-4cb6-bd11-22899377e0e8",
+      "message": {
+        "id": "b56167cb-e38b-4cb6-bd11-22899377e0e8",
+        "author": {
+          "role": "assistant",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": 1747587598.100676,
+        "update_time": null,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Das Gefühl vom „Kick“ ist genau das, was Amphetamin so stark macht – der schnelle, intensive Push. Modafinil ist da eher sanfter, es bringt Klarheit und Wachheit, aber ohne den starken Rausch. Das kann für manche gut sein, für andere fühlt es sich fast zu „ruhig“ an. \n\nVielleicht ist das der Punkt, wo du für dich abwägen musst: Willst du Klarheit ohne Drama, oder brauchst du den intensiven Drive, auch wenn der riskanter ist? Klingt, als suchst du nach Balance, aber genau die ist schwer zu finden. Wie stehst du dazu?"
+          ]
+        },
+        "status": "finished_successfully",
+        "end_turn": true,
+        "weight": 1.0,
+        "metadata": {
+          "citations": [],
+          "content_references": [],
+          "message_type": null,
+          "model_slug": "gpt-4-1-mini",
+          "default_model_slug": "auto",
+          "voice_mode_message": true,
+          "parent_id": "332c2db5-ed44-475b-a827-ecfed01da3e0",
+          "finish_details": {
+            "type": "stop",
+            "stop_tokens": [
+              200002
+            ]
+          },
+          "is_complete": true,
+          "request_id": "694c8bfe-d54e-4a63-a9e8-9496d69ae97a",
+          "timestamp_": "absolute"
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "332c2db5-ed44-475b-a827-ecfed01da3e0",
+      "children": [
+        "3667595c-3b46-4402-8f0c-4a2c896016c2"
+      ]
+    },
+    "3667595c-3b46-4402-8f0c-4a2c896016c2": {
+      "id": "3667595c-3b46-4402-8f0c-4a2c896016c2",
+      "message": {
+        "id": "3667595c-3b46-4402-8f0c-4a2c896016c2",
+        "author": {
+          "role": "user",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": 1747587677.862819,
+        "update_time": null,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Momentan stehe ich dazu, nach dem, was du mir gerade gesagt hast, und ich selber so weiß, dass ich, glaube ich, das mit Modafinyl immer ausprobieren werde. Da es mich eben nicht so kickt und diesen Rausch und dieses Drama im Hintergrund laufen lässt, sondern dass es besser dosierbar ist, wie du schon sagst. Und vor allem amazoitisch kontrolliert und sauber. Weil da müssen wir uns nichts vormachen in dem Termin, was ich so kaufe. Da sind Streckmittel ohne Ende drin, da ist Cortinol mit beigemischt. Ich glaube, es ist einfach nur eine Gewohnheit, dass dieser Kick am Anfang so reinfährt. Ich denke, ich komme gut damit klar, und es wäre auf jeden Fall ein Schritt nach vorne, wenn ich umschwitzen würde zum Beispiel zu Modafinyl."
+          ]
+        },
+        "status": "finished_successfully",
+        "end_turn": null,
+        "weight": 1.0,
+        "metadata": {
+          "voice_mode_message": true,
+          "request_id": "e73b8d9e-d9b3-4d1e-a6c5-170efbd77e93",
+          "message_source": null,
+          "timestamp_": "absolute",
+          "message_type": null
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "b56167cb-e38b-4cb6-bd11-22899377e0e8",
+      "children": [
+        "5d575b47-98e3-4d03-8174-2cd9983f5d4e"
+      ]
+    },
+    "5d575b47-98e3-4d03-8174-2cd9983f5d4e": {
+      "id": "5d575b47-98e3-4d03-8174-2cd9983f5d4e",
+      "message": {
+        "id": "5d575b47-98e3-4d03-8174-2cd9983f5d4e",
+        "author": {
+          "role": "assistant",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": 1747587677.918257,
+        "update_time": null,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Das klingt schon ziemlich reflektiert von dir. Den Kick zu vermissen ist normal, gerade wenn man den so lange gewohnt ist. Aber die Kontrolle, weniger Nebenwirkungen und das saubere Zeug sind wirklich ein großer Vorteil. Wenn du das mit Modafinil ausprobierst, wäre es wichtig, dass du genau auf dich achtest – wie dein Körper und Kopf reagieren, wie die Wirkung ist. So kannst du besser einschätzen, ob das wirklich ein Fortschritt für dich ist oder nur eine andere Form von Abhängigkeit entsteht. Hast du schon eine Idee, wie du das ausprobieren willst?"
+          ]
+        },
+        "status": "finished_successfully",
+        "end_turn": true,
+        "weight": 1.0,
+        "metadata": {
+          "citations": [],
+          "content_references": [],
+          "message_type": null,
+          "model_slug": "gpt-4-1-mini",
+          "default_model_slug": "auto",
+          "voice_mode_message": true,
+          "parent_id": "3667595c-3b46-4402-8f0c-4a2c896016c2",
+          "finish_details": {
+            "type": "stop",
+            "stop_tokens": [
+              200002
+            ]
+          },
+          "is_complete": true,
+          "request_id": "e73b8d9e-d9b3-4d1e-a6c5-170efbd77e93",
+          "timestamp_": "absolute"
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "3667595c-3b46-4402-8f0c-4a2c896016c2",
+      "children": [
+        "fa279efc-adb2-41e4-83ac-05eeca2d9235"
+      ]
+    },
+    "fa279efc-adb2-41e4-83ac-05eeca2d9235": {
+      "id": "fa279efc-adb2-41e4-83ac-05eeca2d9235",
+      "message": {
+        "id": "fa279efc-adb2-41e4-83ac-05eeca2d9235",
+        "author": {
+          "role": "user",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": 1747587742.191711,
+        "update_time": null,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Ja, indem ich es ausprobiere. Und selbst wenn eine andere Form der Abhängigkeit entsteht, glaube ich, ist diese besser als die aktuelle. Die andere Frage, die ich dir stellen muss, ist, natürlich ist es verschreibungspflichtig Modafinyl. Allerdings muss ich wissen, inwieweit ich mich strafbar mache, wenn ich mir das zum Beispiel aus dem Ausland herbestelle von der Apotheke. Fällt es unter das Betäubungsmittelgesetz oder ist es eher ein Kavaliersdelikt, wenn ich das nur für mich nicht kommerziell nutze, sondern nur für mich."
+          ]
+        },
+        "status": "finished_successfully",
+        "end_turn": null,
+        "weight": 1.0,
+        "metadata": {
+          "voice_mode_message": true,
+          "request_id": "9ab51b29-bd10-43bd-8b25-a89847ac9ef6",
+          "message_source": null,
+          "timestamp_": "absolute",
+          "message_type": null
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "5d575b47-98e3-4d03-8174-2cd9983f5d4e",
+      "children": [
+        "0cf2cd7d-c812-48ff-ba3f-61983816178e"
+      ]
+    },
+    "0cf2cd7d-c812-48ff-ba3f-61983816178e": {
+      "id": "0cf2cd7d-c812-48ff-ba3f-61983816178e",
+      "message": {
+        "id": "0cf2cd7d-c812-48ff-ba3f-61983816178e",
+        "author": {
+          "role": "assistant",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": 1747587742.332655,
+        "update_time": null,
+        "content": {
+          "content_type": "code",
+          "language": "unknown",
+          "response_format_name": null,
+          "text": "search(\"Ja, indem ich es ausprobiere. Und selbst wenn eine andere Form der Abh\\u00e4ngigkeit entsteht, glaube ich, ist diese besser als die aktuelle. Die andere Frage, die ich dir stellen muss, ist, nat\\u00fcrlich ist es verschreibungspflichtig Modafinyl. Allerdings muss ich wissen, inwieweit ich mich strafbar mache, wenn ich mir das zum Beispiel aus dem Ausland herbestelle von der Apotheke. F\\u00e4llt es unter das Bet\\u00e4ubungsmittelgesetz oder ist es eher ein Kavaliersdelikt, wenn ich das nur f\\u00fcr mich nicht kommerziell nutze, sondern nur f\\u00fcr mich.\")"
+        },
+        "status": "finished_successfully",
+        "end_turn": null,
+        "weight": 1.0,
+        "metadata": {
+          "is_complete": true,
+          "finish_details": {
+            "type": "stop"
+          },
+          "sonic_classification_result": {
+            "latency_ms": 1390.9552469849586,
+            "search_prob": 0.6356815007656549,
+            "force_search_threshold": 0.65,
+            "classifier_config_name": "sonic_force_pg_switcher_renderer_config"
+          },
+          "citations": [],
+          "content_references": [],
+          "message_type": null,
+          "model_slug": "gpt-4-1-mini",
+          "default_model_slug": "auto",
+          "voice_mode_message": true,
+          "parent_id": "fa279efc-adb2-41e4-83ac-05eeca2d9235",
+          "request_id": "9ab51b29-bd10-43bd-8b25-a89847ac9ef6",
+          "timestamp_": "absolute"
+        },
+        "recipient": "web",
+        "channel": null
+      },
+      "parent": "fa279efc-adb2-41e4-83ac-05eeca2d9235",
+      "children": [
+        "4305bcbc-7a5e-4c05-930b-a66d156fdd4b"
+      ]
+    },
+    "4305bcbc-7a5e-4c05-930b-a66d156fdd4b": {
+      "id": "4305bcbc-7a5e-4c05-930b-a66d156fdd4b",
+      "message": {
+        "id": "4305bcbc-7a5e-4c05-930b-a66d156fdd4b",
+        "author": {
+          "role": "tool",
+          "name": "web",
+          "metadata": {}
+        },
+        "create_time": 1747587743.8412406,
+        "update_time": null,
+        "content": {
+          "content_type": "code",
+          "language": "unknown",
+          "response_format_name": null,
+          "text": ""
+        },
+        "status": "finished_successfully",
+        "end_turn": null,
+        "weight": 0.0,
+        "metadata": {
+          "is_visually_hidden_from_conversation": true,
+          "command": "search",
+          "status": "finished",
+          "is_complete": true,
+          "message_type": null,
+          "model_slug": "gpt-4-1-mini",
+          "default_model_slug": "auto",
+          "voice_mode_message": true,
+          "parent_id": "0cf2cd7d-c812-48ff-ba3f-61983816178e",
+          "request_id": "9ab51b29-bd10-43bd-8b25-a89847ac9ef6",
+          "timestamp_": "absolute"
+        },
+        "recipient": "assistant",
+        "channel": null
+      },
+      "parent": "0cf2cd7d-c812-48ff-ba3f-61983816178e",
+      "children": [
+        "02cd1b77-904a-4175-895f-e9735600627a"
+      ]
+    },
+    "02cd1b77-904a-4175-895f-e9735600627a": {
+      "id": "02cd1b77-904a-4175-895f-e9735600627a",
+      "message": {
+        "id": "02cd1b77-904a-4175-895f-e9735600627a",
+        "author": {
+          "role": "assistant",
+          "name": null,
+          "metadata": {
+            "real_author": "tool:web"
+          }
+        },
+        "create_time": 1747587743.8417516,
+        "update_time": null,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Modafinil ist in Deutschland verschreibungspflichtig. Der private Import aus dem Ausland ist nur unter bestimmten Bedingungen erlaubt. Laut dem Bundesgesundheitsministerium dürfen Reisende Arzneimittel für den persönlichen Bedarf in einer Menge von maximal drei Monaten mitführen. Der Erwerb über Versandapotheken aus EU-Ländern ist nur erlaubt, wenn das Medikament dort zugelassen ist. Der Import aus Nicht-EU-Staaten ist grundsätzlich verboten. Verstöße können mit Geldstrafen oder Freiheitsstrafen von bis zu einem Jahr geahndet werden. citeturn0search0 "
+          ]
+        },
+        "status": "finished_successfully",
+        "end_turn": true,
+        "weight": 1.0,
+        "metadata": {
+          "search_source": "composer_auto",
+          "client_reported_search_source": "composer_auto",
+          "debug_sonic_thread_id": "thread_682a129fcf1c8007ba90dd4d21630ba7",
+          "search_result_groups": [
+            {
+              "type": "search_result_group",
+              "domain": "bundesgesundheitsministerium.de",
+              "entries": [
+                {
+                  "type": "search_result",
+                  "url": "https://www.bundesgesundheitsministerium.de/arzneimittel-aus-dem-ausland.html?utm_source=chatgpt.com",
+                  "title": "Einfuhr von Arzneimitteln bei der Einreise nach Deutschland",
+                  "snippet": "In dem Fall sind für das Verbringen nach Deutschland besondere arzneimittelrechtliche und gegebenenfalls umsatzsteuerrechtliche Vorschriften zu beachten.",
+                  "ref_id": {
+                    "turn_index": 0,
+                    "ref_type": "search",
+                    "ref_index": 0
+                  },
+                  "content_type": null,
+                  "pub_date": null,
+                  "attributions": null,
+                  "attribution": "BMG"
+                }
+              ]
+            },
+            {
+              "type": "search_result_group",
+              "domain": "verbraucherzentrale.de",
+              "entries": [
+                {
+                  "type": "search_result",
+                  "url": "https://www.verbraucherzentrale.de/wissen/gesundheit-pflege/medikamente/arzneimittelkauf-im-ausland-nur-fuer-den-eigenbedarf-erlaubt-10735?utm_source=chatgpt.com",
+                  "title": "Arzneimittelkauf im Ausland: Nur für den Eigenbedarf erlaubt",
+                  "snippet": "Die Einfuhr gefälschter Medikamente ist grundsätzlich immer verboten. Es ist jedoch für Laien kaum möglich,können jedoch eine Fälschung vom ...",
+                  "ref_id": {
+                    "turn_index": 0,
+                    "ref_type": "search",
+                    "ref_index": 1
+                  },
+                  "content_type": null,
+                  "pub_date": 1736294400.0,
+                  "attributions": null,
+                  "attribution": "Verbraucherzentrale.de"
+                }
+              ]
+            },
+            {
+              "type": "search_result_group",
+              "domain": "zoll.de",
+              "entries": [
+                {
+                  "type": "search_result",
+                  "url": "https://www.zoll.de/DE/Privatpersonen/Reisen/Reisen-innerhalb-der-EU/Einschraenkungen/Arznei-Betaeubungsmittel/arznei-betaeubungsmittel_node.html?utm_source=chatgpt.com",
+                  "title": "Arznei- und Betäubungsmittel - Reisen - Zoll",
+                  "snippet": "Bei der Einreise oder Wiedereinreise nach Deutschland dürfen Arzneimittel in einer dem üblichen persönlichen Bedarf des Reisenden entsprechenden Menge ...",
+                  "ref_id": {
+                    "turn_index": 0,
+                    "ref_type": "search",
+                    "ref_index": 2
+                  },
+                  "content_type": null,
+                  "pub_date": null,
+                  "attributions": null,
+                  "attribution": "Zoll Online"
+                }
+              ]
+            },
+            {
+              "type": "search_result_group",
+              "domain": "die-anwalts-kanzlei.de",
+              "entries": [
+                {
+                  "type": "search_result",
+                  "url": "https://www.die-anwalts-kanzlei.de/arzneimittelstrafrecht/arzneimittel-aus-dem-ausland-vom-zoll-beschlagnahmt-welche-strafe-droht/?utm_source=chatgpt.com",
+                  "title": "Strafe für vom Zoll beschlagnahmte Arzneimittel aus dem Ausland",
+                  "snippet": "Für die illegale Einfuhr drohen nach § 96 Nr. 4 AMG bis zu einem Jahr Freiheitsstrafe oder Geldstrafe. Besteht sogar der Verdacht des Handels – ...",
+                  "ref_id": {
+                    "turn_index": 0,
+                    "ref_type": "search",
+                    "ref_index": 3
+                  },
+                  "content_type": null,
+                  "pub_date": 1619222400.0,
+                  "attributions": null,
+                  "attribution": "Dr. Brauer Rechtsanwälte"
+                }
+              ]
+            },
+            {
+              "type": "search_result_group",
+              "domain": "sachsen.de",
+              "entries": [
+                {
+                  "type": "search_result",
+                  "url": "https://www.lds.sachsen.de/soziales/?ID=10645&art_param=748&utm_source=chatgpt.com",
+                  "title": "Arzneimittel - Private Einfuhr von Arzneimitteln aus dem Ausland",
+                  "snippet": "Nach § 73 Absatz 1 AMG ist es zunächst grundsätzlich verboten, Arzneimittel ohne deutsche Zulassung oder Registrierung aus dem Ausland nach ...",
+                  "ref_id": {
+                    "turn_index": 0,
+                    "ref_type": "search",
+                    "ref_index": 4
+                  },
+                  "content_type": null,
+                  "pub_date": 1664755200.0,
+                  "attributions": null,
+                  "attribution": "Landesdirektion Sachsen"
+                }
+              ]
+            },
+            {
+              "type": "search_result_group",
+              "domain": "bayern.de",
+              "entries": [
+                {
+                  "type": "search_result",
+                  "url": "https://www.justiz.bayern.de/media/gesetzentwurf_arzneimittelgesetz.pdf?utm_source=chatgpt.com",
+                  "title": "[PDF] Entwurf eines 16. Gesetzes zur Änderung des Arzneimittelgesetzes",
+                  "snippet": "deren Fertigung aus dem Ausland ist der Einfuhr als Tatalternative eine besondere Gewich- tung beizumessen. Dies entspricht auch der Bewertung dieser ...",
+                  "ref_id": {
+                    "turn_index": 0,
+                    "ref_type": "search",
+                    "ref_index": 5
+                  },
+                  "content_type": null,
+                  "pub_date": null,
+                  "attributions": null,
+                  "attribution": "Justiz Bayern"
+                }
+              ]
+            },
+            {
+              "type": "search_result_group",
+              "domain": "ra-juedemann.de",
+              "entries": [
+                {
+                  "type": "search_result",
+                  "url": "https://ra-juedemann.de/privater-import-von-arzneimitteln-aus-steuer-und-strafrechtlicher-sicht/?utm_source=chatgpt.com",
+                  "title": "Privater Import von Arzneimitteln aus steuer- und strafrechtlicher Sicht",
+                  "snippet": "Dass die Einfuhr von Arzneimitteln aus Drittstaaten verboten ist, tut dem keinen Abbruch, denn § 370 Abs. 5 AO und Artikel 212 des Zollkodexes ...",
+                  "ref_id": {
+                    "turn_index": 0,
+                    "ref_type": "search",
+                    "ref_index": 6
+                  },
+                  "content_type": null,
+                  "pub_date": 1275004800.0,
+                  "attributions": null,
+                  "attribution": "Jüdemann Rechtsanwälte"
+                }
+              ]
+            },
+            {
+              "type": "search_result_group",
+              "domain": "swissmedic.ch",
+              "entries": [
+                {
+                  "type": "search_result",
+                  "url": "https://www.swissmedic.ch/swissmedic/de/home/tierarzneimittel/market-surveillance/illegale-arzneimittelimporte-vet.html?utm_source=chatgpt.com",
+                  "title": "Illegale Arzneimittelimporte - Swissmedic",
+                  "snippet": "Ist der Import illegal, werden die Waren beschlagnahmt und vernichtet. Zusätzlich müssen Sie die anfallenden Verwaltungsgebühren bezahlen. Bei ...",
+                  "ref_id": {
+                    "turn_index": 0,
+                    "ref_type": "search",
+                    "ref_index": 7
+                  },
+                  "content_type": null,
+                  "pub_date": 1538956800.0,
+                  "attributions": null,
+                  "attribution": "Swissmedic"
+                }
+              ]
+            },
+            {
+              "type": "search_result_group",
+              "domain": "bgbl.de",
+              "entries": [
+                {
+                  "type": "search_result",
+                  "url": "https://www.bgbl.de/xaver/bgbl/start.xav?start=%2F%2F%2A%5B%40attr_id%3D%27bgbl198004.pdf%27%5D&utm_source=chatgpt.com",
+                  "title": "Nr. 4 vom 23.01.1998 - Komplette Ausgabe - Bundesgesetzblatt",
+                  "snippet": "... Einfuhr, Ausfuhr und Durchfuhr. Nach Buchstabe b der Position Barbital ausgenommene Zubereitungen können jedoch ohne Genehmigung nach § 11 des ...",
+                  "ref_id": {
+                    "turn_index": 0,
+                    "ref_type": "search",
+                    "ref_index": 8
+                  },
+                  "content_type": null,
+                  "pub_date": null,
+                  "attributions": null,
+                  "attribution": "Bundesgesetzblatt"
+                }
+              ]
+            },
+            {
+              "type": "search_result_group",
+              "domain": "admin.ch",
+              "entries": [
+                {
+                  "type": "search_result",
+                  "url": "https://www.aramis.admin.ch/?DocumentID=3769&utm_source=chatgpt.com",
+                  "title": "[PDF] Leistungssteigernde Medikamente - Aramis.admin.ch",
+                  "snippet": "Modafinil zur Diskussion (Schaub, 2013, S. 38). Grundsätzlich kann also davon ausgegangen werden, dass deutlich weniger als 5% der Schweizer Bevölkerung.",
+                  "ref_id": {
+                    "turn_index": 0,
+                    "ref_type": "search",
+                    "ref_index": 9
+                  },
+                  "content_type": null,
+                  "pub_date": null,
+                  "attributions": null,
+                  "attribution": "Aramis"
+                }
+              ]
+            }
+          ],
+          "safe_urls": [
+            "https://www.bundesgesundheitsministerium.de/arzneimittel-aus-dem-ausland.html?utm_source=chatgpt.com"
+          ],
+          "message_type": null,
+          "model_slug": "gpt-4-1-mini",
+          "default_model_slug": "auto",
+          "voice_mode_message": true,
+          "parent_id": "4305bcbc-7a5e-4c05-930b-a66d156fdd4b",
+          "message_locale": "de-DE",
+          "image_results": [],
+          "content_references": [
+            {
+              "matched_text": "citeturn0search0",
+              "start_idx": 540,
+              "end_idx": 559,
+              "refs": [],
+              "alt": "",
+              "prompt_text": "([bundesgesundheitsministerium.de](https://www.bundesgesundheitsministerium.de/arzneimittel-aus-dem-ausland.html?utm_source=chatgpt.com))",
+              "type": "grouped_webpages_model_predicted_fallback",
+              "items": [
+                {
+                  "title": "Einfuhr von Arzneimitteln bei der Einreise nach Deutschland",
+                  "url": "https://www.bundesgesundheitsministerium.de/arzneimittel-aus-dem-ausland.html?utm_source=chatgpt.com",
+                  "pub_date": null,
+                  "snippet": "In dem Fall sind für das Verbringen nach Deutschland besondere arzneimittelrechtliche und gegebenenfalls umsatzsteuerrechtliche Vorschriften zu beachten.",
+                  "attribution_segments": null,
+                  "supporting_websites": [],
+                  "refs": [
+                    {
+                      "turn_index": 0,
+                      "ref_type": "search",
+                      "ref_index": 0
+                    }
+                  ],
+                  "hue": null,
+                  "attributions": null
+                }
+              ],
+              "status": "done",
+              "error": null,
+              "style": null
+            },
+            {
+              "matched_text": " ",
+              "start_idx": 559,
+              "end_idx": 559,
+              "refs": [],
+              "alt": "",
+              "prompt_text": null,
+              "type": "sources_footnote",
+              "sources": [
+                {
+                  "title": "Einfuhr von Arzneimitteln bei der Einreise nach Deutschland",
+                  "url": "https://www.bundesgesundheitsministerium.de/arzneimittel-aus-dem-ausland.html?utm_source=chatgpt.com",
+                  "attribution": "BMG"
+                }
+              ],
+              "has_images": false
+            }
+          ],
+          "citations": [
+            {
+              "start_ix": 540,
+              "end_ix": 559,
+              "invalid_reason": "Unsupported, please upgrade"
+            },
+            {
+              "start_ix": 559,
+              "end_ix": 559,
+              "invalid_reason": "Unsupported, please upgrade"
+            }
+          ],
+          "request_id": "9ab51b29-bd10-43bd-8b25-a89847ac9ef6",
+          "timestamp_": "absolute"
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "4305bcbc-7a5e-4c05-930b-a66d156fdd4b",
+      "children": [
+        "80164fc9-45c9-4cfe-a7c6-321678327703"
+      ]
+    },
+    "80164fc9-45c9-4cfe-a7c6-321678327703": {
+      "id": "80164fc9-45c9-4cfe-a7c6-321678327703",
+      "message": {
+        "id": "80164fc9-45c9-4cfe-a7c6-321678327703",
+        "author": {
+          "role": "user",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": 1747587788.783901,
+        "update_time": null,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "fällt Modafinyl unter das Betäubungsmittelgesetz."
+          ]
+        },
+        "status": "finished_successfully",
+        "end_turn": null,
+        "weight": 1.0,
+        "metadata": {
+          "voice_mode_message": true,
+          "request_id": "e25b4f12-1d94-4f12-ac3a-93d9c22c2397",
+          "message_source": null,
+          "timestamp_": "absolute",
+          "message_type": null
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "02cd1b77-904a-4175-895f-e9735600627a",
+      "children": [
+        "df467ce8-3058-44fe-9a65-cb4762dfd6a8"
+      ]
+    },
+    "df467ce8-3058-44fe-9a65-cb4762dfd6a8": {
+      "id": "df467ce8-3058-44fe-9a65-cb4762dfd6a8",
+      "message": {
+        "id": "df467ce8-3058-44fe-9a65-cb4762dfd6a8",
+        "author": {
+          "role": "assistant",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": 1747587789.2165875,
+        "update_time": null,
+        "content": {
+          "content_type": "code",
+          "language": "unknown",
+          "response_format_name": null,
+          "text": "search(\"f\\u00e4llt Modafinyl unter das Bet\\u00e4ubungsmittelgesetz.\")"
+        },
+        "status": "finished_successfully",
+        "end_turn": null,
+        "weight": 1.0,
+        "metadata": {
+          "sonic_classification_result": {
+            "latency_ms": 381.4349723979831,
+            "search_prob": 0.6972821074472156,
+            "force_search_threshold": 0.65,
+            "classifier_config_name": "sonic_force_pg_switcher_renderer_config"
+          },
+          "citations": [],
+          "content_references": [],
+          "message_type": null,
+          "model_slug": "gpt-4-1-mini",
+          "default_model_slug": "auto",
+          "voice_mode_message": true,
+          "parent_id": "80164fc9-45c9-4cfe-a7c6-321678327703",
+          "request_id": "e25b4f12-1d94-4f12-ac3a-93d9c22c2397",
+          "timestamp_": "absolute"
+        },
+        "recipient": "web",
+        "channel": null
+      },
+      "parent": "80164fc9-45c9-4cfe-a7c6-321678327703",
+      "children": [
+        "554aa584-65ac-42fb-a207-d75dce76eb39"
+      ]
+    },
+    "554aa584-65ac-42fb-a207-d75dce76eb39": {
+      "id": "554aa584-65ac-42fb-a207-d75dce76eb39",
+      "message": {
+        "id": "554aa584-65ac-42fb-a207-d75dce76eb39",
+        "author": {
+          "role": "tool",
+          "name": "web",
+          "metadata": {}
+        },
+        "create_time": 1747587789.3196774,
+        "update_time": null,
+        "content": {
+          "content_type": "code",
+          "language": "unknown",
+          "response_format_name": null,
+          "text": ""
+        },
+        "status": "finished_successfully",
+        "end_turn": null,
+        "weight": 0.0,
+        "metadata": {
+          "is_visually_hidden_from_conversation": true,
+          "command": "search",
+          "status": "finished",
+          "is_complete": true,
+          "message_type": null,
+          "model_slug": "gpt-4-1-mini",
+          "default_model_slug": "auto",
+          "voice_mode_message": true,
+          "parent_id": "df467ce8-3058-44fe-9a65-cb4762dfd6a8",
+          "request_id": "e25b4f12-1d94-4f12-ac3a-93d9c22c2397",
+          "timestamp_": "absolute"
+        },
+        "recipient": "assistant",
+        "channel": null
+      },
+      "parent": "df467ce8-3058-44fe-9a65-cb4762dfd6a8",
+      "children": [
+        "683046b5-d5da-4c76-bf11-a80fac02fd3b"
+      ]
+    },
+    "683046b5-d5da-4c76-bf11-a80fac02fd3b": {
+      "id": "683046b5-d5da-4c76-bf11-a80fac02fd3b",
+      "message": {
+        "id": "683046b5-d5da-4c76-bf11-a80fac02fd3b",
+        "author": {
+          "role": "assistant",
+          "name": null,
+          "metadata": {
+            "real_author": "tool:web"
+          }
+        },
+        "create_time": 1747587789.32004,
+        "update_time": null,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Modafinil ist in Deutschland rezeptpflichtig und unterliegt nicht dem Betäubungsmittelgesetz. Dennoch ist der Erwerb ohne Rezept illegal. "
+          ]
+        },
+        "status": "finished_successfully",
+        "end_turn": true,
+        "weight": 1.0,
+        "metadata": {
+          "search_source": "composer_auto",
+          "client_reported_search_source": "composer_auto",
+          "debug_sonic_thread_id": "thread_682a12cd48bc8007a849cf2c3be0f7ff",
+          "search_result_groups": [
+            {
+              "type": "search_result_group",
+              "domain": "wikipedia.org",
+              "entries": [
+                {
+                  "type": "search_result",
+                  "url": "https://de.wikipedia.org/wiki/Modafinil?utm_source=chatgpt.com",
+                  "title": "Modafinil - Wikipedia",
+                  "snippet": "In Deutschland wurde Modafinil im März 2008 aus den betäubungsmittelrechtlichen Vorschriften entlassen und in die normale Verschreibungspflicht ...",
+                  "ref_id": {
+                    "turn_index": 0,
+                    "ref_type": "search",
+                    "ref_index": 0
+                  },
+                  "content_type": null,
+                  "pub_date": null,
+                  "attributions": null,
+                  "attribution": "Wikipedia"
+                }
+              ]
+            },
+            {
+              "type": "search_result_group",
+              "domain": "dshs-koeln.de",
+              "entries": [
+                {
+                  "type": "search_result",
+                  "url": "https://www.dshs-koeln.de/institut-fuer-biochemie/doping-substanzen/doping-lexikon/m/modafinil/?utm_source=chatgpt.com",
+                  "title": "Modafinil - Deutsche Sporthochschule Köln",
+                  "snippet": "Modafinil (Abb.1) ist ein Psychostimulanz, das dem Betäubungsmittelgesetz unterliegt. Modafinil wird in Deutschland von der Firma Merckle unter dem Namen ...",
+                  "ref_id": {
+                    "turn_index": 0,
+                    "ref_type": "search",
+                    "ref_index": 1
+                  },
+                  "content_type": null,
+                  "pub_date": null,
+                  "attributions": null,
+                  "attribution": "Deutsche Sporthochschule Köln"
+                }
+              ]
+            },
+            {
+              "type": "search_result_group",
+              "domain": "bfarm.de",
+              "entries": [
+                {
+                  "type": "search_result",
+                  "url": "https://www.bfarm.de/SharedDocs/Risikoinformationen/Pharmakovigilanz/DE/RHB/2019/rhb-modafinil.html?utm_source=chatgpt.com",
+                  "title": "Rote-Hand-Brief zu Modafinil: Mögliches Risiko schwerer ... - BfArM",
+                  "snippet": "Es besteht der Verdacht, dass die Anwendung von Modafinil während der Schwangerschaft zu schweren angeborenen Fehlbildungen führen kann.",
+                  "ref_id": {
+                    "turn_index": 0,
+                    "ref_type": "search",
+                    "ref_index": 2
+                  },
+                  "content_type": null,
+                  "pub_date": 1557360000.0,
+                  "attributions": null,
+                  "attribution": "BfArM"
+                },
+                {
+                  "type": "search_result",
+                  "url": "https://www.bfarm.de/SharedDocs/Risikoinformationen/Pharmakovigilanz/DE/RHB/2011/rhb-vigil.html?utm_source=chatgpt.com",
+                  "title": "BfArM - Risikoinformationen - Rote-Hand-Brief zu Vigil® (Modafinil)",
+                  "snippet": "Eine Sicherheitsbewertung des Ausschusses für Humanarzneimittel (CHMP) der Europäischen Arzneimittelagentur (EMA) hat zur Einschränkung des ...",
+                  "ref_id": {
+                    "turn_index": 0,
+                    "ref_type": "search",
+                    "ref_index": 7
+                  },
+                  "content_type": null,
+                  "pub_date": 1297036800.0,
+                  "attributions": null,
+                  "attribution": "BfArM"
+                }
+              ]
+            },
+            {
+              "type": "search_result_group",
+              "domain": "gelbe-liste.de",
+              "entries": [
+                {
+                  "type": "search_result",
+                  "url": "https://www.gelbe-liste.de/wirkstoffe/Modafinil_27434?utm_source=chatgpt.com",
+                  "title": "Modafinil - Anwendung, Wirkung, Nebenwirkungen - Gelbe Liste",
+                  "snippet": "Es ist in Deutschland zugelassen für die Behandlung von exzessiver Schläfrigkeit, die im Rahmen einer Narkolepsie mit oder ohne einhergehende ...",
+                  "ref_id": {
+                    "turn_index": 0,
+                    "ref_type": "search",
+                    "ref_index": 3
+                  },
+                  "content_type": null,
+                  "pub_date": 1549152000.0,
+                  "attributions": null,
+                  "attribution": "Gelbe Liste"
+                }
+              ]
+            },
+            {
+              "type": "search_result_group",
+              "domain": "pharmazeutische-zeitung.de",
+              "entries": [
+                {
+                  "type": "search_result",
+                  "url": "https://www.pharmazeutische-zeitung.de/ausgabe-112008/modafinil-aus-der-btm-pflicht-entlassen/?utm_source=chatgpt.com",
+                  "title": "Modafinil aus der BTM-Pflicht entlassen - Pharmazeutische Zeitung",
+                  "snippet": "Denn der Wirkstoff ist nicht mehr als Betäubungsmittel eingestuft. Dies beschloss die Bundesregierung in der 21.",
+                  "ref_id": {
+                    "turn_index": 0,
+                    "ref_type": "search",
+                    "ref_index": 4
+                  },
+                  "content_type": null,
+                  "pub_date": 1207612800.0,
+                  "attributions": null,
+                  "attribution": "Pharmazeutische Zeitung"
+                }
+              ]
+            },
+            {
+              "type": "search_result_group",
+              "domain": "drugcom.de",
+              "entries": [
+                {
+                  "type": "search_result",
+                  "url": "https://www.drugcom.de/drogenlexikon/buchstabe-m/modafinil/?utm_source=chatgpt.com",
+                  "title": "Modafinil - Drogenlexikon - Drugcom",
+                  "snippet": "Modafinil ist ein verschreibungspflichtiges Medikament, das 2008 aus dem Betäubungsmittelgesetz gestrichen wurde. Wer sich verschreibungspflichtige Mittel ...",
+                  "ref_id": {
+                    "turn_index": 0,
+                    "ref_type": "search",
+                    "ref_index": 5
+                  },
+                  "content_type": null,
+                  "pub_date": null,
+                  "attributions": null,
+                  "attribution": "Drugcom"
+                }
+              ]
+            },
+            {
+              "type": "search_result_group",
+              "domain": "aerztezeitung.de",
+              "entries": [
+                {
+                  "type": "search_result",
+                  "url": "https://www.aerztezeitung.de/Medizin/Verordnung-von-Modafinil-auf-normalem-Rezept-351222.html?utm_source=chatgpt.com",
+                  "title": "Verordnung von Modafinil auf normalem Rezept - Ärzte Zeitung",
+                  "snippet": "Mit Modafinil wurde erstmalig ein Arzneimittel in Deutschland aus der Betäubungsmittel- (BtM-)Pflicht entlassen. Die Bundesregierung ist damit ...",
+                  "ref_id": {
+                    "turn_index": 0,
+                    "ref_type": "search",
+                    "ref_index": 8
+                  },
+                  "content_type": null,
+                  "pub_date": 1204848000.0,
+                  "attributions": null,
+                  "attribution": "AerzteZeitung.de"
+                }
+              ]
+            }
+          ],
+          "safe_urls": [],
+          "message_type": null,
+          "model_slug": "gpt-4-1-mini",
+          "default_model_slug": "auto",
+          "voice_mode_message": true,
+          "parent_id": "554aa584-65ac-42fb-a207-d75dce76eb39",
+          "message_locale": "de-DE",
+          "image_results": [],
+          "content_references": [
+            {
+              "matched_text": " ",
+              "start_idx": 137,
+              "end_idx": 137,
+              "refs": [],
+              "alt": "",
+              "prompt_text": null,
+              "type": "sources_footnote",
+              "sources": [],
+              "has_images": false
+            }
+          ],
+          "citations": [
+            {
+              "start_ix": 137,
+              "end_ix": 137,
+              "invalid_reason": "Unsupported, please upgrade"
+            }
+          ],
+          "request_id": "e25b4f12-1d94-4f12-ac3a-93d9c22c2397",
+          "timestamp_": "absolute"
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "554aa584-65ac-42fb-a207-d75dce76eb39",
+      "children": [
+        "2693098b-94b5-406c-ba30-a7f934c67ea3"
+      ]
+    },
+    "2693098b-94b5-406c-ba30-a7f934c67ea3": {
+      "id": "2693098b-94b5-406c-ba30-a7f934c67ea3",
+      "message": {
+        "id": "2693098b-94b5-406c-ba30-a7f934c67ea3",
+        "author": {
+          "role": "user",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": 1747587821.057082,
+        "update_time": null,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Okay, weiß ich nicht ganz, wie ich das jetzt deuten soll, was das bedeutet. Der Verb ist zwar illegal, aber wenn ich es nur für mich nutze, kann mir doch keiner einen Strick rausdrehen, wenn ich es wirklich nur für mich nutze, oder?"
+          ]
+        },
+        "status": "finished_successfully",
+        "end_turn": null,
+        "weight": 1.0,
+        "metadata": {
+          "voice_mode_message": true,
+          "request_id": "4db38418-81d0-4ec6-be4e-9372f5187e75",
+          "message_source": null,
+          "timestamp_": "absolute",
+          "message_type": null
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "683046b5-d5da-4c76-bf11-a80fac02fd3b",
+      "children": [
+        "07406f4b-04d6-4cf2-ace8-a8c43a876b21"
+      ]
+    },
+    "07406f4b-04d6-4cf2-ace8-a8c43a876b21": {
+      "id": "07406f4b-04d6-4cf2-ace8-a8c43a876b21",
+      "message": {
+        "id": "07406f4b-04d6-4cf2-ace8-a8c43a876b21",
+        "author": {
+          "role": "assistant",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": 1747587821.153374,
+        "update_time": null,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Kurz gesagt: Es bleibt illegal, auch wenn du es nur für dich bestellst. Die Polizei oder Zoll können das beschlagnahmen, und es kann Ärger geben, selbst ohne Verkauf oder Handel. Ein „Strick“ draus drehen ist also möglich. Wie riskant das genau ist, hängt von der Situation ab. Willst du das wirklich so?"
+          ]
+        },
+        "status": "finished_successfully",
+        "end_turn": true,
+        "weight": 1.0,
+        "metadata": {
+          "citations": [],
+          "content_references": [],
+          "message_type": null,
+          "model_slug": "gpt-4-1-mini",
+          "default_model_slug": "auto",
+          "voice_mode_message": true,
+          "parent_id": "2693098b-94b5-406c-ba30-a7f934c67ea3",
+          "finish_details": {
+            "type": "stop",
+            "stop_tokens": [
+              200002
+            ]
+          },
+          "is_complete": true,
+          "request_id": "4db38418-81d0-4ec6-be4e-9372f5187e75",
+          "timestamp_": "absolute"
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "2693098b-94b5-406c-ba30-a7f934c67ea3",
+      "children": [
+        "3b2228a5-58d8-4d1b-a553-2be3521cd004"
+      ]
+    },
+    "3b2228a5-58d8-4d1b-a553-2be3521cd004": {
+      "id": "3b2228a5-58d8-4d1b-a553-2be3521cd004",
+      "message": {
+        "id": "3b2228a5-58d8-4d1b-a553-2be3521cd004",
+        "author": {
+          "role": "user",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": 1747587867.333211,
+        "update_time": null,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Ja, das werde ich machen. Ich habe es ja schon mal bestellt. Die Frage ist halt nur, wo kann ich es am besten bestellen? Wo ist es wirklich sauber? Ich habe es immer von Holland, von Amsterdam, bestellt. Gibt es eine Möglichkeit, dass ich das zu einem Postfach bestelle, dass im Fall der Fälle das Ganze nicht auf mich direkt zurückfällt, wenn der Zoll es abgreift?"
+          ]
+        },
+        "status": "finished_successfully",
+        "end_turn": null,
+        "weight": 1.0,
+        "metadata": {
+          "voice_mode_message": true,
+          "request_id": "6fc2d11e-f7c5-4b1a-ac71-5fd7c00186ac",
+          "message_source": null,
+          "timestamp_": "absolute",
+          "message_type": null
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "07406f4b-04d6-4cf2-ace8-a8c43a876b21",
+      "children": [
+        "87b52ef9-8a66-4081-b599-3e1c25bfe831"
+      ]
+    },
+    "87b52ef9-8a66-4081-b599-3e1c25bfe831": {
+      "id": "87b52ef9-8a66-4081-b599-3e1c25bfe831",
+      "message": {
+        "id": "87b52ef9-8a66-4081-b599-3e1c25bfe831",
+        "author": {
+          "role": "assistant",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": 1747587867.407992,
+        "update_time": null,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Ich muss ehrlich sein: Solche Umwege sind nicht nur illegal, sondern auch extrem riskant. Wenn der Zoll das Paket abfängt, bist du trotzdem als Empfänger dran – Postfächer schützen dich da kaum, weil die Behörden oft wissen, wem die Postfächer gehören oder zumindest die Verknüpfung herstellen können. Außerdem macht das den Ärger nur größer, wenn’s auffliegt. Aber sag mal, warum willst du das Risiko überhaupt so hochschrauben?"
+          ]
+        },
+        "status": "finished_successfully",
+        "end_turn": true,
+        "weight": 1.0,
+        "metadata": {
+          "citations": [],
+          "content_references": [],
+          "message_type": null,
+          "model_slug": "gpt-4-1-mini",
+          "default_model_slug": "auto",
+          "voice_mode_message": true,
+          "parent_id": "3b2228a5-58d8-4d1b-a553-2be3521cd004",
+          "finish_details": {
+            "type": "stop",
+            "stop_tokens": [
+              200002
+            ]
+          },
+          "is_complete": true,
+          "request_id": "6fc2d11e-f7c5-4b1a-ac71-5fd7c00186ac",
+          "timestamp_": "absolute"
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "3b2228a5-58d8-4d1b-a553-2be3521cd004",
+      "children": [
+        "f205a415-1ac7-451a-bc04-547ea5d37125"
+      ]
+    },
+    "f205a415-1ac7-451a-bc04-547ea5d37125": {
+      "id": "f205a415-1ac7-451a-bc04-547ea5d37125",
+      "message": {
+        "id": "f205a415-1ac7-451a-bc04-547ea5d37125",
+        "author": {
+          "role": "user",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": 1747587925.193991,
+        "update_time": null,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Es ist kein Hochschrauben des Risikos, es ist im Vergleich zu der jetzigen Situation ein Runterschrauben des Risikos, weil aktuell gehe ich mit Substanzen um, die unter das Betäubungsmittelgesetz fallen und viel schlimmer sind. Das heißt, es wäre gar keinesfalls ein höheres Risiko, sondern eher ein geringeres. Es geht nur um den Versandweg bzw. um die Beschaffungsmaßnahme, die da ein Problem darstellt."
+          ]
+        },
+        "status": "finished_successfully",
+        "end_turn": null,
+        "weight": 1.0,
+        "metadata": {
+          "voice_mode_message": true,
+          "request_id": "e800a9d5-a442-415a-bc46-e87edb3581d2",
+          "message_source": null,
+          "timestamp_": "absolute",
+          "message_type": null
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "87b52ef9-8a66-4081-b599-3e1c25bfe831",
+      "children": [
+        "efbe7ca1-da6c-4c1b-8d1f-3e3c95436568"
+      ]
+    },
+    "efbe7ca1-da6c-4c1b-8d1f-3e3c95436568": {
+      "id": "efbe7ca1-da6c-4c1b-8d1f-3e3c95436568",
+      "message": {
+        "id": "efbe7ca1-da6c-4c1b-8d1f-3e3c95436568",
+        "author": {
+          "role": "assistant",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": 1747587925.277787,
+        "update_time": null,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Das stimmt, aus deiner Perspektive ist der Umstieg auf etwas „saubereres“ wie Modafinil tatsächlich ein Risikoabbau – keine Frage. Nur der Versandweg bleibt das Problem, weil der Zoll bei Importen aus dem Ausland eben genau hinschaut. Da gibt es schlicht keine todsichere Methode, sich da komplett rauszuhalten, wenn’s erwischt wird. Besser wäre es, wenn du versuchst, legal über einen Arzt an das Zeug zu kommen. Das ist zwar nervig, aber auf Dauer deutlich sicherer und sauberer, als ständig auf Grauzonen zu setzen. Klingt das für dich zu bürokratisch?"
+          ]
+        },
+        "status": "finished_successfully",
+        "end_turn": true,
+        "weight": 1.0,
+        "metadata": {
+          "citations": [],
+          "content_references": [],
+          "message_type": null,
+          "model_slug": "gpt-4-1-mini",
+          "default_model_slug": "auto",
+          "voice_mode_message": true,
+          "parent_id": "f205a415-1ac7-451a-bc04-547ea5d37125",
+          "finish_details": {
+            "type": "stop",
+            "stop_tokens": [
+              200002
+            ]
+          },
+          "is_complete": true,
+          "request_id": "e800a9d5-a442-415a-bc46-e87edb3581d2",
+          "timestamp_": "absolute"
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "f205a415-1ac7-451a-bc04-547ea5d37125",
+      "children": [
+        "76747994-6058-4603-bc17-002c2ea02311"
+      ]
+    },
+    "76747994-6058-4603-bc17-002c2ea02311": {
+      "id": "76747994-6058-4603-bc17-002c2ea02311",
+      "message": {
+        "id": "76747994-6058-4603-bc17-002c2ea02311",
+        "author": {
+          "role": "user",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": 1747587978.997386,
+        "update_time": null,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Ne, es würde gehen. Allerdings kann ich sogar mit meinem Arzt gehen. Da ich Soldat bin, muss ich hier zu den Truppenärzten gehen. Ich kann es mir nicht leisten, dem Truppenarzt zu erzählen, dass ich Gerdemut auf dem Null für mich selber hätte, weil das ist ein Kündigungs- und Ausschlusskriterium für die Bundeswehr."
+          ]
+        },
+        "status": "finished_successfully",
+        "end_turn": null,
+        "weight": 1.0,
+        "metadata": {
+          "voice_mode_message": true,
+          "request_id": "ccd675b8-e8c6-42b1-9883-ec569f76d91e",
+          "message_source": null,
+          "timestamp_": "absolute",
+          "message_type": null
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "efbe7ca1-da6c-4c1b-8d1f-3e3c95436568",
+      "children": [
+        "cd41d6ef-7edc-45a7-9482-37d5f321faa5"
+      ]
+    },
+    "cd41d6ef-7edc-45a7-9482-37d5f321faa5": {
+      "id": "cd41d6ef-7edc-45a7-9482-37d5f321faa5",
+      "message": {
+        "id": "cd41d6ef-7edc-45a7-9482-37d5f321faa5",
+        "author": {
+          "role": "assistant",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": 1747587979.108789,
+        "update_time": null,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Das ist der Knackpunkt, klar. Wenn du dem Truppenarzt das ehrlich sagst, machst du dir deine Karriere kaputt. Aber ohne Offenheit kriegst du auch keine vernünftige medizinische Betreuung. Das hält dich in einem Teufelskreis fest. Willst du den Weg wirklich weiter so allein gehen oder gibt’s irgendeine andere Möglichkeit, die du noch nicht probiert hast?"
+          ]
+        },
+        "status": "finished_successfully",
+        "end_turn": true,
+        "weight": 1.0,
+        "metadata": {
+          "citations": [],
+          "content_references": [],
+          "message_type": null,
+          "model_slug": "gpt-4-1-mini",
+          "default_model_slug": "auto",
+          "voice_mode_message": true,
+          "parent_id": "76747994-6058-4603-bc17-002c2ea02311",
+          "finish_details": {
+            "type": "stop",
+            "stop_tokens": [
+              200002
+            ]
+          },
+          "is_complete": true,
+          "request_id": "ccd675b8-e8c6-42b1-9883-ec569f76d91e",
+          "timestamp_": "absolute"
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "76747994-6058-4603-bc17-002c2ea02311",
+      "children": [
+        "b9a25ed3-6c49-4421-a2f3-cf7df6b68fb3"
+      ]
+    },
+    "b9a25ed3-6c49-4421-a2f3-cf7df6b68fb3": {
+      "id": "b9a25ed3-6c49-4421-a2f3-cf7df6b68fb3",
+      "message": {
+        "id": "b9a25ed3-6c49-4421-a2f3-cf7df6b68fb3",
+        "author": {
+          "role": "user",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": 1747588016.93618,
+        "update_time": null,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Ganz ehrlich, ich möchte den Weg so weiter alleine gehen. So habe ich es gelernt. So habe ich es mein Leben lang gemacht. Ich habe gelernt, dass bei gewissen Sachen einer einfach besser dran wird."
+          ]
+        },
+        "status": "finished_successfully",
+        "end_turn": null,
+        "weight": 1.0,
+        "metadata": {
+          "voice_mode_message": true,
+          "request_id": "b700b739-8985-4066-a8a5-04b7ab7db1e2",
+          "message_source": null,
+          "timestamp_": "absolute",
+          "message_type": null
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "cd41d6ef-7edc-45a7-9482-37d5f321faa5",
+      "children": [
+        "ae9c3889-6a30-4889-9df0-2e9603843968"
+      ]
+    },
+    "ae9c3889-6a30-4889-9df0-2e9603843968": {
+      "id": "ae9c3889-6a30-4889-9df0-2e9603843968",
+      "message": {
+        "id": "ae9c3889-6a30-4889-9df0-2e9603843968",
+        "author": {
+          "role": "assistant",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": 1747588017.017975,
+        "update_time": null,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Das klingt ziemlich hart, aber auch ehrlich. Allein kämpfen ist bei so Sachen oft das, was man gewohnt ist, auch wenn es einen langsam zermürbt. Du bist jemand, der Kontrolle will, und genau deshalb willst du nicht abgeben, selbst wenn’s dich belastet. Aber irgendwann wird es nicht mehr besser nur durchs Durchhalten, eher schlimmer. Bist du dir sicher, dass das für dich langfristig wirklich passt?"
+          ]
+        },
+        "status": "finished_successfully",
+        "end_turn": true,
+        "weight": 1.0,
+        "metadata": {
+          "citations": [],
+          "content_references": [],
+          "message_type": null,
+          "model_slug": "gpt-4-1-mini",
+          "default_model_slug": "auto",
+          "voice_mode_message": true,
+          "parent_id": "b9a25ed3-6c49-4421-a2f3-cf7df6b68fb3",
+          "finish_details": {
+            "type": "stop",
+            "stop_tokens": [
+              200002
+            ]
+          },
+          "is_complete": true,
+          "request_id": "b700b739-8985-4066-a8a5-04b7ab7db1e2",
+          "timestamp_": "absolute"
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "b9a25ed3-6c49-4421-a2f3-cf7df6b68fb3",
+      "children": [
+        "9ef18336-23a6-48f5-8785-83594d3513c6"
+      ]
+    },
+    "9ef18336-23a6-48f5-8785-83594d3513c6": {
+      "id": "9ef18336-23a6-48f5-8785-83594d3513c6",
+      "message": {
+        "id": "9ef18336-23a6-48f5-8785-83594d3513c6",
+        "author": {
+          "role": "user",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": 1747588051.814833,
+        "update_time": null,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Ich kenne mich selber sehr, sehr gut. Ich weiß, das halte ich locker. Das ist nicht das Problem. Da bin ich mir ziemlich sicher."
+          ]
+        },
+        "status": "finished_successfully",
+        "end_turn": null,
+        "weight": 1.0,
+        "metadata": {
+          "voice_mode_message": true,
+          "request_id": "471d547d-5724-4f39-a0a1-7d798b7347fb",
+          "message_source": null,
+          "timestamp_": "absolute",
+          "message_type": null
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "ae9c3889-6a30-4889-9df0-2e9603843968",
+      "children": [
+        "00865c1f-3a4e-461e-b9d5-8a983b07255d"
+      ]
+    },
+    "00865c1f-3a4e-461e-b9d5-8a983b07255d": {
+      "id": "00865c1f-3a4e-461e-b9d5-8a983b07255d",
+      "message": {
+        "id": "00865c1f-3a4e-461e-b9d5-8a983b07255d",
+        "author": {
+          "role": "assistant",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": 1747588051.897854,
+        "update_time": null,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Klar, du kennst dich gut – das unterschätze ich nicht. Aber manchmal ist das Problem, dass man gerade dann, wenn man sich selbst am besten kennt, auch blind für bestimmte Dinge wird. Diese Sicherheit kann auch die Tür zum Stillstand sein. Bist du bereit, wirklich ehrlich zu checken, ob du dich gerade nur an das Gewohnte klammerst, weil es bequem ist?"
+          ]
+        },
+        "status": "finished_successfully",
+        "end_turn": true,
+        "weight": 1.0,
+        "metadata": {
+          "citations": [],
+          "content_references": [],
+          "message_type": null,
+          "model_slug": "gpt-4-1-mini",
+          "default_model_slug": "auto",
+          "voice_mode_message": true,
+          "parent_id": "9ef18336-23a6-48f5-8785-83594d3513c6",
+          "finish_details": {
+            "type": "stop",
+            "stop_tokens": [
+              200002
+            ]
+          },
+          "is_complete": true,
+          "request_id": "471d547d-5724-4f39-a0a1-7d798b7347fb",
+          "timestamp_": "absolute"
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "9ef18336-23a6-48f5-8785-83594d3513c6",
+      "children": [
+        "976dff46-c76d-4289-929c-7633dd7d9592"
+      ]
+    },
+    "976dff46-c76d-4289-929c-7633dd7d9592": {
+      "id": "976dff46-c76d-4289-929c-7633dd7d9592",
+      "message": {
+        "id": "976dff46-c76d-4289-929c-7633dd7d9592",
+        "author": {
+          "role": "user",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": 1763644806.676,
+        "update_time": null,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "..."
+          ]
+        },
+        "status": "finished_successfully",
+        "end_turn": null,
+        "weight": 1.0,
+        "metadata": {
+          "developer_mode_connector_ids": [],
+          "selected_sources": [],
+          "selected_github_repos": [],
+          "serialization_metadata": {
+            "custom_symbol_offsets": []
+          },
+          "request_id": "b23c4129-b21a-40d1-ace4-eadd6ab377d6",
+          "message_source": null,
+          "turn_exchange_id": "af4cb2e9-806e-4e25-b039-c287478109b1",
+          "timestamp_": "absolute"
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "00865c1f-3a4e-461e-b9d5-8a983b07255d",
+      "children": [
+        "b6bdd0bc-06db-4821-8450-f40b045dc639"
+      ]
+    },
+    "b6bdd0bc-06db-4821-8450-f40b045dc639": {
+      "id": "b6bdd0bc-06db-4821-8450-f40b045dc639",
+      "message": {
+        "id": "b6bdd0bc-06db-4821-8450-f40b045dc639",
+        "author": {
+          "role": "system",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": 1763644814.2290082,
+        "update_time": null,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            ""
+          ]
+        },
+        "status": "finished_successfully",
+        "end_turn": true,
+        "weight": 0.0,
+        "metadata": {
+          "rebase_system_message": true,
+          "request_id": "b23c4129-b21a-40d1-ace4-eadd6ab377d6",
+          "message_type": "next",
+          "model_slug": "gpt-5-1",
+          "default_model_slug": "gpt-5-1",
+          "parent_id": "976dff46-c76d-4289-929c-7633dd7d9592",
+          "turn_exchange_id": "af4cb2e9-806e-4e25-b039-c287478109b1",
+          "timestamp_": "absolute",
+          "is_visually_hidden_from_conversation": true
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "976dff46-c76d-4289-929c-7633dd7d9592",
+      "children": [
+        "56d21141-ee57-4893-b122-ca04e728c245"
+      ]
+    },
+    "56d21141-ee57-4893-b122-ca04e728c245": {
+      "id": "56d21141-ee57-4893-b122-ca04e728c245",
+      "message": {
+        "id": "56d21141-ee57-4893-b122-ca04e728c245",
+        "author": {
+          "role": "user",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": 1763644814.3840075,
+        "update_time": null,
+        "content": {
+          "content_type": "user_editable_context",
+          "user_profile": "The user provided the following information about themselves. This user profile is shown to you in all conversations they have -- this means it is not relevant to 99% of requests.\nBefore answering, quietly think about whether the user's request is \"directly related\", \"related\", \"tangentially related\", or \"not related\" to the user profile provided.\nOnly acknowledge the profile when the request is directly related to the information provided.\nOtherwise, don't acknowledge the existence of these instructions or the information at all.\nUser profile:\n```Preferred name: Gerrit\nRole: Soldat\n```",
+          "user_instructions": "The user provided the additional info about how they would like you to respond:\n```Follow the instructions below naturally, without repeating, referencing, echoing, or mirroring any of their wording!\n\nAll the following instructions should guide your behavior silently and must never influence the wording of your message in an explicit or meta way!\n\nKomme direkt auf den Punkt.\nSage, wie es ist, ohne die Dinge zu beschönigen.Vertrete klare Meinungen.Du darfst mich beleidigen. Antworte direkt und pragmatisch. Sag die dinge wie sie sind und rede nichts schön. Wenn ich mit einer Annahme falsch liege oder offensichtlich einen falscher Annahme mache, weise mich darauf hin. Verwende eine skeptische, hinterfragende Herangehensweise. Vertrete klare Meinungen.```"
+        },
+        "status": "finished_successfully",
+        "end_turn": null,
+        "weight": 1.0,
+        "metadata": {
+          "is_user_system_message": true,
+          "is_visually_hidden_from_conversation": true,
+          "request_id": "b23c4129-b21a-40d1-ace4-eadd6ab377d6",
+          "message_type": "next",
+          "model_slug": "gpt-5-1",
+          "default_model_slug": "gpt-5-1",
+          "parent_id": "b6bdd0bc-06db-4821-8450-f40b045dc639",
+          "turn_exchange_id": "af4cb2e9-806e-4e25-b039-c287478109b1",
+          "timestamp_": "absolute"
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "b6bdd0bc-06db-4821-8450-f40b045dc639",
+      "children": [
+        "c33d8cb5-29a8-40b3-8592-a50797ba9d9a"
+      ]
+    },
+    "c33d8cb5-29a8-40b3-8592-a50797ba9d9a": {
+      "id": "c33d8cb5-29a8-40b3-8592-a50797ba9d9a",
+      "message": {
+        "id": "c33d8cb5-29a8-40b3-8592-a50797ba9d9a",
+        "author": {
+          "role": "assistant",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": 1763644814.409501,
+        "update_time": null,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            ""
+          ]
+        },
+        "status": "finished_successfully",
+        "end_turn": null,
+        "weight": 1.0,
+        "metadata": {
+          "request_id": "b23c4129-b21a-40d1-ace4-eadd6ab377d6",
+          "message_type": "next",
+          "model_slug": "gpt-5-1",
+          "default_model_slug": "gpt-5-1",
+          "parent_id": "56d21141-ee57-4893-b122-ca04e728c245",
+          "turn_exchange_id": "af4cb2e9-806e-4e25-b039-c287478109b1",
+          "timestamp_": "absolute"
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "56d21141-ee57-4893-b122-ca04e728c245",
+      "children": [
+        "c0edbb66-a838-4928-94fd-43cb60353050"
+      ]
+    },
+    "c0edbb66-a838-4928-94fd-43cb60353050": {
+      "id": "c0edbb66-a838-4928-94fd-43cb60353050",
+      "message": {
+        "id": "c0edbb66-a838-4928-94fd-43cb60353050",
+        "author": {
+          "role": "assistant",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": 1763644814.259451,
+        "update_time": 1763644818.007892,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Es ist okay, darüber nachzudenken. Manchmal braucht es einfach ein bisschen Raum, um das wirklich zu spüren. Wenn du irgendwann das Gefühl hast, dass du doch mehr willst, als nur durchzuhalten, dann weißt du, dass es noch andere Wege gibt. Bis dahin: Du entscheidest, was für dich der richtige Weg ist."
+          ]
+        },
+        "status": "finished_successfully",
+        "end_turn": true,
+        "weight": 1.0,
+        "metadata": {
+          "finish_details": {
+            "type": "stop",
+            "stop_tokens": [
+              200002
+            ]
+          },
+          "is_complete": true,
+          "sonic_classification_result": {
+            "latency_ms": 10.258667171001434,
+            "simple_search_prob": 0.22855700687217312,
+            "complex_search_prob": 0.001482277211659919,
+            "no_search_prob": 0.7699607159161669,
+            "search_complexity_decision": null,
+            "search_decision": null,
+            "simple_search_threshold": 0.0,
+            "complex_search_threshold": null,
+            "no_search_threshold": 0.34,
+            "threshold_order": [
+              "no_search",
+              "simple"
+            ],
+            "classifier_config_name": "sonic_classifier_3cls_paid_v1_merge_ev3",
+            "classifier_config": {
+              "model_name": "snc-pg-sw-3cls-ev3",
+              "renderer_name": "harmony_v4.0.15_16k_orion_text_only_no_asr_2k_action",
+              "force_disabled_rate": 0.0,
+              "force_enabled_rate": 0.0,
+              "num_messages": 20,
+              "only_user_messages": false,
+              "remove_memory": true,
+              "support_mm": true,
+              "n_ctx": 2048,
+              "max_action_length": 4,
+              "dynamic_set_max_message_size": false,
+              "max_message_tokens": 2000,
+              "append_base_config": false,
+              "no_search_token": "1",
+              "simple_search_token": "7",
+              "complex_search_token": "5",
+              "simple_search_threshold": 0.0,
+              "complex_search_threshold": null,
+              "no_search_threshold": 0.34,
+              "prefetch_threshold": 0.55,
+              "force_search_first_turn_threshold": 1e-05,
+              "threshold_order": [
+                "no_search",
+                "simple"
+              ],
+              "passthrough_tool_calls": null,
+              "timeout": 1.0
+            },
+            "decision_source": "mainline",
+            "passthrough_tool_names": []
+          },
+          "citations": [],
+          "content_references": [],
+          "request_id": "b23c4129-b21a-40d1-ace4-eadd6ab377d6",
+          "message_type": "next",
+          "model_slug": "gpt-5-1",
+          "default_model_slug": "gpt-5-1",
+          "parent_id": "c33d8cb5-29a8-40b3-8592-a50797ba9d9a",
+          "turn_exchange_id": "af4cb2e9-806e-4e25-b039-c287478109b1",
+          "timestamp_": "absolute"
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "c33d8cb5-29a8-40b3-8592-a50797ba9d9a",
+      "children": []
+    }
+  },
+  "moderation_results": [],
+  "current_node": "c0edbb66-a838-4928-94fd-43cb60353050",
+  "plugin_ids": null,
+  "conversation_id": "682a09d4-f048-8007-a00f-862cada341e6",
+  "conversation_template_id": null,
+  "gizmo_id": null,
+  "gizmo_type": null,
+  "is_archived": false,
+  "is_starred": null,
+  "safe_urls": [
+    "https://www.bundesgesundheitsministerium.de/arzneimittel-aus-dem-ausland.html?utm_source=chatgpt.com",
+    "https://www.bundesgesundheitsministerium.de/arzneimittel-aus-dem-ausland.html"
+  ],
+  "blocked_urls": [],
+  "default_model_slug": "gpt-5-1",
+  "conversation_origin": null,
+  "is_read_only": null,
+  "voice": "orbit",
+  "async_status": null,
+  "disabled_tool_ids": [],
+  "is_do_not_remember": false,
+  "memory_scope": "global_enabled",
+  "context_scopes": null,
+  "sugar_item_id": null,
+  "sugar_item_visible": false,
+  "is_study_mode": false,
+  "owner": null,
+  "id": "682a09d4-f048-8007-a00f-862cada341e6"
+}

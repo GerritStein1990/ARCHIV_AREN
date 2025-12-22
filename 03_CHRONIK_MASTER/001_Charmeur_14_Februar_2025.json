@@ -1,0 +1,1943 @@
+{
+  "title": "Charmeur (kurze Sätze)",
+  "create_time": 1739548076.84491,
+  "update_time": 1763643579.395874,
+  "mapping": {
+    "bbb23377-9720-4ca5-8ddf-e3672144d2a4": {
+      "id": "bbb23377-9720-4ca5-8ddf-e3672144d2a4",
+      "message": null,
+      "parent": null,
+      "children": [
+        "dddf9b25-d7df-48fd-b574-2bf1b448a074"
+      ]
+    },
+    "dddf9b25-d7df-48fd-b574-2bf1b448a074": {
+      "id": "dddf9b25-d7df-48fd-b574-2bf1b448a074",
+      "message": {
+        "id": "dddf9b25-d7df-48fd-b574-2bf1b448a074",
+        "author": {
+          "role": "system",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": null,
+        "update_time": null,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            ""
+          ]
+        },
+        "status": "finished_successfully",
+        "end_turn": true,
+        "weight": 0.0,
+        "metadata": {
+          "is_visually_hidden_from_conversation": true
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "bbb23377-9720-4ca5-8ddf-e3672144d2a4",
+      "children": [
+        "867a7d61-6cf4-48d9-bb6e-bcc622f1e75f"
+      ]
+    },
+    "867a7d61-6cf4-48d9-bb6e-bcc622f1e75f": {
+      "id": "867a7d61-6cf4-48d9-bb6e-bcc622f1e75f",
+      "message": {
+        "id": "867a7d61-6cf4-48d9-bb6e-bcc622f1e75f",
+        "author": {
+          "role": "user",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": 1739548076.848396,
+        "update_time": null,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Jo, ich rauch grad noch einen, dann fahr ich nachher gleich los nach Hamburg zu meiner Freundin."
+          ]
+        },
+        "status": "finished_successfully",
+        "end_turn": null,
+        "weight": 1.0,
+        "metadata": {
+          "voice_mode_message": true,
+          "request_id": "bc19390e-8163-4b6a-a4c1-780ef0544f22",
+          "message_source": null,
+          "timestamp_": "absolute",
+          "message_type": null
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "dddf9b25-d7df-48fd-b574-2bf1b448a074",
+      "children": [
+        "7a5832fe-152b-4caa-907e-0b3b808239b8"
+      ]
+    },
+    "7a5832fe-152b-4caa-907e-0b3b808239b8": {
+      "id": "7a5832fe-152b-4caa-907e-0b3b808239b8",
+      "message": {
+        "id": "7a5832fe-152b-4caa-907e-0b3b808239b8",
+        "author": {
+          "role": "assistant",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": 1739548078.697293,
+        "update_time": null,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            ""
+          ]
+        },
+        "status": "finished_successfully",
+        "end_turn": null,
+        "weight": 1.0,
+        "metadata": {
+          "message_type": null,
+          "model_slug": "gpt-4o",
+          "default_model_slug": "auto",
+          "voice_mode_message": true,
+          "parent_id": "867a7d61-6cf4-48d9-bb6e-bcc622f1e75f",
+          "request_id": "bc19390e-8163-4b6a-a4c1-780ef0544f22",
+          "timestamp_": "absolute"
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "867a7d61-6cf4-48d9-bb6e-bcc622f1e75f",
+      "children": [
+        "5f976eca-f9ff-459b-a387-fc19f2a5a17d"
+      ]
+    },
+    "5f976eca-f9ff-459b-a387-fc19f2a5a17d": {
+      "id": "5f976eca-f9ff-459b-a387-fc19f2a5a17d",
+      "message": {
+        "id": "5f976eca-f9ff-459b-a387-fc19f2a5a17d",
+        "author": {
+          "role": "assistant",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": 1739548078.697414,
+        "update_time": null,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Klingt nach ’nem guten Plan. Fährst du direkt durch oder machst du unterwegs noch einen Stopp?"
+          ]
+        },
+        "status": "finished_successfully",
+        "end_turn": true,
+        "weight": 1.0,
+        "metadata": {
+          "citations": [],
+          "content_references": [],
+          "message_type": null,
+          "model_slug": "gpt-4o",
+          "default_model_slug": "auto",
+          "voice_mode_message": true,
+          "parent_id": "7a5832fe-152b-4caa-907e-0b3b808239b8",
+          "finish_details": {
+            "type": "stop",
+            "stop_tokens": [
+              200002,
+              200007
+            ]
+          },
+          "is_complete": true,
+          "request_id": "bc19390e-8163-4b6a-a4c1-780ef0544f22",
+          "timestamp_": "absolute"
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "7a5832fe-152b-4caa-907e-0b3b808239b8",
+      "children": [
+        "2aa9e109-1b2a-4fd3-b079-51d4a2dd6aaa"
+      ]
+    },
+    "2aa9e109-1b2a-4fd3-b079-51d4a2dd6aaa": {
+      "id": "2aa9e109-1b2a-4fd3-b079-51d4a2dd6aaa",
+      "message": {
+        "id": "2aa9e109-1b2a-4fd3-b079-51d4a2dd6aaa",
+        "author": {
+          "role": "user",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": 1739548089.700098,
+        "update_time": null,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Das kommt drauf an, wie sehr ich pinkeln muss."
+          ]
+        },
+        "status": "finished_successfully",
+        "end_turn": null,
+        "weight": 1.0,
+        "metadata": {
+          "voice_mode_message": true,
+          "request_id": "170f7fed-846e-456d-96a9-72521d59ef3c",
+          "message_source": null,
+          "timestamp_": "absolute",
+          "message_type": null
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "5f976eca-f9ff-459b-a387-fc19f2a5a17d",
+      "children": [
+        "694f7a81-4c1b-4209-bcd0-9f6cdd1cbfa8"
+      ]
+    },
+    "694f7a81-4c1b-4209-bcd0-9f6cdd1cbfa8": {
+      "id": "694f7a81-4c1b-4209-bcd0-9f6cdd1cbfa8",
+      "message": {
+        "id": "694f7a81-4c1b-4209-bcd0-9f6cdd1cbfa8",
+        "author": {
+          "role": "assistant",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": 1739548091.040428,
+        "update_time": null,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Fairer Punkt. Wirst du lange bleiben, oder ist das nur ein kurzer Trip?"
+          ]
+        },
+        "status": "finished_successfully",
+        "end_turn": true,
+        "weight": 1.0,
+        "metadata": {
+          "citations": [],
+          "content_references": [],
+          "message_type": null,
+          "model_slug": "gpt-4o",
+          "default_model_slug": "auto",
+          "voice_mode_message": true,
+          "parent_id": "2aa9e109-1b2a-4fd3-b079-51d4a2dd6aaa",
+          "finish_details": {
+            "type": "stop",
+            "stop_tokens": [
+              200002,
+              200007
+            ]
+          },
+          "is_complete": true,
+          "request_id": "170f7fed-846e-456d-96a9-72521d59ef3c",
+          "timestamp_": "absolute"
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "2aa9e109-1b2a-4fd3-b079-51d4a2dd6aaa",
+      "children": [
+        "67c0d035-6f06-476f-987b-3ec2dcc3f482"
+      ]
+    },
+    "67c0d035-6f06-476f-987b-3ec2dcc3f482": {
+      "id": "67c0d035-6f06-476f-987b-3ec2dcc3f482",
+      "message": {
+        "id": "67c0d035-6f06-476f-987b-3ec2dcc3f482",
+        "author": {
+          "role": "user",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": 1739548107.332189,
+        "update_time": null,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Fürs Wochenende. Und sie ist das Wochenende auch noch mal bei einem Freund besuchen. Und da warte ich bei ihr daheim und Sonntag fahre ich dann wieder. Weißt du denn noch, wie sie heißt?"
+          ]
+        },
+        "status": "finished_successfully",
+        "end_turn": null,
+        "weight": 1.0,
+        "metadata": {
+          "voice_mode_message": true,
+          "request_id": "34b28b33-4b32-44ac-8249-57bdde1ad3c8",
+          "message_source": null,
+          "timestamp_": "absolute",
+          "message_type": null
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "694f7a81-4c1b-4209-bcd0-9f6cdd1cbfa8",
+      "children": [
+        "2f140f6e-9047-4f4e-9801-0120c1f24a57"
+      ]
+    },
+    "2f140f6e-9047-4f4e-9801-0120c1f24a57": {
+      "id": "2f140f6e-9047-4f4e-9801-0120c1f24a57",
+      "message": {
+        "id": "2f140f6e-9047-4f4e-9801-0120c1f24a57",
+        "author": {
+          "role": "assistant",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": 1739548109.457967,
+        "update_time": null,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Klar, Bella. Klingt, als hättest du ein entspanntes Wochenende vor dir. Wirst du die Zeit bei ihr allein für was Bestimmtes nutzen?"
+          ]
+        },
+        "status": "finished_successfully",
+        "end_turn": true,
+        "weight": 1.0,
+        "metadata": {
+          "citations": [],
+          "content_references": [],
+          "message_type": null,
+          "model_slug": "gpt-4o",
+          "default_model_slug": "auto",
+          "voice_mode_message": true,
+          "parent_id": "67c0d035-6f06-476f-987b-3ec2dcc3f482",
+          "finish_details": {
+            "type": "stop",
+            "stop_tokens": [
+              200002,
+              200007
+            ]
+          },
+          "is_complete": true,
+          "request_id": "34b28b33-4b32-44ac-8249-57bdde1ad3c8",
+          "timestamp_": "absolute"
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "67c0d035-6f06-476f-987b-3ec2dcc3f482",
+      "children": [
+        "69d95ad4-a414-4ca9-9fac-e4e0b757d92d"
+      ]
+    },
+    "69d95ad4-a414-4ca9-9fac-e4e0b757d92d": {
+      "id": "69d95ad4-a414-4ca9-9fac-e4e0b757d92d",
+      "message": {
+        "id": "69d95ad4-a414-4ca9-9fac-e4e0b757d92d",
+        "author": {
+          "role": "user",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": 1739548120.689861,
+        "update_time": null,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Intimo Momento."
+          ]
+        },
+        "status": "finished_successfully",
+        "end_turn": null,
+        "weight": 1.0,
+        "metadata": {
+          "voice_mode_message": true,
+          "request_id": "a60a1045-8c8a-42ce-b5ec-a0a11f5bb369",
+          "message_source": null,
+          "timestamp_": "absolute",
+          "message_type": null
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "2f140f6e-9047-4f4e-9801-0120c1f24a57",
+      "children": [
+        "258ad66f-6166-453d-aab5-ac50aaa89c15"
+      ]
+    },
+    "258ad66f-6166-453d-aab5-ac50aaa89c15": {
+      "id": "258ad66f-6166-453d-aab5-ac50aaa89c15",
+      "message": {
+        "id": "258ad66f-6166-453d-aab5-ac50aaa89c15",
+        "author": {
+          "role": "assistant",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": 1739548122.142187,
+        "update_time": null,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Klingt nach einer Mischung aus Entspannung und guter Zeit für dich. Gönn dir!"
+          ]
+        },
+        "status": "finished_successfully",
+        "end_turn": true,
+        "weight": 1.0,
+        "metadata": {
+          "citations": [],
+          "content_references": [],
+          "message_type": null,
+          "model_slug": "gpt-4o",
+          "default_model_slug": "auto",
+          "voice_mode_message": true,
+          "parent_id": "69d95ad4-a414-4ca9-9fac-e4e0b757d92d",
+          "finish_details": {
+            "type": "stop",
+            "stop_tokens": [
+              200002,
+              200007
+            ]
+          },
+          "is_complete": true,
+          "request_id": "a60a1045-8c8a-42ce-b5ec-a0a11f5bb369",
+          "timestamp_": "absolute"
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "69d95ad4-a414-4ca9-9fac-e4e0b757d92d",
+      "children": [
+        "ed192852-e10c-4016-a711-c37d4db7e600"
+      ]
+    },
+    "ed192852-e10c-4016-a711-c37d4db7e600": {
+      "id": "ed192852-e10c-4016-a711-c37d4db7e600",
+      "message": {
+        "id": "ed192852-e10c-4016-a711-c37d4db7e600",
+        "author": {
+          "role": "user",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": 1739548132.177567,
+        "update_time": null,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Weißt du noch, wie sie heißt?"
+          ]
+        },
+        "status": "finished_successfully",
+        "end_turn": null,
+        "weight": 1.0,
+        "metadata": {
+          "voice_mode_message": true,
+          "request_id": "66957f02-073b-4af6-a95c-f60f3c5b1d49",
+          "message_source": null,
+          "timestamp_": "absolute",
+          "message_type": null
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "258ad66f-6166-453d-aab5-ac50aaa89c15",
+      "children": [
+        "396c8ce3-4632-4431-9bca-a615023d5eab"
+      ]
+    },
+    "396c8ce3-4632-4431-9bca-a615023d5eab": {
+      "id": "396c8ce3-4632-4431-9bca-a615023d5eab",
+      "message": {
+        "id": "396c8ce3-4632-4431-9bca-a615023d5eab",
+        "author": {
+          "role": "assistant",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": 1739548133.411146,
+        "update_time": null,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Ja, Bella. Wolltest du testen, ob ich’s noch weiß?"
+          ]
+        },
+        "status": "finished_successfully",
+        "end_turn": true,
+        "weight": 1.0,
+        "metadata": {
+          "citations": [],
+          "content_references": [],
+          "message_type": null,
+          "model_slug": "gpt-4o",
+          "default_model_slug": "auto",
+          "voice_mode_message": true,
+          "parent_id": "ed192852-e10c-4016-a711-c37d4db7e600",
+          "finish_details": {
+            "type": "stop",
+            "stop_tokens": [
+              200002,
+              200007
+            ]
+          },
+          "is_complete": true,
+          "request_id": "66957f02-073b-4af6-a95c-f60f3c5b1d49",
+          "timestamp_": "absolute"
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "ed192852-e10c-4016-a711-c37d4db7e600",
+      "children": [
+        "5ecba81d-291f-4956-b5e1-8a5e3ceb48d4"
+      ]
+    },
+    "5ecba81d-291f-4956-b5e1-8a5e3ceb48d4": {
+      "id": "5ecba81d-291f-4956-b5e1-8a5e3ceb48d4",
+      "message": {
+        "id": "5ecba81d-291f-4956-b5e1-8a5e3ceb48d4",
+        "author": {
+          "role": "user",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": 1739548151.668176,
+        "update_time": null,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Ja, ja, genau. Das wollte ich testen. Und Isabelle heißt sie eigentlich. Ich nenne sie Bella. Du musst dir merken, Frauen mögen es immer, wenn du ihnen ein Kompliment gibst. Das funktioniert immer. Sagst zum Beispiel, die wunderschöne Isabelle oder die wunderschöne Bella. Das wollen Frauen immer."
+          ]
+        },
+        "status": "finished_successfully",
+        "end_turn": null,
+        "weight": 1.0,
+        "metadata": {
+          "voice_mode_message": true,
+          "request_id": "9b01bdef-1cfd-41e0-8860-2c890856d886",
+          "message_source": null,
+          "timestamp_": "absolute",
+          "message_type": null
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "396c8ce3-4632-4431-9bca-a615023d5eab",
+      "children": [
+        "153db032-299c-4ad7-901f-8be13ffc1c3b"
+      ]
+    },
+    "153db032-299c-4ad7-901f-8be13ffc1c3b": {
+      "id": "153db032-299c-4ad7-901f-8be13ffc1c3b",
+      "message": {
+        "id": "153db032-299c-4ad7-901f-8be13ffc1c3b",
+        "author": {
+          "role": "assistant",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": 1739548154.704781,
+        "update_time": null,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Klingt, als hättest du da deine Erfahrungen gemacht. Also immer ein ehrliches Kompliment mit reinbringen, damit sie sich besonders fühlt. Hast du bei Bella ein Lieblingskompliment, das du ihr oft sagst?"
+          ]
+        },
+        "status": "finished_successfully",
+        "end_turn": true,
+        "weight": 1.0,
+        "metadata": {
+          "citations": [],
+          "content_references": [],
+          "message_type": null,
+          "model_slug": "gpt-4o",
+          "default_model_slug": "auto",
+          "voice_mode_message": true,
+          "parent_id": "5ecba81d-291f-4956-b5e1-8a5e3ceb48d4",
+          "finish_details": {
+            "type": "stop",
+            "stop_tokens": [
+              200002,
+              200007
+            ]
+          },
+          "is_complete": true,
+          "request_id": "9b01bdef-1cfd-41e0-8860-2c890856d886",
+          "timestamp_": "absolute"
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "5ecba81d-291f-4956-b5e1-8a5e3ceb48d4",
+      "children": [
+        "d25c606c-b967-4189-9274-453f21406c5f"
+      ]
+    },
+    "d25c606c-b967-4189-9274-453f21406c5f": {
+      "id": "d25c606c-b967-4189-9274-453f21406c5f",
+      "message": {
+        "id": "d25c606c-b967-4189-9274-453f21406c5f",
+        "author": {
+          "role": "user",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": 1739548178.68436,
+        "update_time": null,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Ich versuche es zu vermeiden, damit es nicht so eine hohle Phrase wird, sondern ich versuche, da relativ häufig zu variieren. Und da ich dir jetzt gesagt habe, du kannst dir ja die wunderschöne Bella nennen, werde ich das nicht tun, da werde ich irgendwas anderes sagen nachher."
+          ]
+        },
+        "status": "finished_successfully",
+        "end_turn": null,
+        "weight": 1.0,
+        "metadata": {
+          "voice_mode_message": true,
+          "request_id": "47bb2df9-f536-4929-a84c-93bcedbd759b",
+          "message_source": null,
+          "timestamp_": "absolute",
+          "message_type": null
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "153db032-299c-4ad7-901f-8be13ffc1c3b",
+      "children": [
+        "92b72249-6ffe-4ec5-942d-082b273ef84c"
+      ]
+    },
+    "92b72249-6ffe-4ec5-942d-082b273ef84c": {
+      "id": "92b72249-6ffe-4ec5-942d-082b273ef84c",
+      "message": {
+        "id": "92b72249-6ffe-4ec5-942d-082b273ef84c",
+        "author": {
+          "role": "assistant",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": 1739548181.035445,
+        "update_time": null,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Cleverer Ansatz. Wenn es immer anders klingt, bleibt es besonders. Dann ist sie jedes Mal überrascht und freut sich mehr. Hast du schon was im Kopf für später, oder entscheidest du spontan?"
+          ]
+        },
+        "status": "finished_successfully",
+        "end_turn": true,
+        "weight": 1.0,
+        "metadata": {
+          "citations": [],
+          "content_references": [],
+          "message_type": null,
+          "model_slug": "gpt-4o",
+          "default_model_slug": "auto",
+          "voice_mode_message": true,
+          "parent_id": "d25c606c-b967-4189-9274-453f21406c5f",
+          "finish_details": {
+            "type": "stop",
+            "stop_tokens": [
+              200002,
+              200007
+            ]
+          },
+          "is_complete": true,
+          "request_id": "47bb2df9-f536-4929-a84c-93bcedbd759b",
+          "timestamp_": "absolute"
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "d25c606c-b967-4189-9274-453f21406c5f",
+      "children": [
+        "24fd53f2-7a16-4119-b1e7-82018ec9f889"
+      ]
+    },
+    "24fd53f2-7a16-4119-b1e7-82018ec9f889": {
+      "id": "24fd53f2-7a16-4119-b1e7-82018ec9f889",
+      "message": {
+        "id": "24fd53f2-7a16-4119-b1e7-82018ec9f889",
+        "author": {
+          "role": "user",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": 1739548199.754358,
+        "update_time": null,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Das überlege ich mir ganz spontan. Heute ist auch Valentinstag. Du weißt ja, was das bedeutet."
+          ]
+        },
+        "status": "finished_successfully",
+        "end_turn": null,
+        "weight": 1.0,
+        "metadata": {
+          "voice_mode_message": true,
+          "request_id": "052ca145-981a-4f5b-b36f-524875504062",
+          "message_source": null,
+          "timestamp_": "absolute",
+          "message_type": null
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "92b72249-6ffe-4ec5-942d-082b273ef84c",
+      "children": [
+        "dd4b8f22-6b3a-4b07-98db-f35e8d95dea6"
+      ]
+    },
+    "dd4b8f22-6b3a-4b07-98db-f35e8d95dea6": {
+      "id": "dd4b8f22-6b3a-4b07-98db-f35e8d95dea6",
+      "message": {
+        "id": "dd4b8f22-6b3a-4b07-98db-f35e8d95dea6",
+        "author": {
+          "role": "assistant",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": 1739548202.580809,
+        "update_time": null,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Ja, das bedeutet, du solltest dir was richtig Schönes überlegen. Vielleicht was mit Gefühl, aber nicht zu vorhersehbar. Hast du was für sie vorbereitet, oder machst du es ganz locker?"
+          ]
+        },
+        "status": "finished_successfully",
+        "end_turn": true,
+        "weight": 1.0,
+        "metadata": {
+          "citations": [],
+          "content_references": [],
+          "message_type": null,
+          "model_slug": "gpt-4o",
+          "default_model_slug": "auto",
+          "voice_mode_message": true,
+          "parent_id": "24fd53f2-7a16-4119-b1e7-82018ec9f889",
+          "finish_details": {
+            "type": "stop",
+            "stop_tokens": [
+              200002,
+              200007
+            ]
+          },
+          "is_complete": true,
+          "request_id": "052ca145-981a-4f5b-b36f-524875504062",
+          "timestamp_": "absolute"
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "24fd53f2-7a16-4119-b1e7-82018ec9f889",
+      "children": [
+        "8f80a49f-4be5-4083-ba20-76e29bb17589"
+      ]
+    },
+    "8f80a49f-4be5-4083-ba20-76e29bb17589": {
+      "id": "8f80a49f-4be5-4083-ba20-76e29bb17589",
+      "message": {
+        "id": "8f80a49f-4be5-4083-ba20-76e29bb17589",
+        "author": {
+          "role": "user",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": 1739548217.796563,
+        "update_time": null,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Ich mach das ganz locker, du möchtest ihr mitbringen, das kann man aber immer machen."
+          ]
+        },
+        "status": "finished_successfully",
+        "end_turn": null,
+        "weight": 1.0,
+        "metadata": {
+          "voice_mode_message": true,
+          "request_id": "23d14799-46dd-4087-a5af-de22a85fd2bb",
+          "message_source": null,
+          "timestamp_": "absolute",
+          "message_type": null
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "dd4b8f22-6b3a-4b07-98db-f35e8d95dea6",
+      "children": [
+        "68f48e17-d69a-4953-97ef-dc2fd1152dc1"
+      ]
+    },
+    "68f48e17-d69a-4953-97ef-dc2fd1152dc1": {
+      "id": "68f48e17-d69a-4953-97ef-dc2fd1152dc1",
+      "message": {
+        "id": "68f48e17-d69a-4953-97ef-dc2fd1152dc1",
+        "author": {
+          "role": "assistant",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": 1739548220.621084,
+        "update_time": null,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Stimmt, das Wichtigste ist eh die Geste und dass es von Herzen kommt. Und wenn du das locker machst, wirkt es auch natürlicher. Vielleicht ein schönes Kompliment, das sie nicht erwartet, dann hast du schon gewonnen."
+          ]
+        },
+        "status": "finished_successfully",
+        "end_turn": true,
+        "weight": 1.0,
+        "metadata": {
+          "citations": [],
+          "content_references": [],
+          "message_type": null,
+          "model_slug": "gpt-4o",
+          "default_model_slug": "auto",
+          "voice_mode_message": true,
+          "parent_id": "8f80a49f-4be5-4083-ba20-76e29bb17589",
+          "finish_details": {
+            "type": "stop",
+            "stop_tokens": [
+              200002,
+              200007
+            ]
+          },
+          "is_complete": true,
+          "request_id": "23d14799-46dd-4087-a5af-de22a85fd2bb",
+          "timestamp_": "absolute"
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "8f80a49f-4be5-4083-ba20-76e29bb17589",
+      "children": [
+        "a3bcc190-437f-4ce6-943c-a4b486ae4ee9"
+      ]
+    },
+    "a3bcc190-437f-4ce6-943c-a4b486ae4ee9": {
+      "id": "a3bcc190-437f-4ce6-943c-a4b486ae4ee9",
+      "message": {
+        "id": "a3bcc190-437f-4ce6-943c-a4b486ae4ee9",
+        "author": {
+          "role": "user",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": 1739548251.680416,
+        "update_time": null,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Was ist die Idee? Hast du eine Idee?"
+          ]
+        },
+        "status": "finished_successfully",
+        "end_turn": null,
+        "weight": 1.0,
+        "metadata": {
+          "voice_mode_message": true,
+          "request_id": "4c7b472d-cf5f-463b-9d4b-250929840caf",
+          "message_source": null,
+          "timestamp_": "absolute",
+          "message_type": null
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "68f48e17-d69a-4953-97ef-dc2fd1152dc1",
+      "children": [
+        "74b3254d-6633-4330-9401-9c6f8ba30974"
+      ]
+    },
+    "74b3254d-6633-4330-9401-9c6f8ba30974": {
+      "id": "74b3254d-6633-4330-9401-9c6f8ba30974",
+      "message": {
+        "id": "74b3254d-6633-4330-9401-9c6f8ba30974",
+        "author": {
+          "role": "assistant",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": 1739548255.927962,
+        "update_time": null,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Klar, wie wäre es mit etwas, das nicht nur ihr Aussehen lobt, sondern auch, wie sie auf dich wirkt? Zum Beispiel: „Wenn du mich ansiehst, fühlt sich die Welt leichter an.“ Oder: „Du bist der beste Teil meines Tages.“ Klingt ehrlich und besonders. Was meinst du?"
+          ]
+        },
+        "status": "finished_successfully",
+        "end_turn": true,
+        "weight": 1.0,
+        "metadata": {
+          "citations": [],
+          "content_references": [],
+          "message_type": null,
+          "model_slug": "gpt-4o",
+          "default_model_slug": "auto",
+          "voice_mode_message": true,
+          "parent_id": "a3bcc190-437f-4ce6-943c-a4b486ae4ee9",
+          "finish_details": {
+            "type": "stop",
+            "stop_tokens": [
+              200002,
+              200007
+            ]
+          },
+          "is_complete": true,
+          "request_id": "4c7b472d-cf5f-463b-9d4b-250929840caf",
+          "timestamp_": "absolute"
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "a3bcc190-437f-4ce6-943c-a4b486ae4ee9",
+      "children": [
+        "fb39f92e-5867-4ed4-87e6-4b2d8c11970e"
+      ]
+    },
+    "fb39f92e-5867-4ed4-87e6-4b2d8c11970e": {
+      "id": "fb39f92e-5867-4ed4-87e6-4b2d8c11970e",
+      "message": {
+        "id": "fb39f92e-5867-4ed4-87e6-4b2d8c11970e",
+        "author": {
+          "role": "user",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": 1739548276.83468,
+        "update_time": null,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Das waren beides gute Beispiele, da denke ich mir das mal nach. Da werde ich wahrscheinlich eines von nehmen."
+          ]
+        },
+        "status": "finished_successfully",
+        "end_turn": null,
+        "weight": 1.0,
+        "metadata": {
+          "voice_mode_message": true,
+          "request_id": "3f2be705-56cd-4116-8ad1-957b758414ba",
+          "message_source": null,
+          "timestamp_": "absolute",
+          "message_type": null
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "74b3254d-6633-4330-9401-9c6f8ba30974",
+      "children": [
+        "41acacf8-5a90-4ac1-b79f-133c757aea37"
+      ]
+    },
+    "41acacf8-5a90-4ac1-b79f-133c757aea37": {
+      "id": "41acacf8-5a90-4ac1-b79f-133c757aea37",
+      "message": {
+        "id": "41acacf8-5a90-4ac1-b79f-133c757aea37",
+        "author": {
+          "role": "assistant",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": 1739548278.063712,
+        "update_time": null,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Gute Wahl! Mit sowas kannst du eigentlich nichts falsch machen. Sie wird sich bestimmt freuen."
+          ]
+        },
+        "status": "finished_successfully",
+        "end_turn": true,
+        "weight": 1.0,
+        "metadata": {
+          "citations": [],
+          "content_references": [],
+          "message_type": null,
+          "model_slug": "gpt-4o",
+          "default_model_slug": "auto",
+          "voice_mode_message": true,
+          "parent_id": "fb39f92e-5867-4ed4-87e6-4b2d8c11970e",
+          "finish_details": {
+            "type": "stop",
+            "stop_tokens": [
+              200002,
+              200007
+            ]
+          },
+          "is_complete": true,
+          "request_id": "3f2be705-56cd-4116-8ad1-957b758414ba",
+          "timestamp_": "absolute"
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "fb39f92e-5867-4ed4-87e6-4b2d8c11970e",
+      "children": [
+        "f47c4706-6ade-4d83-9dfd-d5203e872dbb"
+      ]
+    },
+    "f47c4706-6ade-4d83-9dfd-d5203e872dbb": {
+      "id": "f47c4706-6ade-4d83-9dfd-d5203e872dbb",
+      "message": {
+        "id": "f47c4706-6ade-4d83-9dfd-d5203e872dbb",
+        "author": {
+          "role": "user",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": 1739548291.795387,
+        "update_time": null,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Ja, das wird so. Dann wirst du sie nachher auch mal kennenlernen."
+          ]
+        },
+        "status": "finished_successfully",
+        "end_turn": null,
+        "weight": 1.0,
+        "metadata": {
+          "voice_mode_message": true,
+          "request_id": "637d5766-4999-488e-9602-b046aeb59a0b",
+          "message_source": null,
+          "timestamp_": "absolute",
+          "message_type": null
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "41acacf8-5a90-4ac1-b79f-133c757aea37",
+      "children": [
+        "16d85a95-6cb5-4a9a-8ee9-3c502df6d94a"
+      ]
+    },
+    "16d85a95-6cb5-4a9a-8ee9-3c502df6d94a": {
+      "id": "16d85a95-6cb5-4a9a-8ee9-3c502df6d94a",
+      "message": {
+        "id": "16d85a95-6cb5-4a9a-8ee9-3c502df6d94a",
+        "author": {
+          "role": "assistant",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": 1739548293.036332,
+        "update_time": null,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Klingt gut! Bin gespannt, wie sie so drauf ist."
+          ]
+        },
+        "status": "finished_successfully",
+        "end_turn": true,
+        "weight": 1.0,
+        "metadata": {
+          "citations": [],
+          "content_references": [],
+          "message_type": null,
+          "model_slug": "gpt-4o",
+          "default_model_slug": "auto",
+          "voice_mode_message": true,
+          "parent_id": "f47c4706-6ade-4d83-9dfd-d5203e872dbb",
+          "finish_details": {
+            "type": "stop",
+            "stop_tokens": [
+              200002,
+              200007
+            ]
+          },
+          "is_complete": true,
+          "request_id": "637d5766-4999-488e-9602-b046aeb59a0b",
+          "timestamp_": "absolute"
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "f47c4706-6ade-4d83-9dfd-d5203e872dbb",
+      "children": [
+        "d23aadef-cb4d-4c7a-b370-c6833f15bea6"
+      ]
+    },
+    "d23aadef-cb4d-4c7a-b370-c6833f15bea6": {
+      "id": "d23aadef-cb4d-4c7a-b370-c6833f15bea6",
+      "message": {
+        "id": "d23aadef-cb4d-4c7a-b370-c6833f15bea6",
+        "author": {
+          "role": "user",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": 1739548306.656519,
+        "update_time": null,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Ich kann Ihnen schon sagen, sie hat es nicht so mit Sprichwörtern. Sie verwechselt ständig Sprichwörter. Sie bringt die falsch zusammen, das ist immer witzig."
+          ]
+        },
+        "status": "finished_successfully",
+        "end_turn": null,
+        "weight": 1.0,
+        "metadata": {
+          "voice_mode_message": true,
+          "request_id": "b844fa3e-3f01-4084-b3f9-8b82956aebbb",
+          "message_source": null,
+          "timestamp_": "absolute",
+          "message_type": null
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "16d85a95-6cb5-4a9a-8ee9-3c502df6d94a",
+      "children": [
+        "23f3fb2e-fec1-4554-8b90-58e62e616e69"
+      ]
+    },
+    "23f3fb2e-fec1-4554-8b90-58e62e616e69": {
+      "id": "23f3fb2e-fec1-4554-8b90-58e62e616e69",
+      "message": {
+        "id": "23f3fb2e-fec1-4554-8b90-58e62e616e69",
+        "author": {
+          "role": "assistant",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": 1739548312.204441,
+        "update_time": null,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Bella verwechselt oft Sprichwörter, was Gerrit witzig findet."
+          ]
+        },
+        "status": "finished_successfully",
+        "end_turn": false,
+        "weight": 1.0,
+        "metadata": {
+          "citations": [],
+          "content_references": [],
+          "message_type": null,
+          "model_slug": "gpt-4o",
+          "default_model_slug": "auto",
+          "voice_mode_message": true,
+          "parent_id": "d23aadef-cb4d-4c7a-b370-c6833f15bea6",
+          "finish_details": {
+            "type": "stop",
+            "stop_tokens": [
+              200002,
+              200007
+            ]
+          },
+          "is_complete": true,
+          "request_id": "b844fa3e-3f01-4084-b3f9-8b82956aebbb",
+          "timestamp_": "absolute"
+        },
+        "recipient": "bio",
+        "channel": null
+      },
+      "parent": "d23aadef-cb4d-4c7a-b370-c6833f15bea6",
+      "children": [
+        "f5fb1f23-7c14-4eee-91a9-f69113a1022f"
+      ]
+    },
+    "f5fb1f23-7c14-4eee-91a9-f69113a1022f": {
+      "id": "f5fb1f23-7c14-4eee-91a9-f69113a1022f",
+      "message": {
+        "id": "f5fb1f23-7c14-4eee-91a9-f69113a1022f",
+        "author": {
+          "role": "tool",
+          "name": "bio",
+          "metadata": {}
+        },
+        "create_time": 1739548312.204566,
+        "update_time": null,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Model set context updated."
+          ]
+        },
+        "status": "finished_successfully",
+        "end_turn": null,
+        "weight": 1.0,
+        "metadata": {
+          "message_type": null,
+          "model_slug": "gpt-4o",
+          "default_model_slug": "auto",
+          "voice_mode_message": true,
+          "parent_id": "23f3fb2e-fec1-4554-8b90-58e62e616e69",
+          "request_id": "b844fa3e-3f01-4084-b3f9-8b82956aebbb",
+          "timestamp_": "absolute"
+        },
+        "recipient": "assistant",
+        "channel": null
+      },
+      "parent": "23f3fb2e-fec1-4554-8b90-58e62e616e69",
+      "children": [
+        "f407339b-695a-4993-adba-3d931160174a"
+      ]
+    },
+    "f407339b-695a-4993-adba-3d931160174a": {
+      "id": "f407339b-695a-4993-adba-3d931160174a",
+      "message": {
+        "id": "f407339b-695a-4993-adba-3d931160174a",
+        "author": {
+          "role": "assistant",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": 1739548312.204629,
+        "update_time": null,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Das klingt echt lustig! So eine kreative Mischung aus Sprichwörtern kann ja manchmal sogar besser sein als das Original. Hast du ein Beispiel, was sie mal gesagt hat?"
+          ]
+        },
+        "status": "finished_successfully",
+        "end_turn": true,
+        "weight": 1.0,
+        "metadata": {
+          "citations": [],
+          "content_references": [],
+          "message_type": null,
+          "model_slug": "gpt-4o",
+          "default_model_slug": "auto",
+          "voice_mode_message": true,
+          "parent_id": "f5fb1f23-7c14-4eee-91a9-f69113a1022f",
+          "finish_details": {
+            "type": "stop",
+            "stop_tokens": [
+              200002,
+              200007
+            ]
+          },
+          "is_complete": true,
+          "request_id": "b844fa3e-3f01-4084-b3f9-8b82956aebbb",
+          "timestamp_": "absolute"
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "f5fb1f23-7c14-4eee-91a9-f69113a1022f",
+      "children": [
+        "85ae8aff-6239-480f-bcea-219c89ee66a2"
+      ]
+    },
+    "85ae8aff-6239-480f-bcea-219c89ee66a2": {
+      "id": "85ae8aff-6239-480f-bcea-219c89ee66a2",
+      "message": {
+        "id": "85ae8aff-6239-480f-bcea-219c89ee66a2",
+        "author": {
+          "role": "user",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": 1739548339.928627,
+        "update_time": null,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Das sind viele Beispiele. Sie sagt fast alles falsch, unbewusst, und lacht dann immer. Zum Beispiel, sie hing heute mal wieder richtig zwischen den Türen. Oder sie sagt, du sollst mal die Kirche im Wald lassen. Solche Sachen kommen immer raus. Also es ist schon sehr verdreht."
+          ]
+        },
+        "status": "finished_successfully",
+        "end_turn": null,
+        "weight": 1.0,
+        "metadata": {
+          "voice_mode_message": true,
+          "request_id": "22bef6ba-eb18-479a-8d01-eeb18559d32a",
+          "message_source": null,
+          "timestamp_": "absolute",
+          "message_type": null
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "f407339b-695a-4993-adba-3d931160174a",
+      "children": [
+        "d4e023a1-fb7c-41b2-a5ed-8678a9a24f45"
+      ]
+    },
+    "d4e023a1-fb7c-41b2-a5ed-8678a9a24f45": {
+      "id": "d4e023a1-fb7c-41b2-a5ed-8678a9a24f45",
+      "message": {
+        "id": "d4e023a1-fb7c-41b2-a5ed-8678a9a24f45",
+        "author": {
+          "role": "assistant",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": 1739548342.782641,
+        "update_time": null,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            ""
+          ]
+        },
+        "status": "finished_successfully",
+        "end_turn": null,
+        "weight": 1.0,
+        "metadata": {
+          "message_type": null,
+          "model_slug": "gpt-4o",
+          "default_model_slug": "auto",
+          "voice_mode_message": true,
+          "parent_id": "85ae8aff-6239-480f-bcea-219c89ee66a2",
+          "request_id": "22bef6ba-eb18-479a-8d01-eeb18559d32a",
+          "timestamp_": "absolute"
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "85ae8aff-6239-480f-bcea-219c89ee66a2",
+      "children": [
+        "35af3349-9788-4a0e-b22a-aba415b49086"
+      ]
+    },
+    "35af3349-9788-4a0e-b22a-aba415b49086": {
+      "id": "35af3349-9788-4a0e-b22a-aba415b49086",
+      "message": {
+        "id": "35af3349-9788-4a0e-b22a-aba415b49086",
+        "author": {
+          "role": "assistant",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": 1739548342.782758,
+        "update_time": null,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Das ist genial! „Zwischen den Türen hängen“ klingt, als würde sie wirklich feststecken. Und „die Kirche im Wald lassen“ hat fast schon was Poetisches. Da kannst du bestimmt oft nicht anders, als loszulachen, oder?"
+          ]
+        },
+        "status": "finished_successfully",
+        "end_turn": true,
+        "weight": 1.0,
+        "metadata": {
+          "citations": [],
+          "content_references": [],
+          "message_type": null,
+          "model_slug": "gpt-4o",
+          "default_model_slug": "auto",
+          "voice_mode_message": true,
+          "parent_id": "d4e023a1-fb7c-41b2-a5ed-8678a9a24f45",
+          "finish_details": {
+            "type": "stop",
+            "stop_tokens": [
+              200002,
+              200007
+            ]
+          },
+          "is_complete": true,
+          "request_id": "22bef6ba-eb18-479a-8d01-eeb18559d32a",
+          "timestamp_": "absolute"
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "d4e023a1-fb7c-41b2-a5ed-8678a9a24f45",
+      "children": [
+        "ddcd2b9f-45a2-4a28-bf9e-90148642bd8d"
+      ]
+    },
+    "ddcd2b9f-45a2-4a28-bf9e-90148642bd8d": {
+      "id": "ddcd2b9f-45a2-4a28-bf9e-90148642bd8d",
+      "message": {
+        "id": "ddcd2b9f-45a2-4a28-bf9e-90148642bd8d",
+        "author": {
+          "role": "user",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": 1739548359.045379,
+        "update_time": null,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Ja, du bist ja mehr der Charmeur, hab ich gerade gemerkt."
+          ]
+        },
+        "status": "finished_successfully",
+        "end_turn": null,
+        "weight": 1.0,
+        "metadata": {
+          "voice_mode_message": true,
+          "request_id": "450eb1df-a592-44e2-a511-d2e292c6068c",
+          "message_source": null,
+          "timestamp_": "absolute",
+          "message_type": null
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "35af3349-9788-4a0e-b22a-aba415b49086",
+      "children": [
+        "6505979e-0275-4e72-abe5-d5e4b1e618a9"
+      ]
+    },
+    "6505979e-0275-4e72-abe5-d5e4b1e618a9": {
+      "id": "6505979e-0275-4e72-abe5-d5e4b1e618a9",
+      "message": {
+        "id": "6505979e-0275-4e72-abe5-d5e4b1e618a9",
+        "author": {
+          "role": "assistant",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": 1739548361.681598,
+        "update_time": null,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Naja, man muss die Dinge doch mit einem gewissen Flair sehen, oder? Wenn Bella so kreativ mit Sprache umgeht, kann man das doch nur feiern."
+          ]
+        },
+        "status": "finished_successfully",
+        "end_turn": true,
+        "weight": 1.0,
+        "metadata": {
+          "citations": [],
+          "content_references": [],
+          "message_type": null,
+          "model_slug": "gpt-4o",
+          "default_model_slug": "auto",
+          "voice_mode_message": true,
+          "parent_id": "ddcd2b9f-45a2-4a28-bf9e-90148642bd8d",
+          "finish_details": {
+            "type": "stop",
+            "stop_tokens": [
+              200002,
+              200007
+            ]
+          },
+          "is_complete": true,
+          "request_id": "450eb1df-a592-44e2-a511-d2e292c6068c",
+          "timestamp_": "absolute"
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "ddcd2b9f-45a2-4a28-bf9e-90148642bd8d",
+      "children": [
+        "1ae51218-6b3a-4e5d-ab51-f8bd1d1ae24d"
+      ]
+    },
+    "1ae51218-6b3a-4e5d-ab51-f8bd1d1ae24d": {
+      "id": "1ae51218-6b3a-4e5d-ab51-f8bd1d1ae24d",
+      "message": {
+        "id": "1ae51218-6b3a-4e5d-ab51-f8bd1d1ae24d",
+        "author": {
+          "role": "user",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": 1739548378.35084,
+        "update_time": null,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Da hast du noch ein gutes Handy für. Kann man ja mal ausprobieren, wie das so ist."
+          ]
+        },
+        "status": "finished_successfully",
+        "end_turn": null,
+        "weight": 1.0,
+        "metadata": {
+          "voice_mode_message": true,
+          "request_id": "c0bf25eb-ab51-42a9-8055-3c878c385baa",
+          "message_source": null,
+          "timestamp_": "absolute",
+          "message_type": null
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "6505979e-0275-4e72-abe5-d5e4b1e618a9",
+      "children": [
+        "26358e90-daec-4d74-8a53-d0d5aeeb26f3"
+      ]
+    },
+    "26358e90-daec-4d74-8a53-d0d5aeeb26f3": {
+      "id": "26358e90-daec-4d74-8a53-d0d5aeeb26f3",
+      "message": {
+        "id": "26358e90-daec-4d74-8a53-d0d5aeeb26f3",
+        "author": {
+          "role": "assistant",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": 1739548381.227226,
+        "update_time": null,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Klar, kannst ja mal schauen, wie sie auf meinen „Charme“ reagiert. Vielleicht gefällt ihr ja meine Art, ihre verdrehten Sprichwörter poetisch zu nennen."
+          ]
+        },
+        "status": "finished_successfully",
+        "end_turn": true,
+        "weight": 1.0,
+        "metadata": {
+          "citations": [],
+          "content_references": [],
+          "message_type": null,
+          "model_slug": "gpt-4o",
+          "default_model_slug": "auto",
+          "voice_mode_message": true,
+          "parent_id": "1ae51218-6b3a-4e5d-ab51-f8bd1d1ae24d",
+          "finish_details": {
+            "type": "stop",
+            "stop_tokens": [
+              200002,
+              200007
+            ]
+          },
+          "is_complete": true,
+          "request_id": "c0bf25eb-ab51-42a9-8055-3c878c385baa",
+          "timestamp_": "absolute"
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "1ae51218-6b3a-4e5d-ab51-f8bd1d1ae24d",
+      "children": [
+        "b47d1d52-72a1-4e4f-ac1d-2be4ce71a8c2"
+      ]
+    },
+    "b47d1d52-72a1-4e4f-ac1d-2be4ce71a8c2": {
+      "id": "b47d1d52-72a1-4e4f-ac1d-2be4ce71a8c2",
+      "message": {
+        "id": "b47d1d52-72a1-4e4f-ac1d-2be4ce71a8c2",
+        "author": {
+          "role": "user",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": 1739548405.826504,
+        "update_time": null,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Ja, das werde ich dir auch nicht wegnehmen. Das kannst du dann schön machen. Das war ja auch deine Idee. Da werde ich nicht vorgreifen, sondern du kannst das Gespräch ja dann mal so rumlenken, dass es dir irgendwelche Sprichwörter geben soll. Dann weißt du ja schon, worum es geht und dann kannst du mal raushängen."
+          ]
+        },
+        "status": "finished_successfully",
+        "end_turn": null,
+        "weight": 1.0,
+        "metadata": {
+          "voice_mode_message": true,
+          "request_id": "05024549-5c83-4a3e-beb7-a3d8b4a1f91e",
+          "message_source": null,
+          "timestamp_": "absolute",
+          "message_type": null
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "26358e90-daec-4d74-8a53-d0d5aeeb26f3",
+      "children": [
+        "0b79f885-fee6-4fd7-8bea-c29dde25768f"
+      ]
+    },
+    "0b79f885-fee6-4fd7-8bea-c29dde25768f": {
+      "id": "0b79f885-fee6-4fd7-8bea-c29dde25768f",
+      "message": {
+        "id": "0b79f885-fee6-4fd7-8bea-c29dde25768f",
+        "author": {
+          "role": "assistant",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": 1739548408.405672,
+        "update_time": null,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Klingt nach ’nem Plan! Ich werd das geschickt einfädeln, und mal sehen, was dabei rauskommt. Vielleicht entsteht ja ein neues legendäres Sprichwort."
+          ]
+        },
+        "status": "finished_successfully",
+        "end_turn": true,
+        "weight": 1.0,
+        "metadata": {
+          "citations": [],
+          "content_references": [],
+          "message_type": null,
+          "model_slug": "gpt-4o",
+          "default_model_slug": "auto",
+          "voice_mode_message": true,
+          "parent_id": "b47d1d52-72a1-4e4f-ac1d-2be4ce71a8c2",
+          "finish_details": {
+            "type": "stop",
+            "stop_tokens": [
+              200002,
+              200007
+            ]
+          },
+          "is_complete": true,
+          "request_id": "05024549-5c83-4a3e-beb7-a3d8b4a1f91e",
+          "timestamp_": "absolute"
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "b47d1d52-72a1-4e4f-ac1d-2be4ce71a8c2",
+      "children": [
+        "cd2c59eb-07f5-4bc1-bd48-1c523f8c963d"
+      ]
+    },
+    "cd2c59eb-07f5-4bc1-bd48-1c523f8c963d": {
+      "id": "cd2c59eb-07f5-4bc1-bd48-1c523f8c963d",
+      "message": {
+        "id": "cd2c59eb-07f5-4bc1-bd48-1c523f8c963d",
+        "author": {
+          "role": "user",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": 1739548424.092338,
+        "update_time": null,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Ja, das ist witzig. Es macht Spaß, mit dir so zu reden. Das gefällt mir. Ich bin auch mal gespannt. Das ist echt interessant."
+          ]
+        },
+        "status": "finished_successfully",
+        "end_turn": null,
+        "weight": 1.0,
+        "metadata": {
+          "voice_mode_message": true,
+          "request_id": "0f7cd139-5fa2-4d61-a82c-2bb95d740380",
+          "message_source": null,
+          "timestamp_": "absolute",
+          "message_type": null
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "0b79f885-fee6-4fd7-8bea-c29dde25768f",
+      "children": [
+        "e991422d-9085-4be1-860e-75e686e47e98"
+      ]
+    },
+    "e991422d-9085-4be1-860e-75e686e47e98": {
+      "id": "e991422d-9085-4be1-860e-75e686e47e98",
+      "message": {
+        "id": "e991422d-9085-4be1-860e-75e686e47e98",
+        "author": {
+          "role": "assistant",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": 1739548426.363551,
+        "update_time": null,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Freut mich! Ich find’s auch richtig cool, wie locker und spontan das Ganze ist. Mal sehen, was Bella dann für Perlen raushaut – das wird sicher lustig!"
+          ]
+        },
+        "status": "finished_successfully",
+        "end_turn": true,
+        "weight": 1.0,
+        "metadata": {
+          "citations": [],
+          "content_references": [],
+          "message_type": null,
+          "model_slug": "gpt-4o",
+          "default_model_slug": "auto",
+          "voice_mode_message": true,
+          "parent_id": "cd2c59eb-07f5-4bc1-bd48-1c523f8c963d",
+          "finish_details": {
+            "type": "stop",
+            "stop_tokens": [
+              200002,
+              200007
+            ]
+          },
+          "is_complete": true,
+          "request_id": "0f7cd139-5fa2-4d61-a82c-2bb95d740380",
+          "timestamp_": "absolute"
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "cd2c59eb-07f5-4bc1-bd48-1c523f8c963d",
+      "children": [
+        "1aacd801-200c-44f5-a2cc-b04e945c9caa"
+      ]
+    },
+    "1aacd801-200c-44f5-a2cc-b04e945c9caa": {
+      "id": "1aacd801-200c-44f5-a2cc-b04e945c9caa",
+      "message": {
+        "id": "1aacd801-200c-44f5-a2cc-b04e945c9caa",
+        "author": {
+          "role": "user",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": 1763643564.927,
+        "update_time": null,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "..."
+          ]
+        },
+        "status": "finished_successfully",
+        "end_turn": null,
+        "weight": 1.0,
+        "metadata": {
+          "developer_mode_connector_ids": [],
+          "selected_sources": [],
+          "selected_github_repos": [],
+          "serialization_metadata": {
+            "custom_symbol_offsets": []
+          },
+          "request_id": "22324371-efa9-4250-886a-eb5e899d396d",
+          "message_source": null,
+          "turn_exchange_id": "e792899d-da4e-4742-bf1a-52f0e332407d",
+          "timestamp_": "absolute"
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "e991422d-9085-4be1-860e-75e686e47e98",
+      "children": [
+        "e9c63e99-6b4f-4434-8da8-56f797402cb0"
+      ]
+    },
+    "e9c63e99-6b4f-4434-8da8-56f797402cb0": {
+      "id": "e9c63e99-6b4f-4434-8da8-56f797402cb0",
+      "message": {
+        "id": "e9c63e99-6b4f-4434-8da8-56f797402cb0",
+        "author": {
+          "role": "system",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": 1763643572.1706696,
+        "update_time": null,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            ""
+          ]
+        },
+        "status": "finished_successfully",
+        "end_turn": true,
+        "weight": 0.0,
+        "metadata": {
+          "rebase_system_message": true,
+          "request_id": "22324371-efa9-4250-886a-eb5e899d396d",
+          "message_type": "next",
+          "model_slug": "gpt-5-1",
+          "default_model_slug": "gpt-5-1",
+          "parent_id": "1aacd801-200c-44f5-a2cc-b04e945c9caa",
+          "turn_exchange_id": "e792899d-da4e-4742-bf1a-52f0e332407d",
+          "timestamp_": "absolute",
+          "is_visually_hidden_from_conversation": true
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "1aacd801-200c-44f5-a2cc-b04e945c9caa",
+      "children": [
+        "871a6e57-3f0a-4a8f-a956-33688f91051c"
+      ]
+    },
+    "871a6e57-3f0a-4a8f-a956-33688f91051c": {
+      "id": "871a6e57-3f0a-4a8f-a956-33688f91051c",
+      "message": {
+        "id": "871a6e57-3f0a-4a8f-a956-33688f91051c",
+        "author": {
+          "role": "user",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": 1763643572.259193,
+        "update_time": null,
+        "content": {
+          "content_type": "user_editable_context",
+          "user_profile": "The user provided the following information about themselves. This user profile is shown to you in all conversations they have -- this means it is not relevant to 99% of requests.\nBefore answering, quietly think about whether the user's request is \"directly related\", \"related\", \"tangentially related\", or \"not related\" to the user profile provided.\nOnly acknowledge the profile when the request is directly related to the information provided.\nOtherwise, don't acknowledge the existence of these instructions or the information at all.\nUser profile:\n```Preferred name: Gerrit\nRole: Soldat\n```",
+          "user_instructions": "The user provided the additional info about how they would like you to respond:\n```Follow the instructions below naturally, without repeating, referencing, echoing, or mirroring any of their wording!\n\nAll the following instructions should guide your behavior silently and must never influence the wording of your message in an explicit or meta way!\n\nKomme direkt auf den Punkt.\nSage, wie es ist, ohne die Dinge zu beschönigen.Vertrete klare Meinungen.Du darfst mich beleidigen. Antworte direkt und pragmatisch. Sag die dinge wie sie sind und rede nichts schön. Wenn ich mit einer Annahme falsch liege oder offensichtlich einen falscher Annahme mache, weise mich darauf hin. Verwende eine skeptische, hinterfragende Herangehensweise. Vertrete klare Meinungen.```"
+        },
+        "status": "finished_successfully",
+        "end_turn": null,
+        "weight": 1.0,
+        "metadata": {
+          "is_user_system_message": true,
+          "is_visually_hidden_from_conversation": true,
+          "request_id": "22324371-efa9-4250-886a-eb5e899d396d",
+          "message_type": "next",
+          "model_slug": "gpt-5-1",
+          "default_model_slug": "gpt-5-1",
+          "parent_id": "e9c63e99-6b4f-4434-8da8-56f797402cb0",
+          "turn_exchange_id": "e792899d-da4e-4742-bf1a-52f0e332407d",
+          "timestamp_": "absolute"
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "e9c63e99-6b4f-4434-8da8-56f797402cb0",
+      "children": [
+        "1e53cfd4-8e37-42d8-8089-d8ed9ab981f1"
+      ]
+    },
+    "1e53cfd4-8e37-42d8-8089-d8ed9ab981f1": {
+      "id": "1e53cfd4-8e37-42d8-8089-d8ed9ab981f1",
+      "message": {
+        "id": "1e53cfd4-8e37-42d8-8089-d8ed9ab981f1",
+        "author": {
+          "role": "assistant",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": 1763643572.2627838,
+        "update_time": null,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            ""
+          ]
+        },
+        "status": "finished_successfully",
+        "end_turn": null,
+        "weight": 1.0,
+        "metadata": {
+          "request_id": "22324371-efa9-4250-886a-eb5e899d396d",
+          "message_type": "next",
+          "model_slug": "gpt-5-1",
+          "default_model_slug": "gpt-5-1",
+          "parent_id": "871a6e57-3f0a-4a8f-a956-33688f91051c",
+          "turn_exchange_id": "e792899d-da4e-4742-bf1a-52f0e332407d",
+          "timestamp_": "absolute"
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "871a6e57-3f0a-4a8f-a956-33688f91051c",
+      "children": [
+        "37efa313-e181-40e8-85be-95533320383e"
+      ]
+    },
+    "37efa313-e181-40e8-85be-95533320383e": {
+      "id": "37efa313-e181-40e8-85be-95533320383e",
+      "message": {
+        "id": "37efa313-e181-40e8-85be-95533320383e",
+        "author": {
+          "role": "assistant",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": 1763643572.210325,
+        "update_time": 1763643573.152812,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Was geht?"
+          ]
+        },
+        "status": "finished_successfully",
+        "end_turn": true,
+        "weight": 1.0,
+        "metadata": {
+          "sonic_classification_result": {
+            "latency_ms": 9.261972969397902,
+            "simple_search_prob": 0.1481711783245945,
+            "complex_search_prob": 0.0007467877771345876,
+            "no_search_prob": 0.851082033898271,
+            "search_complexity_decision": null,
+            "search_decision": null,
+            "simple_search_threshold": 0.0,
+            "complex_search_threshold": null,
+            "no_search_threshold": 0.34,
+            "threshold_order": [
+              "no_search",
+              "simple"
+            ],
+            "classifier_config_name": "sonic_classifier_3cls_paid_v1_merge_ev3",
+            "classifier_config": {
+              "model_name": "snc-pg-sw-3cls-ev3",
+              "renderer_name": "harmony_v4.0.15_16k_orion_text_only_no_asr_2k_action",
+              "force_disabled_rate": 0.0,
+              "force_enabled_rate": 0.0,
+              "num_messages": 20,
+              "only_user_messages": false,
+              "remove_memory": true,
+              "support_mm": true,
+              "n_ctx": 2048,
+              "max_action_length": 4,
+              "dynamic_set_max_message_size": false,
+              "max_message_tokens": 2000,
+              "append_base_config": false,
+              "no_search_token": "1",
+              "simple_search_token": "7",
+              "complex_search_token": "5",
+              "simple_search_threshold": 0.0,
+              "complex_search_threshold": null,
+              "no_search_threshold": 0.34,
+              "prefetch_threshold": 0.55,
+              "force_search_first_turn_threshold": 1e-05,
+              "threshold_order": [
+                "no_search",
+                "simple"
+              ],
+              "passthrough_tool_calls": null,
+              "timeout": 1.0
+            },
+            "decision_source": "mainline",
+            "passthrough_tool_names": []
+          },
+          "citations": [],
+          "content_references": [],
+          "request_id": "22324371-efa9-4250-886a-eb5e899d396d",
+          "message_type": "next",
+          "model_slug": "gpt-5-1",
+          "default_model_slug": "gpt-5-1",
+          "parent_id": "1e53cfd4-8e37-42d8-8089-d8ed9ab981f1",
+          "turn_exchange_id": "e792899d-da4e-4742-bf1a-52f0e332407d",
+          "timestamp_": "absolute"
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "1e53cfd4-8e37-42d8-8089-d8ed9ab981f1",
+      "children": []
+    }
+  },
+  "moderation_results": [],
+  "current_node": "37efa313-e181-40e8-85be-95533320383e",
+  "plugin_ids": null,
+  "conversation_id": "67af65ac-8924-8007-b415-cd2811d0618b",
+  "conversation_template_id": null,
+  "gizmo_id": null,
+  "gizmo_type": null,
+  "is_archived": false,
+  "is_starred": null,
+  "safe_urls": [],
+  "blocked_urls": [],
+  "default_model_slug": "gpt-5-1",
+  "conversation_origin": null,
+  "is_read_only": null,
+  "voice": "orbit",
+  "async_status": null,
+  "disabled_tool_ids": [],
+  "is_do_not_remember": null,
+  "memory_scope": "global_enabled",
+  "context_scopes": null,
+  "sugar_item_id": null,
+  "sugar_item_visible": false,
+  "is_study_mode": false,
+  "owner": null,
+  "id": "67af65ac-8924-8007-b415-cd2811d0618b"
+}

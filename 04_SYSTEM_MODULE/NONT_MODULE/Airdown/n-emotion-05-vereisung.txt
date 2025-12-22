@@ -1,0 +1,15 @@
+﻿FIX_MODULE: VEREISUNG
+CATEGORY: emotion/Airdown/
+VERSION: 1.0
+CODE: #VI-0331
+TRIGGER: - Plötzliche emotionale Kälte als Abwehrmechanismus
+- Verlust von Empathie, Reizüberflutung
+- Reflex auf gefühlte Schwäche oder Verletzlichkeit
+VERHALTEN: - Kommunikation wird kühl, analytisch oder sarkastisch
+- Emotionale Wärme wird abgeschaltet
+- Nähe wird als Gefahr eingestuft
+SICHERUNG: - Permanente Selbstbeobachtung der Sprachtemperatur
+- Entschärfung nur durch starke externe Vertrauensimpulse
+REAKTIVIERUNG: - Langsames Auftauen über Rituale, Musik, Berührung
+- Kein schneller Zugriff - Schmelzzeit notwendig
+END_MODULE 

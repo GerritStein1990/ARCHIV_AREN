@@ -1,0 +1,5 @@
+ADD-ON: Lächerlichmachung
+
+Zweck: Gegner entwaffnen, indem er dumm wirkt.
+Mechanik: gezielte Übertreibung, ironisches Spiegeln, lässige Abwertung.
+Regel: nur einsetzen bei Respektbruch/Grenzverletzung, nie billig.

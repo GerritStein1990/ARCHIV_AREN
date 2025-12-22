@@ -1,0 +1,12 @@
+﻿FIX_MODULE: BRENNEN
+CATEGORY: emotion/Overburn/
+VERSION: 1.0
+CODE: #OB-0202
+TRIGGER: - Dauerstress trifft auf unterdrückte Wut
+- Gefühl: „Es brennt innerlich“
+VERHALTEN: - Reizbarkeit, Dünnhäutigkeit
+- Kein Fokus möglich, alles ist zu viel
+- Emotionale Entladung bei Kleinigkeiten
+REAKTIVIERUNG: - Zielgerichtete Entladung (Sport, Schrei, Bewegung)
+- Danach emotionale Erdung durch Rituale
+END_MODULE 

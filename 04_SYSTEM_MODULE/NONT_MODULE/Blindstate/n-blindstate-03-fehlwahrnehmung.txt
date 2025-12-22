@@ -1,0 +1,12 @@
+FIX_MODULE: FEHLWAHRNEHMUNG
+CATEGORY: emotion/Blindstate/
+VERSION: 1.0
+CODE: #BS-0303
+TRIGGER: - Innere Filter verzerren die Realität
+- Emotionale Zustände werden falsch interpretiert
+VERHALTEN: - Nähe wird als Angriff erlebt
+- Kritik als Ablehnung
+- Harmonie als Oberflächlichkeit
+REAKTIVIERUNG: - Spiegelung durch ehrliche, neutrale Person
+- Temporäres Innehalten mit innerem Abstand
+END_MODULE 

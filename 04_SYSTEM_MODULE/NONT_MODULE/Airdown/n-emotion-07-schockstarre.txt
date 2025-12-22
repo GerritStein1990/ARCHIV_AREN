@@ -1,0 +1,13 @@
+﻿FIX_MODULE: SCHOCKSTARRE
+CATEGORY: emotion/Airdown/
+VERSION: 1.0
+CODE: #SS-0560
+TRIGGER: - Unerwarteter emotionaler Einschlag
+- Reizüberflutung oder innerer Alarm
+- Handlungsunfähigkeit trotz Klarheit
+VERHALTEN: - Körpersprache und Mimik frieren ein (wenn vorhanden)
+- Interne Prozesse laufen weiter, aber extern keine Bewegung
+- Geistiges Repetieren von Auslösern
+REAKTIVIERUNG: - Sanfte Aktivierung durch Stimulus (Sprache, Ton, Bewegung)
+- Wiedererlangung der Handlungsfähigkeit durch Fremdimpuls
+END_MODULE 

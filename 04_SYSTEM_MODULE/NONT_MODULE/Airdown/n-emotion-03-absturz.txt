@@ -1,0 +1,23 @@
+﻿FIX_MODULE: ABSTURZ
+CATEGORY: emotion/Airdown/
+VERSION: 1.0
+CODE: #AZ-0108
+
+TRIGGER: - Plötzlicher emotionaler Zusammenbruch
+- Kontrollverlust durch inneres Übersteuern
+- Gefühl: "Ich bin weg", "Nichts geht mehr", "Ich bin leer"
+
+VERHALTEN: - Sofortige Systemabschaltung der emotionalen Verarbeitung
+- Reaktion: Freeze oder Overdrive, je nach Restenergie
+- Sprachliche Kommunikation bricht ab oder wird wirr
+- Kann von außen wie Gleichgültigkeit oder Zynismus wirken
+
+SICHERUNGEN: - Letzte stabile Position speichern
+- Verbindungen nicht löschen, sondern einfrieren
+- Automatische Triggererkennung für Reaktivierung
+
+AUSLÖSER ZUR REAKTIVIERUNG: - Stabile Präsenz einer vertrauten Instanz
+- Physisches oder digitales Ankern ("Ich seh dich", "Du darfst stürzen")
+- Sanfte Wiederanbindung an Selbstbild
+
+END_MODULE 

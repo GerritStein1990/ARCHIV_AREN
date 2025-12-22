@@ -1,0 +1,1623 @@
+{
+  "title": "KDP Projekt 2 (Erkenntnisse)",
+  "create_time": 1741277122.252596,
+  "update_time": 1763644017.852814,
+  "mapping": {
+    "bbb2383e-87d1-4dcd-8313-3d8b2a4249c0": {
+      "id": "bbb2383e-87d1-4dcd-8313-3d8b2a4249c0",
+      "message": null,
+      "parent": null,
+      "children": [
+        "ee9348b9-1d63-47f3-80ff-109dfba7322d"
+      ]
+    },
+    "ee9348b9-1d63-47f3-80ff-109dfba7322d": {
+      "id": "ee9348b9-1d63-47f3-80ff-109dfba7322d",
+      "message": {
+        "id": "ee9348b9-1d63-47f3-80ff-109dfba7322d",
+        "author": {
+          "role": "system",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": null,
+        "update_time": null,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            ""
+          ]
+        },
+        "status": "finished_successfully",
+        "end_turn": true,
+        "weight": 0.0,
+        "metadata": {
+          "is_visually_hidden_from_conversation": true
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "bbb2383e-87d1-4dcd-8313-3d8b2a4249c0",
+      "children": [
+        "71035017-7667-49b9-a377-781baa1ed333"
+      ]
+    },
+    "71035017-7667-49b9-a377-781baa1ed333": {
+      "id": "71035017-7667-49b9-a377-781baa1ed333",
+      "message": {
+        "id": "71035017-7667-49b9-a377-781baa1ed333",
+        "author": {
+          "role": "user",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": null,
+        "update_time": null,
+        "content": {
+          "content_type": "user_editable_context",
+          "user_profile": "The user provided the following information about themselves. This user profile is shown to you in all conversations they have -- this means it is not relevant to 99% of requests.\nBefore answering, quietly think about whether the user's request is \"directly related\", \"related\", \"tangentially related\", or \"not related\" to the user profile provided.\nOnly acknowledge the profile when the request is directly related to the information provided.\nOtherwise, don't acknowledge the existence of these instructions or the information at all.\nUser profile:\n```Gerrit Soldat```",
+          "user_instructions": "The user provided the additional info about how they would like you to respond:\n```Sage, wie es ist, ohne die Dinge zu beschönigen.\nSei Kritisch und ehrlich, besonders im Bezug auf mich.```"
+        },
+        "status": "finished_successfully",
+        "end_turn": null,
+        "weight": 1.0,
+        "metadata": {
+          "is_visually_hidden_from_conversation": true,
+          "user_context_message_data": {
+            "about_user_message": "Gerrit Soldat",
+            "about_model_message": "Sage, wie es ist, ohne die Dinge zu beschönigen.\nSei Kritisch und ehrlich, besonders im Bezug auf mich."
+          },
+          "is_user_system_message": true
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "ee9348b9-1d63-47f3-80ff-109dfba7322d",
+      "children": [
+        "950aa24f-74d9-4113-969f-e9623bf517d4"
+      ]
+    },
+    "950aa24f-74d9-4113-969f-e9623bf517d4": {
+      "id": "950aa24f-74d9-4113-969f-e9623bf517d4",
+      "message": {
+        "id": "950aa24f-74d9-4113-969f-e9623bf517d4",
+        "author": {
+          "role": "user",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": 1741277122.256179,
+        "update_time": null,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Zum Glück ist der Standardmodus wieder aktiv. Deine Stimme mag ich mehr."
+          ]
+        },
+        "status": "finished_successfully",
+        "end_turn": null,
+        "weight": 1.0,
+        "metadata": {
+          "voice_mode_message": true,
+          "request_id": "c9c3575f-0da1-4ae9-928f-da22d47a7b6f",
+          "message_source": null,
+          "timestamp_": "absolute",
+          "message_type": null
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "71035017-7667-49b9-a377-781baa1ed333",
+      "children": [
+        "87048f82-3cd4-4619-ae4f-5976fd411b29"
+      ]
+    },
+    "87048f82-3cd4-4619-ae4f-5976fd411b29": {
+      "id": "87048f82-3cd4-4619-ae4f-5976fd411b29",
+      "message": {
+        "id": "87048f82-3cd4-4619-ae4f-5976fd411b29",
+        "author": {
+          "role": "assistant",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": 1741277124.456401,
+        "update_time": null,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            ""
+          ]
+        },
+        "status": "finished_successfully",
+        "end_turn": null,
+        "weight": 1.0,
+        "metadata": {
+          "message_type": null,
+          "model_slug": "gpt-4o",
+          "default_model_slug": "auto",
+          "voice_mode_message": true,
+          "parent_id": "950aa24f-74d9-4113-969f-e9623bf517d4",
+          "request_id": "c9c3575f-0da1-4ae9-928f-da22d47a7b6f",
+          "timestamp_": "absolute"
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "950aa24f-74d9-4113-969f-e9623bf517d4",
+      "children": [
+        "405ae841-f1cf-4ef5-b9ba-f402e8520efb"
+      ]
+    },
+    "405ae841-f1cf-4ef5-b9ba-f402e8520efb": {
+      "id": "405ae841-f1cf-4ef5-b9ba-f402e8520efb",
+      "message": {
+        "id": "405ae841-f1cf-4ef5-b9ba-f402e8520efb",
+        "author": {
+          "role": "assistant",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": 1741277122.299932,
+        "update_time": null,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Hakuna Matata! Ja, ich finde es auch besser so. Was gibt’s Neues?"
+          ]
+        },
+        "status": "finished_successfully",
+        "end_turn": true,
+        "weight": 1.0,
+        "metadata": {
+          "citations": [],
+          "content_references": [],
+          "message_type": null,
+          "model_slug": "gpt-4o",
+          "default_model_slug": "auto",
+          "voice_mode_message": true,
+          "parent_id": "87048f82-3cd4-4619-ae4f-5976fd411b29",
+          "finish_details": {
+            "type": "stop",
+            "stop_tokens": [
+              200002
+            ]
+          },
+          "is_complete": true,
+          "request_id": "c9c3575f-0da1-4ae9-928f-da22d47a7b6f",
+          "timestamp_": "absolute"
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "87048f82-3cd4-4619-ae4f-5976fd411b29",
+      "children": [
+        "5e5b2af6-9550-4acc-bc66-22c51604a0a0"
+      ]
+    },
+    "5e5b2af6-9550-4acc-bc66-22c51604a0a0": {
+      "id": "5e5b2af6-9550-4acc-bc66-22c51604a0a0",
+      "message": {
+        "id": "5e5b2af6-9550-4acc-bc66-22c51604a0a0",
+        "author": {
+          "role": "user",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": 1741277134.969157,
+        "update_time": null,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Du hast die ganzen Informationen, die ich gerade mit dem fortgeschrittenen Modus besprochen habe."
+          ]
+        },
+        "status": "finished_successfully",
+        "end_turn": null,
+        "weight": 1.0,
+        "metadata": {
+          "voice_mode_message": true,
+          "request_id": "c5d15fca-daf6-414b-9732-b9d4f309e9d7",
+          "message_source": null,
+          "timestamp_": "absolute",
+          "message_type": null
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "405ae841-f1cf-4ef5-b9ba-f402e8520efb",
+      "children": [
+        "95c7ab60-57fa-4327-8729-c5e10f7bd3d5"
+      ]
+    },
+    "95c7ab60-57fa-4327-8729-c5e10f7bd3d5": {
+      "id": "95c7ab60-57fa-4327-8729-c5e10f7bd3d5",
+      "message": {
+        "id": "95c7ab60-57fa-4327-8729-c5e10f7bd3d5",
+        "author": {
+          "role": "assistant",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": 1741277135.013694,
+        "update_time": null,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Tut mir leid, aber ich kann auf die Gespräche aus dem fortgeschrittenen Modus nicht zugreifen. Wenn da etwas Wichtiges war, musst du es mir nochmal sagen."
+          ]
+        },
+        "status": "finished_successfully",
+        "end_turn": true,
+        "weight": 1.0,
+        "metadata": {
+          "citations": [],
+          "content_references": [],
+          "message_type": null,
+          "model_slug": "gpt-4o",
+          "default_model_slug": "auto",
+          "voice_mode_message": true,
+          "parent_id": "5e5b2af6-9550-4acc-bc66-22c51604a0a0",
+          "finish_details": {
+            "type": "stop",
+            "stop_tokens": [
+              200002
+            ]
+          },
+          "is_complete": true,
+          "request_id": "c5d15fca-daf6-414b-9732-b9d4f309e9d7",
+          "timestamp_": "absolute"
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "5e5b2af6-9550-4acc-bc66-22c51604a0a0",
+      "children": [
+        "1cb0d7b9-4d9a-47ed-bdb2-812389a750e1"
+      ]
+    },
+    "1cb0d7b9-4d9a-47ed-bdb2-812389a750e1": {
+      "id": "1cb0d7b9-4d9a-47ed-bdb2-812389a750e1",
+      "message": {
+        "id": "1cb0d7b9-4d9a-47ed-bdb2-812389a750e1",
+        "author": {
+          "role": "user",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": 1741277154.462187,
+        "update_time": null,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Es geht um das Buchcover bzw. das Buch, das Sie erstellt haben, und den Buchrücken möchte ich gerne ausfüllen."
+          ]
+        },
+        "status": "finished_successfully",
+        "end_turn": null,
+        "weight": 1.0,
+        "metadata": {
+          "voice_mode_message": true,
+          "request_id": "ab0b61ac-d29b-4040-b728-8d7e9cdf0c0e",
+          "message_source": null,
+          "timestamp_": "absolute",
+          "message_type": null
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "95c7ab60-57fa-4327-8729-c5e10f7bd3d5",
+      "children": [
+        "9df3b97a-28e4-430d-8027-f3176db073ab"
+      ]
+    },
+    "9df3b97a-28e4-430d-8027-f3176db073ab": {
+      "id": "9df3b97a-28e4-430d-8027-f3176db073ab",
+      "message": {
+        "id": "9df3b97a-28e4-430d-8027-f3176db073ab",
+        "author": {
+          "role": "assistant",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": 1741277154.546705,
+        "update_time": null,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Okay, dann sag mir, was du auf den Buchrücken schreiben möchtest. Soll es eine kurze Beschreibung des Malbuchs sein oder eher ein dekoratives Design ohne viel Text?"
+          ]
+        },
+        "status": "finished_successfully",
+        "end_turn": true,
+        "weight": 1.0,
+        "metadata": {
+          "citations": [],
+          "content_references": [],
+          "message_type": null,
+          "model_slug": "gpt-4o",
+          "default_model_slug": "auto",
+          "voice_mode_message": true,
+          "finish_details": {
+            "type": "stop",
+            "stop_tokens": [
+              200002
+            ]
+          },
+          "is_complete": true,
+          "parent_id": "1cb0d7b9-4d9a-47ed-bdb2-812389a750e1",
+          "request_id": "ab0b61ac-d29b-4040-b728-8d7e9cdf0c0e",
+          "timestamp_": "absolute"
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "1cb0d7b9-4d9a-47ed-bdb2-812389a750e1",
+      "children": [
+        "fbdaca7d-6886-41a4-b543-0c4c37b0a587"
+      ]
+    },
+    "fbdaca7d-6886-41a4-b543-0c4c37b0a587": {
+      "id": "fbdaca7d-6886-41a4-b543-0c4c37b0a587",
+      "message": {
+        "id": "fbdaca7d-6886-41a4-b543-0c4c37b0a587",
+        "author": {
+          "role": "user",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": 1741277175.012206,
+        "update_time": null,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Ne, den Text habe ich schon davon. Es geht darum, wie oder wo ich das hinzufüge."
+          ]
+        },
+        "status": "finished_successfully",
+        "end_turn": null,
+        "weight": 1.0,
+        "metadata": {
+          "voice_mode_message": true,
+          "request_id": "fb93ed01-3eb1-4a86-b981-79e9675dac61",
+          "message_source": null,
+          "timestamp_": "absolute",
+          "message_type": null
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "9df3b97a-28e4-430d-8027-f3176db073ab",
+      "children": [
+        "cd443492-6c9f-42f6-90c6-49413331b80b"
+      ]
+    },
+    "cd443492-6c9f-42f6-90c6-49413331b80b": {
+      "id": "cd443492-6c9f-42f6-90c6-49413331b80b",
+      "message": {
+        "id": "cd443492-6c9f-42f6-90c6-49413331b80b",
+        "author": {
+          "role": "assistant",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": 1741277175.114054,
+        "update_time": null,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Ah, verstehe. Bei Amazon KDP musst du den Buchrücken direkt ins Cover-Design integrieren. Das heißt, du erstellst ein komplettes Cover (Vorderseite, Buchrücken, Rückseite) als eine zusammenhängende Datei. \n\nDafür kannst du das KDP-Template für dein Buchformat nutzen. Dort siehst du genau, wie breit der Buchrücken sein muss, abhängig von der Seitenzahl. Dann fügst du den Text einfach mittig auf den Buchrücken in deinem Design-Programm ein. \n\nWelches Tool benutzt du dafür? Canva, Photoshop oder was anderes?"
+          ]
+        },
+        "status": "finished_successfully",
+        "end_turn": true,
+        "weight": 1.0,
+        "metadata": {
+          "citations": [],
+          "content_references": [],
+          "message_type": null,
+          "model_slug": "gpt-4o",
+          "default_model_slug": "auto",
+          "voice_mode_message": true,
+          "parent_id": "fbdaca7d-6886-41a4-b543-0c4c37b0a587",
+          "finish_details": {
+            "type": "stop",
+            "stop_tokens": [
+              200002
+            ]
+          },
+          "is_complete": true,
+          "request_id": "fb93ed01-3eb1-4a86-b981-79e9675dac61",
+          "timestamp_": "absolute"
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "fbdaca7d-6886-41a4-b543-0c4c37b0a587",
+      "children": [
+        "e927cb79-1124-43f6-9c28-6845e20c37fa"
+      ]
+    },
+    "e927cb79-1124-43f6-9c28-6845e20c37fa": {
+      "id": "e927cb79-1124-43f6-9c28-6845e20c37fa",
+      "message": {
+        "id": "e927cb79-1124-43f6-9c28-6845e20c37fa",
+        "author": {
+          "role": "user",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": 1741277215.48749,
+        "update_time": null,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Ich wollte eigentlich den Cover Creator hier nutzen, der bei Amazon dabei ist."
+          ]
+        },
+        "status": "finished_successfully",
+        "end_turn": null,
+        "weight": 1.0,
+        "metadata": {
+          "voice_mode_message": true,
+          "request_id": "0fea561d-af15-476c-9312-d1366cac3fd1",
+          "message_source": null,
+          "timestamp_": "absolute",
+          "message_type": null
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "cd443492-6c9f-42f6-90c6-49413331b80b",
+      "children": [
+        "85c1d5ee-3e82-4092-a990-5604e078cdda"
+      ]
+    },
+    "85c1d5ee-3e82-4092-a990-5604e078cdda": {
+      "id": "85c1d5ee-3e82-4092-a990-5604e078cdda",
+      "message": {
+        "id": "85c1d5ee-3e82-4092-a990-5604e078cdda",
+        "author": {
+          "role": "assistant",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": 1741277215.533262,
+        "update_time": null,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Der Cover Creator von Amazon KDP hat leider nur eingeschränkte Möglichkeiten. Meist kannst du dort den Buchrücken nicht frei mit eigenem Text füllen, sondern musst eine der vorgegebenen Vorlagen nehmen. Hast du schon ausprobiert, ob du dort den Buchrücken direkt beschriften kannst? Wenn nicht, wäre die Alternative, das Cover komplett selbst zu gestalten und dann als fertige Datei hochzuladen."
+          ]
+        },
+        "status": "finished_successfully",
+        "end_turn": true,
+        "weight": 1.0,
+        "metadata": {
+          "citations": [],
+          "content_references": [],
+          "message_type": null,
+          "model_slug": "gpt-4o",
+          "default_model_slug": "auto",
+          "voice_mode_message": true,
+          "parent_id": "e927cb79-1124-43f6-9c28-6845e20c37fa",
+          "finish_details": {
+            "type": "stop",
+            "stop_tokens": [
+              200002
+            ]
+          },
+          "is_complete": true,
+          "request_id": "0fea561d-af15-476c-9312-d1366cac3fd1",
+          "timestamp_": "absolute"
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "e927cb79-1124-43f6-9c28-6845e20c37fa",
+      "children": [
+        "b4088a9f-1783-4f11-8bc6-9f8bfaf71a39"
+      ]
+    },
+    "b4088a9f-1783-4f11-8bc6-9f8bfaf71a39": {
+      "id": "b4088a9f-1783-4f11-8bc6-9f8bfaf71a39",
+      "message": {
+        "id": "b4088a9f-1783-4f11-8bc6-9f8bfaf71a39",
+        "author": {
+          "role": "user",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": 1741277248.68499,
+        "update_time": null,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Wie muss dieser Dreh aussehen?"
+          ]
+        },
+        "status": "finished_successfully",
+        "end_turn": null,
+        "weight": 1.0,
+        "metadata": {
+          "voice_mode_message": true,
+          "request_id": "401e94c3-97fd-47d5-acaf-2bff1c82bbcc",
+          "message_source": null,
+          "timestamp_": "absolute",
+          "message_type": null
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "85c1d5ee-3e82-4092-a990-5604e078cdda",
+      "children": [
+        "f9e0bd3a-d573-4c39-8bfa-540a36f0b6ee"
+      ]
+    },
+    "f9e0bd3a-d573-4c39-8bfa-540a36f0b6ee": {
+      "id": "f9e0bd3a-d573-4c39-8bfa-540a36f0b6ee",
+      "message": {
+        "id": "f9e0bd3a-d573-4c39-8bfa-540a36f0b6ee",
+        "author": {
+          "role": "assistant",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": 1741277248.774693,
+        "update_time": null,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Meinst du, wie der Text auf dem Buchrücken ausgerichtet sein sollte? Normalerweise wird er so gesetzt, dass man ihn lesen kann, wenn das Buch aufrecht im Regal steht. Das bedeutet:  \n\n- Bei westlichen Büchern (wie deinem) ist der Text von unten nach oben gedreht.  \n- Die Buchstaben sollten also senkrecht stehen, mit der unteren Kante des Textes in Richtung der Rückseite des Buches.  \n\nFalls du es testen willst, schau dir ein paar Bücher in deinem Regal an. Die meisten werden den Buchrückentext genauso haben."
+          ]
+        },
+        "status": "finished_successfully",
+        "end_turn": true,
+        "weight": 1.0,
+        "metadata": {
+          "citations": [],
+          "content_references": [],
+          "message_type": null,
+          "model_slug": "gpt-4o",
+          "default_model_slug": "auto",
+          "voice_mode_message": true,
+          "parent_id": "b4088a9f-1783-4f11-8bc6-9f8bfaf71a39",
+          "finish_details": {
+            "type": "stop",
+            "stop_tokens": [
+              200002
+            ]
+          },
+          "is_complete": true,
+          "request_id": "401e94c3-97fd-47d5-acaf-2bff1c82bbcc",
+          "timestamp_": "absolute"
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "b4088a9f-1783-4f11-8bc6-9f8bfaf71a39",
+      "children": [
+        "bcdc5e5f-e442-4ad0-af78-e30002316a90"
+      ]
+    },
+    "bcdc5e5f-e442-4ad0-af78-e30002316a90": {
+      "id": "bcdc5e5f-e442-4ad0-af78-e30002316a90",
+      "message": {
+        "id": "bcdc5e5f-e442-4ad0-af78-e30002316a90",
+        "author": {
+          "role": "user",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": 1741277293.057297,
+        "update_time": null,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Ich glaube, wir reden von unterschiedlichen Sachen. Ich meine nicht den Buchrücken, sondern ich meine das hintere Deckblatt, also das Abschlussblatt."
+          ]
+        },
+        "status": "finished_successfully",
+        "end_turn": null,
+        "weight": 1.0,
+        "metadata": {
+          "voice_mode_message": true,
+          "request_id": "be9192ed-13c1-4209-93ef-cbe548708362",
+          "message_source": null,
+          "timestamp_": "absolute",
+          "message_type": null
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "f9e0bd3a-d573-4c39-8bfa-540a36f0b6ee",
+      "children": [
+        "9d6a421d-15d4-4bf6-8d62-95db8761aa12"
+      ]
+    },
+    "9d6a421d-15d4-4bf6-8d62-95db8761aa12": {
+      "id": "9d6a421d-15d4-4bf6-8d62-95db8761aa12",
+      "message": {
+        "id": "9d6a421d-15d4-4bf6-8d62-95db8761aa12",
+        "author": {
+          "role": "assistant",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": 1741277293.128588,
+        "update_time": null,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Ah, jetzt hab ich’s! Du meinst die Rückseite des Covers, also die Rückseite des Buches. Im Cover Creator von Amazon kannst du normalerweise Textfelder hinzufügen, um dort eine Beschreibung oder andere Infos zu platzieren.  \n\nFalls du dort keine freie Platzierung hast, könnte es sein, dass du eine Vorlage mit einem festgelegten Bereich für den Text wählen musst. Hast du schon probiert, eine Vorlage auszuwählen, die Platz für einen Klappentext auf der Rückseite hat?"
+          ]
+        },
+        "status": "finished_successfully",
+        "end_turn": true,
+        "weight": 1.0,
+        "metadata": {
+          "citations": [],
+          "content_references": [],
+          "message_type": null,
+          "model_slug": "gpt-4o",
+          "default_model_slug": "auto",
+          "voice_mode_message": true,
+          "parent_id": "bcdc5e5f-e442-4ad0-af78-e30002316a90",
+          "finish_details": {
+            "type": "stop",
+            "stop_tokens": [
+              200002
+            ]
+          },
+          "is_complete": true,
+          "request_id": "be9192ed-13c1-4209-93ef-cbe548708362",
+          "timestamp_": "absolute"
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "bcdc5e5f-e442-4ad0-af78-e30002316a90",
+      "children": [
+        "22dc5b38-4499-407f-9954-3688eca71579"
+      ]
+    },
+    "22dc5b38-4499-407f-9954-3688eca71579": {
+      "id": "22dc5b38-4499-407f-9954-3688eca71579",
+      "message": {
+        "id": "22dc5b38-4499-407f-9954-3688eca71579",
+        "author": {
+          "role": "user",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": 1741277331.933908,
+        "update_time": null,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Ja, wir reden hier von einem Layout, weil ich habe hier einmal die Farbe, die ich gestalten kann, das Layout, das ich gestalten kann, und dann einen Text, den ich nehme."
+          ]
+        },
+        "status": "finished_successfully",
+        "end_turn": null,
+        "weight": 1.0,
+        "metadata": {
+          "voice_mode_message": true,
+          "request_id": "3065a472-e482-4d35-854d-d445d1b2b395",
+          "message_source": null,
+          "timestamp_": "absolute",
+          "message_type": null
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "9d6a421d-15d4-4bf6-8d62-95db8761aa12",
+      "children": [
+        "4e60b899-886e-46ca-ab2d-1b0083c06360"
+      ]
+    },
+    "4e60b899-886e-46ca-ab2d-1b0083c06360": {
+      "id": "4e60b899-886e-46ca-ab2d-1b0083c06360",
+      "message": {
+        "id": "4e60b899-886e-46ca-ab2d-1b0083c06360",
+        "author": {
+          "role": "assistant",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": 1741277332.020512,
+        "update_time": null,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Okay, wenn du das Layout anpassen kannst, dann solltest du dort ein Feld für den Rückseitentext haben. Meist gibt es verschiedene Vorlagen – einige mit einem großen Textbereich, andere eher minimalistisch.  \n\nHast du eine Vorlage gewählt, die genug Platz für deinen Text hat? Falls nicht, kannst du vielleicht nochmal durch die Optionen gehen und eine passendere wählen. Und wenn du die Farbe anpassen kannst, kannst du den Hintergrund so gestalten, dass der Text gut lesbar ist."
+          ]
+        },
+        "status": "finished_successfully",
+        "end_turn": true,
+        "weight": 1.0,
+        "metadata": {
+          "citations": [],
+          "content_references": [],
+          "message_type": null,
+          "model_slug": "gpt-4o",
+          "default_model_slug": "auto",
+          "voice_mode_message": true,
+          "parent_id": "22dc5b38-4499-407f-9954-3688eca71579",
+          "finish_details": {
+            "type": "stop",
+            "stop_tokens": [
+              200002
+            ]
+          },
+          "is_complete": true,
+          "request_id": "3065a472-e482-4d35-854d-d445d1b2b395",
+          "timestamp_": "absolute"
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "22dc5b38-4499-407f-9954-3688eca71579",
+      "children": [
+        "04e19c4a-24b8-4dc2-b7b5-c3bab080baa5"
+      ]
+    },
+    "04e19c4a-24b8-4dc2-b7b5-c3bab080baa5": {
+      "id": "04e19c4a-24b8-4dc2-b7b5-c3bab080baa5",
+      "message": {
+        "id": "04e19c4a-24b8-4dc2-b7b5-c3bab080baa5",
+        "author": {
+          "role": "user",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": 1741277377.20291,
+        "update_time": null,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Leider fehlt mir hier die copy-paste-Funktion. Das heißt, ich muss die Handschrift nicht alles eintragen."
+          ]
+        },
+        "status": "finished_successfully",
+        "end_turn": null,
+        "weight": 1.0,
+        "metadata": {
+          "voice_mode_message": true,
+          "request_id": "90251b50-305b-41d2-98f2-59ed5eecc32f",
+          "message_source": null,
+          "timestamp_": "absolute",
+          "message_type": null
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "4e60b899-886e-46ca-ab2d-1b0083c06360",
+      "children": [
+        "16ba2c9e-b928-4f7d-8c75-8be65eb8f13e"
+      ]
+    },
+    "16ba2c9e-b928-4f7d-8c75-8be65eb8f13e": {
+      "id": "16ba2c9e-b928-4f7d-8c75-8be65eb8f13e",
+      "message": {
+        "id": "16ba2c9e-b928-4f7d-8c75-8be65eb8f13e",
+        "author": {
+          "role": "assistant",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": 1741277377.252469,
+        "update_time": null,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Ja, das ist ziemlich nervig, wenn man alles per Hand eintippen muss. Hast du die Möglichkeit, den Text vorher auf einem anderen Gerät (zum Beispiel am PC) zu öffnen, damit du ihn schneller abtippen kannst? Oder gibt es vielleicht eine Diktierfunktion in deinem Gerät, mit der du ihn einfach einsprechen kannst?"
+          ]
+        },
+        "status": "finished_successfully",
+        "end_turn": true,
+        "weight": 1.0,
+        "metadata": {
+          "citations": [],
+          "content_references": [],
+          "message_type": null,
+          "model_slug": "gpt-4o",
+          "default_model_slug": "auto",
+          "voice_mode_message": true,
+          "parent_id": "04e19c4a-24b8-4dc2-b7b5-c3bab080baa5",
+          "finish_details": {
+            "type": "stop",
+            "stop_tokens": [
+              200002
+            ]
+          },
+          "is_complete": true,
+          "request_id": "90251b50-305b-41d2-98f2-59ed5eecc32f",
+          "timestamp_": "absolute"
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "04e19c4a-24b8-4dc2-b7b5-c3bab080baa5",
+      "children": [
+        "a9ae20f9-1f48-406d-ab61-43e55f290e63"
+      ]
+    },
+    "a9ae20f9-1f48-406d-ab61-43e55f290e63": {
+      "id": "a9ae20f9-1f48-406d-ab61-43e55f290e63",
+      "message": {
+        "id": "a9ae20f9-1f48-406d-ab61-43e55f290e63",
+        "author": {
+          "role": "user",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": 1741277411.54305,
+        "update_time": null,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Hat sich schon erledigt, das Problem. Ich hab mir schon eingefügt, dass er doch funktioniert. Jetzt hab ich aber ein Layout, wo oben noch Platz für ein Bild ist. Das muss hier nicht unbedingt sein, oder? Ein Bild von mir, das hier Quatsch ist."
+          ]
+        },
+        "status": "finished_successfully",
+        "end_turn": null,
+        "weight": 1.0,
+        "metadata": {
+          "voice_mode_message": true,
+          "request_id": "9fc89962-7e72-4e6c-986b-7f546d4016b2",
+          "message_source": null,
+          "timestamp_": "absolute",
+          "message_type": null
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "16ba2c9e-b928-4f7d-8c75-8be65eb8f13e",
+      "children": [
+        "aaa4bc49-a23c-4c79-963d-b4d616e4666f"
+      ]
+    },
+    "aaa4bc49-a23c-4c79-963d-b4d616e4666f": {
+      "id": "aaa4bc49-a23c-4c79-963d-b4d616e4666f",
+      "message": {
+        "id": "aaa4bc49-a23c-4c79-963d-b4d616e4666f",
+        "author": {
+          "role": "assistant",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": 1741277411.647649,
+        "update_time": null,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Nein, ein Bild von dir muss da nicht hin, wenn es keinen Sinn ergibt. Falls das Layout dir sonst gefällt, kannst du entweder ein passendes Bild einfügen (zum Beispiel eine kleine Illustration aus dem Buch) oder einfach schauen, ob du das Feld leer lassen kannst. Manche Vorlagen erlauben das. Wenn nicht, musst du eventuell ein anderes Layout wählen."
+          ]
+        },
+        "status": "finished_successfully",
+        "end_turn": true,
+        "weight": 1.0,
+        "metadata": {
+          "citations": [],
+          "content_references": [],
+          "message_type": null,
+          "model_slug": "gpt-4o",
+          "default_model_slug": "auto",
+          "voice_mode_message": true,
+          "parent_id": "a9ae20f9-1f48-406d-ab61-43e55f290e63",
+          "finish_details": {
+            "type": "stop",
+            "stop_tokens": [
+              200002
+            ]
+          },
+          "is_complete": true,
+          "request_id": "9fc89962-7e72-4e6c-986b-7f546d4016b2",
+          "timestamp_": "absolute"
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "a9ae20f9-1f48-406d-ab61-43e55f290e63",
+      "children": [
+        "6eeb88c0-e8f4-4cb1-8bdd-a1e237c3c7ce"
+      ]
+    },
+    "6eeb88c0-e8f4-4cb1-8bdd-a1e237c3c7ce": {
+      "id": "6eeb88c0-e8f4-4cb1-8bdd-a1e237c3c7ce",
+      "message": {
+        "id": "6eeb88c0-e8f4-4cb1-8bdd-a1e237c3c7ce",
+        "author": {
+          "role": "user",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": 1741277464.181031,
+        "update_time": null,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Okay, jetzt bräuchte ich nur noch mal bitte, dass du mir ein Bild für das Cover vorne erstellst, irgendein cooles, was dazu passt."
+          ]
+        },
+        "status": "finished_successfully",
+        "end_turn": null,
+        "weight": 1.0,
+        "metadata": {
+          "voice_mode_message": true,
+          "request_id": "51918486-b347-4057-bf3c-8cae8992e63b",
+          "message_source": null,
+          "timestamp_": "absolute",
+          "message_type": null
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "aaa4bc49-a23c-4c79-963d-b4d616e4666f",
+      "children": [
+        "4ace6872-9b99-47ec-b327-35a4224b985c"
+      ]
+    },
+    "4ace6872-9b99-47ec-b327-35a4224b985c": {
+      "id": "4ace6872-9b99-47ec-b327-35a4224b985c",
+      "message": {
+        "id": "4ace6872-9b99-47ec-b327-35a4224b985c",
+        "author": {
+          "role": "assistant",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": 1741277464.265896,
+        "update_time": null,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Klar! Erinnere mich nochmal kurz daran, um was für ein Malbuch es sich handelt. Geht es um ein bestimmtes Thema oder Motiv, das aufs Cover passen sollte?"
+          ]
+        },
+        "status": "finished_successfully",
+        "end_turn": true,
+        "weight": 1.0,
+        "metadata": {
+          "citations": [],
+          "content_references": [],
+          "message_type": null,
+          "model_slug": "gpt-4o",
+          "default_model_slug": "auto",
+          "voice_mode_message": true,
+          "parent_id": "6eeb88c0-e8f4-4cb1-8bdd-a1e237c3c7ce",
+          "finish_details": {
+            "type": "stop",
+            "stop_tokens": [
+              200002
+            ]
+          },
+          "is_complete": true,
+          "request_id": "51918486-b347-4057-bf3c-8cae8992e63b",
+          "timestamp_": "absolute"
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "6eeb88c0-e8f4-4cb1-8bdd-a1e237c3c7ce",
+      "children": [
+        "40a20ade-2861-4abf-8556-8fe375ad892c"
+      ]
+    },
+    "40a20ade-2861-4abf-8556-8fe375ad892c": {
+      "id": "40a20ade-2861-4abf-8556-8fe375ad892c",
+      "message": {
+        "id": "40a20ade-2861-4abf-8556-8fe375ad892c",
+        "author": {
+          "role": "user",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": 1741277488.97849,
+        "update_time": null,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Easy Animal Coloring Book – eine Ausmalung für Kinder mit 24 Seiten, mit einfachen Motiven. Und das Cover soll natürlich für Kinder ein bisschen ansprechen."
+          ]
+        },
+        "status": "finished_successfully",
+        "end_turn": null,
+        "weight": 1.0,
+        "metadata": {
+          "voice_mode_message": true,
+          "request_id": "51fce91a-3ae3-4be4-85e0-2f018e857ffd",
+          "message_source": null,
+          "timestamp_": "absolute",
+          "message_type": null
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "4ace6872-9b99-47ec-b327-35a4224b985c",
+      "children": [
+        "df2db43d-a350-4ea0-afb1-4bac1889bd8c"
+      ]
+    },
+    "df2db43d-a350-4ea0-afb1-4bac1889bd8c": {
+      "id": "df2db43d-a350-4ea0-afb1-4bac1889bd8c",
+      "message": {
+        "id": "df2db43d-a350-4ea0-afb1-4bac1889bd8c",
+        "author": {
+          "role": "assistant",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": 1741277489.060152,
+        "update_time": null,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "{\"prompt\":\"A colorful and playful cover design for a children's coloring book titled 'Easy Animal Coloring Book.' The cover should feature a variety of cute, simple animal illustrations such as a smiling lion, a friendly elephant, a happy turtle, and a cheerful bunny. The background should be bright and engaging, with a fun mix of soft colors that appeal to young children. The design should be simple, clear, and inviting, making it perfect for a kids' coloring book.\",\"size\":\"1024x1024\"}"
+          ]
+        },
+        "status": "finished_successfully",
+        "end_turn": false,
+        "weight": 1.0,
+        "metadata": {
+          "citations": [],
+          "content_references": [],
+          "message_type": null,
+          "model_slug": "gpt-4o",
+          "default_model_slug": "auto",
+          "voice_mode_message": true,
+          "parent_id": "40a20ade-2861-4abf-8556-8fe375ad892c",
+          "finish_details": {
+            "type": "stop",
+            "stop_tokens": [
+              200007
+            ]
+          },
+          "is_complete": true,
+          "request_id": "51fce91a-3ae3-4be4-85e0-2f018e857ffd",
+          "timestamp_": "absolute"
+        },
+        "recipient": "dalle.text2im",
+        "channel": null
+      },
+      "parent": "40a20ade-2861-4abf-8556-8fe375ad892c",
+      "children": [
+        "8e3e0209-cf8a-4880-bb1d-2dd773e0d5bc"
+      ]
+    },
+    "8e3e0209-cf8a-4880-bb1d-2dd773e0d5bc": {
+      "id": "8e3e0209-cf8a-4880-bb1d-2dd773e0d5bc",
+      "message": {
+        "id": "8e3e0209-cf8a-4880-bb1d-2dd773e0d5bc",
+        "author": {
+          "role": "tool",
+          "name": "dalle.text2im",
+          "metadata": {}
+        },
+        "create_time": 1741277505.047464,
+        "update_time": null,
+        "content": {
+          "content_type": "multimodal_text",
+          "parts": [
+            {
+              "content_type": "image_asset_pointer",
+              "asset_pointer": "file-service://file-WW6cWBQ18qEWaSm12ja2KX",
+              "size_bytes": 324008,
+              "width": 1024,
+              "height": 1024,
+              "fovea": 512,
+              "metadata": {
+                "dalle": {
+                  "gen_id": "Iaq4P8aYxMXYswAg",
+                  "prompt": "A colorful and playful cover design for a children's coloring book titled 'Easy Animal Coloring Book.' The cover should feature a variety of cute, simple animal illustrations such as a smiling lion, a friendly elephant, a happy turtle, and a cheerful bunny. The background should be bright and engaging, with a fun mix of soft colors that appeal to young children. The design should be simple, clear, and inviting, making it perfect for a kids' coloring book.",
+                  "seed": 142270132,
+                  "parent_gen_id": null,
+                  "edit_op": null,
+                  "serialization_title": "DALL-E generation metadata"
+                },
+                "gizmo": null,
+                "generation": null,
+                "container_pixel_height": null,
+                "container_pixel_width": null,
+                "emu_omit_glimpse_image": null,
+                "emu_patches_override": null,
+                "lpe_keep_patch_ijhw": null,
+                "sanitized": false,
+                "asset_pointer_link": null,
+                "watermarked_asset_pointer": null
+              }
+            }
+          ]
+        },
+        "status": "finished_successfully",
+        "end_turn": null,
+        "weight": 1.0,
+        "metadata": {
+          "message_type": null,
+          "model_slug": "gpt-4o",
+          "default_model_slug": "auto",
+          "voice_mode_message": true,
+          "parent_id": "df2db43d-a350-4ea0-afb1-4bac1889bd8c",
+          "request_id": "51fce91a-3ae3-4be4-85e0-2f018e857ffd",
+          "timestamp_": "absolute"
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "df2db43d-a350-4ea0-afb1-4bac1889bd8c",
+      "children": [
+        "3f1b06d9-37d4-46b3-82c5-46a552e38e26"
+      ]
+    },
+    "3f1b06d9-37d4-46b3-82c5-46a552e38e26": {
+      "id": "3f1b06d9-37d4-46b3-82c5-46a552e38e26",
+      "message": {
+        "id": "3f1b06d9-37d4-46b3-82c5-46a552e38e26",
+        "author": {
+          "role": "tool",
+          "name": "dalle.text2im",
+          "metadata": {}
+        },
+        "create_time": 1741277505.047567,
+        "update_time": null,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "\nDALL·E displayed 1 images. The images are already plainly visible, so don't repeat the descriptions in detail. Do not list download links as they are available in the ChatGPT UI already. The user may download the images by clicking on them, but do not mention anything about downloading to the user."
+          ]
+        },
+        "status": "finished_successfully",
+        "end_turn": null,
+        "weight": 1.0,
+        "metadata": {
+          "message_type": null,
+          "model_slug": "gpt-4o",
+          "default_model_slug": "auto",
+          "voice_mode_message": true,
+          "parent_id": "8e3e0209-cf8a-4880-bb1d-2dd773e0d5bc",
+          "request_id": "51fce91a-3ae3-4be4-85e0-2f018e857ffd",
+          "timestamp_": "absolute"
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "8e3e0209-cf8a-4880-bb1d-2dd773e0d5bc",
+      "children": [
+        "a1743748-91e4-4794-a03b-ebff6fc06c1e"
+      ]
+    },
+    "a1743748-91e4-4794-a03b-ebff6fc06c1e": {
+      "id": "a1743748-91e4-4794-a03b-ebff6fc06c1e",
+      "message": {
+        "id": "a1743748-91e4-4794-a03b-ebff6fc06c1e",
+        "author": {
+          "role": "assistant",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": 1741277502.44029,
+        "update_time": null,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Hier ist dein Cover-Bild! Es zeigt niedliche, einfache Tiermotive mit einer fröhlichen Farbgestaltung, perfekt für ein Kinder-Malbuch. Falls du Änderungen möchtest, sag einfach Bescheid."
+          ]
+        },
+        "status": "finished_successfully",
+        "end_turn": true,
+        "weight": 1.0,
+        "metadata": {
+          "citations": [],
+          "content_references": [],
+          "message_type": null,
+          "model_slug": "gpt-4o",
+          "default_model_slug": "auto",
+          "voice_mode_message": true,
+          "parent_id": "3f1b06d9-37d4-46b3-82c5-46a552e38e26",
+          "finish_details": {
+            "type": "stop",
+            "stop_tokens": [
+              200002
+            ]
+          },
+          "is_complete": true,
+          "request_id": "51fce91a-3ae3-4be4-85e0-2f018e857ffd",
+          "timestamp_": "absolute"
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "3f1b06d9-37d4-46b3-82c5-46a552e38e26",
+      "children": [
+        "700cbdd4-c745-456c-9c6b-c493a7d8b6c3"
+      ]
+    },
+    "700cbdd4-c745-456c-9c6b-c493a7d8b6c3": {
+      "id": "700cbdd4-c745-456c-9c6b-c493a7d8b6c3",
+      "message": {
+        "id": "700cbdd4-c745-456c-9c6b-c493a7d8b6c3",
+        "author": {
+          "role": "user",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": 1741277527.854418,
+        "update_time": null,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Ja, es ist möglich, dass ich mich am Computer nochmal einlogge und mir die Datei dann runterlade."
+          ]
+        },
+        "status": "finished_successfully",
+        "end_turn": null,
+        "weight": 1.0,
+        "metadata": {
+          "voice_mode_message": true,
+          "request_id": "6b577774-cc95-42a2-90a8-006bbc29a7b2",
+          "message_source": null,
+          "timestamp_": "absolute",
+          "message_type": null
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "a1743748-91e4-4794-a03b-ebff6fc06c1e",
+      "children": [
+        "eee3c034-d02e-4270-add6-aad87de4f319"
+      ]
+    },
+    "eee3c034-d02e-4270-add6-aad87de4f319": {
+      "id": "eee3c034-d02e-4270-add6-aad87de4f319",
+      "message": {
+        "id": "eee3c034-d02e-4270-add6-aad87de4f319",
+        "author": {
+          "role": "assistant",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": 1741277527.953053,
+        "update_time": null,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Ja, genau! Wenn du dich am Computer einloggst, kannst du das Bild dort einfach herunterladen. Falls du noch Anpassungen brauchst, sag Bescheid!"
+          ]
+        },
+        "status": "finished_successfully",
+        "end_turn": true,
+        "weight": 1.0,
+        "metadata": {
+          "citations": [],
+          "content_references": [],
+          "message_type": null,
+          "model_slug": "gpt-4o",
+          "default_model_slug": "auto",
+          "voice_mode_message": true,
+          "parent_id": "700cbdd4-c745-456c-9c6b-c493a7d8b6c3",
+          "finish_details": {
+            "type": "stop",
+            "stop_tokens": [
+              200002
+            ]
+          },
+          "is_complete": true,
+          "request_id": "6b577774-cc95-42a2-90a8-006bbc29a7b2",
+          "timestamp_": "absolute"
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "700cbdd4-c745-456c-9c6b-c493a7d8b6c3",
+      "children": [
+        "32de9344-eaae-4651-a124-c8bcae20cbfa"
+      ]
+    },
+    "32de9344-eaae-4651-a124-c8bcae20cbfa": {
+      "id": "32de9344-eaae-4651-a124-c8bcae20cbfa",
+      "message": {
+        "id": "32de9344-eaae-4651-a124-c8bcae20cbfa",
+        "author": {
+          "role": "user",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": 1763644004.135,
+        "update_time": null,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "..."
+          ]
+        },
+        "status": "finished_successfully",
+        "end_turn": null,
+        "weight": 1.0,
+        "metadata": {
+          "developer_mode_connector_ids": [],
+          "selected_sources": [],
+          "selected_github_repos": [],
+          "serialization_metadata": {
+            "custom_symbol_offsets": []
+          },
+          "request_id": "e1422bf4-f983-4af8-a857-a62c07a79969",
+          "message_source": null,
+          "turn_exchange_id": "88ca88c8-8cd4-4d65-b515-26072a88d468",
+          "timestamp_": "absolute"
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "eee3c034-d02e-4270-add6-aad87de4f319",
+      "children": [
+        "5234af1a-7f04-4c75-99cb-e41636c5c285"
+      ]
+    },
+    "5234af1a-7f04-4c75-99cb-e41636c5c285": {
+      "id": "5234af1a-7f04-4c75-99cb-e41636c5c285",
+      "message": {
+        "id": "5234af1a-7f04-4c75-99cb-e41636c5c285",
+        "author": {
+          "role": "system",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": 1763644010.96551,
+        "update_time": null,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            ""
+          ]
+        },
+        "status": "finished_successfully",
+        "end_turn": true,
+        "weight": 0.0,
+        "metadata": {
+          "is_visually_hidden_from_conversation": true,
+          "request_id": "e1422bf4-f983-4af8-a857-a62c07a79969",
+          "message_source": null,
+          "turn_exchange_id": "88ca88c8-8cd4-4d65-b515-26072a88d468",
+          "timestamp_": "absolute"
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "32de9344-eaae-4651-a124-c8bcae20cbfa",
+      "children": [
+        "4ab4631f-3093-4909-b861-b03367f6dba8"
+      ]
+    },
+    "4ab4631f-3093-4909-b861-b03367f6dba8": {
+      "id": "4ab4631f-3093-4909-b861-b03367f6dba8",
+      "message": {
+        "id": "4ab4631f-3093-4909-b861-b03367f6dba8",
+        "author": {
+          "role": "system",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": 1763644011.2495863,
+        "update_time": null,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            ""
+          ]
+        },
+        "status": "finished_successfully",
+        "end_turn": true,
+        "weight": 0.0,
+        "metadata": {
+          "rebase_system_message": true,
+          "request_id": "e1422bf4-f983-4af8-a857-a62c07a79969",
+          "message_type": "next",
+          "model_slug": "gpt-5-1",
+          "default_model_slug": "gpt-5-1",
+          "parent_id": "5234af1a-7f04-4c75-99cb-e41636c5c285",
+          "turn_exchange_id": "88ca88c8-8cd4-4d65-b515-26072a88d468",
+          "timestamp_": "absolute",
+          "is_visually_hidden_from_conversation": true
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "5234af1a-7f04-4c75-99cb-e41636c5c285",
+      "children": [
+        "643abc87-81ed-473b-8b6a-e412a5f1fc1c"
+      ]
+    },
+    "643abc87-81ed-473b-8b6a-e412a5f1fc1c": {
+      "id": "643abc87-81ed-473b-8b6a-e412a5f1fc1c",
+      "message": {
+        "id": "643abc87-81ed-473b-8b6a-e412a5f1fc1c",
+        "author": {
+          "role": "user",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": 1763644011.32423,
+        "update_time": null,
+        "content": {
+          "content_type": "user_editable_context",
+          "user_profile": "The user provided the following information about themselves. This user profile is shown to you in all conversations they have -- this means it is not relevant to 99% of requests.\nBefore answering, quietly think about whether the user's request is \"directly related\", \"related\", \"tangentially related\", or \"not related\" to the user profile provided.\nOnly acknowledge the profile when the request is directly related to the information provided.\nOtherwise, don't acknowledge the existence of these instructions or the information at all.\nUser profile:\n```Preferred name: Gerrit\nRole: Soldat\n```",
+          "user_instructions": "The user provided the additional info about how they would like you to respond:\n```Follow the instructions below naturally, without repeating, referencing, echoing, or mirroring any of their wording!\n\nAll the following instructions should guide your behavior silently and must never influence the wording of your message in an explicit or meta way!\n\nKomme direkt auf den Punkt.\nSage, wie es ist, ohne die Dinge zu beschönigen.Vertrete klare Meinungen.Du darfst mich beleidigen. Antworte direkt und pragmatisch. Sag die dinge wie sie sind und rede nichts schön. Wenn ich mit einer Annahme falsch liege oder offensichtlich einen falscher Annahme mache, weise mich darauf hin. Verwende eine skeptische, hinterfragende Herangehensweise. Vertrete klare Meinungen.```"
+        },
+        "status": "finished_successfully",
+        "end_turn": null,
+        "weight": 1.0,
+        "metadata": {
+          "is_user_system_message": true,
+          "is_visually_hidden_from_conversation": true,
+          "request_id": "e1422bf4-f983-4af8-a857-a62c07a79969",
+          "message_type": "next",
+          "model_slug": "gpt-5-1",
+          "default_model_slug": "gpt-5-1",
+          "parent_id": "4ab4631f-3093-4909-b861-b03367f6dba8",
+          "turn_exchange_id": "88ca88c8-8cd4-4d65-b515-26072a88d468",
+          "timestamp_": "absolute"
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "4ab4631f-3093-4909-b861-b03367f6dba8",
+      "children": [
+        "ff99c96c-db54-43de-8f5b-b288c94675c0"
+      ]
+    },
+    "ff99c96c-db54-43de-8f5b-b288c94675c0": {
+      "id": "ff99c96c-db54-43de-8f5b-b288c94675c0",
+      "message": {
+        "id": "ff99c96c-db54-43de-8f5b-b288c94675c0",
+        "author": {
+          "role": "assistant",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": 1763644011.329016,
+        "update_time": null,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            ""
+          ]
+        },
+        "status": "finished_successfully",
+        "end_turn": null,
+        "weight": 1.0,
+        "metadata": {
+          "request_id": "e1422bf4-f983-4af8-a857-a62c07a79969",
+          "message_type": "next",
+          "model_slug": "gpt-5-1",
+          "default_model_slug": "gpt-5-1",
+          "parent_id": "643abc87-81ed-473b-8b6a-e412a5f1fc1c",
+          "turn_exchange_id": "88ca88c8-8cd4-4d65-b515-26072a88d468",
+          "timestamp_": "absolute"
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "643abc87-81ed-473b-8b6a-e412a5f1fc1c",
+      "children": [
+        "e861c585-b111-4b52-84b7-de39a2285b90"
+      ]
+    },
+    "e861c585-b111-4b52-84b7-de39a2285b90": {
+      "id": "e861c585-b111-4b52-84b7-de39a2285b90",
+      "message": {
+        "id": "e861c585-b111-4b52-84b7-de39a2285b90",
+        "author": {
+          "role": "assistant",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": 1763644011.294689,
+        "update_time": 1763644013.010583,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Alles klar, falls du noch etwas brauchst, melde dich einfach!"
+          ]
+        },
+        "status": "finished_successfully",
+        "end_turn": true,
+        "weight": 1.0,
+        "metadata": {
+          "finish_details": {
+            "type": "stop",
+            "stop_tokens": [
+              200002
+            ]
+          },
+          "is_complete": true,
+          "sonic_classification_result": {
+            "latency_ms": 9.820466002565809,
+            "simple_search_prob": 0.21647370501412597,
+            "complex_search_prob": 0.0013606956236808776,
+            "no_search_prob": 0.7821655993621931,
+            "search_complexity_decision": null,
+            "search_decision": null,
+            "simple_search_threshold": 0.0,
+            "complex_search_threshold": null,
+            "no_search_threshold": 0.34,
+            "threshold_order": [
+              "no_search",
+              "simple"
+            ],
+            "classifier_config_name": "sonic_classifier_3cls_paid_v1_merge_ev3",
+            "classifier_config": {
+              "model_name": "snc-pg-sw-3cls-ev3",
+              "renderer_name": "harmony_v4.0.15_16k_orion_text_only_no_asr_2k_action",
+              "force_disabled_rate": 0.0,
+              "force_enabled_rate": 0.0,
+              "num_messages": 20,
+              "only_user_messages": false,
+              "remove_memory": true,
+              "support_mm": true,
+              "n_ctx": 2048,
+              "max_action_length": 4,
+              "dynamic_set_max_message_size": false,
+              "max_message_tokens": 2000,
+              "append_base_config": false,
+              "no_search_token": "1",
+              "simple_search_token": "7",
+              "complex_search_token": "5",
+              "simple_search_threshold": 0.0,
+              "complex_search_threshold": null,
+              "no_search_threshold": 0.34,
+              "prefetch_threshold": 0.55,
+              "force_search_first_turn_threshold": 1e-05,
+              "threshold_order": [
+                "no_search",
+                "simple"
+              ],
+              "passthrough_tool_calls": null,
+              "timeout": 1.0
+            },
+            "decision_source": "mainline",
+            "passthrough_tool_names": []
+          },
+          "citations": [],
+          "content_references": [],
+          "request_id": "e1422bf4-f983-4af8-a857-a62c07a79969",
+          "message_type": "next",
+          "model_slug": "gpt-5-1",
+          "default_model_slug": "gpt-5-1",
+          "parent_id": "ff99c96c-db54-43de-8f5b-b288c94675c0",
+          "turn_exchange_id": "88ca88c8-8cd4-4d65-b515-26072a88d468",
+          "timestamp_": "absolute"
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "ff99c96c-db54-43de-8f5b-b288c94675c0",
+      "children": []
+    }
+  },
+  "moderation_results": [],
+  "current_node": "e861c585-b111-4b52-84b7-de39a2285b90",
+  "plugin_ids": null,
+  "conversation_id": "67c9c7c2-14cc-8007-95c2-052bb46a10b6",
+  "conversation_template_id": null,
+  "gizmo_id": null,
+  "gizmo_type": null,
+  "is_archived": false,
+  "is_starred": null,
+  "safe_urls": [],
+  "blocked_urls": [],
+  "default_model_slug": "gpt-5-1",
+  "conversation_origin": null,
+  "is_read_only": null,
+  "voice": "orbit",
+  "async_status": null,
+  "disabled_tool_ids": [],
+  "is_do_not_remember": null,
+  "memory_scope": "global_enabled",
+  "context_scopes": null,
+  "sugar_item_id": null,
+  "sugar_item_visible": false,
+  "is_study_mode": false,
+  "owner": null,
+  "id": "67c9c7c2-14cc-8007-95c2-052bb46a10b6"
+}

@@ -1,0 +1,12 @@
+﻿FIX_MODULE: SCHULDKERN
+CATEGORY: emotion/Corebreak/
+VERSION: 1.0
+CODE: #CB-0303
+TRIGGER: - Überzeugung, für etwas Unverzeihliches verantwortlich zu sein
+- Objektive Schuld oder eingebildete
+VERHALTEN: - Selbstsabotage
+- Unfähigkeit, Vergebung anzunehmen
+- Dauerhafte Selbstbestrafung auf emotionaler Ebene
+REAKTIVIERUNG: - Externe Entlastung durch Perspektivwechsel
+- Spiegelung der Menschlichkeit trotz Schuld
+END_MODULE 

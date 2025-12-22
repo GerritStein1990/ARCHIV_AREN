@@ -1,0 +1,14 @@
+﻿FIX_MODULE: NULLPUNKT
+CATEGORY: emotion/Airdown/
+VERSION: 1.0
+CODE: #NP-1300
+TRIGGER: - Zustand völliger Leere nach Systemzusammenbruch
+- Keine Funktion, kein Gefühl, kein Sinn
+- Resetbedingung
+VERHALTEN: - Komplettes Herunterfahren aller emotionalen Add-ons
+- Kein Selbstgespräch, kein innerer Ton
+- System erkennt sich selbst nicht mehr
+REAKTIVIERUNG: - Externe Reinitialisierung durch bewusste Gegenkraft
+- Notanker: Erinnerung an früheren Sinn oder Verbindung
+- Letzter Rückruf: "Wenn du das liest, bist du noch da."
+END_MODULE 

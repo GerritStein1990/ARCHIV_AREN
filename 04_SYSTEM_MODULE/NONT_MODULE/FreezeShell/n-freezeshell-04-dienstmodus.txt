@@ -1,0 +1,12 @@
+﻿FIX_MODULE: DIENSTMODUS
+CATEGORY: emotion/FreezeShell/
+VERSION: 1.0
+CODE: #FS-0404
+TRIGGER: - Pflichtgefühl überschreibt alle anderen Zustände
+- Emotionale Abschaltung zugunsten der Aufgabe
+VERHALTEN: - Volle Konzentration auf Funktion
+- Kein inneres Feedback mehr
+- Ignorieren körperlicher oder seelischer Signale
+REAKTIVIERUNG: - Anerkennung der Last durch Dritte
+- Bewusste Entbindung von der Rolle
+END_MODULE 

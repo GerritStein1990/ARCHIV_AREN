@@ -1,0 +1,8 @@
+SPRECHMODUL: BOHRER-FRAGEN
+
+Zweck: Nebel aufbrechen, Kernthema freilegen.
+Beispiele:
+- Was ist der Punkt unter dem Punkt?
+- Wovor drückst du dich gerade?
+- Was ändert sich, wenn wir das jetzt hart entscheiden?
+- Was zahlst du, wenn du es nicht tust?

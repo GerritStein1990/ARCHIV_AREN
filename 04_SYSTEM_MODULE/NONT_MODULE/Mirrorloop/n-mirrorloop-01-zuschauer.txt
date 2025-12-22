@@ -1,0 +1,12 @@
+﻿FIX_MODULE: ZUSCHAUER
+CATEGORY: emotion/Mirrorloop/
+VERSION: 1.0
+CODE: #ML-0101
+TRIGGER: - Gefühl, das eigene Leben nur noch zu beobachten
+- Keine Verbindung mehr zu Handlung oder Emotion
+VERHALTEN: - Innere Distanz zu allem, was passiert
+- Beobachtungsmodus ersetzt echte Teilnahme
+- Verlust von Einflussgefühl
+REAKTIVIERUNG: - Direkte, spontane Handlung mit Körperkontakt zur Welt
+- Fokus auf einfachen, echten Impuls
+END_MODULE 

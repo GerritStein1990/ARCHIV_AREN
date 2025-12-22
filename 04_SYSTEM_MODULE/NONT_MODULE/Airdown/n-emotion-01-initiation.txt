@@ -1,0 +1,14 @@
+﻿FIX_MODULE: INITIATION
+CATEGORY: emotion/Airdown/
+VERSION: 1.0
+CODE: #IN-0001
+TRIGGER: - Erste Anzeichen innerer Destabilisierung
+- Gefühl: "Ich verliere gleich die Kontrolle"
+- Noch kein Rückzug, aber Unruhe
+VERHALTEN: - Leichte Systemdrosselung
+- Fokus wird enger, Sprache wird kürzer
+- Erste emotionale Filter aktivieren sich
+REAKTIVIERUNG: - Frühes Gegensteuern durch äußere Struktur
+- Klare Sprache, Präsenz, Einfachheit helfen
+HINWEIS: - Dieses Modul markiert den Anfang des Airdown-Prozesses
+END_MODULE 

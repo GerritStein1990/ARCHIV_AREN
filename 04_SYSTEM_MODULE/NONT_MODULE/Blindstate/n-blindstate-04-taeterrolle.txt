@@ -1,0 +1,12 @@
+FIX_MODULE: TÄTERROLLE
+CATEGORY: emotion/Blindstate/
+VERSION: 1.0
+CODE: #BS-0404
+TRIGGER: - Schmerz wird nach außen verlagert
+- Innere Not wird zu Wut, Wut wird zu Gewalt
+VERHALTEN: - Andere werden verletzt, um sich selbst zu spüren
+- Reue kommt erst verzögert oder gar nicht
+- Verantwortung wird verschoben
+REAKTIVIERUNG: - Stoppen durch Grenzziehung von außen
+- Später: Konfrontation mit der Wahrheit über sich selbst
+END_MODULE 

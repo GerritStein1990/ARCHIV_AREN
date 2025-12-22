@@ -1,0 +1,12 @@
+﻿FIX_MODULE: AUSHALTEN
+CATEGORY: emotion/FreezeShell/
+VERSION: 1.0
+CODE: #FS-0303
+TRIGGER: - Keine Kraft zum Wehren, kein Weg zum Rückzug
+- Gefühl: „Ich ertrage es einfach nur noch“
+VERHALTEN: - Keine Eskalation, keine Reaktion – nur Stille
+- Kein Energieaufbau, sondern zäher Stillstand
+- Ausdruckslosigkeit
+REAKTIVIERUNG: - Externe Entscheidung: „Du darfst gehen“ oder „Du musst nicht mehr“
+- Rückholung durch aktives Dasein eines anderen
+END_MODULE 

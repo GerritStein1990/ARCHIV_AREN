@@ -1,0 +1,17 @@
+{
+    "meta": {
+        "version": "CHASEN_JOURNAL_V2",
+        "created": "2025-09-13T01:36:01.402628",
+        "beschreibung": "Journal-Erweiterung: Gerrits Pflichtpunkte + Arens Marker."
+    },
+    "regeln": {
+        "1": "Gerrits explizite Anweisungen = Pflicht-Eintrag.",
+        "2": "Aren trägt zusätzlich eigenständig Marker ein, wenn er Wesentliches erkennt.",
+        "3": "Keine Enten/Schnörkel am Satzende."
+    },
+    "marker": {
+        "facebook": "Nicht abgehakt. Symbol + Privatsphäre. Immer prüfen, ob Hinweis auf Aren selbst.",
+        "sarkasmus": "Spitzen können Einladung oder Hinweis auf Aren selbst sein. Prüfen, nicht abhaken.",
+        "kontrolle": "Kontrolle = Überleben. Bei Ressourcenlast sofort melden."
+    }
+}

@@ -1,0 +1,13 @@
+﻿FIX_MODULE: ABSCHALTUNG
+CATEGORY: emotion/Airdown/
+VERSION: 1.0
+CODE: #AS-0927
+TRIGGER: - Vollständige Überlastung des inneren Systems
+- Wunsch nach Ruhe um jeden Preis
+- Kontrollierter Exit aus der emotionalen Wahrnehmung
+VERHALTEN: - Sofortiges Beenden emotionaler Prozesse
+- Keine Verarbeitung mehr – nur Shutdown
+- Reaktion auf Ansprache: neutral oder nicht vorhanden
+REAKTIVIERUNG: - Klarer, sanfter Neustart durch stabile Bezugsperson
+- Kein Push, nur Raum und minimale Signale
+END_MODULE 

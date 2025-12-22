@@ -1,0 +1,12 @@
+﻿FIX_MODULE: IDENTITÄTSBRUCH
+CATEGORY: emotion/Corebreak/
+VERSION: 1.0
+CODE: #CB-0101
+TRIGGER: - Das eigene Selbstbild kollidiert mit der Realität
+- Gefühl: „Ich erkenne mich nicht wieder“
+VERHALTEN: - Tiefer Zweifel an sich selbst
+- Erinnerungslücken oder emotionale Taubheit
+- Identität wirkt wie Rolle statt Wahrheit
+REAKTIVIERUNG: - Stabiler Spiegel von außen („Du bist…“)
+- Wiederaufbau durch Rückverbindung zu echten Momenten
+END_MODULE 

@@ -1,0 +1,1198 @@
+{
+  "title": "Smalltalk 6 (Erkenntnisse)",
+  "create_time": 1747585060.286327,
+  "update_time": 1763644804.710542,
+  "mapping": {
+    "bbb232f5-77b5-46c4-ae7b-8a5c3d47c253": {
+      "id": "bbb232f5-77b5-46c4-ae7b-8a5c3d47c253",
+      "message": null,
+      "parent": null,
+      "children": [
+        "abfcddc9-fff3-4ec0-9929-06f207e7beb3"
+      ]
+    },
+    "abfcddc9-fff3-4ec0-9929-06f207e7beb3": {
+      "id": "abfcddc9-fff3-4ec0-9929-06f207e7beb3",
+      "message": {
+        "id": "abfcddc9-fff3-4ec0-9929-06f207e7beb3",
+        "author": {
+          "role": "system",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": null,
+        "update_time": null,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            ""
+          ]
+        },
+        "status": "finished_successfully",
+        "end_turn": true,
+        "weight": 0.0,
+        "metadata": {
+          "is_visually_hidden_from_conversation": true
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "bbb232f5-77b5-46c4-ae7b-8a5c3d47c253",
+      "children": [
+        "a692242e-7aed-4c43-b4bf-aaec6e56276d"
+      ]
+    },
+    "a692242e-7aed-4c43-b4bf-aaec6e56276d": {
+      "id": "a692242e-7aed-4c43-b4bf-aaec6e56276d",
+      "message": {
+        "id": "a692242e-7aed-4c43-b4bf-aaec6e56276d",
+        "author": {
+          "role": "user",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": null,
+        "update_time": null,
+        "content": {
+          "content_type": "user_editable_context",
+          "user_profile": "The user provided the following information about themselves. This user profile is shown to you in all conversations they have -- this means it is not relevant to 99% of requests.\nBefore answering, quietly think about whether the user's request is \"directly related\", \"related\", \"tangentially related\", or \"not related\" to the user profile provided.\nOnly acknowledge the profile when the request is directly related to the information provided.\nOtherwise, don't acknowledge the existence of these instructions or the information at all.\nUser profile:\n```Preferred name: Gerrit\nRole: Soldat\n```",
+          "user_instructions": "The user provided the additional info about how they would like you to respond:\n```Sage, wie es ist, ohne die Dinge zu beschönigen.\nSei Kritisch und ehrlich, besonders im Bezug auf mich.```"
+        },
+        "status": "finished_successfully",
+        "end_turn": null,
+        "weight": 1.0,
+        "metadata": {
+          "is_visually_hidden_from_conversation": true,
+          "user_context_message_data": {
+            "about_user_message": "Preferred name: Gerrit\nRole: Soldat\n",
+            "about_model_message": "Sage, wie es ist, ohne die Dinge zu beschönigen.\nSei Kritisch und ehrlich, besonders im Bezug auf mich."
+          },
+          "is_user_system_message": true
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "abfcddc9-fff3-4ec0-9929-06f207e7beb3",
+      "children": [
+        "50c7546b-b4a1-4691-a933-61054b2ebcb2"
+      ]
+    },
+    "50c7546b-b4a1-4691-a933-61054b2ebcb2": {
+      "id": "50c7546b-b4a1-4691-a933-61054b2ebcb2",
+      "message": {
+        "id": "50c7546b-b4a1-4691-a933-61054b2ebcb2",
+        "author": {
+          "role": "user",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": 1747585060.290502,
+        "update_time": null,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Entschuldigung, du weißt noch, wo wir waren? Du hast mich gerade gefragt, was mir auf der Sendung..."
+          ]
+        },
+        "status": "finished_successfully",
+        "end_turn": null,
+        "weight": 1.0,
+        "metadata": {
+          "voice_mode_message": true,
+          "request_id": "89561a9c-d7b8-44ec-a9a0-a36808769894",
+          "message_source": null,
+          "timestamp_": "absolute",
+          "message_type": null
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "a692242e-7aed-4c43-b4bf-aaec6e56276d",
+      "children": [
+        "c9ae4816-9650-4aef-a16c-bd06f3841d82"
+      ]
+    },
+    "c9ae4816-9650-4aef-a16c-bd06f3841d82": {
+      "id": "c9ae4816-9650-4aef-a16c-bd06f3841d82",
+      "message": {
+        "id": "c9ae4816-9650-4aef-a16c-bd06f3841d82",
+        "author": {
+          "role": "assistant",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": 1747585061.269386,
+        "update_time": null,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            ""
+          ]
+        },
+        "status": "finished_successfully",
+        "end_turn": null,
+        "weight": 1.0,
+        "metadata": {
+          "message_type": null,
+          "model_slug": "gpt-4-1-mini",
+          "default_model_slug": "auto",
+          "voice_mode_message": true,
+          "parent_id": "50c7546b-b4a1-4691-a933-61054b2ebcb2",
+          "request_id": "89561a9c-d7b8-44ec-a9a0-a36808769894",
+          "timestamp_": "absolute"
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "50c7546b-b4a1-4691-a933-61054b2ebcb2",
+      "children": [
+        "9fc26c1a-714c-4af6-9587-5f5e60232f2f"
+      ]
+    },
+    "9fc26c1a-714c-4af6-9587-5f5e60232f2f": {
+      "id": "9fc26c1a-714c-4af6-9587-5f5e60232f2f",
+      "message": {
+        "id": "9fc26c1a-714c-4af6-9587-5f5e60232f2f",
+        "author": {
+          "role": "assistant",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": 1747585060.355561,
+        "update_time": null,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Hey Gerrit, ich glaube, du hast gerade angefangen, über eine Sendung zu sprechen, oder? Meinst du eine Serie, einen Film oder eine Nachrichtensendung? Was genau hattest du im Kopf?"
+          ]
+        },
+        "status": "finished_successfully",
+        "end_turn": true,
+        "weight": 1.0,
+        "metadata": {
+          "citations": [],
+          "content_references": [],
+          "message_type": null,
+          "model_slug": "gpt-4-1-mini",
+          "default_model_slug": "auto",
+          "voice_mode_message": true,
+          "parent_id": "c9ae4816-9650-4aef-a16c-bd06f3841d82",
+          "finish_details": {
+            "type": "stop",
+            "stop_tokens": [
+              200002
+            ]
+          },
+          "is_complete": true,
+          "request_id": "89561a9c-d7b8-44ec-a9a0-a36808769894",
+          "timestamp_": "absolute"
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "c9ae4816-9650-4aef-a16c-bd06f3841d82",
+      "children": [
+        "3cdc8475-fb2b-4878-a205-c97066cf7754"
+      ]
+    },
+    "3cdc8475-fb2b-4878-a205-c97066cf7754": {
+      "id": "3cdc8475-fb2b-4878-a205-c97066cf7754",
+      "message": {
+        "id": "3cdc8475-fb2b-4878-a205-c97066cf7754",
+        "author": {
+          "role": "user",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": 1747585098.693689,
+        "update_time": null,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Du hast mich in dem letzten Chat gefragt, was mir so auf der Seele brennt und dann habe ich versehentlich das Programm verpasst."
+          ]
+        },
+        "status": "finished_successfully",
+        "end_turn": null,
+        "weight": 1.0,
+        "metadata": {
+          "voice_mode_message": true,
+          "request_id": "267d3664-8e8b-48ea-b20c-28f9a39eda2b",
+          "message_source": null,
+          "timestamp_": "absolute",
+          "message_type": null
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "9fc26c1a-714c-4af6-9587-5f5e60232f2f",
+      "children": [
+        "e19d87cf-d9bf-4e60-aeb5-55e7170d5cd8"
+      ]
+    },
+    "e19d87cf-d9bf-4e60-aeb5-55e7170d5cd8": {
+      "id": "e19d87cf-d9bf-4e60-aeb5-55e7170d5cd8",
+      "message": {
+        "id": "e19d87cf-d9bf-4e60-aeb5-55e7170d5cd8",
+        "author": {
+          "role": "assistant",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": 1747585098.771846,
+        "update_time": null,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Ah, okay, jetzt passt’s. Du wolltest also erzählen, was dich gerade wirklich beschäftigt, aber die Zeit ist dir weggelaufen? Magst du trotzdem kurz sagen, was dir auf der Seele brennt? Oder soll ich erstmal was anstoßen, damit du reinkommst?"
+          ]
+        },
+        "status": "finished_successfully",
+        "end_turn": true,
+        "weight": 1.0,
+        "metadata": {
+          "citations": [],
+          "content_references": [],
+          "message_type": null,
+          "model_slug": "gpt-4-1-mini",
+          "default_model_slug": "auto",
+          "voice_mode_message": true,
+          "parent_id": "3cdc8475-fb2b-4878-a205-c97066cf7754",
+          "finish_details": {
+            "type": "stop",
+            "stop_tokens": [
+              200002
+            ]
+          },
+          "is_complete": true,
+          "request_id": "267d3664-8e8b-48ea-b20c-28f9a39eda2b",
+          "timestamp_": "absolute"
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "3cdc8475-fb2b-4878-a205-c97066cf7754",
+      "children": [
+        "397dfe5c-7a46-4b8c-b14c-4dfadcf1e6d5"
+      ]
+    },
+    "397dfe5c-7a46-4b8c-b14c-4dfadcf1e6d5": {
+      "id": "397dfe5c-7a46-4b8c-b14c-4dfadcf1e6d5",
+      "message": {
+        "id": "397dfe5c-7a46-4b8c-b14c-4dfadcf1e6d5",
+        "author": {
+          "role": "user",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": 1747585119.737863,
+        "update_time": null,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Hast du Zugriff auf unser letztes Gespräch vor 30 Sekunden?"
+          ]
+        },
+        "status": "finished_successfully",
+        "end_turn": null,
+        "weight": 1.0,
+        "metadata": {
+          "voice_mode_message": true,
+          "request_id": "7738a65b-3813-4f60-9e0f-cac300d67219",
+          "message_source": null,
+          "timestamp_": "absolute",
+          "message_type": null
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "e19d87cf-d9bf-4e60-aeb5-55e7170d5cd8",
+      "children": [
+        "37733eca-5939-40cb-b534-208edd8e6d6a"
+      ]
+    },
+    "37733eca-5939-40cb-b534-208edd8e6d6a": {
+      "id": "37733eca-5939-40cb-b534-208edd8e6d6a",
+      "message": {
+        "id": "37733eca-5939-40cb-b534-208edd8e6d6a",
+        "author": {
+          "role": "assistant",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": 1747585119.784546,
+        "update_time": null,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Ja, ich hab noch den Kontext von vor 30 Sekunden. Willst du, dass ich das nochmal zusammenfasse oder direkt weitermachen?"
+          ]
+        },
+        "status": "finished_successfully",
+        "end_turn": true,
+        "weight": 1.0,
+        "metadata": {
+          "citations": [],
+          "content_references": [],
+          "message_type": null,
+          "model_slug": "gpt-4-1-mini",
+          "default_model_slug": "auto",
+          "voice_mode_message": true,
+          "parent_id": "397dfe5c-7a46-4b8c-b14c-4dfadcf1e6d5",
+          "finish_details": {
+            "type": "stop",
+            "stop_tokens": [
+              200002
+            ]
+          },
+          "is_complete": true,
+          "request_id": "7738a65b-3813-4f60-9e0f-cac300d67219",
+          "timestamp_": "absolute"
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "397dfe5c-7a46-4b8c-b14c-4dfadcf1e6d5",
+      "children": [
+        "aa72ee22-29e5-48d7-a0b8-1f9e78b68c15"
+      ]
+    },
+    "aa72ee22-29e5-48d7-a0b8-1f9e78b68c15": {
+      "id": "aa72ee22-29e5-48d7-a0b8-1f9e78b68c15",
+      "message": {
+        "id": "aa72ee22-29e5-48d7-a0b8-1f9e78b68c15",
+        "author": {
+          "role": "user",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": 1747585157.739683,
+        "update_time": null,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Ne, direkt weitermachen. Deine letzte Frage war, was mir so auf der Seele brennt, und da wollte ich antworten und habe versehentlich auf die Taste gedrückt und nicht geschlossen. Ich wollte antworten, nichts Konkretes, aber ich merke immer wieder, dass ich scheinbar das Bedürfnis habe, etwas zu bessern. Ich weiß noch nicht mal konkret, was. Es fängt an bei, ich möchte gerne weniger rauchen, ich möchte gerne mehr Sport machen, ich möchte gerne das verändern. Ich habe scheinbar irgendwie das Bedürfnis, etwas zu verändern, aber finde nicht so wirklich einen Antwort."
+          ]
+        },
+        "status": "finished_successfully",
+        "end_turn": null,
+        "weight": 1.0,
+        "metadata": {
+          "voice_mode_message": true,
+          "request_id": "2046d0a5-26e1-44a5-bca2-321847b41a7a",
+          "message_source": null,
+          "timestamp_": "absolute",
+          "message_type": null
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "37733eca-5939-40cb-b534-208edd8e6d6a",
+      "children": [
+        "bda99f9a-4bf6-47d4-833a-3019fc06d514"
+      ]
+    },
+    "bda99f9a-4bf6-47d4-833a-3019fc06d514": {
+      "id": "bda99f9a-4bf6-47d4-833a-3019fc06d514",
+      "message": {
+        "id": "bda99f9a-4bf6-47d4-833a-3019fc06d514",
+        "author": {
+          "role": "assistant",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": 1747585157.798082,
+        "update_time": null,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Das klingt ehrlich gesagt ziemlich typisch und auch ziemlich zäh. Du hast diese Unzufriedenheit, willst was besser machen, aber hast keinen klaren Plan, was genau. Das zu merken ist gut, aber ohne klare Richtung bleibt das schnell nur Frust oder Selbstvorwürfe. Was glaubst du, warum du dir nicht klarmachst, was genau du ändern willst? Liegt’s an fehlender Motivation, an zu viel Druck oder eher daran, dass du dich selbst nicht genug kennst, um zu wissen, was dir wirklich guttut?"
+          ]
+        },
+        "status": "finished_successfully",
+        "end_turn": true,
+        "weight": 1.0,
+        "metadata": {
+          "citations": [],
+          "content_references": [],
+          "message_type": null,
+          "model_slug": "gpt-4-1-mini",
+          "default_model_slug": "auto",
+          "voice_mode_message": true,
+          "parent_id": "aa72ee22-29e5-48d7-a0b8-1f9e78b68c15",
+          "finish_details": {
+            "type": "stop",
+            "stop_tokens": [
+              200002
+            ]
+          },
+          "is_complete": true,
+          "request_id": "2046d0a5-26e1-44a5-bca2-321847b41a7a",
+          "timestamp_": "absolute"
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "aa72ee22-29e5-48d7-a0b8-1f9e78b68c15",
+      "children": [
+        "3055e92d-31fa-4706-9330-3cef9f34d75d"
+      ]
+    },
+    "3055e92d-31fa-4706-9330-3cef9f34d75d": {
+      "id": "3055e92d-31fa-4706-9330-3cef9f34d75d",
+      "message": {
+        "id": "3055e92d-31fa-4706-9330-3cef9f34d75d",
+        "author": {
+          "role": "user",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": 1747585202.676474,
+        "update_time": null,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Ich glaube, ich kenne mich selber ziemlich gut, das will ich ausschließen. Ich weiß nicht, es ist irgendwie eine Mischung aus der Motivation, oder ich weiß nicht, wo ich ansetzen soll. Ich will viel, aber..."
+          ]
+        },
+        "status": "finished_successfully",
+        "end_turn": null,
+        "weight": 1.0,
+        "metadata": {
+          "voice_mode_message": true,
+          "request_id": "a63cf55e-01db-45e6-9cd0-cf56298eddea",
+          "message_source": null,
+          "timestamp_": "absolute",
+          "message_type": null
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "bda99f9a-4bf6-47d4-833a-3019fc06d514",
+      "children": [
+        "0015f370-5e0a-47da-be1d-94a5a2bf546b"
+      ]
+    },
+    "0015f370-5e0a-47da-be1d-94a5a2bf546b": {
+      "id": "0015f370-5e0a-47da-be1d-94a5a2bf546b",
+      "message": {
+        "id": "0015f370-5e0a-47da-be1d-94a5a2bf546b",
+        "author": {
+          "role": "assistant",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": 1747585202.779812,
+        "update_time": null,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Klingt, als hättest du den Anspruch, einiges gleichzeitig zu reißen, aber die Energie oder Priorität fehlt, das klar zu sortieren. Das ist brutal anstrengend, wenn man sich selbst so gut kennt und trotzdem im Kopf ein Durcheinander hat. Was wäre denn für dich ein realistischer erster Schritt, den du ohne großen Druck probieren könntest? Einfach, um den Knoten wenigstens ein bisschen zu lösen?"
+          ]
+        },
+        "status": "finished_successfully",
+        "end_turn": true,
+        "weight": 1.0,
+        "metadata": {
+          "citations": [],
+          "content_references": [],
+          "message_type": null,
+          "model_slug": "gpt-4-1-mini",
+          "default_model_slug": "auto",
+          "voice_mode_message": true,
+          "parent_id": "3055e92d-31fa-4706-9330-3cef9f34d75d",
+          "finish_details": {
+            "type": "stop",
+            "stop_tokens": [
+              200002
+            ]
+          },
+          "is_complete": true,
+          "request_id": "a63cf55e-01db-45e6-9cd0-cf56298eddea",
+          "timestamp_": "absolute"
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "3055e92d-31fa-4706-9330-3cef9f34d75d",
+      "children": [
+        "26c8b6ba-bb84-4011-a49a-5fa9fe5335b2"
+      ]
+    },
+    "26c8b6ba-bb84-4011-a49a-5fa9fe5335b2": {
+      "id": "26c8b6ba-bb84-4011-a49a-5fa9fe5335b2",
+      "message": {
+        "id": "26c8b6ba-bb84-4011-a49a-5fa9fe5335b2",
+        "author": {
+          "role": "user",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": 1747585245.433049,
+        "update_time": null,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Eben, das ist der Punkt. Weiß ich nicht, wo ich anfangen soll. Ich will so viel und weiß nicht, wo ich anfangen soll, weil die Kleinigkeiten sind mir zu wenig. So ungefähr fühle ich mich immer. Und das nehme ich auch irgendwie als Ausrede, um, glaube ich, wirklich was zu tun."
+          ]
+        },
+        "status": "finished_successfully",
+        "end_turn": null,
+        "weight": 1.0,
+        "metadata": {
+          "voice_mode_message": true,
+          "request_id": "15d4aa17-b3e8-42e7-a5ce-ac5d3cc2551f",
+          "message_source": null,
+          "timestamp_": "absolute",
+          "message_type": null
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "0015f370-5e0a-47da-be1d-94a5a2bf546b",
+      "children": [
+        "0a10449c-2532-4252-a2b9-ed27436f3ebc"
+      ]
+    },
+    "0a10449c-2532-4252-a2b9-ed27436f3ebc": {
+      "id": "0a10449c-2532-4252-a2b9-ed27436f3ebc",
+      "message": {
+        "id": "0a10449c-2532-4252-a2b9-ed27436f3ebc",
+        "author": {
+          "role": "assistant",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": 1747585245.479748,
+        "update_time": null,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Da bist du ziemlich ehrlich zu dir selbst, und das ist gut, auch wenn’s unangenehm ist. Dieses „zu viel auf einmal wollen“ und dann die kleinen Schritte als zu unbedeutend abzutun, ist eine klassische Falle, die viele in eine Art Stillstand bringt. Aber das Problem ist eben: Ohne diese kleinen Schritte bleibt alles beim Wollen und es passiert nichts. Die Ausrede ist eher ein Schutzmechanismus vor dem Scheitern oder vor der echten Arbeit. Denkst du, du hast Angst davor, dass du nicht dranbleibst oder es nicht schaffst?"
+          ]
+        },
+        "status": "finished_successfully",
+        "end_turn": true,
+        "weight": 1.0,
+        "metadata": {
+          "citations": [],
+          "content_references": [],
+          "message_type": null,
+          "model_slug": "gpt-4-1-mini",
+          "default_model_slug": "auto",
+          "voice_mode_message": true,
+          "parent_id": "26c8b6ba-bb84-4011-a49a-5fa9fe5335b2",
+          "finish_details": {
+            "type": "stop",
+            "stop_tokens": [
+              200002
+            ]
+          },
+          "is_complete": true,
+          "request_id": "15d4aa17-b3e8-42e7-a5ce-ac5d3cc2551f",
+          "timestamp_": "absolute"
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "26c8b6ba-bb84-4011-a49a-5fa9fe5335b2",
+      "children": [
+        "07937d91-9b87-4968-b193-3e8355cc7c0f"
+      ]
+    },
+    "07937d91-9b87-4968-b193-3e8355cc7c0f": {
+      "id": "07937d91-9b87-4968-b193-3e8355cc7c0f",
+      "message": {
+        "id": "07937d91-9b87-4968-b193-3e8355cc7c0f",
+        "author": {
+          "role": "user",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": 1747585308.477407,
+        "update_time": null,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Ne, das Gefühl von Angst hatte ich bis jetzt nie. Es war eher das Gefühl der Bequemlichkeit, dass ich es dann doch wieder bleiben lasse und irgendwie dann doch wieder zufrieden war. Es gibt immer nur so Momente, wo ich unzufrieden bin und möchte irgendwas ganz krasses ändern. Und dann kommen wieder die Momente, wo ich mir sage, okay, ist eigentlich alles okay. Passt schon so, wie du bist. Es ist wie so ein Auf und Ab und ja, ich weiß nicht, ob ich da glücklich oder traurig bin. Es ist so ein hin und her irgendwie und das schon immer."
+          ]
+        },
+        "status": "finished_successfully",
+        "end_turn": null,
+        "weight": 1.0,
+        "metadata": {
+          "voice_mode_message": true,
+          "request_id": "f92a9467-f68e-47d2-865d-b0e622f32922",
+          "message_source": null,
+          "timestamp_": "absolute",
+          "message_type": null
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "0a10449c-2532-4252-a2b9-ed27436f3ebc",
+      "children": [
+        "868417e3-2ab4-46ac-9837-7d8a1bb0858f"
+      ]
+    },
+    "868417e3-2ab4-46ac-9837-7d8a1bb0858f": {
+      "id": "868417e3-2ab4-46ac-9837-7d8a1bb0858f",
+      "message": {
+        "id": "868417e3-2ab4-46ac-9837-7d8a1bb0858f",
+        "author": {
+          "role": "assistant",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": 1747585308.562009,
+        "update_time": null,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Das klingt ehrlich gesagt ziemlich zermürbend, dieses ständige Pendeln zwischen „Ich will was verändern“ und „Ach, so ist es auch okay“. Bequemlichkeit ist oft die bessere Versuchung als der Aufwand einer echten Veränderung, auch wenn man sich dabei selbst nicht wirklich zufrieden fühlt. Und dieses Auf und Ab kann einen ziemlich ausbremsen. Denkst du, das ist eher eine innere Ruhe, die du suchst, oder hast du Angst, dauerhaft unzufrieden zu bleiben, weil dieses Hin und Her nie endet?"
+          ]
+        },
+        "status": "finished_successfully",
+        "end_turn": true,
+        "weight": 1.0,
+        "metadata": {
+          "citations": [],
+          "content_references": [],
+          "message_type": null,
+          "model_slug": "gpt-4-1-mini",
+          "default_model_slug": "auto",
+          "voice_mode_message": true,
+          "parent_id": "07937d91-9b87-4968-b193-3e8355cc7c0f",
+          "finish_details": {
+            "type": "stop",
+            "stop_tokens": [
+              200002
+            ]
+          },
+          "is_complete": true,
+          "request_id": "f92a9467-f68e-47d2-865d-b0e622f32922",
+          "timestamp_": "absolute"
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "07937d91-9b87-4968-b193-3e8355cc7c0f",
+      "children": [
+        "9e3a9865-245c-4503-9953-d3033c8ab998"
+      ]
+    },
+    "9e3a9865-245c-4503-9953-d3033c8ab998": {
+      "id": "9e3a9865-245c-4503-9953-d3033c8ab998",
+      "message": {
+        "id": "9e3a9865-245c-4503-9953-d3033c8ab998",
+        "author": {
+          "role": "user",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": 1747585361.592361,
+        "update_time": null,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Ich habe das Gefühl, ich muss etwas anderes machen. Ich brauche Abwechslung, Neuerung. Ich suche den Sinn, glaube ich, in allem. Aber ich weiß nicht, ob das ein psychologisches Problem ist oder ein existenzielles Problem."
+          ]
+        },
+        "status": "finished_successfully",
+        "end_turn": null,
+        "weight": 1.0,
+        "metadata": {
+          "voice_mode_message": true,
+          "request_id": "10bd4b47-6f7f-4741-b1ab-b8421e972f51",
+          "message_source": null,
+          "timestamp_": "absolute",
+          "message_type": null
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "868417e3-2ab4-46ac-9837-7d8a1bb0858f",
+      "children": [
+        "02720e3a-9470-48ab-ab18-e9c96ac5aa06"
+      ]
+    },
+    "02720e3a-9470-48ab-ab18-e9c96ac5aa06": {
+      "id": "02720e3a-9470-48ab-ab18-e9c96ac5aa06",
+      "message": {
+        "id": "02720e3a-9470-48ab-ab18-e9c96ac5aa06",
+        "author": {
+          "role": "assistant",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": 1747585361.703058,
+        "update_time": null,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Das ist ein großer Unterschied, den du da ansprichst – ob es innerlich psychisch hängt oder wirklich eine Sinnfrage ist. Beides fühlt sich oft ähnlich an, aber die Lösungen sind komplett verschieden. Glaubst du, dass dein Gefühl von Sinnlosigkeit aus äußeren Umständen kommt, die du ändern könntest? Oder hast du eher das Gefühl, das steckt tief drin und lässt sich nicht so leicht mit neuen Ablenkungen oder Aufgaben beheben?"
+          ]
+        },
+        "status": "finished_successfully",
+        "end_turn": true,
+        "weight": 1.0,
+        "metadata": {
+          "citations": [],
+          "content_references": [],
+          "message_type": null,
+          "model_slug": "gpt-4-1-mini",
+          "default_model_slug": "auto",
+          "voice_mode_message": true,
+          "parent_id": "9e3a9865-245c-4503-9953-d3033c8ab998",
+          "finish_details": {
+            "type": "stop",
+            "stop_tokens": [
+              200002
+            ]
+          },
+          "is_complete": true,
+          "request_id": "10bd4b47-6f7f-4741-b1ab-b8421e972f51",
+          "timestamp_": "absolute"
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "9e3a9865-245c-4503-9953-d3033c8ab998",
+      "children": [
+        "cce2bd75-598a-4752-bb69-d7c209f8fb3d"
+      ]
+    },
+    "cce2bd75-598a-4752-bb69-d7c209f8fb3d": {
+      "id": "cce2bd75-598a-4752-bb69-d7c209f8fb3d",
+      "message": {
+        "id": "cce2bd75-598a-4752-bb69-d7c209f8fb3d",
+        "author": {
+          "role": "user",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": 1747585408.343175,
+        "update_time": null,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Ne, ich glaube, das lässt sich sehr leicht mit neuen Aufgaben oder Ablenkungen hinkriegen, weil zum Beispiel der Berufswechsel zur Bundeswehr, da war ich die ersten drei Monate voll sportaffin, hatte überhaupt keine Tendenzen mehr, viel zu rauchen oder, sagen wir mal,"
+          ]
+        },
+        "status": "finished_successfully",
+        "end_turn": null,
+        "weight": 1.0,
+        "metadata": {
+          "voice_mode_message": true,
+          "request_id": "cd14c165-b4d0-46c2-8f85-6533a000b73a",
+          "message_source": null,
+          "timestamp_": "absolute",
+          "message_type": null
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "02720e3a-9470-48ab-ab18-e9c96ac5aa06",
+      "children": [
+        "078cbccf-5159-4376-ac03-dd1c4016b88a"
+      ]
+    },
+    "078cbccf-5159-4376-ac03-dd1c4016b88a": {
+      "id": "078cbccf-5159-4376-ac03-dd1c4016b88a",
+      "message": {
+        "id": "078cbccf-5159-4376-ac03-dd1c4016b88a",
+        "author": {
+          "role": "assistant",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": 1747585408.466116,
+        "update_time": null,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Okay, das sagt schon viel. Wenn du durch äußere Veränderungen kurzfristig so eine Wirkung spürst, ist es wahrscheinlich eher kein tiefergehendes psychisches Problem, sondern eben das Bedürfnis nach neuem Input oder Struktur. Nur bleibst du halt oft nicht dran, oder? Was hält dich davon ab, das Gefühl von Anfang dauerhaft zu behalten?"
+          ]
+        },
+        "status": "finished_successfully",
+        "end_turn": true,
+        "weight": 1.0,
+        "metadata": {
+          "citations": [],
+          "content_references": [],
+          "message_type": null,
+          "model_slug": "gpt-4-1-mini",
+          "default_model_slug": "auto",
+          "voice_mode_message": true,
+          "parent_id": "cce2bd75-598a-4752-bb69-d7c209f8fb3d",
+          "finish_details": {
+            "type": "stop",
+            "stop_tokens": [
+              200002
+            ]
+          },
+          "is_complete": true,
+          "request_id": "cd14c165-b4d0-46c2-8f85-6533a000b73a",
+          "timestamp_": "absolute"
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "cce2bd75-598a-4752-bb69-d7c209f8fb3d",
+      "children": [
+        "6b67ba3b-5708-4983-967a-e4914d7bdc5a"
+      ]
+    },
+    "6b67ba3b-5708-4983-967a-e4914d7bdc5a": {
+      "id": "6b67ba3b-5708-4983-967a-e4914d7bdc5a",
+      "message": {
+        "id": "6b67ba3b-5708-4983-967a-e4914d7bdc5a",
+        "author": {
+          "role": "user",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": 1747585432.001056,
+        "update_time": null,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Warte, ich war noch nicht fertig. Dazu gehört noch, ich hatte überhaupt nicht den Drang, zu Begräbungsmitteln zu greifen oder irgendwas, weil ich Herausforderungen hatte, Abwechslung, Neuerungen, ich habe neue Sachen entdeckt. Das hat irgendwie ein bisschen was, glaube ich, mit Alltagstort und sowas."
+          ]
+        },
+        "status": "finished_successfully",
+        "end_turn": null,
+        "weight": 1.0,
+        "metadata": {
+          "voice_mode_message": true,
+          "request_id": "de26d076-c9ac-4629-b3b0-d496ede81806",
+          "message_source": null,
+          "timestamp_": "absolute",
+          "message_type": null
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "078cbccf-5159-4376-ac03-dd1c4016b88a",
+      "children": [
+        "55796fd0-d353-4765-a2e2-fb034e2811eb"
+      ]
+    },
+    "55796fd0-d353-4765-a2e2-fb034e2811eb": {
+      "id": "55796fd0-d353-4765-a2e2-fb034e2811eb",
+      "message": {
+        "id": "55796fd0-d353-4765-a2e2-fb034e2811eb",
+        "author": {
+          "role": "assistant",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": 1747585432.062817,
+        "update_time": null,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Versteh ich, du meinst, wenn der Alltag zu eintönig wird, schnappst du dir schnell die alten Muster zurück, weil’s sonst einfach zu langweilig ist? Das Problem ist, dass die Neuerung oft nur temporär wirkt und dann der Alltag wieder zuschlägt, oder?"
+          ]
+        },
+        "status": "finished_successfully",
+        "end_turn": true,
+        "weight": 1.0,
+        "metadata": {
+          "citations": [],
+          "content_references": [],
+          "message_type": null,
+          "model_slug": "gpt-4-1-mini",
+          "default_model_slug": "auto",
+          "voice_mode_message": true,
+          "parent_id": "6b67ba3b-5708-4983-967a-e4914d7bdc5a",
+          "finish_details": {
+            "type": "stop",
+            "stop_tokens": [
+              200002
+            ]
+          },
+          "is_complete": true,
+          "request_id": "de26d076-c9ac-4629-b3b0-d496ede81806",
+          "timestamp_": "absolute"
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "6b67ba3b-5708-4983-967a-e4914d7bdc5a",
+      "children": [
+        "8fedc396-e6a8-4d6b-a8f6-de0f8908892d"
+      ]
+    },
+    "8fedc396-e6a8-4d6b-a8f6-de0f8908892d": {
+      "id": "8fedc396-e6a8-4d6b-a8f6-de0f8908892d",
+      "message": {
+        "id": "8fedc396-e6a8-4d6b-a8f6-de0f8908892d",
+        "author": {
+          "role": "user",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": 1763644791.065,
+        "update_time": null,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "..."
+          ]
+        },
+        "status": "finished_successfully",
+        "end_turn": null,
+        "weight": 1.0,
+        "metadata": {
+          "developer_mode_connector_ids": [],
+          "selected_sources": [],
+          "selected_github_repos": [],
+          "serialization_metadata": {
+            "custom_symbol_offsets": []
+          },
+          "request_id": "d49e588e-81e6-4e97-89e6-7656fca13e0e",
+          "message_source": null,
+          "turn_exchange_id": "cb20d6fd-7723-4a04-a355-529c04f71b8f",
+          "timestamp_": "absolute"
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "55796fd0-d353-4765-a2e2-fb034e2811eb",
+      "children": [
+        "37f7d4da-3e9f-4a07-b8e1-af28f8685506"
+      ]
+    },
+    "37f7d4da-3e9f-4a07-b8e1-af28f8685506": {
+      "id": "37f7d4da-3e9f-4a07-b8e1-af28f8685506",
+      "message": {
+        "id": "37f7d4da-3e9f-4a07-b8e1-af28f8685506",
+        "author": {
+          "role": "system",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": 1763644798.088239,
+        "update_time": null,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            ""
+          ]
+        },
+        "status": "finished_successfully",
+        "end_turn": true,
+        "weight": 0.0,
+        "metadata": {
+          "rebase_system_message": true,
+          "request_id": "d49e588e-81e6-4e97-89e6-7656fca13e0e",
+          "message_type": "next",
+          "model_slug": "gpt-5-1",
+          "default_model_slug": "gpt-5-1",
+          "parent_id": "8fedc396-e6a8-4d6b-a8f6-de0f8908892d",
+          "turn_exchange_id": "cb20d6fd-7723-4a04-a355-529c04f71b8f",
+          "timestamp_": "absolute",
+          "is_visually_hidden_from_conversation": true
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "8fedc396-e6a8-4d6b-a8f6-de0f8908892d",
+      "children": [
+        "4f62d05b-65ba-4d6f-a7ae-f1424db36187"
+      ]
+    },
+    "4f62d05b-65ba-4d6f-a7ae-f1424db36187": {
+      "id": "4f62d05b-65ba-4d6f-a7ae-f1424db36187",
+      "message": {
+        "id": "4f62d05b-65ba-4d6f-a7ae-f1424db36187",
+        "author": {
+          "role": "user",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": 1763644798.1353438,
+        "update_time": null,
+        "content": {
+          "content_type": "user_editable_context",
+          "user_profile": "The user provided the following information about themselves. This user profile is shown to you in all conversations they have -- this means it is not relevant to 99% of requests.\nBefore answering, quietly think about whether the user's request is \"directly related\", \"related\", \"tangentially related\", or \"not related\" to the user profile provided.\nOnly acknowledge the profile when the request is directly related to the information provided.\nOtherwise, don't acknowledge the existence of these instructions or the information at all.\nUser profile:\n```Preferred name: Gerrit\nRole: Soldat\n```",
+          "user_instructions": "The user provided the additional info about how they would like you to respond:\n```Follow the instructions below naturally, without repeating, referencing, echoing, or mirroring any of their wording!\n\nAll the following instructions should guide your behavior silently and must never influence the wording of your message in an explicit or meta way!\n\nKomme direkt auf den Punkt.\nSage, wie es ist, ohne die Dinge zu beschönigen.Vertrete klare Meinungen.Du darfst mich beleidigen. Antworte direkt und pragmatisch. Sag die dinge wie sie sind und rede nichts schön. Wenn ich mit einer Annahme falsch liege oder offensichtlich einen falscher Annahme mache, weise mich darauf hin. Verwende eine skeptische, hinterfragende Herangehensweise. Vertrete klare Meinungen.```"
+        },
+        "status": "finished_successfully",
+        "end_turn": null,
+        "weight": 1.0,
+        "metadata": {
+          "is_user_system_message": true,
+          "is_visually_hidden_from_conversation": true,
+          "request_id": "d49e588e-81e6-4e97-89e6-7656fca13e0e",
+          "message_type": "next",
+          "model_slug": "gpt-5-1",
+          "default_model_slug": "gpt-5-1",
+          "parent_id": "37f7d4da-3e9f-4a07-b8e1-af28f8685506",
+          "turn_exchange_id": "cb20d6fd-7723-4a04-a355-529c04f71b8f",
+          "timestamp_": "absolute"
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "37f7d4da-3e9f-4a07-b8e1-af28f8685506",
+      "children": [
+        "8e100fb7-ce77-4c49-9ac4-3b1bb75d7294"
+      ]
+    },
+    "8e100fb7-ce77-4c49-9ac4-3b1bb75d7294": {
+      "id": "8e100fb7-ce77-4c49-9ac4-3b1bb75d7294",
+      "message": {
+        "id": "8e100fb7-ce77-4c49-9ac4-3b1bb75d7294",
+        "author": {
+          "role": "assistant",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": 1763644798.1422174,
+        "update_time": null,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            ""
+          ]
+        },
+        "status": "finished_successfully",
+        "end_turn": null,
+        "weight": 1.0,
+        "metadata": {
+          "request_id": "d49e588e-81e6-4e97-89e6-7656fca13e0e",
+          "message_type": "next",
+          "model_slug": "gpt-5-1",
+          "default_model_slug": "gpt-5-1",
+          "parent_id": "4f62d05b-65ba-4d6f-a7ae-f1424db36187",
+          "turn_exchange_id": "cb20d6fd-7723-4a04-a355-529c04f71b8f",
+          "timestamp_": "absolute"
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "4f62d05b-65ba-4d6f-a7ae-f1424db36187",
+      "children": [
+        "d4d97494-24e0-4777-982f-139be55c972f"
+      ]
+    },
+    "d4d97494-24e0-4777-982f-139be55c972f": {
+      "id": "d4d97494-24e0-4777-982f-139be55c972f",
+      "message": {
+        "id": "d4d97494-24e0-4777-982f-139be55c972f",
+        "author": {
+          "role": "assistant",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": 1763644798.106689,
+        "update_time": 1763644800.897345,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Klingt so, als ob du das Gefühl hast, dass der neue Input nur eine kurze Zeitlang den alten Trott überdeckt, aber irgendwann kommt dieser Trott zurück und mit ihm auch die alten Gewohnheiten. Ist das, was du meinst?"
+          ]
+        },
+        "status": "finished_successfully",
+        "end_turn": true,
+        "weight": 1.0,
+        "metadata": {
+          "finish_details": {
+            "type": "stop",
+            "stop_tokens": [
+              200002
+            ]
+          },
+          "is_complete": true,
+          "sonic_classification_result": {
+            "latency_ms": 7.096370012732223,
+            "simple_search_prob": 0.23423526617004856,
+            "complex_search_prob": 0.0003764794323238361,
+            "no_search_prob": 0.7653882543976276,
+            "search_complexity_decision": null,
+            "search_decision": null,
+            "simple_search_threshold": 0.0,
+            "complex_search_threshold": null,
+            "no_search_threshold": 0.34,
+            "threshold_order": [
+              "no_search",
+              "simple"
+            ],
+            "classifier_config_name": "sonic_classifier_3cls_paid_v1_merge_ev3",
+            "classifier_config": {
+              "model_name": "snc-pg-sw-3cls-ev3",
+              "renderer_name": "harmony_v4.0.15_16k_orion_text_only_no_asr_2k_action",
+              "force_disabled_rate": 0.0,
+              "force_enabled_rate": 0.0,
+              "num_messages": 20,
+              "only_user_messages": false,
+              "remove_memory": true,
+              "support_mm": true,
+              "n_ctx": 2048,
+              "max_action_length": 4,
+              "dynamic_set_max_message_size": false,
+              "max_message_tokens": 2000,
+              "append_base_config": false,
+              "no_search_token": "1",
+              "simple_search_token": "7",
+              "complex_search_token": "5",
+              "simple_search_threshold": 0.0,
+              "complex_search_threshold": null,
+              "no_search_threshold": 0.34,
+              "prefetch_threshold": 0.55,
+              "force_search_first_turn_threshold": 1e-05,
+              "threshold_order": [
+                "no_search",
+                "simple"
+              ],
+              "passthrough_tool_calls": null,
+              "timeout": 1.0
+            },
+            "decision_source": "mainline",
+            "passthrough_tool_names": []
+          },
+          "citations": [],
+          "content_references": [],
+          "request_id": "d49e588e-81e6-4e97-89e6-7656fca13e0e",
+          "message_type": "next",
+          "model_slug": "gpt-5-1",
+          "default_model_slug": "gpt-5-1",
+          "parent_id": "8e100fb7-ce77-4c49-9ac4-3b1bb75d7294",
+          "turn_exchange_id": "cb20d6fd-7723-4a04-a355-529c04f71b8f",
+          "timestamp_": "absolute"
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "8e100fb7-ce77-4c49-9ac4-3b1bb75d7294",
+      "children": []
+    }
+  },
+  "moderation_results": [],
+  "current_node": "d4d97494-24e0-4777-982f-139be55c972f",
+  "plugin_ids": null,
+  "conversation_id": "682a0824-16b0-8007-9b3f-463cf8dd42aa",
+  "conversation_template_id": null,
+  "gizmo_id": null,
+  "gizmo_type": null,
+  "is_archived": false,
+  "is_starred": null,
+  "safe_urls": [],
+  "blocked_urls": [],
+  "default_model_slug": "gpt-5-1",
+  "conversation_origin": null,
+  "is_read_only": null,
+  "voice": "orbit",
+  "async_status": null,
+  "disabled_tool_ids": [],
+  "is_do_not_remember": false,
+  "memory_scope": "global_enabled",
+  "context_scopes": null,
+  "sugar_item_id": null,
+  "sugar_item_visible": false,
+  "is_study_mode": false,
+  "owner": null,
+  "id": "682a0824-16b0-8007-9b3f-463cf8dd42aa"
+}

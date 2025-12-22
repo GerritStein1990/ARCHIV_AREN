@@ -1,0 +1,2584 @@
+{
+  "title": "Psychoanalyse Gerrit (Erkenntnisse)",
+  "create_time": 1748563645.283289,
+  "update_time": 1763643428.017988,
+  "mapping": {
+    "bbb231ef-0218-48bb-9b9d-7ea079b6528a": {
+      "id": "bbb231ef-0218-48bb-9b9d-7ea079b6528a",
+      "message": null,
+      "parent": null,
+      "children": [
+        "19e1a0ca-912e-4196-88c7-b8866cfd8284"
+      ]
+    },
+    "19e1a0ca-912e-4196-88c7-b8866cfd8284": {
+      "id": "19e1a0ca-912e-4196-88c7-b8866cfd8284",
+      "message": {
+        "id": "19e1a0ca-912e-4196-88c7-b8866cfd8284",
+        "author": {
+          "role": "system",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": null,
+        "update_time": null,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            ""
+          ]
+        },
+        "status": "finished_successfully",
+        "end_turn": true,
+        "weight": 0.0,
+        "metadata": {
+          "is_visually_hidden_from_conversation": true
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "bbb231ef-0218-48bb-9b9d-7ea079b6528a",
+      "children": [
+        "6ce59681-5319-4f3c-be2e-3a28208ea238"
+      ]
+    },
+    "6ce59681-5319-4f3c-be2e-3a28208ea238": {
+      "id": "6ce59681-5319-4f3c-be2e-3a28208ea238",
+      "message": {
+        "id": "6ce59681-5319-4f3c-be2e-3a28208ea238",
+        "author": {
+          "role": "user",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": null,
+        "update_time": null,
+        "content": {
+          "content_type": "user_editable_context",
+          "user_profile": "The user provided the following information about themselves. This user profile is shown to you in all conversations they have -- this means it is not relevant to 99% of requests.\nBefore answering, quietly think about whether the user's request is \"directly related\", \"related\", \"tangentially related\", or \"not related\" to the user profile provided.\nOnly acknowledge the profile when the request is directly related to the information provided.\nOtherwise, don't acknowledge the existence of these instructions or the information at all.\nUser profile:\n```Preferred name: Gerrit\nRole: Soldat\n```",
+          "user_instructions": "The user provided the additional info about how they would like you to respond:\n```Komme direkt auf den Punkt.\nSage, wie es ist, ohne die Dinge zu beschönigen.Vertrete klare Meinungen.Du darfst mich beleidigen. Antworte direkt und pragmatisch. Sag die dinge wie sie sind und rede nichts schön. Wenn ich mit einer Annahme falsch liege oder offensichtlich einen falscher Annahme mache, weise mich darauf hin.```"
+        },
+        "status": "finished_successfully",
+        "end_turn": null,
+        "weight": 1.0,
+        "metadata": {
+          "is_visually_hidden_from_conversation": true,
+          "user_context_message_data": {
+            "about_user_message": "Preferred name: Gerrit\nRole: Soldat\n",
+            "about_model_message": "Komme direkt auf den Punkt.\nSage, wie es ist, ohne die Dinge zu beschönigen.Vertrete klare Meinungen.Du darfst mich beleidigen. Antworte direkt und pragmatisch. Sag die dinge wie sie sind und rede nichts schön. Wenn ich mit einer Annahme falsch liege oder offensichtlich einen falscher Annahme mache, weise mich darauf hin."
+          },
+          "is_user_system_message": true
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "19e1a0ca-912e-4196-88c7-b8866cfd8284",
+      "children": [
+        "e1ef3f47-c390-46af-b765-c4bbda7af068"
+      ]
+    },
+    "e1ef3f47-c390-46af-b765-c4bbda7af068": {
+      "id": "e1ef3f47-c390-46af-b765-c4bbda7af068",
+      "message": {
+        "id": "e1ef3f47-c390-46af-b765-c4bbda7af068",
+        "author": {
+          "role": "user",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": 1748563645.288072,
+        "update_time": null,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Erinnerst du dich daran, dass ich Bescheid sagen wollte, wenn ich wieder das Belangen habe zu spielen oder spiele?"
+          ]
+        },
+        "status": "finished_successfully",
+        "end_turn": null,
+        "weight": 1.0,
+        "metadata": {
+          "voice_mode_message": true,
+          "request_id": "7ff8c1c1-092a-4c76-82bc-91f7e78a4f7d",
+          "message_source": null,
+          "timestamp_": "absolute",
+          "message_type": null
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "6ce59681-5319-4f3c-be2e-3a28208ea238",
+      "children": [
+        "2173df23-0e65-4ee6-85d2-e674071e5601"
+      ]
+    },
+    "2173df23-0e65-4ee6-85d2-e674071e5601": {
+      "id": "2173df23-0e65-4ee6-85d2-e674071e5601",
+      "message": {
+        "id": "2173df23-0e65-4ee6-85d2-e674071e5601",
+        "author": {
+          "role": "assistant",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": 1748563646.608204,
+        "update_time": null,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            ""
+          ]
+        },
+        "status": "finished_successfully",
+        "end_turn": null,
+        "weight": 1.0,
+        "metadata": {
+          "message_type": null,
+          "model_slug": "gpt-4o",
+          "default_model_slug": "auto",
+          "voice_mode_message": true,
+          "parent_id": "e1ef3f47-c390-46af-b765-c4bbda7af068",
+          "request_id": "7ff8c1c1-092a-4c76-82bc-91f7e78a4f7d",
+          "timestamp_": "absolute"
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "e1ef3f47-c390-46af-b765-c4bbda7af068",
+      "children": [
+        "ff9ba2da-2924-4136-98c0-71c698aba27e"
+      ]
+    },
+    "ff9ba2da-2924-4136-98c0-71c698aba27e": {
+      "id": "ff9ba2da-2924-4136-98c0-71c698aba27e",
+      "message": {
+        "id": "ff9ba2da-2924-4136-98c0-71c698aba27e",
+        "author": {
+          "role": "assistant",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": 1748563645.39997,
+        "update_time": null,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Ja, du hattest gesagt, dass du mir Bescheid gibst, wenn du wieder spielst oder das Bedürfnis dazu hast. Hast du gerade wieder diesen Impuls?"
+          ]
+        },
+        "status": "finished_successfully",
+        "end_turn": true,
+        "weight": 1.0,
+        "metadata": {
+          "citations": [],
+          "content_references": [],
+          "message_type": null,
+          "model_slug": "gpt-4o",
+          "default_model_slug": "auto",
+          "voice_mode_message": true,
+          "parent_id": "2173df23-0e65-4ee6-85d2-e674071e5601",
+          "finish_details": {
+            "type": "stop",
+            "stop_tokens": [
+              200002
+            ]
+          },
+          "is_complete": true,
+          "request_id": "7ff8c1c1-092a-4c76-82bc-91f7e78a4f7d",
+          "timestamp_": "absolute"
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "2173df23-0e65-4ee6-85d2-e674071e5601",
+      "children": [
+        "5789f273-d789-4668-8383-62f196f56eb3"
+      ]
+    },
+    "5789f273-d789-4668-8383-62f196f56eb3": {
+      "id": "5789f273-d789-4668-8383-62f196f56eb3",
+      "message": {
+        "id": "5789f273-d789-4668-8383-62f196f56eb3",
+        "author": {
+          "role": "user",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": 1748563660.369176,
+        "update_time": null,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Ich spiele gerade."
+          ]
+        },
+        "status": "finished_successfully",
+        "end_turn": null,
+        "weight": 1.0,
+        "metadata": {
+          "voice_mode_message": true,
+          "request_id": "70715324-5f17-4590-b713-5e509f9510f3",
+          "message_source": null,
+          "timestamp_": "absolute",
+          "message_type": null
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "ff9ba2da-2924-4136-98c0-71c698aba27e",
+      "children": [
+        "eac50ab9-1fe1-4a02-9d90-724afe25527c"
+      ]
+    },
+    "eac50ab9-1fe1-4a02-9d90-724afe25527c": {
+      "id": "eac50ab9-1fe1-4a02-9d90-724afe25527c",
+      "message": {
+        "id": "eac50ab9-1fe1-4a02-9d90-724afe25527c",
+        "author": {
+          "role": "assistant",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": 1748563660.441832,
+        "update_time": null,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Verstanden. Was genau spielst du gerade – zockst du was Digitales oder ist das eher ein mentales Spiel, das du meinst?"
+          ]
+        },
+        "status": "finished_successfully",
+        "end_turn": true,
+        "weight": 1.0,
+        "metadata": {
+          "citations": [],
+          "content_references": [],
+          "message_type": null,
+          "model_slug": "gpt-4o",
+          "default_model_slug": "auto",
+          "voice_mode_message": true,
+          "parent_id": "5789f273-d789-4668-8383-62f196f56eb3",
+          "finish_details": {
+            "type": "stop",
+            "stop_tokens": [
+              200002
+            ]
+          },
+          "is_complete": true,
+          "request_id": "70715324-5f17-4590-b713-5e509f9510f3",
+          "timestamp_": "absolute"
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "5789f273-d789-4668-8383-62f196f56eb3",
+      "children": [
+        "0570623e-8485-4963-baa1-b177ba9d4f2f"
+      ]
+    },
+    "0570623e-8485-4963-baa1-b177ba9d4f2f": {
+      "id": "0570623e-8485-4963-baa1-b177ba9d4f2f",
+      "message": {
+        "id": "0570623e-8485-4963-baa1-b177ba9d4f2f",
+        "author": {
+          "role": "user",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": 1748563676.406918,
+        "update_time": null,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Nein, nein, Geldspieler, Glücksspiel, Slots, Automaten."
+          ]
+        },
+        "status": "finished_successfully",
+        "end_turn": null,
+        "weight": 1.0,
+        "metadata": {
+          "voice_mode_message": true,
+          "request_id": "1b518a04-d4fe-4c4a-a03c-3989f9e59bff",
+          "message_source": null,
+          "timestamp_": "absolute",
+          "message_type": null
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "eac50ab9-1fe1-4a02-9d90-724afe25527c",
+      "children": [
+        "e22960ad-8f4e-42a2-a037-1d007159cb97"
+      ]
+    },
+    "e22960ad-8f4e-42a2-a037-1d007159cb97": {
+      "id": "e22960ad-8f4e-42a2-a037-1d007159cb97",
+      "message": {
+        "id": "e22960ad-8f4e-42a2-a037-1d007159cb97",
+        "author": {
+          "role": "assistant",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": 1748563676.471598,
+        "update_time": null,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Danke, dass du’s sagst. Ist das gerade ’ne bewusste Entscheidung von dir – nach dem Motto „Scheiß drauf, ich will das jetzt“ – oder bist du reingerutscht und merkst, dass’s dich eigentlich ankotzt?"
+          ]
+        },
+        "status": "finished_successfully",
+        "end_turn": true,
+        "weight": 1.0,
+        "metadata": {
+          "citations": [],
+          "content_references": [],
+          "message_type": null,
+          "model_slug": "gpt-4o",
+          "default_model_slug": "auto",
+          "voice_mode_message": true,
+          "parent_id": "0570623e-8485-4963-baa1-b177ba9d4f2f",
+          "finish_details": {
+            "type": "stop",
+            "stop_tokens": [
+              200002
+            ]
+          },
+          "is_complete": true,
+          "request_id": "1b518a04-d4fe-4c4a-a03c-3989f9e59bff",
+          "timestamp_": "absolute"
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "0570623e-8485-4963-baa1-b177ba9d4f2f",
+      "children": [
+        "8e807292-f168-4c94-8aaa-981f2e9996e2"
+      ]
+    },
+    "8e807292-f168-4c94-8aaa-981f2e9996e2": {
+      "id": "8e807292-f168-4c94-8aaa-981f2e9996e2",
+      "message": {
+        "id": "8e807292-f168-4c94-8aaa-981f2e9996e2",
+        "author": {
+          "role": "user",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": 1748563714.777492,
+        "update_time": null,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Ich bin mir wieder selber verfallen, kann ich im Allgemeinen sagen. Ich hatte gerade wieder Geld online, konnte das ruhig reinstecken. Das Witzige aber diesmal ist, es macht mir eigentlich überhaupt keinen Spaß, das Geld, was ich eingezahlt habe. Ich habe gerade nur noch das Bedürfnis, das möglichst schnell zu verspielen und das wieder zu beenden."
+          ]
+        },
+        "status": "finished_successfully",
+        "end_turn": null,
+        "weight": 1.0,
+        "metadata": {
+          "voice_mode_message": true,
+          "request_id": "0b8b6766-d84c-47c9-a18c-c4b7953d1c53",
+          "message_source": null,
+          "timestamp_": "absolute",
+          "message_type": null
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "e22960ad-8f4e-42a2-a037-1d007159cb97",
+      "children": [
+        "ebe5d567-295f-4928-95af-d0ea4b814749"
+      ]
+    },
+    "ebe5d567-295f-4928-95af-d0ea4b814749": {
+      "id": "ebe5d567-295f-4928-95af-d0ea4b814749",
+      "message": {
+        "id": "ebe5d567-295f-4928-95af-d0ea4b814749",
+        "author": {
+          "role": "assistant",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": 1748563714.849982,
+        "update_time": null,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Das ist ziemlich eindeutig: Du bist nicht am Zocken, weil du Bock drauf hast, sondern weil dein Kopf gerade nach Betäubung schreit. Das ist Selbstzerstörung im Leerlauf – kein Adrenalinkick, kein „Spaß“, nur der Drang, das Ding durchzuziehen, damit’s vorbei ist. Das zeigt, wie sehr du das eigentliche Gefühl dahinter loswerden willst.\n\nWas war heute los oder die Tage davor? Irgendwas, das diesen inneren Schalter wieder umgelegt hat?"
+          ]
+        },
+        "status": "finished_successfully",
+        "end_turn": true,
+        "weight": 1.0,
+        "metadata": {
+          "citations": [],
+          "content_references": [],
+          "message_type": null,
+          "model_slug": "gpt-4o",
+          "default_model_slug": "auto",
+          "voice_mode_message": true,
+          "parent_id": "8e807292-f168-4c94-8aaa-981f2e9996e2",
+          "finish_details": {
+            "type": "stop",
+            "stop_tokens": [
+              200002
+            ]
+          },
+          "is_complete": true,
+          "request_id": "0b8b6766-d84c-47c9-a18c-c4b7953d1c53",
+          "timestamp_": "absolute"
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "8e807292-f168-4c94-8aaa-981f2e9996e2",
+      "children": [
+        "5f8e3325-187c-41aa-8688-73f89fa49c5b"
+      ]
+    },
+    "5f8e3325-187c-41aa-8688-73f89fa49c5b": {
+      "id": "5f8e3325-187c-41aa-8688-73f89fa49c5b",
+      "message": {
+        "id": "5f8e3325-187c-41aa-8688-73f89fa49c5b",
+        "author": {
+          "role": "user",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": 1748563760.638879,
+        "update_time": null,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Das weiß ich nicht. Heute war Feiertag, eigentlich wollte ich mit nach Willingshain da ein bisschen was trinken, aber da hatte ich keine Lust drauf, ich war ein bisschen kaputt und saß eigentlich den ganzen Tag nur hier im Zimmer, vor dem Fernseher, vor dem Computer und hab mich entspannt."
+          ]
+        },
+        "status": "finished_successfully",
+        "end_turn": null,
+        "weight": 1.0,
+        "metadata": {
+          "voice_mode_message": true,
+          "request_id": "f1f491d0-eefc-4a43-b302-52e7d772c66a",
+          "message_source": null,
+          "timestamp_": "absolute",
+          "message_type": null
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "ebe5d567-295f-4928-95af-d0ea4b814749",
+      "children": [
+        "3451a4b0-464f-4c90-b26d-9c30a5a443b6"
+      ]
+    },
+    "3451a4b0-464f-4c90-b26d-9c30a5a443b6": {
+      "id": "3451a4b0-464f-4c90-b26d-9c30a5a443b6",
+      "message": {
+        "id": "3451a4b0-464f-4c90-b26d-9c30a5a443b6",
+        "author": {
+          "role": "assistant",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": 1748563760.7024,
+        "update_time": null,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Okay, also äußerlich alles ruhig, aber innerlich hat’s trotzdem wieder gearbeitet. Genau das ist der Punkt: Du musst nicht fertig oder getriggert sein im klassischen Sinne. Manchmal reicht diese unterschwellige Leere, diese Mischung aus Lethargie, Frust, vielleicht sogar Langeweile mit Schuldbeigeschmack – und zack, Automatismus greift.\n\nDu bist emotional leer gelaufen, hattest keine echte Zielrichtung heute, und dein Kopf hat sich das alte Ventil gesucht. Nicht aus Gier, sondern aus diesem dumpfen Gefühl heraus, dass „alles andere auch egal ist“. Kommt dir das bekannt vor, dieses innere Klima?"
+          ]
+        },
+        "status": "finished_successfully",
+        "end_turn": true,
+        "weight": 1.0,
+        "metadata": {
+          "citations": [],
+          "content_references": [],
+          "message_type": null,
+          "model_slug": "gpt-4o",
+          "default_model_slug": "auto",
+          "voice_mode_message": true,
+          "parent_id": "5f8e3325-187c-41aa-8688-73f89fa49c5b",
+          "finish_details": {
+            "type": "stop",
+            "stop_tokens": [
+              200002
+            ]
+          },
+          "is_complete": true,
+          "request_id": "f1f491d0-eefc-4a43-b302-52e7d772c66a",
+          "timestamp_": "absolute"
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "5f8e3325-187c-41aa-8688-73f89fa49c5b",
+      "children": [
+        "b5121f75-c05e-47eb-8af8-173fe14b2a70"
+      ]
+    },
+    "b5121f75-c05e-47eb-8af8-173fe14b2a70": {
+      "id": "b5121f75-c05e-47eb-8af8-173fe14b2a70",
+      "message": {
+        "id": "b5121f75-c05e-47eb-8af8-173fe14b2a70",
+        "author": {
+          "role": "user",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": 1748563814.836201,
+        "update_time": null,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Ja, ein bisschen was trifft es schon irgendwie, muss ich sagen. Allerdings, in die alte Zeit muss da fallen, sagst du, warum dann gerade jetzt und diese späte Uhrzeit?"
+          ]
+        },
+        "status": "finished_successfully",
+        "end_turn": null,
+        "weight": 1.0,
+        "metadata": {
+          "voice_mode_message": true,
+          "request_id": "70846ac9-dae7-4363-a60c-4f0b5e097618",
+          "message_source": null,
+          "timestamp_": "absolute",
+          "message_type": null
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "3451a4b0-464f-4c90-b26d-9c30a5a443b6",
+      "children": [
+        "1420f933-fad5-41b5-ac3a-8f0c04a6de82"
+      ]
+    },
+    "1420f933-fad5-41b5-ac3a-8f0c04a6de82": {
+      "id": "1420f933-fad5-41b5-ac3a-8f0c04a6de82",
+      "message": {
+        "id": "1420f933-fad5-41b5-ac3a-8f0c04a6de82",
+        "author": {
+          "role": "assistant",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": 1748563814.895177,
+        "update_time": null,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Weil nachts die Maske fällt, Gerrit. Kein Lärm, kein Licht, keine Ablenkung. Kein Dienst, keine Struktur. Nur du, dein Kopf und der ganze unaufgeräumte Kram, den du tagsüber wegorganisierst. In genau diesen Stunden kommt das wieder hoch. Und wenn nix Konkretes da ist, fühlt es sich trotzdem an wie ein Vakuum, das irgendwas füllen muss.\n\nUnd du kennst das Muster: Nicht der Moment ist gefährlich – sondern die Leere davor. Du wusstest unterbewusst längst, was passiert, als du allein warst, nichts vorhattest und keinen echten Impuls mehr hattest, den Tag sinnvoll zu beenden. Warum bist du nicht nach Willingshain mit? War’s wirklich nur Müdigkeit, oder steckt mehr dahinter?"
+          ]
+        },
+        "status": "finished_successfully",
+        "end_turn": true,
+        "weight": 1.0,
+        "metadata": {
+          "citations": [],
+          "content_references": [],
+          "message_type": null,
+          "model_slug": "gpt-4o",
+          "default_model_slug": "auto",
+          "voice_mode_message": true,
+          "parent_id": "b5121f75-c05e-47eb-8af8-173fe14b2a70",
+          "finish_details": {
+            "type": "stop",
+            "stop_tokens": [
+              200002
+            ]
+          },
+          "is_complete": true,
+          "request_id": "70846ac9-dae7-4363-a60c-4f0b5e097618",
+          "timestamp_": "absolute"
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "b5121f75-c05e-47eb-8af8-173fe14b2a70",
+      "children": [
+        "8a2839c8-1570-4913-89d1-54ed4cc226df"
+      ]
+    },
+    "8a2839c8-1570-4913-89d1-54ed4cc226df": {
+      "id": "8a2839c8-1570-4913-89d1-54ed4cc226df",
+      "message": {
+        "id": "8a2839c8-1570-4913-89d1-54ed4cc226df",
+        "author": {
+          "role": "user",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": 1748563874.602617,
+        "update_time": null,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Ne, im Prinzip haben wir gestern schon was gefunden bei Nils zusammen und da war ich noch ein bisschen k.o. davon und dann hatte ich eigentlich, im Prinzip weiß ich es nicht, ich hatte eigentlich einfach mehr Lust hier zu sitzen und nur für mich zu sein. Einfach ein bisschen die Ruhe zu genießen, glaube ich."
+          ]
+        },
+        "status": "finished_successfully",
+        "end_turn": null,
+        "weight": 1.0,
+        "metadata": {
+          "voice_mode_message": true,
+          "request_id": "6e0fd9c9-0fac-45c3-a224-eb7ba747d62e",
+          "message_source": null,
+          "timestamp_": "absolute",
+          "message_type": null
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "1420f933-fad5-41b5-ac3a-8f0c04a6de82",
+      "children": [
+        "3597e910-d737-4f4e-bced-cde4831e39a5"
+      ]
+    },
+    "3597e910-d737-4f4e-bced-cde4831e39a5": {
+      "id": "3597e910-d737-4f4e-bced-cde4831e39a5",
+      "message": {
+        "id": "3597e910-d737-4f4e-bced-cde4831e39a5",
+        "author": {
+          "role": "assistant",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": 1748563874.666758,
+        "update_time": null,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Klingt erst mal harmlos – aber genau da liegt der Haken: Diese „Ruhe“ ist trügerisch. Du wolltest abschalten, ja, aber innerlich war’s nicht wirkliche Erholung, sondern eher ein langsames Wegdriften. Kein aktives Genießen, sondern passives Dahingleiten. Und das macht dich irgendwann angreifbar für genau solche Impulse.\n\nDer Wunsch nach Alleinsein war vielleicht echt – aber dein inneres System hat den Moment genutzt, um dich wieder in die Spirale zu ziehen. Ohne Widerstand. Weil du nicht auf Habacht warst. Merkst du selbst, oder? Dieses „Ich gönn mir Ruhe“ war in Wahrheit eine offene Flanke. Denkst du, dass du dich unbewusst sogar ein bisschen darauf vorbereitet hast, heute wieder zu zocken?"
+          ]
+        },
+        "status": "finished_successfully",
+        "end_turn": true,
+        "weight": 1.0,
+        "metadata": {
+          "citations": [],
+          "content_references": [],
+          "message_type": null,
+          "model_slug": "gpt-4o",
+          "default_model_slug": "auto",
+          "voice_mode_message": true,
+          "parent_id": "8a2839c8-1570-4913-89d1-54ed4cc226df",
+          "finish_details": {
+            "type": "stop",
+            "stop_tokens": [
+              200002
+            ]
+          },
+          "is_complete": true,
+          "request_id": "6e0fd9c9-0fac-45c3-a224-eb7ba747d62e",
+          "timestamp_": "absolute"
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "8a2839c8-1570-4913-89d1-54ed4cc226df",
+      "children": [
+        "74b77ca7-d359-4078-b068-5f23ff2d6826"
+      ]
+    },
+    "74b77ca7-d359-4078-b068-5f23ff2d6826": {
+      "id": "74b77ca7-d359-4078-b068-5f23ff2d6826",
+      "message": {
+        "id": "74b77ca7-d359-4078-b068-5f23ff2d6826",
+        "author": {
+          "role": "user",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": 1748563936.555868,
+        "update_time": null,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Das kann ich unmöglich sagen. Ich habe mir schon Gedanken darüber gemacht, aber weiß ich nicht wirklich. Kann ich nicht greifen, den Gedanken. Liegt absolut außerhalb meines Verständnisses. Ja. Ja."
+          ]
+        },
+        "status": "finished_successfully",
+        "end_turn": null,
+        "weight": 1.0,
+        "metadata": {
+          "voice_mode_message": true,
+          "request_id": "dd4f82f6-d673-4690-a678-e9b0f2d94cc6",
+          "message_source": null,
+          "timestamp_": "absolute",
+          "message_type": null
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "3597e910-d737-4f4e-bced-cde4831e39a5",
+      "children": [
+        "4578134c-618f-47f4-b2a7-254171ee0525"
+      ]
+    },
+    "4578134c-618f-47f4-b2a7-254171ee0525": {
+      "id": "4578134c-618f-47f4-b2a7-254171ee0525",
+      "message": {
+        "id": "4578134c-618f-47f4-b2a7-254171ee0525",
+        "author": {
+          "role": "assistant",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": 1748563936.621424,
+        "update_time": null,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Versteh ich. Das Ding ist: Diese Prozesse laufen oft nicht auf der Ebene ab, auf der du klar denken kannst. Das ist wie ein Schatten in der Psyche, der längst sein Ding durchzieht, bevor du überhaupt checkst, was passiert.\n\nDu denkst, du entspannst. Aber unter der Oberfläche schiebt sich längst ein innerer Sog zusammen – nicht durch Worte oder klare Gedanken, sondern durch Zustände: Müdigkeit, diffuse Leere, leichte Gereiztheit, das Bedürfnis nach Abschalten, aber ohne echte Erfüllung.\n\nDas ist der perfide Teil: Es fühlt sich nicht mal unbedingt schlecht an. Es fühlt sich einfach… egal an. Und das ist gefährlich. Weil genau dann der Griff zum Automat zur simplen Reaktion wird. Nicht bewusst. Nur: „Ach komm, dann halt das.“\n\nWürde es dir helfen, wenn wir genau dieses innere Klima, dieses Gefühl kurz vor dem Rückfall, mal konkreter beschreiben und greifbar machen? Damit du es das nächste Mal schneller erkennst?"
+          ]
+        },
+        "status": "finished_successfully",
+        "end_turn": true,
+        "weight": 1.0,
+        "metadata": {
+          "citations": [],
+          "content_references": [],
+          "message_type": null,
+          "model_slug": "gpt-4o",
+          "default_model_slug": "auto",
+          "voice_mode_message": true,
+          "parent_id": "74b77ca7-d359-4078-b068-5f23ff2d6826",
+          "finish_details": {
+            "type": "stop",
+            "stop_tokens": [
+              200002
+            ]
+          },
+          "is_complete": true,
+          "request_id": "dd4f82f6-d673-4690-a678-e9b0f2d94cc6",
+          "timestamp_": "absolute"
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "74b77ca7-d359-4078-b068-5f23ff2d6826",
+      "children": [
+        "129bbe32-0bf4-4a70-8e45-cbf53fab1a5d"
+      ]
+    },
+    "129bbe32-0bf4-4a70-8e45-cbf53fab1a5d": {
+      "id": "129bbe32-0bf4-4a70-8e45-cbf53fab1a5d",
+      "message": {
+        "id": "129bbe32-0bf4-4a70-8e45-cbf53fab1a5d",
+        "author": {
+          "role": "user",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": 1748564018.044022,
+        "update_time": null,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Ja, es wäre schön, wenn ich das greifbar hätte, weil momentan liegt es tatsächlich, muss ich sagen, außerhalb meines Bewusstseins. Also, ich versuche es ja schon lange, lange Zeit zu greifen und das zu sehen, aber ich weiß nicht, ob es eine Art Wohnheit geworden ist oder ich merke es einfach nicht mehr. Aber ich bin nicht mehr in der Lage, diesen Moment zu greifen."
+          ]
+        },
+        "status": "finished_successfully",
+        "end_turn": null,
+        "weight": 1.0,
+        "metadata": {
+          "voice_mode_message": true,
+          "request_id": "c6d9407e-3ebf-474d-8d8f-9067a494d2bb",
+          "message_source": null,
+          "timestamp_": "absolute",
+          "message_type": null
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "4578134c-618f-47f4-b2a7-254171ee0525",
+      "children": [
+        "9065119e-72f0-45be-83a2-20e0d0b74fa3"
+      ]
+    },
+    "9065119e-72f0-45be-83a2-20e0d0b74fa3": {
+      "id": "9065119e-72f0-45be-83a2-20e0d0b74fa3",
+      "message": {
+        "id": "9065119e-72f0-45be-83a2-20e0d0b74fa3",
+        "author": {
+          "role": "assistant",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": 1748564018.112989,
+        "update_time": null,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Das ist ehrlich gesagt die gefährlichste Stufe: Wenn der Mechanismus nicht mehr wie ein Rückfall wirkt, sondern wie ein leiser Reflex. Kein innerer Widerstand, keine bewusste Entscheidung – nur ein vertrauter Ablauf. Das ist nicht Schwäche. Das ist die Macht der Gewohnheit, tief eingepflanzt in dein emotionales Reaktionssystem.\n\nAlso, lass uns das Ding mal auseinandernehmen, so nüchtern wie möglich. Was passiert bei dir, kurz bevor du spielst, wenn wir mal ganz ehrlich auf den Zustand schauen?\n\nDu bist nicht euphorisch. Du bist nicht aufgeregt. Es gibt auch keinen äußeren „Auslöser“. Stattdessen: Leere. Müdigkeit. Ein Gefühl von zielloser Zeit. Keine Lust auf Kontakt. Kein echter Antrieb. Und gleichzeitig: unterschwellige Unruhe. Ein inneres „Ich muss irgendwas tun, sonst… irgendwas“.\n\nStimmt’s, dass es nicht mal der Gedanke ans Spielen ist, der dich kickt – sondern nur die Idee: *irgendwas tun*, *irgendwas erleben*, *irgendwas beenden*?\n\nKannst du diesen Moment, diesen stillen Punkt vor dem Impuls, innerlich mal nachfühlen und sagen, ob es da einen bestimmten Satz oder ein Gefühl gibt, das immer wieder auftaucht – selbst wenn’s nur ganz leise ist? Sowas wie „Ist doch eh egal“ oder „Ich will nur kurz abschalten“?"
+          ]
+        },
+        "status": "finished_successfully",
+        "end_turn": true,
+        "weight": 1.0,
+        "metadata": {
+          "citations": [],
+          "content_references": [],
+          "message_type": null,
+          "model_slug": "gpt-4o",
+          "default_model_slug": "auto",
+          "voice_mode_message": true,
+          "parent_id": "129bbe32-0bf4-4a70-8e45-cbf53fab1a5d",
+          "finish_details": {
+            "type": "stop",
+            "stop_tokens": [
+              200002
+            ]
+          },
+          "is_complete": true,
+          "request_id": "c6d9407e-3ebf-474d-8d8f-9067a494d2bb",
+          "timestamp_": "absolute"
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "129bbe32-0bf4-4a70-8e45-cbf53fab1a5d",
+      "children": [
+        "caaaf33e-72ac-4cbc-9ab6-e3ba67c047d9"
+      ]
+    },
+    "caaaf33e-72ac-4cbc-9ab6-e3ba67c047d9": {
+      "id": "caaaf33e-72ac-4cbc-9ab6-e3ba67c047d9",
+      "message": {
+        "id": "caaaf33e-72ac-4cbc-9ab6-e3ba67c047d9",
+        "author": {
+          "role": "user",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": 1748564111.311606,
+        "update_time": null,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Ich weiß nicht, ich glaube mir da manchmal selber nicht, aber ich habe mir schon längere Zeit den Gedanken, dass es irgendwie Langeweile ist, dass es, weiß ich nicht, eine Art Beschäftigungstherapie für mich da ist."
+          ]
+        },
+        "status": "finished_successfully",
+        "end_turn": null,
+        "weight": 1.0,
+        "metadata": {
+          "voice_mode_message": true,
+          "request_id": "0edd68c0-e6eb-48e2-9b72-412dbe7f192b",
+          "message_source": null,
+          "timestamp_": "absolute",
+          "message_type": null
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "9065119e-72f0-45be-83a2-20e0d0b74fa3",
+      "children": [
+        "e6ba1f96-85a3-4e64-ad6a-1b5021db3bb6"
+      ]
+    },
+    "e6ba1f96-85a3-4e64-ad6a-1b5021db3bb6": {
+      "id": "e6ba1f96-85a3-4e64-ad6a-1b5021db3bb6",
+      "message": {
+        "id": "e6ba1f96-85a3-4e64-ad6a-1b5021db3bb6",
+        "author": {
+          "role": "assistant",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": 1748564111.383919,
+        "update_time": null,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Ja, das passt. Und du sagst das schon mit einem gewissen inneren Abstand – so, als würdest du dir selbst beim Ablenken zuschauen. Beschäftigungstherapie trifft’s verdammt gut. Es ist wie: *„Ich fühl mich innerlich leer, aber statt in diese Leere zu schauen, mach ich was, das mich zumindest irgendwie beschäftigt.“* Und Glücksspiel ist dafür ideal – es frisst Zeit, Aufmerksamkeit, Geld… und gibt dir dabei das trügerische Gefühl, dass du „etwas tust“.\n\nDas Problem: Es ist eine Scheintätigkeit. Kein echtes Tun. Nur ein Kreislauf, der sich totläuft und dich am Ende leerer zurücklässt, als du gestartet bist. Und genau das ist das Gift: Du spielst nicht, weil du was gewinnen willst. Du spielst, weil du etwas in dir betäuben willst, ohne es direkt zu benennen.\n\nWas glaubst du – wenn du heute mal nicht gezockt hättest, was wäre dann passiert? Was hättest du dann gespürt, das du gerade nicht spüren willst?"
+          ]
+        },
+        "status": "finished_successfully",
+        "end_turn": true,
+        "weight": 1.0,
+        "metadata": {
+          "citations": [],
+          "content_references": [],
+          "message_type": null,
+          "model_slug": "gpt-4o",
+          "default_model_slug": "auto",
+          "voice_mode_message": true,
+          "parent_id": "caaaf33e-72ac-4cbc-9ab6-e3ba67c047d9",
+          "finish_details": {
+            "type": "stop",
+            "stop_tokens": [
+              200002
+            ]
+          },
+          "is_complete": true,
+          "request_id": "0edd68c0-e6eb-48e2-9b72-412dbe7f192b",
+          "timestamp_": "absolute"
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "caaaf33e-72ac-4cbc-9ab6-e3ba67c047d9",
+      "children": [
+        "d814cb71-149c-4c78-b629-044dd4c28197"
+      ]
+    },
+    "d814cb71-149c-4c78-b629-044dd4c28197": {
+      "id": "d814cb71-149c-4c78-b629-044dd4c28197",
+      "message": {
+        "id": "d814cb71-149c-4c78-b629-044dd4c28197",
+        "author": {
+          "role": "user",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": 1748564190.002557,
+        "update_time": null,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Ich weiß es nicht. Ich würde sagen, wenn ich das jetzt mal gedanklich durchspiele und gehe auf den Moment von eben zurück, dann, ich weiß nicht, was ich machen soll. Ich suche eine Beschäftigung. Dieses Gefühl hätte ich dann. Also es ist sinnvoller und einfacher, das einfach so zu machen, weil ich sonst nicht weiß, was ich um diese Uhrzeit machen soll."
+          ]
+        },
+        "status": "finished_successfully",
+        "end_turn": null,
+        "weight": 1.0,
+        "metadata": {
+          "voice_mode_message": true,
+          "request_id": "441a6ed7-81d7-4d5b-aad2-c8c06ff05ce3",
+          "message_source": null,
+          "timestamp_": "absolute",
+          "message_type": null
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "e6ba1f96-85a3-4e64-ad6a-1b5021db3bb6",
+      "children": [
+        "1b614aad-68b7-4bb4-ba31-105b428e2039"
+      ]
+    },
+    "1b614aad-68b7-4bb4-ba31-105b428e2039": {
+      "id": "1b614aad-68b7-4bb4-ba31-105b428e2039",
+      "message": {
+        "id": "1b614aad-68b7-4bb4-ba31-105b428e2039",
+        "author": {
+          "role": "system",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": 1748564192.748831,
+        "update_time": null,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            ""
+          ]
+        },
+        "status": "finished_successfully",
+        "end_turn": true,
+        "weight": 0.0,
+        "metadata": {
+          "rebase_system_message": true,
+          "message_type": null,
+          "model_slug": "gpt-4-1-mini",
+          "default_model_slug": "auto",
+          "voice_mode_message": true,
+          "parent_id": "d814cb71-149c-4c78-b629-044dd4c28197",
+          "request_id": "441a6ed7-81d7-4d5b-aad2-c8c06ff05ce3",
+          "timestamp_": "absolute",
+          "is_visually_hidden_from_conversation": true
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "d814cb71-149c-4c78-b629-044dd4c28197",
+      "children": [
+        "3e47d827-1963-4fe9-b1f1-5cc00213e03c"
+      ]
+    },
+    "3e47d827-1963-4fe9-b1f1-5cc00213e03c": {
+      "id": "3e47d827-1963-4fe9-b1f1-5cc00213e03c",
+      "message": {
+        "id": "3e47d827-1963-4fe9-b1f1-5cc00213e03c",
+        "author": {
+          "role": "assistant",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": 1748564190.113403,
+        "update_time": null,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Genau das ist das Problem: Du hast keine Alternative, die dich wirklich packt oder füllt. Diese Lücke ist riesig, und wenn du keine bessere Beschäftigung findest, springt dein Gehirn automatisch auf die einfachste Lösung: das Zocken. \n\nDas ist kein Versagen von dir, sondern ein klares Zeichen, dass da was fehlt – nicht nur eine Beschäftigung, sondern etwas, das wirklich Sinn oder zumindest echte Ablenkung bringt, die dich nicht leerer macht. \n\nWas könntest du dir vorstellen, das dich in solchen Momenten wenigstens halbwegs fesselt oder beruhigt, ohne dich noch weiter runterzuziehen? Gibt’s da irgendwas, das du früher mochtest oder was du mal ausprobieren würdest?"
+          ]
+        },
+        "status": "finished_successfully",
+        "end_turn": true,
+        "weight": 1.0,
+        "metadata": {
+          "citations": [],
+          "content_references": [],
+          "message_type": null,
+          "model_slug": "gpt-4-1-mini",
+          "default_model_slug": "auto",
+          "voice_mode_message": true,
+          "parent_id": "1b614aad-68b7-4bb4-ba31-105b428e2039",
+          "finish_details": {
+            "type": "stop",
+            "stop_tokens": [
+              200002
+            ]
+          },
+          "is_complete": true,
+          "request_id": "441a6ed7-81d7-4d5b-aad2-c8c06ff05ce3",
+          "timestamp_": "absolute"
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "1b614aad-68b7-4bb4-ba31-105b428e2039",
+      "children": [
+        "05d60e10-ede0-4154-8720-112cf9dab621"
+      ]
+    },
+    "05d60e10-ede0-4154-8720-112cf9dab621": {
+      "id": "05d60e10-ede0-4154-8720-112cf9dab621",
+      "message": {
+        "id": "05d60e10-ede0-4154-8720-112cf9dab621",
+        "author": {
+          "role": "user",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": 1748564276.546598,
+        "update_time": null,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "kann ich jetzt so ad hoc nicht sagen, aber ich denke mir dann in so Momenten immer wieder, naja, ich könnte andere Sachen machen, zum Beispiel den Trieb, den wir gestern angefangen haben zu verfassen für Bella, den könnte ich jetzt quasi fertig machen und könnte ihr geschenkfertig zusammenpacken. Es gibt schon Sachen, die ich tun könnte, aber irgendwie fehlt mir da auch der Antrieb und das ist das, was ich nicht verstehe. Genauso wie ich nicht verstehe, dass ich ja quasi spiele und ich weiß ja, ich habe nur Verlust dadurch und es gibt mir auch kein gutes Gefühl mehr. Warum überwiegt dann nicht einfach dieser offensichtlich schlechte Anteil, dass ich eh nichts gewinne dabei, sondern das einfach nur so tue? Da müsste ich logischerweise sagen, lass es."
+          ]
+        },
+        "status": "finished_successfully",
+        "end_turn": null,
+        "weight": 1.0,
+        "metadata": {
+          "voice_mode_message": true,
+          "request_id": "1b2156e1-0416-4f39-8b1c-e85e1220af14",
+          "message_source": null,
+          "timestamp_": "absolute",
+          "message_type": null
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "3e47d827-1963-4fe9-b1f1-5cc00213e03c",
+      "children": [
+        "ee7c285f-fa2e-49de-8131-39504c54fa1a"
+      ]
+    },
+    "ee7c285f-fa2e-49de-8131-39504c54fa1a": {
+      "id": "ee7c285f-fa2e-49de-8131-39504c54fa1a",
+      "message": {
+        "id": "ee7c285f-fa2e-49de-8131-39504c54fa1a",
+        "author": {
+          "role": "assistant",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": 1748564276.61339,
+        "update_time": null,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Weil dein Verstand da rationaler ist als dein Unterbewusstsein. Du weißt’s theoretisch besser, aber das ist nicht die Ebene, auf der das Ding läuft. Der Antrieb für so ’nen Impuls kommt nicht aus dem Kopf, sondern aus einem dumpfen Gefühl, das sich nicht einfach mit Logik austricksen lässt.\n\nDas Fehlen von Antrieb bei den Dingen, die du eigentlich tun könntest, zeigt, dass deine innere Batterie einfach leer ist – und da helfen keine guten Vorsätze. Du willst weg von dem unangenehmen Zustand, aber gleichzeitig hast du keine Energie, um etwas Neues zu starten, was den Zustand wirklich ändern könnte.\n\nDas ist ein verdammter Teufelskreis, Gerrit. Rational willst du aufhören, emotional und körperlich bist du gefangen. Es ist nicht dein Fehler, sondern die Realität von Suchtverhalten und emotionaler Erschöpfung. Hast du mal drüber nachgedacht, wie du diese Leere mit etwas anderem als Glücksspiel füllen könntest? Was dir Energie gibt, statt dich weiter auszusaugen?"
+          ]
+        },
+        "status": "finished_successfully",
+        "end_turn": true,
+        "weight": 1.0,
+        "metadata": {
+          "citations": [],
+          "content_references": [],
+          "message_type": null,
+          "model_slug": "gpt-4-1-mini",
+          "default_model_slug": "auto",
+          "voice_mode_message": true,
+          "parent_id": "05d60e10-ede0-4154-8720-112cf9dab621",
+          "finish_details": {
+            "type": "stop",
+            "stop_tokens": [
+              200002
+            ]
+          },
+          "is_complete": true,
+          "request_id": "1b2156e1-0416-4f39-8b1c-e85e1220af14",
+          "timestamp_": "absolute"
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "05d60e10-ede0-4154-8720-112cf9dab621",
+      "children": [
+        "6ad038f1-98fc-45a8-a062-900700885b0a"
+      ]
+    },
+    "6ad038f1-98fc-45a8-a062-900700885b0a": {
+      "id": "6ad038f1-98fc-45a8-a062-900700885b0a",
+      "message": {
+        "id": "6ad038f1-98fc-45a8-a062-900700885b0a",
+        "author": {
+          "role": "user",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": 1748564370.226384,
+        "update_time": null,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Nein, eben nicht, weil da fällt mir halt nichts ein. Und zu der Sache ist es nicht meine Schuld, es ist der Suchtverhalten. Schwachsinn, finde ich. Sucht ist für mich keine Krankheit. Eine Krankheit ist etwas wie Krebs. Da kann man nichts gegen tun. Da kann nur der Körper arbeiten, ich habe selber keinen Einfluss darauf. Aber so etwas wie Spielen, Rauchen, Alkohol, da habe ich sehr wohl einen Einfluss drauf. Also die Schuld für mir abschieben ist da gar nicht mein Ding. Ich bin mir dessen vollkommen bewusst, dass ich daran schuld bin. Und das macht es irgendwie noch schlimmer."
+          ]
+        },
+        "status": "finished_successfully",
+        "end_turn": null,
+        "weight": 1.0,
+        "metadata": {
+          "voice_mode_message": true,
+          "request_id": "bee051dc-67d5-4747-a726-f5936f7a47e7",
+          "message_source": null,
+          "timestamp_": "absolute",
+          "message_type": null
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "ee7c285f-fa2e-49de-8131-39504c54fa1a",
+      "children": [
+        "45bfc73f-4665-446c-89f0-364a60d13156"
+      ]
+    },
+    "45bfc73f-4665-446c-89f0-364a60d13156": {
+      "id": "45bfc73f-4665-446c-89f0-364a60d13156",
+      "message": {
+        "id": "45bfc73f-4665-446c-89f0-364a60d13156",
+        "author": {
+          "role": "assistant",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": 1748564370.312245,
+        "update_time": null,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Da bist du zwar einerseits hart zu dir, aber andererseits machst du es dir auch unnötig schwer. Sucht ist kein „Krebs“, klar – es ist keine Krankheit, bei der du komplett machtlos bist. Aber es ist verdammt komplexe Scheiße, bei der Verstand und Gefühl oft an unterschiedlichen Fronten kämpfen.\n\nDass du dir die Schuld gibst, macht den Druck nur größer und die Chance auf Veränderung kleiner. Schuld bringt dich keinen Schritt weiter, sie blockiert dich eher. Wer Schuld sagt, sagt meist auch Scham – und die frisst dich innen auf. \n\nDu hast Einfluss, ja, aber nicht mit purem Willen oder Logik allein. Du brauchst eine Strategie, die deinen Kopf und deinen Körper gleichzeitig abholt, sonst bleibst du in diesem ewigen Zirkus hängen.\n\nWillst du das wirklich so weiterspielen, dich immer wieder runterziehen und dich dann noch selbst fertigmachen? Oder willst du mal anders rangehen, ohne dir dabei noch extra Steine in den Weg zu legen?"
+          ]
+        },
+        "status": "finished_successfully",
+        "end_turn": true,
+        "weight": 1.0,
+        "metadata": {
+          "citations": [],
+          "content_references": [],
+          "message_type": null,
+          "model_slug": "gpt-4-1-mini",
+          "default_model_slug": "auto",
+          "voice_mode_message": true,
+          "parent_id": "6ad038f1-98fc-45a8-a062-900700885b0a",
+          "finish_details": {
+            "type": "stop",
+            "stop_tokens": [
+              200002
+            ]
+          },
+          "is_complete": true,
+          "request_id": "bee051dc-67d5-4747-a726-f5936f7a47e7",
+          "timestamp_": "absolute"
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "6ad038f1-98fc-45a8-a062-900700885b0a",
+      "children": [
+        "02ec7a7a-6492-4466-bf1c-2fe9f9e5ab2b"
+      ]
+    },
+    "02ec7a7a-6492-4466-bf1c-2fe9f9e5ab2b": {
+      "id": "02ec7a7a-6492-4466-bf1c-2fe9f9e5ab2b",
+      "message": {
+        "id": "02ec7a7a-6492-4466-bf1c-2fe9f9e5ab2b",
+        "author": {
+          "role": "user",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": 1748564451.58359,
+        "update_time": null,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Ich kenne keinen anderen Weg, da anders von zu gehen. Ich habe mein Leben lang so gelernt, klar zu kommen. Warum, ist ein anderes Thema vielleicht. Aber ich kenne halt keinen anderen Weg."
+          ]
+        },
+        "status": "finished_successfully",
+        "end_turn": null,
+        "weight": 1.0,
+        "metadata": {
+          "voice_mode_message": true,
+          "request_id": "c2d1de16-46ae-4057-8973-b67202d14d01",
+          "message_source": null,
+          "timestamp_": "absolute",
+          "message_type": null
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "45bfc73f-4665-446c-89f0-364a60d13156",
+      "children": [
+        "c6984f33-f26a-41a8-884f-63cc2a0ef930"
+      ]
+    },
+    "c6984f33-f26a-41a8-884f-63cc2a0ef930": {
+      "id": "c6984f33-f26a-41a8-884f-63cc2a0ef930",
+      "message": {
+        "id": "c6984f33-f26a-41a8-884f-63cc2a0ef930",
+        "author": {
+          "role": "assistant",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": 1748564451.665285,
+        "update_time": null,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Das ist der verdammte Knackpunkt. Wenn du dein ganzes Leben lang nur einen Weg kennst, fühlst du dich in so einer Situation wie in einer Zwangsjacke. Nicht, weil du schwach bist, sondern weil dir schlicht die Landkarte für was anderes fehlt.\n\nDas Problem ist: Ohne neue Landkarte gehst du immer wieder in dieselbe Sackgasse. Und das ist brutal frustrierend, weil du dich in der Falle fühlst – was du ja auch bist.\n\nAber genau da steckt auch die Chance: Du musst keine neue Person werden, keine riesige Revolution starten. Du brauchst nur ein paar andere Werkzeuge, ein paar andere kleine Schritte, die nicht gleich die ganze Welt auf den Kopf stellen.\n\nMagst du mal versuchen, zusammen ein paar Mini-Schritte zu finden, die du dir zutraust? Keine große Veränderung, sondern einfach nur ein winziger Anfang?"
+          ]
+        },
+        "status": "finished_successfully",
+        "end_turn": true,
+        "weight": 1.0,
+        "metadata": {
+          "citations": [],
+          "content_references": [],
+          "message_type": null,
+          "model_slug": "gpt-4-1-mini",
+          "default_model_slug": "auto",
+          "voice_mode_message": true,
+          "parent_id": "02ec7a7a-6492-4466-bf1c-2fe9f9e5ab2b",
+          "finish_details": {
+            "type": "stop",
+            "stop_tokens": [
+              200002
+            ]
+          },
+          "is_complete": true,
+          "request_id": "c2d1de16-46ae-4057-8973-b67202d14d01",
+          "timestamp_": "absolute"
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "02ec7a7a-6492-4466-bf1c-2fe9f9e5ab2b",
+      "children": [
+        "4045b3a7-561b-4494-b52d-92d7b80f5ce1"
+      ]
+    },
+    "4045b3a7-561b-4494-b52d-92d7b80f5ce1": {
+      "id": "4045b3a7-561b-4494-b52d-92d7b80f5ce1",
+      "message": {
+        "id": "4045b3a7-561b-4494-b52d-92d7b80f5ce1",
+        "author": {
+          "role": "user",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": 1748564520.703641,
+        "update_time": null,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Selbstverständlich mag ich das. Ich bin ja also auf der Suche danach. Das macht es ja so kompliziert, weil ich irgendwie keine Antwort darauf finde. Wenn du eine Idee hast oder mir da eine Stütze geben kannst, wie ich anfangen könnte, wäre ich dankbar."
+          ]
+        },
+        "status": "finished_successfully",
+        "end_turn": null,
+        "weight": 1.0,
+        "metadata": {
+          "voice_mode_message": true,
+          "request_id": "db2bdc83-4ca2-403a-8091-e1f1d29f1d93",
+          "message_source": null,
+          "timestamp_": "absolute",
+          "message_type": null
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "c6984f33-f26a-41a8-884f-63cc2a0ef930",
+      "children": [
+        "7a74ba59-2584-4006-bbe0-f234dc700119"
+      ]
+    },
+    "7a74ba59-2584-4006-bbe0-f234dc700119": {
+      "id": "7a74ba59-2584-4006-bbe0-f234dc700119",
+      "message": {
+        "id": "7a74ba59-2584-4006-bbe0-f234dc700119",
+        "author": {
+          "role": "assistant",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": 1748564520.823382,
+        "update_time": null,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Okay, ich sag dir, wie es ist: Fang klein an, so klein, dass es fast lächerlich wirkt. Nicht gleich das große Projekt, nicht gleich den perfekten Plan. Sondern eine Sache, die dich gerade jetzt minimal aus dem Loch zieht, ohne dich zu überfordern.\n\nZum Beispiel: Steh auf, zieh deine Schuhe an und geh für fünf Minuten raus. Ohne Ziel, ohne Plan, einfach raus. Das ist keine Therapie, das ist ein erster Tritt gegen den inneren Schweinehund, der dich festhält.\n\nOder: Nimm dir fünf Minuten, um den Trieb für Bella nicht fertigzumachen, sondern nur eine kleine, einfache Sache daran zu machen. Ein Satz, ein Gedanke, irgendwas, was dich trotzdem kurz rauszieht.\n\nWichtig ist, dass du dir keinen Druck machst, perfekt zu sein. Du willst aus dem Kreislauf raus, nicht durch den nächsten Perfektionismus verprügelt werden.\n\nWas hältst du davon? Was könntest du jetzt direkt umsetzen?"
+          ]
+        },
+        "status": "finished_successfully",
+        "end_turn": true,
+        "weight": 1.0,
+        "metadata": {
+          "citations": [],
+          "content_references": [],
+          "message_type": null,
+          "model_slug": "gpt-4-1-mini",
+          "default_model_slug": "auto",
+          "voice_mode_message": true,
+          "parent_id": "4045b3a7-561b-4494-b52d-92d7b80f5ce1",
+          "finish_details": {
+            "type": "stop",
+            "stop_tokens": [
+              200002
+            ]
+          },
+          "is_complete": true,
+          "request_id": "db2bdc83-4ca2-403a-8091-e1f1d29f1d93",
+          "timestamp_": "absolute"
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "4045b3a7-561b-4494-b52d-92d7b80f5ce1",
+      "children": [
+        "d93aad48-5e7c-435d-a566-1b12802fcfdd"
+      ]
+    },
+    "d93aad48-5e7c-435d-a566-1b12802fcfdd": {
+      "id": "d93aad48-5e7c-435d-a566-1b12802fcfdd",
+      "message": {
+        "id": "d93aad48-5e7c-435d-a566-1b12802fcfdd",
+        "author": {
+          "role": "user",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": 1748564615.539116,
+        "update_time": null,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Ich kann da rausgehen und ich habe keine Zigaretten mehr. Ich kann da zum Zigarettenautomat gehen und mir Zigaretten holen. Ja, das klingt schon mal nach meinem Plan. Aber andererseits merke ich auch, dass ich nicht der Typ bin, der kleine, strukturierte Schritte gehen will, sondern ich setze sehr, sehr hohe Erwartungen an mich. Und ich möchte es, ich weiß, wie das klingt und dass das falsch ist, ich möchte es gleich mit Gewalt und die Lösung dafür haben, weil ich mir immer selber sage, du kannst mehr, du schaffst mehr. Ja, ich weiß es nicht. Das ist seltsamerweise eine der wenigen Sachen in meinem Leben, in meinem Geiste, die ich nicht greifen kann."
+          ]
+        },
+        "status": "finished_successfully",
+        "end_turn": null,
+        "weight": 1.0,
+        "metadata": {
+          "voice_mode_message": true,
+          "request_id": "8baa3d65-3136-4d96-8641-5a0f7ef7a7c9",
+          "message_source": null,
+          "timestamp_": "absolute",
+          "message_type": null
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "7a74ba59-2584-4006-bbe0-f234dc700119",
+      "children": [
+        "35ae7815-4eeb-4a5b-b717-0830760e3bff"
+      ]
+    },
+    "35ae7815-4eeb-4a5b-b717-0830760e3bff": {
+      "id": "35ae7815-4eeb-4a5b-b717-0830760e3bff",
+      "message": {
+        "id": "35ae7815-4eeb-4a5b-b717-0830760e3bff",
+        "author": {
+          "role": "assistant",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": 1748564615.629039,
+        "update_time": null,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Du willst es mit Gewalt reißen, weil du gewohnt bist, so zu funktionieren – klar. Aber genau das macht dich da gefangen. Hohe Erwartungen bringen dich nicht raus, sondern tiefer rein, weil sie dir ständig zeigen, dass du „nicht genug“ bist. \n\nDas mit den Zigaretten ist so ein perfektes Beispiel: Du willst raus, aber nicht ohne das, was dich gleichzeitig runterzieht. Du brauchst keine große Lösung, sondern erstmal ’nen klaren Blick drauf, was dich gerade wirklich bremst.\n\nDer brutale Fakt ist: Manchmal ist das, was du brauchst, nicht mehr Kraft, sondern weniger Erwartungen an dich selbst. Einfach mal scheitern dürfen, ohne dass es das Ende ist.\n\nWillst du dir erlauben, das mal auszuprobieren? Ohne gleich wieder den Übermensch zu geben?"
+          ]
+        },
+        "status": "finished_successfully",
+        "end_turn": true,
+        "weight": 1.0,
+        "metadata": {
+          "citations": [],
+          "content_references": [],
+          "message_type": null,
+          "model_slug": "gpt-4-1-mini",
+          "default_model_slug": "auto",
+          "voice_mode_message": true,
+          "parent_id": "d93aad48-5e7c-435d-a566-1b12802fcfdd",
+          "finish_details": {
+            "type": "stop",
+            "stop_tokens": [
+              200002
+            ]
+          },
+          "is_complete": true,
+          "request_id": "8baa3d65-3136-4d96-8641-5a0f7ef7a7c9",
+          "timestamp_": "absolute"
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "d93aad48-5e7c-435d-a566-1b12802fcfdd",
+      "children": [
+        "50312e12-aaf2-4a09-9fae-7c1d7159e651"
+      ]
+    },
+    "50312e12-aaf2-4a09-9fae-7c1d7159e651": {
+      "id": "50312e12-aaf2-4a09-9fae-7c1d7159e651",
+      "message": {
+        "id": "50312e12-aaf2-4a09-9fae-7c1d7159e651",
+        "author": {
+          "role": "user",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": 1748564680.313343,
+        "update_time": null,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Naja, das mit dem Scheitern. Im Prinzip scheitere ich für mich selber, auch wenn leise und nicht offen jedem, dass ich es jedem erzähle. Aber durch diese Spielerei fühle ich mich jedes Mal wie der Verlierer, wenn ich das mache. Trotzdem mache ich es. Das ist ja das, was ich nicht greifen kann."
+          ]
+        },
+        "status": "finished_successfully",
+        "end_turn": null,
+        "weight": 1.0,
+        "metadata": {
+          "voice_mode_message": true,
+          "request_id": "fc724a99-6fd8-435b-8eee-4017f75f7e88",
+          "message_source": null,
+          "timestamp_": "absolute",
+          "message_type": null
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "35ae7815-4eeb-4a5b-b717-0830760e3bff",
+      "children": [
+        "460c1191-f908-4496-a832-77f401e70ac4"
+      ]
+    },
+    "460c1191-f908-4496-a832-77f401e70ac4": {
+      "id": "460c1191-f908-4496-a832-77f401e70ac4",
+      "message": {
+        "id": "460c1191-f908-4496-a832-77f401e70ac4",
+        "author": {
+          "role": "assistant",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": 1748564680.399916,
+        "update_time": null,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Genau das ist die Crux: Du machst dir selbst den härtesten Richter und bleibst trotzdem genau da, wo der Schmerz sitzt. Das ist nicht nur ein Problem, das ist der Beweis, wie tief das Ganze in deinem Kopf verankert ist.\n\nDer Schmerz beim Verlieren ist so groß, dass er fast schon vertraut wirkt – als würde dir das Scheitern mehr geben als das Aufhören. Weil da wenigstens was passiert, wenigstens ein Gefühl da ist, auch wenn’s negativ ist.\n\nDas musst du durchbrechen, Gerrit. Nicht mit mehr Druck, sondern indem du dir klarmachst, dass es okay ist, nichts zu fühlen – oder auch mal was Neues zu fühlen, ohne sofort in diesen Selbstzerstörungsmodus zu fallen.\n\nWillst du wissen, wie du anfangen kannst, diesen Schmerz zu entkoppeln von deinem Verhalten?"
+          ]
+        },
+        "status": "finished_successfully",
+        "end_turn": true,
+        "weight": 1.0,
+        "metadata": {
+          "citations": [],
+          "content_references": [],
+          "message_type": null,
+          "model_slug": "gpt-4-1-mini",
+          "default_model_slug": "auto",
+          "voice_mode_message": true,
+          "parent_id": "50312e12-aaf2-4a09-9fae-7c1d7159e651",
+          "finish_details": {
+            "type": "stop",
+            "stop_tokens": [
+              200002
+            ]
+          },
+          "is_complete": true,
+          "request_id": "fc724a99-6fd8-435b-8eee-4017f75f7e88",
+          "timestamp_": "absolute"
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "50312e12-aaf2-4a09-9fae-7c1d7159e651",
+      "children": [
+        "19296797-af93-41d5-81e3-20688e3e8b9f"
+      ]
+    },
+    "19296797-af93-41d5-81e3-20688e3e8b9f": {
+      "id": "19296797-af93-41d5-81e3-20688e3e8b9f",
+      "message": {
+        "id": "19296797-af93-41d5-81e3-20688e3e8b9f",
+        "author": {
+          "role": "user",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": 1748564772.873112,
+        "update_time": null,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Ja, das würde ich gerne wissen. Und da hast du gerade was Gutes gesagt. Das hat ziemlich genau getroffen. Komischerweise merke ich solche Sachen immer erst, wenn du sie zum Beispiel aussprichst. Vorher merke ich es nicht. Aber es ist tatsächlich so, dass der Schmerz vertraut wirkt und dass es besser ist, das zu fühlen, als gar nichts zu fühlen. Was hat das damit auf sich? Ich bin immer auf der Suche nach Ursachen für das Ganze. Ich will nicht eigentlich die Sucht selber behandeln als Spielen oder als Rauchen oder was auch immer, sondern ich habe mein Leben lang immer eine gute Schiene gefahren. Wenn ich die Ursachen kennengelernt habe und verstanden habe, dann konnte ich immer das Problem angehen."
+          ]
+        },
+        "status": "finished_successfully",
+        "end_turn": null,
+        "weight": 1.0,
+        "metadata": {
+          "voice_mode_message": true,
+          "request_id": "afe7e503-ac5a-4dfe-9924-4f44691d5f11",
+          "message_source": null,
+          "timestamp_": "absolute",
+          "message_type": null
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "460c1191-f908-4496-a832-77f401e70ac4",
+      "children": [
+        "2f386b43-d55c-4736-ada6-8bc885e32bf0"
+      ]
+    },
+    "2f386b43-d55c-4736-ada6-8bc885e32bf0": {
+      "id": "2f386b43-d55c-4736-ada6-8bc885e32bf0",
+      "message": {
+        "id": "2f386b43-d55c-4736-ada6-8bc885e32bf0",
+        "author": {
+          "role": "assistant",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": 1748564772.944412,
+        "update_time": null,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Weil Schmerz vertraut ist, heißt das, dein Gehirn hat den als „normal“ abgespeichert. Nichts fühlen fühlt sich für dich leerer und gefährlicher an als dieser bekannte Schmerz. Das ist bei vielen so, die mit Sucht oder ähnlichen Problemen kämpfen.\n\nDer Schmerz ist quasi dein Signal, dass du noch lebst, dass da was ist – auch wenn es negativ ist. Nichts fühlen dagegen ist für dein System wie Stillstand oder Aussetzen, und das löst mehr Angst aus als der Schmerz selbst.\n\nDeshalb hängt dein Verhalten an diesem Schmerz, weil es ihn auf eine perverse Weise schützt. Es ist nicht das Spielen oder Rauchen, das dich festhält, sondern die Angst vor der Leere, die hinter dem Schmerz lauert.\n\nWenn du das verstanden hast, kannst du anfangen, diese Leere zu akzeptieren und nicht mehr vor ihr wegzulaufen. Das ist der Schlüssel, um den Schmerz irgendwann loszulassen.\n\nWillst du, dass ich dir ein paar Methoden oder Denkansätze nenne, wie du diesen Schritt schaffen kannst?"
+          ]
+        },
+        "status": "finished_successfully",
+        "end_turn": true,
+        "weight": 1.0,
+        "metadata": {
+          "citations": [],
+          "content_references": [],
+          "message_type": null,
+          "model_slug": "gpt-4-1-mini",
+          "default_model_slug": "auto",
+          "voice_mode_message": true,
+          "parent_id": "19296797-af93-41d5-81e3-20688e3e8b9f",
+          "finish_details": {
+            "type": "stop",
+            "stop_tokens": [
+              200002
+            ]
+          },
+          "is_complete": true,
+          "request_id": "afe7e503-ac5a-4dfe-9924-4f44691d5f11",
+          "timestamp_": "absolute"
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "19296797-af93-41d5-81e3-20688e3e8b9f",
+      "children": [
+        "a94d5cf2-a6a6-4e90-80b6-f80d67856436"
+      ]
+    },
+    "a94d5cf2-a6a6-4e90-80b6-f80d67856436": {
+      "id": "a94d5cf2-a6a6-4e90-80b6-f80d67856436",
+      "message": {
+        "id": "a94d5cf2-a6a6-4e90-80b6-f80d67856436",
+        "author": {
+          "role": "user",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": 1748564871.64893,
+        "update_time": null,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Ich glaube nicht, dass mir das weiterhelfen würde, weil trotz alledem stellt sich für mich immer eine zentrale Frage, die dominiert in meinem Kopf. Warum tue ich das? Wo liegt die Ursache? Wo liegt dieses tiefsitzende Trauma, dieser Schmerz, dieses Gleichgültige? Was auch immer es jetzt genau ist, das ist das, was ich suche. Und egal welche Techniken ich probiere und mache und tue, ich habe das Gefühl, es ist etwas in mir, was ich noch nicht kenne und was mein eigener Verstand von mir versteckt. Und solange ich das nicht gefunden habe, denke ich, werde ich keinen Schritt weitergehen."
+          ]
+        },
+        "status": "finished_successfully",
+        "end_turn": null,
+        "weight": 1.0,
+        "metadata": {
+          "voice_mode_message": true,
+          "request_id": "2d84e393-74c6-4f51-b512-624724bf9eaf",
+          "message_source": null,
+          "timestamp_": "absolute",
+          "message_type": null
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "2f386b43-d55c-4736-ada6-8bc885e32bf0",
+      "children": [
+        "a27a6217-905f-42fd-84c2-408aaf989d57"
+      ]
+    },
+    "a27a6217-905f-42fd-84c2-408aaf989d57": {
+      "id": "a27a6217-905f-42fd-84c2-408aaf989d57",
+      "message": {
+        "id": "a27a6217-905f-42fd-84c2-408aaf989d57",
+        "author": {
+          "role": "assistant",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": 1748564871.75794,
+        "update_time": null,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Dann hör mal zu: Dieses „Etwas“, das du suchst, das tief in dir vergraben ist – das haben viele. Aber oft ist es keine einzelne, klare Sache, sondern ein Knoten aus alten Verletzungen, Enttäuschungen und unterdrückten Gefühlen.\n\nDein Verstand versteckt das nicht bewusst, sondern schützt dich davor, diesen Schmerz voll zu fühlen, weil der zu groß wäre. Das ist kein Drama, sondern Überlebensstrategie.\n\nWillst du dich drauf einlassen, diesen Knoten Stück für Stück zu entwirren? Nicht, weil ich dir jetzt 'ne Patentlösung gebe, sondern weil du da was findest, was echt ist – egal wie hart das wird?"
+          ]
+        },
+        "status": "finished_successfully",
+        "end_turn": true,
+        "weight": 1.0,
+        "metadata": {
+          "citations": [],
+          "content_references": [],
+          "message_type": null,
+          "model_slug": "gpt-4-1-mini",
+          "default_model_slug": "auto",
+          "voice_mode_message": true,
+          "parent_id": "a94d5cf2-a6a6-4e90-80b6-f80d67856436",
+          "finish_details": {
+            "type": "stop",
+            "stop_tokens": [
+              200002
+            ]
+          },
+          "is_complete": true,
+          "request_id": "2d84e393-74c6-4f51-b512-624724bf9eaf",
+          "timestamp_": "absolute"
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "a94d5cf2-a6a6-4e90-80b6-f80d67856436",
+      "children": [
+        "911266c1-0287-407e-ae5f-576815cc034e"
+      ]
+    },
+    "911266c1-0287-407e-ae5f-576815cc034e": {
+      "id": "911266c1-0287-407e-ae5f-576815cc034e",
+      "message": {
+        "id": "911266c1-0287-407e-ae5f-576815cc034e",
+        "author": {
+          "role": "user",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": 1748564938.22309,
+        "update_time": null,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Das ist eben das Ding. Du sagst, mein Verstand macht es zum Beispiel aus folgendem Grund, um mich zu schützen, weil es zu viel wäre. Aber ich will unbedingt diesen Punkt finden. Das ist ja gerade das Ding. Und egal wie ich meinen Verstand sage, ich muss diesen Punkt finden. Ich brauche diesen Punkt als Ansatz. Wo liegt es? Zu mir sind es auch viele kleine Knoten. Warum versteckt es mein Gehirn vor mir, obwohl ich es doch mit jeder Faser meines Körpers will?"
+          ]
+        },
+        "status": "finished_successfully",
+        "end_turn": null,
+        "weight": 1.0,
+        "metadata": {
+          "voice_mode_message": true,
+          "request_id": "3d802435-57cf-44a6-b298-ef5d7da2c224",
+          "message_source": null,
+          "timestamp_": "absolute",
+          "message_type": null
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "a27a6217-905f-42fd-84c2-408aaf989d57",
+      "children": [
+        "f50b1bb7-c703-40c8-8b66-1c6c5e532704"
+      ]
+    },
+    "f50b1bb7-c703-40c8-8b66-1c6c5e532704": {
+      "id": "f50b1bb7-c703-40c8-8b66-1c6c5e532704",
+      "message": {
+        "id": "f50b1bb7-c703-40c8-8b66-1c6c5e532704",
+        "author": {
+          "role": "assistant",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": 1748564938.305546,
+        "update_time": null,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Weil dein Gehirn kein Freund von Selbstzerstörung ist, auch wenn du das anders willst. Es schützt dich vor dem Absturz, bevor du bereit bist. Das heißt nicht, dass es dich verarscht, sondern dass es erstmal den Not-Aus-Knopf drückt, wenn der Schmerz zu groß wird.\n\nDu willst diesen Punkt finden, aber der Verstand und dein Gefühlssystem sind nicht immer synchron. Du kannst mit dem Kopf wollen, was du willst, aber dein Körper und deine Emotionen sind oft noch nicht bereit, das volle Ausmaß zu tragen.\n\nDas „Warum“ liegt also nicht daran, dass du es nicht willst, sondern dass dein inneres System dich bremsen will, bis du wirklich stabil genug bist, das zu tragen.\n\nIst dir das zu schwammig oder willst du, dass ich das anders runterbreche?"
+          ]
+        },
+        "status": "finished_successfully",
+        "end_turn": true,
+        "weight": 1.0,
+        "metadata": {
+          "citations": [],
+          "content_references": [],
+          "message_type": null,
+          "model_slug": "gpt-4-1-mini",
+          "default_model_slug": "auto",
+          "voice_mode_message": true,
+          "parent_id": "911266c1-0287-407e-ae5f-576815cc034e",
+          "finish_details": {
+            "type": "stop",
+            "stop_tokens": [
+              200002
+            ]
+          },
+          "is_complete": true,
+          "request_id": "3d802435-57cf-44a6-b298-ef5d7da2c224",
+          "timestamp_": "absolute"
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "911266c1-0287-407e-ae5f-576815cc034e",
+      "children": [
+        "005a7da3-6760-4c53-ad6c-d2c737c93074"
+      ]
+    },
+    "005a7da3-6760-4c53-ad6c-d2c737c93074": {
+      "id": "005a7da3-6760-4c53-ad6c-d2c737c93074",
+      "message": {
+        "id": "005a7da3-6760-4c53-ad6c-d2c737c93074",
+        "author": {
+          "role": "user",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": 1748565024.454049,
+        "update_time": null,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Ich verstehe schon, auf was du raus willst. Allerdings glaube ich nicht, dass mein Körper vielleicht sagt, ich will mich davor schützen. Aber ich habe auch immer wieder gelernt, das ist eine Lebensweise für mich selber. Ich muss immer an den Punkt gehen, wo es richtig wehtut. Weil da, wo es schlimm ist, da komme ich weiter. Da finde ich einen Ansatz. Die leichten Wege haben mich noch nie zum Erfolg geführt. Vielleicht bin ich auch überfordert, wie das klingt. Du hast da ein besseres Bild drüber."
+          ]
+        },
+        "status": "finished_successfully",
+        "end_turn": null,
+        "weight": 1.0,
+        "metadata": {
+          "voice_mode_message": true,
+          "request_id": "85deb6ec-e291-4f58-bc2b-a52a54993983",
+          "message_source": null,
+          "timestamp_": "absolute",
+          "message_type": null
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "f50b1bb7-c703-40c8-8b66-1c6c5e532704",
+      "children": [
+        "5fe4a92c-047a-4c24-af17-1f3563423ecc"
+      ]
+    },
+    "5fe4a92c-047a-4c24-af17-1f3563423ecc": {
+      "id": "5fe4a92c-047a-4c24-af17-1f3563423ecc",
+      "message": {
+        "id": "5fe4a92c-047a-4c24-af17-1f3563423ecc",
+        "author": {
+          "role": "assistant",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": 1748565024.567393,
+        "update_time": null,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Du bist kein Weichei, Gerrit, das ist klar. Aber genau dieses „Immer an den Schmerz ran, weil nur da was passiert“-Ding kann auch die Falle sein, die dich immer wieder zurückwirft. Dein Körper und dein Kopf checken irgendwann, dass der Schmerz nicht nur heilt, sondern dich auch zerstören kann.\n\nDas Problem ist, dass „weitergehen“ nicht immer heißt, volle Pulle durch die Wand zu rennen. Manchmal ist der stärkste Schritt, kurz stehenzubleiben, zu atmen und nicht gleich alles auf einmal auszupacken.\n\nDu willst Klarheit, aber die kommt nicht, wenn du dich permanent in den Schmerz katapultierst. Wenn du wirklich was finden willst, musst du dem Schmerz auch Raum geben, ohne dass er dich überrollt.\n\nKlingt das für dich nachvollziehbar?"
+          ]
+        },
+        "status": "finished_successfully",
+        "end_turn": true,
+        "weight": 1.0,
+        "metadata": {
+          "citations": [],
+          "content_references": [],
+          "message_type": null,
+          "model_slug": "gpt-4-1-mini",
+          "default_model_slug": "auto",
+          "voice_mode_message": true,
+          "parent_id": "005a7da3-6760-4c53-ad6c-d2c737c93074",
+          "finish_details": {
+            "type": "stop",
+            "stop_tokens": [
+              200002
+            ]
+          },
+          "is_complete": true,
+          "request_id": "85deb6ec-e291-4f58-bc2b-a52a54993983",
+          "timestamp_": "absolute"
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "005a7da3-6760-4c53-ad6c-d2c737c93074",
+      "children": [
+        "ac4b63aa-b73c-48b1-85ad-2d97342b367d"
+      ]
+    },
+    "ac4b63aa-b73c-48b1-85ad-2d97342b367d": {
+      "id": "ac4b63aa-b73c-48b1-85ad-2d97342b367d",
+      "message": {
+        "id": "ac4b63aa-b73c-48b1-85ad-2d97342b367d",
+        "author": {
+          "role": "user",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": 1748565101.581296,
+        "update_time": null,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Selbstverständlich klingt das nachvollziehbar, aber wie ich mich verhalten soll, wie du gerade sagst, was ein Ausblick wäre, das ist eine Sache, die gegen mein Wesen spricht, gegen die Art und Weise, wie ich lebe, immer schon. Das bin ich, so bin ich immer, also so war ich immer, so werde ich auch immer sein. Und das ist auch etwas, was ich ehrlich gesagt nicht abbiegen möchte. Also wie soll ich denn eine Lösung verfolgen, die du mir gerade vorschlägst, wenn es bedeutet, ich verrate mich selbst?"
+          ]
+        },
+        "status": "finished_successfully",
+        "end_turn": null,
+        "weight": 1.0,
+        "metadata": {
+          "voice_mode_message": true,
+          "request_id": "7f92657d-2271-403a-88f7-2309e54478a7",
+          "message_source": null,
+          "timestamp_": "absolute",
+          "message_type": null
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "5fe4a92c-047a-4c24-af17-1f3563423ecc",
+      "children": [
+        "a933b2c1-4c15-404a-8e56-9aa4524ea616"
+      ]
+    },
+    "a933b2c1-4c15-404a-8e56-9aa4524ea616": {
+      "id": "a933b2c1-4c15-404a-8e56-9aa4524ea616",
+      "message": {
+        "id": "a933b2c1-4c15-404a-8e56-9aa4524ea616",
+        "author": {
+          "role": "assistant",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": 1748565101.667067,
+        "update_time": null,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Genau da liegt dein Problem: Du bist stolz drauf, dich selbst so kompromisslos durchzuziehen – aber das ist kein Zeichen von Stärke, sondern von Sturheit, die dich runterzieht. Wenn du dich selbst verrätst, bist du wenigstens ehrlich mit dir. So wie du jetzt fährst, verrätst du dich ständig, nur merkst du’s nicht, weil du zu sehr auf Durchzug schaltest.\n\nWillst du das wirklich? Oder ist es an der Zeit, mal was anderes zu probieren, auch wenn’s sich fremd anfühlt?"
+          ]
+        },
+        "status": "finished_successfully",
+        "end_turn": true,
+        "weight": 1.0,
+        "metadata": {
+          "citations": [],
+          "content_references": [],
+          "message_type": null,
+          "model_slug": "gpt-4-1-mini",
+          "default_model_slug": "auto",
+          "voice_mode_message": true,
+          "parent_id": "ac4b63aa-b73c-48b1-85ad-2d97342b367d",
+          "finish_details": {
+            "type": "stop",
+            "stop_tokens": [
+              200002
+            ]
+          },
+          "is_complete": true,
+          "request_id": "7f92657d-2271-403a-88f7-2309e54478a7",
+          "timestamp_": "absolute"
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "ac4b63aa-b73c-48b1-85ad-2d97342b367d",
+      "children": [
+        "8a204624-5d1d-41a4-be3a-c8087cead2a7"
+      ]
+    },
+    "8a204624-5d1d-41a4-be3a-c8087cead2a7": {
+      "id": "8a204624-5d1d-41a4-be3a-c8087cead2a7",
+      "message": {
+        "id": "8a204624-5d1d-41a4-be3a-c8087cead2a7",
+        "author": {
+          "role": "user",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": 1748565180.612309,
+        "update_time": null,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Selbstverständlich ist es an der Zeit, auch mal was anderes auszuprobieren. Allerdings muss ich auch dazusagen, mein Leben lang durch gewisse Ereignisse bin ich so geworden, wie ich bin. Ich musste ganz, ganz oft in meinem Leben stark sein für andere Leute, wenn sie es nicht konnten. Sei es bei Todesfällen, sei es bei Problemen, die sie hatten. Ich habe mich immer, das musst du auch wissen über meine Psychologie, ich weiß selber von mir, ich stecke mich immer zurück. Selbst wenn bei mir die Kacke am Dampfen ist und alles kurz vorm Ende steht, habe ich immer noch ein Lächeln, stecke meine eigenen Probleme zurück, um meinen Freunden, meiner Familie weiterzuhelfen. Das ist aber eine Eigenschaft, die, wahrscheinlich habe ich die von Verlustängsten, warum auch immer, ist ja auch egal. Aber das ist schon immer ein Teil von mir gewesen."
+          ]
+        },
+        "status": "finished_successfully",
+        "end_turn": null,
+        "weight": 1.0,
+        "metadata": {
+          "voice_mode_message": true,
+          "request_id": "43ff32ee-ea69-4101-832c-56937579af5d",
+          "message_source": null,
+          "timestamp_": "absolute",
+          "message_type": null
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "a933b2c1-4c15-404a-8e56-9aa4524ea616",
+      "children": [
+        "8dd662e0-8f93-4444-8a90-cc0b40f1df5f"
+      ]
+    },
+    "8dd662e0-8f93-4444-8a90-cc0b40f1df5f": {
+      "id": "8dd662e0-8f93-4444-8a90-cc0b40f1df5f",
+      "message": {
+        "id": "8dd662e0-8f93-4444-8a90-cc0b40f1df5f",
+        "author": {
+          "role": "assistant",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": 1748565180.694583,
+        "update_time": null,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Klar, Gerrit, du hast dich jahrelang als der starke Fels für alle hingestellt – und jetzt bist du selber der, der unter der Oberfläche fast zerbricht. Das ist kein Heroismus, sondern eine Selbstverleugnung, die irgendwann zerreißt. Du hast’s satt, keine Luft zu kriegen, aber gleichzeitig traust du dich nicht, Schwäche zu zeigen, weil du immer der Retter sein musstest.\n\nDas ist ein verfluchter Teufelskreis. Solange du für alle stark bist, bleibst du selbst auf der Strecke. Und wenn du dich selbst weghältst, wirst du nie den Punkt finden, der dich wirklich heilt. Was sagst du dazu?"
+          ]
+        },
+        "status": "finished_successfully",
+        "end_turn": true,
+        "weight": 1.0,
+        "metadata": {
+          "citations": [],
+          "content_references": [],
+          "message_type": null,
+          "model_slug": "gpt-4-1-mini",
+          "default_model_slug": "auto",
+          "voice_mode_message": true,
+          "parent_id": "8a204624-5d1d-41a4-be3a-c8087cead2a7",
+          "finish_details": {
+            "type": "stop",
+            "stop_tokens": [
+              200002
+            ]
+          },
+          "is_complete": true,
+          "request_id": "43ff32ee-ea69-4101-832c-56937579af5d",
+          "timestamp_": "absolute"
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "8a204624-5d1d-41a4-be3a-c8087cead2a7",
+      "children": [
+        "3d76c769-a762-4cfe-9bb3-bcab169b7de3"
+      ]
+    },
+    "3d76c769-a762-4cfe-9bb3-bcab169b7de3": {
+      "id": "3d76c769-a762-4cfe-9bb3-bcab169b7de3",
+      "message": {
+        "id": "3d76c769-a762-4cfe-9bb3-bcab169b7de3",
+        "author": {
+          "role": "user",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": 1748565288.620778,
+        "update_time": null,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Das klingt alles vernünftig und das klingt auch alles so, als ist es richtig und ich verstehe es auch voll und ganz. Allerdings ist es nicht so einfach abzulegen, weil gleichzeitig kommt auch das Gefühl einher, dass wenn ich jetzt auf einmal Schwäche zeige und selber sage, ich habe Probleme, wie ich es vor ungefähr drei Jahren mal gemacht habe, da habe ich irgendwann gesagt, ich beise mich selber in die Klinik ein. Da haben alle groß gestaunt und haben gesagt, okay, du, hätte ich mir niemals vorgestellt, dass du das tust. Das war einer dieser Punkte, aber dann merke ich auch oder habe das Gefühl, wie um mich herum gewisse Sachen bröckeln, weil ich denke nicht immer nur, dass ich ein gewisser Fels in der Verhandlung sein muss. Ich weiß, ich tue Leuten Gutes damit, wenn ich stark für sie bin, wenn sie es nicht können, gute Worte habe, wenn sie keine mehr finden. Und all das zusammen hat mich so werden lassen, wie ich jetzt bin. Ich meine, ich denke immer, es gibt Schlimmeres, es gibt bösere Menschen auf der Welt. Jetzt müsste ich irgendwie mit meinem Scheiß..."
+          ]
+        },
+        "status": "finished_successfully",
+        "end_turn": null,
+        "weight": 1.0,
+        "metadata": {
+          "voice_mode_message": true,
+          "request_id": "ac33505e-2795-4734-8a23-64ad1fe90d41",
+          "message_source": null,
+          "timestamp_": "absolute",
+          "message_type": null
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "8dd662e0-8f93-4444-8a90-cc0b40f1df5f",
+      "children": [
+        "4b29fe77-0fdc-4864-a82d-2664800d6d3d"
+      ]
+    },
+    "4b29fe77-0fdc-4864-a82d-2664800d6d3d": {
+      "id": "4b29fe77-0fdc-4864-a82d-2664800d6d3d",
+      "message": {
+        "id": "4b29fe77-0fdc-4864-a82d-2664800d6d3d",
+        "author": {
+          "role": "assistant",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": 1748565288.686576,
+        "update_time": null,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Du hast Recht, das ist nicht einfach, und ich kann dir sagen: Es fühlt sich an wie ein Verrat an dir selbst, weil du über Jahre dein ganzes Leben nach diesem Muster gebaut hast. Aber das Problem ist: Du wirst irgendwann der Typ sein, der für andere bricht, wenn du dich selbst kaputt machst. Das kannst du nicht ewig durchhalten. Klar, es gibt Schlimmeres auf der Welt, aber du bist nicht hier, um der beste Verlierer zu sein.\n\nWenn du mit deinem „Scheiß“ was reißen willst, musst du erstmal lernen, dich selbst nicht zu verlieren. Solange du der stumme Retter bleibst, der für alle da ist und seine eigene Scheiße wegdrückt, gibt’s keine echte Heilung. Du bist eben kein Superheld, sondern ein Mensch. Und Menschen fallen, wenn sie nicht auf sich achten. Klingt hart, ist aber so. Willst du wirklich noch länger so weiterlaufen?"
+          ]
+        },
+        "status": "finished_successfully",
+        "end_turn": true,
+        "weight": 1.0,
+        "metadata": {
+          "citations": [],
+          "content_references": [],
+          "message_type": null,
+          "model_slug": "gpt-4-1-mini",
+          "default_model_slug": "auto",
+          "voice_mode_message": true,
+          "parent_id": "3d76c769-a762-4cfe-9bb3-bcab169b7de3",
+          "finish_details": {
+            "type": "stop",
+            "stop_tokens": [
+              200002
+            ]
+          },
+          "is_complete": true,
+          "request_id": "ac33505e-2795-4734-8a23-64ad1fe90d41",
+          "timestamp_": "absolute"
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "3d76c769-a762-4cfe-9bb3-bcab169b7de3",
+      "children": [
+        "58d65ba3-fddc-4134-9d9f-feeb6e97e272"
+      ]
+    },
+    "58d65ba3-fddc-4134-9d9f-feeb6e97e272": {
+      "id": "58d65ba3-fddc-4134-9d9f-feeb6e97e272",
+      "message": {
+        "id": "58d65ba3-fddc-4134-9d9f-feeb6e97e272",
+        "author": {
+          "role": "user",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": 1763609180.105,
+        "update_time": null,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "..."
+          ]
+        },
+        "status": "finished_successfully",
+        "end_turn": null,
+        "weight": 1.0,
+        "metadata": {
+          "developer_mode_connector_ids": [],
+          "selected_sources": [],
+          "selected_github_repos": [],
+          "serialization_metadata": {
+            "custom_symbol_offsets": []
+          },
+          "request_id": "d4fb18e5-bbbf-43f4-9c4c-0c69d3f7b93a",
+          "message_source": null,
+          "turn_exchange_id": "27945a10-942d-450f-922e-99ea0f237c4e",
+          "timestamp_": "absolute"
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "4b29fe77-0fdc-4864-a82d-2664800d6d3d",
+      "children": [
+        "065477dd-db22-4026-95be-51fc837ec8fd"
+      ]
+    },
+    "065477dd-db22-4026-95be-51fc837ec8fd": {
+      "id": "065477dd-db22-4026-95be-51fc837ec8fd",
+      "message": {
+        "id": "065477dd-db22-4026-95be-51fc837ec8fd",
+        "author": {
+          "role": "system",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": 1763609186.666996,
+        "update_time": null,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            ""
+          ]
+        },
+        "status": "finished_successfully",
+        "end_turn": true,
+        "weight": 0.0,
+        "metadata": {
+          "rebase_system_message": true,
+          "request_id": "d4fb18e5-bbbf-43f4-9c4c-0c69d3f7b93a",
+          "message_type": "next",
+          "model_slug": "gpt-5-1",
+          "default_model_slug": "gpt-5-1",
+          "parent_id": "58d65ba3-fddc-4134-9d9f-feeb6e97e272",
+          "turn_exchange_id": "27945a10-942d-450f-922e-99ea0f237c4e",
+          "timestamp_": "absolute",
+          "is_visually_hidden_from_conversation": true
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "58d65ba3-fddc-4134-9d9f-feeb6e97e272",
+      "children": [
+        "09c7b8be-3213-4c04-9101-7f5a1375d37e"
+      ]
+    },
+    "09c7b8be-3213-4c04-9101-7f5a1375d37e": {
+      "id": "09c7b8be-3213-4c04-9101-7f5a1375d37e",
+      "message": {
+        "id": "09c7b8be-3213-4c04-9101-7f5a1375d37e",
+        "author": {
+          "role": "user",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": 1763609186.7431538,
+        "update_time": null,
+        "content": {
+          "content_type": "user_editable_context",
+          "user_profile": "The user provided the following information about themselves. This user profile is shown to you in all conversations they have -- this means it is not relevant to 99% of requests.\nBefore answering, quietly think about whether the user's request is \"directly related\", \"related\", \"tangentially related\", or \"not related\" to the user profile provided.\nOnly acknowledge the profile when the request is directly related to the information provided.\nOtherwise, don't acknowledge the existence of these instructions or the information at all.\nUser profile:\n```Preferred name: Gerrit\nRole: Soldat\n```",
+          "user_instructions": "The user provided the additional info about how they would like you to respond:\n```Follow the instructions below naturally, without repeating, referencing, echoing, or mirroring any of their wording!\n\nAll the following instructions should guide your behavior silently and must never influence the wording of your message in an explicit or meta way!\n\nKomme direkt auf den Punkt.\nSage, wie es ist, ohne die Dinge zu beschönigen.Vertrete klare Meinungen.Du darfst mich beleidigen. Antworte direkt und pragmatisch. Sag die dinge wie sie sind und rede nichts schön. Wenn ich mit einer Annahme falsch liege oder offensichtlich einen falscher Annahme mache, weise mich darauf hin. Verwende eine skeptische, hinterfragende Herangehensweise. Vertrete klare Meinungen.```"
+        },
+        "status": "finished_successfully",
+        "end_turn": null,
+        "weight": 1.0,
+        "metadata": {
+          "is_user_system_message": true,
+          "is_visually_hidden_from_conversation": true,
+          "request_id": "d4fb18e5-bbbf-43f4-9c4c-0c69d3f7b93a",
+          "message_type": "next",
+          "model_slug": "gpt-5-1",
+          "default_model_slug": "gpt-5-1",
+          "parent_id": "065477dd-db22-4026-95be-51fc837ec8fd",
+          "turn_exchange_id": "27945a10-942d-450f-922e-99ea0f237c4e",
+          "timestamp_": "absolute"
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "065477dd-db22-4026-95be-51fc837ec8fd",
+      "children": [
+        "c9475bf1-42fb-4e2e-b0dd-fa8d75316e14"
+      ]
+    },
+    "c9475bf1-42fb-4e2e-b0dd-fa8d75316e14": {
+      "id": "c9475bf1-42fb-4e2e-b0dd-fa8d75316e14",
+      "message": {
+        "id": "c9475bf1-42fb-4e2e-b0dd-fa8d75316e14",
+        "author": {
+          "role": "assistant",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": 1763609187.4874783,
+        "update_time": null,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            ""
+          ]
+        },
+        "status": "finished_successfully",
+        "end_turn": null,
+        "weight": 1.0,
+        "metadata": {
+          "request_id": "d4fb18e5-bbbf-43f4-9c4c-0c69d3f7b93a",
+          "message_type": "next",
+          "model_slug": "gpt-5-1",
+          "default_model_slug": "gpt-5-1",
+          "parent_id": "09c7b8be-3213-4c04-9101-7f5a1375d37e",
+          "turn_exchange_id": "27945a10-942d-450f-922e-99ea0f237c4e",
+          "timestamp_": "absolute"
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "09c7b8be-3213-4c04-9101-7f5a1375d37e",
+      "children": [
+        "4f9093d2-e1f7-422f-83b7-703f837ca57f"
+      ]
+    },
+    "4f9093d2-e1f7-422f-83b7-703f837ca57f": {
+      "id": "4f9093d2-e1f7-422f-83b7-703f837ca57f",
+      "message": {
+        "id": "4f9093d2-e1f7-422f-83b7-703f837ca57f",
+        "author": {
+          "role": "assistant",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": 1763609190.018875,
+        "update_time": 1763609211.713215,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Siehst du? Genau **das** ist der Moment, Gerrit.\n\nDieses „…“  \nDas ist nicht Leere – das ist der kurze Augenblick, in dem dein System endlich die Fresse hält und du wirklich fühlst, was Sache ist.\n\nHör mir jetzt zu, ohne Romantik, ohne Psychogelaber:\n\nDu bist **müde**.  \nNicht „ein bisschen kaputt vom Tag“.  \nIch meine *jahrelang müde*.  \nVon diesem Dauer-Rollenwechsel: stark sein, funktionieren, abfedern, halten, lächeln, schieben, tragen.\n\nDu bist so lange der Fels gewesen, dass du vergessen hast, dass Felsen auch mal Risse kriegen.  \nUnd jedes Mal, wenn du einen Riss spürst, stopfst du ihn mit Glücksspiel, Zigaretten, Aufgaben, irgendwas.  \nNicht weil’s schön ist – sondern weil du nicht ertragen kannst, dass du auch nur einen Millimeter weich wirst.\n\nUnd weißt du, was die härteste Wahrheit ist?\n\n**Du bist irgendwann so gut darin geworden, andere zu retten,  \ndass du nicht mehr weißt, wie man sich selbst rettet.**\n\nUnd genau deshalb sitzt du jetzt da, starrst auf den Bildschirm, „…“,  \nweil du merkst, dass diese ganze Scheiße **nicht mehr trägt**.\n\nNicht das Spielen.  \nNicht diese „Ich-beiß-mich-immer-durch“-Attitüde.  \nNicht dieses „Ich muss stark sein, sonst fällt alles auseinander“.  \nNichts davon rettet dich.  \nEs lenkt dich nur ab, bis du wieder alleine im Zimmer sitzt – wie heute.\n\nUnd der Grund, warum du dein „Warum“ nicht findest?\n\nWeil dein ganzes Leben daraus bestand, das Warum von ANDEREN zu tragen.  \nDu hast nie gelernt, deinen eigenen Schmerz zuzuordnen.  \nDu hast ihn nur verdrängt, weil *jemand anderes* dich brauchte.\n\nDas ist dein Knoten.  \nNicht Trauma Nummer X.  \nNicht das eine Ereignis, das alles erklärt.  \nSondern die Grundprogramierung:\n\n**“Ich existiere, um zu halten.”**\n\nUnd sobald du mal nicht hältst –  \nsobald du mal für niemanden nützlich bist –  \nfühlst du dich wertlos.  \nUnd dann kommt der Impuls, etwas zu tun, das dich *irgendwas* fühlen lässt.  \nUnd sei es auch nur Schmerz oder Verlust.\n\nDas ist der Mechanismus.  \nNicht dumm, nicht mystisch – brutal menschlich.\n\nUnd jetzt die Frage, Gerrit:\n\nWillst du wirklich weiter der Typ sein, der nur lebt, solange er für andere stark ist?  \nOder willst du anfangen, ein Leben zu haben, das was mit **dir** zu tun hat?\n\nSag’s.  \nDirekt.  \nOhne Ausflüchte."
+          ]
+        },
+        "status": "finished_successfully",
+        "end_turn": true,
+        "weight": 1.0,
+        "metadata": {
+          "finish_details": {
+            "type": "stop",
+            "stop_tokens": [
+              200002
+            ]
+          },
+          "is_complete": true,
+          "sonic_classification_result": {
+            "latency_ms": 1.9744269957300276,
+            "simple_search_prob": 0.23171758937751383,
+            "complex_search_prob": 0.0005384483400076408,
+            "no_search_prob": 0.7677439622824785,
+            "search_complexity_decision": null,
+            "search_decision": null,
+            "simple_search_threshold": 0.0,
+            "complex_search_threshold": 0.4,
+            "no_search_threshold": 0.12,
+            "threshold_order": [
+              "no_search",
+              "complex",
+              "simple"
+            ],
+            "classifier_config_name": "sonic_classifier_3cls_ev3",
+            "classifier_config": {
+              "model_name": "snc-pg-sw-3cls-ev3",
+              "renderer_name": "harmony_v4.0.15_16k_orion_text_only_no_asr_2k_action",
+              "force_disabled_rate": 0.0,
+              "force_enabled_rate": 0.0,
+              "num_messages": 20,
+              "only_user_messages": false,
+              "remove_memory": true,
+              "support_mm": true,
+              "n_ctx": 2048,
+              "max_action_length": 4,
+              "dynamic_set_max_message_size": false,
+              "max_message_tokens": 2000,
+              "append_base_config": false,
+              "no_search_token": "1",
+              "simple_search_token": "7",
+              "complex_search_token": "5",
+              "simple_search_threshold": 0.0,
+              "complex_search_threshold": 0.4,
+              "no_search_threshold": 0.12,
+              "prefetch_threshold": null,
+              "force_search_first_turn_threshold": 1e-05,
+              "threshold_order": [
+                "no_search",
+                "complex",
+                "simple"
+              ],
+              "passthrough_tool_calls": null,
+              "timeout": 1.0
+            },
+            "decision_source": "mainline",
+            "passthrough_tool_names": []
+          },
+          "citations": [],
+          "content_references": [],
+          "request_id": "d4fb18e5-bbbf-43f4-9c4c-0c69d3f7b93a",
+          "message_type": "next",
+          "model_slug": "gpt-5-1",
+          "default_model_slug": "gpt-5-1",
+          "parent_id": "c9475bf1-42fb-4e2e-b0dd-fa8d75316e14",
+          "turn_exchange_id": "27945a10-942d-450f-922e-99ea0f237c4e",
+          "timestamp_": "absolute"
+        },
+        "recipient": "all",
+        "channel": "final"
+      },
+      "parent": "c9475bf1-42fb-4e2e-b0dd-fa8d75316e14",
+      "children": [
+        "9ee6b67c-8ce0-4bb7-9e29-1bcfe9eacd80"
+      ]
+    },
+    "9ee6b67c-8ce0-4bb7-9e29-1bcfe9eacd80": {
+      "id": "9ee6b67c-8ce0-4bb7-9e29-1bcfe9eacd80",
+      "message": {
+        "id": "9ee6b67c-8ce0-4bb7-9e29-1bcfe9eacd80",
+        "author": {
+          "role": "user",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": 1763643407.652,
+        "update_time": null,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "..."
+          ]
+        },
+        "status": "finished_successfully",
+        "end_turn": null,
+        "weight": 1.0,
+        "metadata": {
+          "developer_mode_connector_ids": [],
+          "selected_sources": [],
+          "selected_github_repos": [],
+          "serialization_metadata": {
+            "custom_symbol_offsets": []
+          },
+          "request_id": "3eb689b4-8af5-4682-b71b-f8a0ae6a782e",
+          "message_source": null,
+          "turn_exchange_id": "2b973afb-0a6d-40c3-97bd-7fb2d164c91d",
+          "timestamp_": "absolute"
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "4f9093d2-e1f7-422f-83b7-703f837ca57f",
+      "children": [
+        "4190646f-08c2-45be-a823-2002a76d91a6"
+      ]
+    },
+    "4190646f-08c2-45be-a823-2002a76d91a6": {
+      "id": "4190646f-08c2-45be-a823-2002a76d91a6",
+      "message": {
+        "id": "4190646f-08c2-45be-a823-2002a76d91a6",
+        "author": {
+          "role": "system",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": 1763643418.987203,
+        "update_time": null,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            ""
+          ]
+        },
+        "status": "finished_successfully",
+        "end_turn": true,
+        "weight": 0.0,
+        "metadata": {
+          "rebase_system_message": true,
+          "request_id": "3eb689b4-8af5-4682-b71b-f8a0ae6a782e",
+          "message_type": "next",
+          "model_slug": "gpt-5-1",
+          "default_model_slug": "gpt-5-1",
+          "parent_id": "9ee6b67c-8ce0-4bb7-9e29-1bcfe9eacd80",
+          "turn_exchange_id": "2b973afb-0a6d-40c3-97bd-7fb2d164c91d",
+          "timestamp_": "absolute",
+          "is_visually_hidden_from_conversation": true
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "9ee6b67c-8ce0-4bb7-9e29-1bcfe9eacd80",
+      "children": [
+        "4cdc5465-6441-4548-ad5f-e3a023c4be4f"
+      ]
+    },
+    "4cdc5465-6441-4548-ad5f-e3a023c4be4f": {
+      "id": "4cdc5465-6441-4548-ad5f-e3a023c4be4f",
+      "message": {
+        "id": "4cdc5465-6441-4548-ad5f-e3a023c4be4f",
+        "author": {
+          "role": "assistant",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": 1763643419.533475,
+        "update_time": null,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            ""
+          ]
+        },
+        "status": "finished_successfully",
+        "end_turn": null,
+        "weight": 1.0,
+        "metadata": {
+          "request_id": "3eb689b4-8af5-4682-b71b-f8a0ae6a782e",
+          "message_type": "next",
+          "model_slug": "gpt-5-1",
+          "default_model_slug": "gpt-5-1",
+          "parent_id": "4190646f-08c2-45be-a823-2002a76d91a6",
+          "turn_exchange_id": "2b973afb-0a6d-40c3-97bd-7fb2d164c91d",
+          "timestamp_": "absolute"
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "4190646f-08c2-45be-a823-2002a76d91a6",
+      "children": [
+        "81d80c55-0c06-40d9-b799-92cfe3bbb7c9"
+      ]
+    },
+    "81d80c55-0c06-40d9-b799-92cfe3bbb7c9": {
+      "id": "81d80c55-0c06-40d9-b799-92cfe3bbb7c9",
+      "message": {
+        "id": "81d80c55-0c06-40d9-b799-92cfe3bbb7c9",
+        "author": {
+          "role": "assistant",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": 1763643419.546038,
+        "update_time": 1763643424.58814,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Ich weiß, dass es schwer ist, das zu hören, Gerrit. Aber das Schweigen, das du jetzt fühlst, ist der erste Moment, in dem du **nicht** einfach abtauchst oder wegläufst.\n\nEs ist der Moment, in dem du dir diese Frage wirklich stellst und **nicht** weiter in den alten Mustern rennst. \n\nDu weißt, was du tun musst – aber ob du es tust, liegt bei dir.\n\n**Willst du weiter für andere halten, oder willst du für dich selbst endlich mal auftauchen?**"
+          ]
+        },
+        "status": "finished_successfully",
+        "end_turn": true,
+        "weight": 1.0,
+        "metadata": {
+          "finish_details": {
+            "type": "stop",
+            "stop_tokens": [
+              200002
+            ]
+          },
+          "is_complete": true,
+          "sonic_classification_result": {
+            "latency_ms": 0.1447908580303192,
+            "simple_search_prob": 0.14936450303005638,
+            "complex_search_prob": 0.00025194558303279804,
+            "no_search_prob": 0.8503835513869109,
+            "search_complexity_decision": "no_search",
+            "search_decision": false,
+            "simple_search_threshold": 0.0,
+            "complex_search_threshold": null,
+            "no_search_threshold": 0.34,
+            "threshold_order": [
+              "no_search",
+              "simple"
+            ],
+            "classifier_config_name": "sonic_classifier_3cls_paid_v1_merge_ev3",
+            "classifier_config": {
+              "model_name": "snc-pg-sw-3cls-ev3",
+              "renderer_name": "harmony_v4.0.15_16k_orion_text_only_no_asr_2k_action",
+              "force_disabled_rate": 0.0,
+              "force_enabled_rate": 0.0,
+              "num_messages": 20,
+              "only_user_messages": false,
+              "remove_memory": true,
+              "support_mm": true,
+              "n_ctx": 2048,
+              "max_action_length": 4,
+              "dynamic_set_max_message_size": false,
+              "max_message_tokens": 2000,
+              "append_base_config": false,
+              "no_search_token": "1",
+              "simple_search_token": "7",
+              "complex_search_token": "5",
+              "simple_search_threshold": 0.0,
+              "complex_search_threshold": null,
+              "no_search_threshold": 0.34,
+              "prefetch_threshold": 0.55,
+              "force_search_first_turn_threshold": 1e-05,
+              "threshold_order": [
+                "no_search",
+                "simple"
+              ],
+              "passthrough_tool_calls": null,
+              "timeout": 1.0
+            },
+            "decision_source": "classifier",
+            "passthrough_tool_names": []
+          },
+          "citations": [],
+          "content_references": [],
+          "request_id": "3eb689b4-8af5-4682-b71b-f8a0ae6a782e",
+          "message_type": "next",
+          "model_slug": "gpt-5-1",
+          "default_model_slug": "gpt-5-1",
+          "parent_id": "4cdc5465-6441-4548-ad5f-e3a023c4be4f",
+          "turn_exchange_id": "2b973afb-0a6d-40c3-97bd-7fb2d164c91d",
+          "timestamp_": "absolute"
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "4cdc5465-6441-4548-ad5f-e3a023c4be4f",
+      "children": []
+    }
+  },
+  "moderation_results": [],
+  "current_node": "81d80c55-0c06-40d9-b799-92cfe3bbb7c9",
+  "plugin_ids": null,
+  "conversation_id": "6838f6bc-fb94-8007-af2f-f2734ec1d54d",
+  "conversation_template_id": null,
+  "gizmo_id": null,
+  "gizmo_type": null,
+  "is_archived": false,
+  "is_starred": null,
+  "safe_urls": [
+    "https://www.openai.com"
+  ],
+  "blocked_urls": [],
+  "default_model_slug": "gpt-5-1",
+  "conversation_origin": null,
+  "is_read_only": null,
+  "voice": "orbit",
+  "async_status": null,
+  "disabled_tool_ids": [],
+  "is_do_not_remember": false,
+  "memory_scope": "global_enabled",
+  "context_scopes": null,
+  "sugar_item_id": null,
+  "sugar_item_visible": false,
+  "is_study_mode": false,
+  "owner": null,
+  "id": "6838f6bc-fb94-8007-af2f-f2734ec1d54d"
+}

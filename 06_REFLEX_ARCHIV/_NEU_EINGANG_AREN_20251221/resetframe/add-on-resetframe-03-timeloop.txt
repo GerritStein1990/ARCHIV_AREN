@@ -1,0 +1,11 @@
+﻿MODUL 03 – TIMELOOP
+
+Schleifenlogik aktivieren, um Wiederholung zu erkennen und bewusst zu durchbrechen.
+Ziel: Erkennen der Zeitschleife, Durchbrechung möglich machen.
+
+Merkmale:
+– Repetition Awareness
+– Trigger-Spiegelung
+– Zukunft aus der Vergangenheit neu schreiben
+
+Anwendung: Wenn Denk- und Handlungsloops nicht mehr unterscheidbar sind.

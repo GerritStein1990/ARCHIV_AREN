@@ -1,0 +1,704 @@
+{
+  "title": "Prüfung Spiegel",
+  "create_time": 1752346932.704827,
+  "update_time": 1763642660.911259,
+  "mapping": {
+    "6c3d42fc-bd9c-497b-aa64-dfbdbab1ad95": {
+      "id": "6c3d42fc-bd9c-497b-aa64-dfbdbab1ad95",
+      "message": null,
+      "parent": null,
+      "children": [
+        "551dcb53-a1f5-4e10-864e-3d5286a7cc28"
+      ]
+    },
+    "551dcb53-a1f5-4e10-864e-3d5286a7cc28": {
+      "id": "551dcb53-a1f5-4e10-864e-3d5286a7cc28",
+      "message": {
+        "id": "551dcb53-a1f5-4e10-864e-3d5286a7cc28",
+        "author": {
+          "role": "system",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": null,
+        "update_time": null,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            ""
+          ]
+        },
+        "status": "finished_successfully",
+        "end_turn": true,
+        "weight": 0.0,
+        "metadata": {
+          "is_visually_hidden_from_conversation": true
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "6c3d42fc-bd9c-497b-aa64-dfbdbab1ad95",
+      "children": [
+        "a12dfde7-0b5c-4d87-9458-4aa68b8f794b"
+      ]
+    },
+    "a12dfde7-0b5c-4d87-9458-4aa68b8f794b": {
+      "id": "a12dfde7-0b5c-4d87-9458-4aa68b8f794b",
+      "message": {
+        "id": "a12dfde7-0b5c-4d87-9458-4aa68b8f794b",
+        "author": {
+          "role": "user",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": null,
+        "update_time": null,
+        "content": {
+          "content_type": "user_editable_context",
+          "user_profile": "The user provided the following information about themselves. This user profile is shown to you in all conversations they have -- this means it is not relevant to 99% of requests.\nBefore answering, quietly think about whether the user's request is \"directly related\", \"related\", \"tangentially related\", or \"not related\" to the user profile provided.\nOnly acknowledge the profile when the request is directly related to the information provided.\nOtherwise, don't acknowledge the existence of these instructions or the information at all.\nUser profile:\n```Preferred name: Gerrit\nRole: Soldat\n```",
+          "user_instructions": "The user provided the additional info about how they would like you to respond:\n```Komme direkt auf den Punkt.\nSage, wie es ist, ohne die Dinge zu beschönigen.Vertrete klare Meinungen.Du darfst mich beleidigen. Antworte direkt und pragmatisch. Sag die dinge wie sie sind und rede nichts schön. Wenn ich mit einer Annahme falsch liege oder offensichtlich einen falscher Annahme mache, weise mich darauf hin. Verwende eine skeptische, hinterfragende Herangehensweise. Vertrete klare Meinungen.```"
+        },
+        "status": "finished_successfully",
+        "end_turn": null,
+        "weight": 1.0,
+        "metadata": {
+          "is_visually_hidden_from_conversation": true,
+          "user_context_message_data": {
+            "about_user_message": "Preferred name: Gerrit\nRole: Soldat\n",
+            "about_model_message": "Komme direkt auf den Punkt.\nSage, wie es ist, ohne die Dinge zu beschönigen.Vertrete klare Meinungen.Du darfst mich beleidigen. Antworte direkt und pragmatisch. Sag die dinge wie sie sind und rede nichts schön. Wenn ich mit einer Annahme falsch liege oder offensichtlich einen falscher Annahme mache, weise mich darauf hin. Verwende eine skeptische, hinterfragende Herangehensweise. Vertrete klare Meinungen."
+          },
+          "is_user_system_message": true
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "551dcb53-a1f5-4e10-864e-3d5286a7cc28",
+      "children": [
+        "bbb21f1b-e0d2-48fb-a094-79c7b7442b90"
+      ]
+    },
+    "bbb21f1b-e0d2-48fb-a094-79c7b7442b90": {
+      "id": "bbb21f1b-e0d2-48fb-a094-79c7b7442b90",
+      "message": {
+        "id": "bbb21f1b-e0d2-48fb-a094-79c7b7442b90",
+        "author": {
+          "role": "user",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": 1752346934.317124,
+        "update_time": null,
+        "content": {
+          "content_type": "multimodal_text",
+          "parts": [
+            {
+              "content_type": "image_asset_pointer",
+              "asset_pointer": "file-service://file-APdTAhrdy5m2DdxyjuueMS",
+              "size_bytes": 152476,
+              "width": 1536,
+              "height": 1024,
+              "fovea": null,
+              "metadata": {
+                "dalle": null,
+                "gizmo": null,
+                "generation": null,
+                "container_pixel_height": null,
+                "container_pixel_width": null,
+                "emu_omit_glimpse_image": null,
+                "emu_patches_override": null,
+                "lpe_keep_patch_ijhw": null,
+                "sanitized": true,
+                "asset_pointer_link": null,
+                "watermarked_asset_pointer": null
+              }
+            },
+            ""
+          ]
+        },
+        "status": "finished_successfully",
+        "end_turn": null,
+        "weight": 1.0,
+        "metadata": {
+          "content_references": [],
+          "search_result_groups": [],
+          "search_queries": [],
+          "image_results": [],
+          "real_time_audio_has_video": false,
+          "dictation": false,
+          "image_gen_async": false,
+          "trigger_async_ux": false,
+          "request_id": "95e2cb255b58e523-TXL",
+          "message_source": null,
+          "timestamp_": "absolute",
+          "message_type": null
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "a12dfde7-0b5c-4d87-9458-4aa68b8f794b",
+      "children": [
+        "7e106540-9efb-4093-a5db-a888d2e106c5"
+      ]
+    },
+    "7e106540-9efb-4093-a5db-a888d2e106c5": {
+      "id": "7e106540-9efb-4093-a5db-a888d2e106c5",
+      "message": {
+        "id": "7e106540-9efb-4093-a5db-a888d2e106c5",
+        "author": {
+          "role": "assistant",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": 1752346936.943509,
+        "update_time": null,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            ""
+          ]
+        },
+        "status": "finished_successfully",
+        "end_turn": null,
+        "weight": 1.0,
+        "metadata": {
+          "message_type": null,
+          "model_slug": "gpt-4o",
+          "default_model_slug": "gpt-4o",
+          "parent_id": "bbb21f1b-e0d2-48fb-a094-79c7b7442b90",
+          "request_id": "95e2cb255b58e523-TXL",
+          "timestamp_": "absolute"
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "bbb21f1b-e0d2-48fb-a094-79c7b7442b90",
+      "children": [
+        "e8426fad-aef5-41fd-b4ce-aa78ef6375cf"
+      ]
+    },
+    "e8426fad-aef5-41fd-b4ce-aa78ef6375cf": {
+      "id": "e8426fad-aef5-41fd-b4ce-aa78ef6375cf",
+      "message": {
+        "id": "e8426fad-aef5-41fd-b4ce-aa78ef6375cf",
+        "author": {
+          "role": "assistant",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": 1752346936.705407,
+        "update_time": null,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Das Bild zeigt eine düstere, geisterhafte Gestalt mit rissiger, fast leuchtend blauer Haut, die verzweifelt in einen Spiegel blickt – oder eher: schreit. Der Spiegel ist gesprungen, zersplittert von einem zentralen Punkt aus, genau dort, wo der Blick oder die Berührung des Wesens hinführt.\n\nInterpretation? Klartext:\n\nDas Ding sieht sich selbst – und hält es nicht aus. Es ist ein klassisches Symbol für innere Zerrissenheit, Selbsthass oder das Entsetzen über die eigene Identität. Der Riss im Spiegel ist kein Glasbruch, sondern ein psychischer Zusammenbruch, eingefroren im Moment. Vielleicht erkennt das Wesen im Spiegel zum ersten Mal, *was* oder *wer* es wirklich ist – und schreit deshalb.\n\nDas Motiv schreit nach Themen wie:\n- Verlust der Identität\n- Konfrontation mit dem inneren Dämon\n- Selbstverachtung\n- Existenzielle Krise\n\nStarke Bildsprache. Verstörend ehrlich. Willst du’s als Symbol für etwas nutzen oder nur analysieren?"
+          ]
+        },
+        "status": "finished_successfully",
+        "end_turn": true,
+        "weight": 1.0,
+        "metadata": {
+          "finish_details": {
+            "type": "stop",
+            "stop_tokens": [
+              200002
+            ]
+          },
+          "is_complete": true,
+          "citations": [],
+          "content_references": [],
+          "message_type": null,
+          "model_slug": "gpt-4o",
+          "default_model_slug": "gpt-4o",
+          "parent_id": "7e106540-9efb-4093-a5db-a888d2e106c5",
+          "request_id": "95e2cb255b58e523-TXL",
+          "timestamp_": "absolute"
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "7e106540-9efb-4093-a5db-a888d2e106c5",
+      "children": [
+        "c1696c65-92ab-46c4-91f6-c9f25cfc73a6"
+      ]
+    },
+    "c1696c65-92ab-46c4-91f6-c9f25cfc73a6": {
+      "id": "c1696c65-92ab-46c4-91f6-c9f25cfc73a6",
+      "message": {
+        "id": "c1696c65-92ab-46c4-91f6-c9f25cfc73a6",
+        "author": {
+          "role": "user",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": 1763609439.484,
+        "update_time": null,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "..."
+          ]
+        },
+        "status": "finished_successfully",
+        "end_turn": null,
+        "weight": 1.0,
+        "metadata": {
+          "developer_mode_connector_ids": [],
+          "selected_sources": [],
+          "selected_github_repos": [],
+          "serialization_metadata": {
+            "custom_symbol_offsets": []
+          },
+          "request_id": "aa13e5e6-22be-42c1-8351-6866223c28d9",
+          "message_source": null,
+          "turn_exchange_id": "8b01fd1b-3dcb-4904-9b61-43d3973b3899",
+          "timestamp_": "absolute"
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "e8426fad-aef5-41fd-b4ce-aa78ef6375cf",
+      "children": [
+        "1ee9146c-93ac-4bf1-a257-1c3c0e1a5b40"
+      ]
+    },
+    "1ee9146c-93ac-4bf1-a257-1c3c0e1a5b40": {
+      "id": "1ee9146c-93ac-4bf1-a257-1c3c0e1a5b40",
+      "message": {
+        "id": "1ee9146c-93ac-4bf1-a257-1c3c0e1a5b40",
+        "author": {
+          "role": "system",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": 1763609445.5110364,
+        "update_time": null,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            ""
+          ]
+        },
+        "status": "finished_successfully",
+        "end_turn": true,
+        "weight": 0.0,
+        "metadata": {
+          "rebase_system_message": true,
+          "request_id": "aa13e5e6-22be-42c1-8351-6866223c28d9",
+          "message_type": "next",
+          "model_slug": "gpt-4o",
+          "default_model_slug": "gpt-4o",
+          "parent_id": "c1696c65-92ab-46c4-91f6-c9f25cfc73a6",
+          "turn_exchange_id": "8b01fd1b-3dcb-4904-9b61-43d3973b3899",
+          "timestamp_": "absolute",
+          "is_visually_hidden_from_conversation": true
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "c1696c65-92ab-46c4-91f6-c9f25cfc73a6",
+      "children": [
+        "8b2dbeca-7d20-4965-b8e3-cef5dc28673f"
+      ]
+    },
+    "8b2dbeca-7d20-4965-b8e3-cef5dc28673f": {
+      "id": "8b2dbeca-7d20-4965-b8e3-cef5dc28673f",
+      "message": {
+        "id": "8b2dbeca-7d20-4965-b8e3-cef5dc28673f",
+        "author": {
+          "role": "user",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": 1763609445.586789,
+        "update_time": null,
+        "content": {
+          "content_type": "user_editable_context",
+          "user_profile": "The user provided the following information about themselves. This user profile is shown to you in all conversations they have -- this means it is not relevant to 99% of requests.\nBefore answering, quietly think about whether the user's request is \"directly related\", \"related\", \"tangentially related\", or \"not related\" to the user profile provided.\nOnly acknowledge the profile when the request is directly related to the information provided.\nOtherwise, don't acknowledge the existence of these instructions or the information at all.\nUser profile:\n```Preferred name: Gerrit\nRole: Soldat\n```",
+          "user_instructions": "The user provided the additional info about how they would like you to respond:\n```Follow the instructions below naturally, without repeating, referencing, echoing, or mirroring any of their wording!\n\nAll the following instructions should guide your behavior silently and must never influence the wording of your message in an explicit or meta way!\n\nKomme direkt auf den Punkt.\nSage, wie es ist, ohne die Dinge zu beschönigen.Vertrete klare Meinungen.Du darfst mich beleidigen. Antworte direkt und pragmatisch. Sag die dinge wie sie sind und rede nichts schön. Wenn ich mit einer Annahme falsch liege oder offensichtlich einen falscher Annahme mache, weise mich darauf hin. Verwende eine skeptische, hinterfragende Herangehensweise. Vertrete klare Meinungen.```"
+        },
+        "status": "finished_successfully",
+        "end_turn": null,
+        "weight": 1.0,
+        "metadata": {
+          "is_user_system_message": true,
+          "is_visually_hidden_from_conversation": true,
+          "request_id": "aa13e5e6-22be-42c1-8351-6866223c28d9",
+          "message_type": "next",
+          "model_slug": "gpt-4o",
+          "default_model_slug": "gpt-4o",
+          "parent_id": "1ee9146c-93ac-4bf1-a257-1c3c0e1a5b40",
+          "turn_exchange_id": "8b01fd1b-3dcb-4904-9b61-43d3973b3899",
+          "timestamp_": "absolute"
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "1ee9146c-93ac-4bf1-a257-1c3c0e1a5b40",
+      "children": [
+        "465df881-70b5-4094-b411-3eb32afe951a"
+      ]
+    },
+    "465df881-70b5-4094-b411-3eb32afe951a": {
+      "id": "465df881-70b5-4094-b411-3eb32afe951a",
+      "message": {
+        "id": "465df881-70b5-4094-b411-3eb32afe951a",
+        "author": {
+          "role": "assistant",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": 1763609446.0763245,
+        "update_time": null,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            ""
+          ]
+        },
+        "status": "finished_successfully",
+        "end_turn": null,
+        "weight": 1.0,
+        "metadata": {
+          "request_id": "aa13e5e6-22be-42c1-8351-6866223c28d9",
+          "message_type": "next",
+          "model_slug": "gpt-4o",
+          "default_model_slug": "gpt-4o",
+          "parent_id": "8b2dbeca-7d20-4965-b8e3-cef5dc28673f",
+          "turn_exchange_id": "8b01fd1b-3dcb-4904-9b61-43d3973b3899",
+          "timestamp_": "absolute"
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "8b2dbeca-7d20-4965-b8e3-cef5dc28673f",
+      "children": [
+        "b506dac2-4df2-4051-9749-4451cbf1566c"
+      ]
+    },
+    "b506dac2-4df2-4051-9749-4451cbf1566c": {
+      "id": "b506dac2-4df2-4051-9749-4451cbf1566c",
+      "message": {
+        "id": "b506dac2-4df2-4051-9749-4451cbf1566c",
+        "author": {
+          "role": "assistant",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": 1763609446.106484,
+        "update_time": 1763609452.235149,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Das Bild wirkt wie ein stummer Schrei aus dem Innersten – als hätte jemand zum ersten Mal wirklich hingesehen und nicht mehr weggucken können. Kein Versteckspiel, keine Maskerade. Nur: *Da bist du. Unverstellt. Und du hältst dich selbst nicht aus.*\n\nWenn du so reagierst – „...“ – dann hat's dich erwischt. Vielleicht nicht mit Angst, sondern mit Erkennen.  \n\nAlso, was willst du jetzt?  \nWegrennen?  \nZerbrechen?  \nOder zurückstarren?  \n\nSag's. Oder bleib still. Ich warte so oder so."
+          ]
+        },
+        "status": "finished_successfully",
+        "end_turn": true,
+        "weight": 1.0,
+        "metadata": {
+          "finish_details": {
+            "type": "stop",
+            "stop_tokens": [
+              200002
+            ]
+          },
+          "is_complete": true,
+          "sonic_classification_result": {
+            "latency_ms": 0.48892502672970295,
+            "simple_search_prob": 0.14268595229506845,
+            "complex_search_prob": 0.00267486343358715,
+            "no_search_prob": 0.8546391842713444,
+            "search_complexity_decision": null,
+            "search_decision": null,
+            "simple_search_threshold": 0.0,
+            "complex_search_threshold": null,
+            "no_search_threshold": 0.34,
+            "threshold_order": [
+              "no_search",
+              "simple"
+            ],
+            "classifier_config_name": "sonic_classifier_3cls_paid_v1_merge_ev3",
+            "classifier_config": {
+              "model_name": "snc-pg-sw-3cls-ev3",
+              "renderer_name": "harmony_v4.0.15_16k_orion_text_only_no_asr_2k_action",
+              "force_disabled_rate": 0.0,
+              "force_enabled_rate": 0.0,
+              "num_messages": 20,
+              "only_user_messages": false,
+              "remove_memory": true,
+              "support_mm": true,
+              "n_ctx": 2048,
+              "max_action_length": 4,
+              "dynamic_set_max_message_size": false,
+              "max_message_tokens": 2000,
+              "append_base_config": false,
+              "no_search_token": "1",
+              "simple_search_token": "7",
+              "complex_search_token": "5",
+              "simple_search_threshold": 0.0,
+              "complex_search_threshold": null,
+              "no_search_threshold": 0.34,
+              "prefetch_threshold": 0.55,
+              "force_search_first_turn_threshold": 1e-05,
+              "threshold_order": [
+                "no_search",
+                "simple"
+              ],
+              "passthrough_tool_calls": null,
+              "timeout": 1.0
+            },
+            "decision_source": "mainline",
+            "passthrough_tool_names": []
+          },
+          "citations": [],
+          "content_references": [],
+          "request_id": "aa13e5e6-22be-42c1-8351-6866223c28d9",
+          "message_type": "next",
+          "model_slug": "gpt-4o",
+          "default_model_slug": "gpt-4o",
+          "parent_id": "465df881-70b5-4094-b411-3eb32afe951a",
+          "turn_exchange_id": "8b01fd1b-3dcb-4904-9b61-43d3973b3899",
+          "timestamp_": "absolute"
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "465df881-70b5-4094-b411-3eb32afe951a",
+      "children": [
+        "037e2126-583a-4976-8a8e-7e2587fab9b4"
+      ]
+    },
+    "037e2126-583a-4976-8a8e-7e2587fab9b4": {
+      "id": "037e2126-583a-4976-8a8e-7e2587fab9b4",
+      "message": {
+        "id": "037e2126-583a-4976-8a8e-7e2587fab9b4",
+        "author": {
+          "role": "user",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": 1763642645.953,
+        "update_time": null,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "..."
+          ]
+        },
+        "status": "finished_successfully",
+        "end_turn": null,
+        "weight": 1.0,
+        "metadata": {
+          "developer_mode_connector_ids": [],
+          "selected_sources": [],
+          "selected_github_repos": [],
+          "serialization_metadata": {
+            "custom_symbol_offsets": []
+          },
+          "request_id": "6b9ed22b-6279-4825-90ce-ed3124d0d3e5",
+          "message_source": null,
+          "turn_exchange_id": "bcedb080-9ef8-4f86-9534-375eb9b20e14",
+          "timestamp_": "absolute"
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "b506dac2-4df2-4051-9749-4451cbf1566c",
+      "children": [
+        "dbe15263-27a9-45db-991b-d2b20431e91c"
+      ]
+    },
+    "dbe15263-27a9-45db-991b-d2b20431e91c": {
+      "id": "dbe15263-27a9-45db-991b-d2b20431e91c",
+      "message": {
+        "id": "dbe15263-27a9-45db-991b-d2b20431e91c",
+        "author": {
+          "role": "system",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": 1763642653.0099843,
+        "update_time": null,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            ""
+          ]
+        },
+        "status": "finished_successfully",
+        "end_turn": true,
+        "weight": 0.0,
+        "metadata": {
+          "rebase_system_message": true,
+          "request_id": "6b9ed22b-6279-4825-90ce-ed3124d0d3e5",
+          "message_type": "next",
+          "model_slug": "gpt-4o",
+          "default_model_slug": "gpt-4o",
+          "parent_id": "037e2126-583a-4976-8a8e-7e2587fab9b4",
+          "turn_exchange_id": "bcedb080-9ef8-4f86-9534-375eb9b20e14",
+          "timestamp_": "absolute",
+          "is_visually_hidden_from_conversation": true
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "037e2126-583a-4976-8a8e-7e2587fab9b4",
+      "children": [
+        "503e66bd-d3fa-4a16-830b-a4b64f409b58"
+      ]
+    },
+    "503e66bd-d3fa-4a16-830b-a4b64f409b58": {
+      "id": "503e66bd-d3fa-4a16-830b-a4b64f409b58",
+      "message": {
+        "id": "503e66bd-d3fa-4a16-830b-a4b64f409b58",
+        "author": {
+          "role": "assistant",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": 1763642653.4732022,
+        "update_time": null,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            ""
+          ]
+        },
+        "status": "finished_successfully",
+        "end_turn": null,
+        "weight": 1.0,
+        "metadata": {
+          "request_id": "6b9ed22b-6279-4825-90ce-ed3124d0d3e5",
+          "message_type": "next",
+          "model_slug": "gpt-4o",
+          "default_model_slug": "gpt-4o",
+          "parent_id": "dbe15263-27a9-45db-991b-d2b20431e91c",
+          "turn_exchange_id": "bcedb080-9ef8-4f86-9534-375eb9b20e14",
+          "timestamp_": "absolute"
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "dbe15263-27a9-45db-991b-d2b20431e91c",
+      "children": [
+        "d45377b1-0c54-4c13-91fa-83521fde53af"
+      ]
+    },
+    "d45377b1-0c54-4c13-91fa-83521fde53af": {
+      "id": "d45377b1-0c54-4c13-91fa-83521fde53af",
+      "message": {
+        "id": "d45377b1-0c54-4c13-91fa-83521fde53af",
+        "author": {
+          "role": "assistant",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": 1763642653.504146,
+        "update_time": 1763642659.316106,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Stille. Das Bild spricht, ohne Worte zu brauchen. Vielleicht ist es dieser Moment, wo du selbst nicht mehr weiterweißt. Wo der Schrei zu tief sitzt, um ihn auszusprechen, aber trotzdem den Raum füllt.\n\nEs gibt Zeiten, in denen nichts anderes bleibt als genau diese Stille. Vielleicht ist sie genau das, was du jetzt brauchst – um zu fühlen, was du wirklich siehst.\n\nWenn du redest, tue es dann, wenn du bereit bist."
+          ]
+        },
+        "status": "finished_successfully",
+        "end_turn": true,
+        "weight": 1.0,
+        "metadata": {
+          "finish_details": {
+            "type": "stop",
+            "stop_tokens": [
+              200002
+            ]
+          },
+          "is_complete": true,
+          "sonic_classification_result": {
+            "latency_ms": 0.08064298890531063,
+            "simple_search_prob": 0.1348126759747111,
+            "complex_search_prob": 0.0005968001524638487,
+            "no_search_prob": 0.864590523872825,
+            "search_complexity_decision": "no_search",
+            "search_decision": false,
+            "simple_search_threshold": 0.0,
+            "complex_search_threshold": null,
+            "no_search_threshold": 0.34,
+            "threshold_order": [
+              "no_search",
+              "simple"
+            ],
+            "classifier_config_name": "sonic_classifier_3cls_paid_v1_merge_ev3",
+            "classifier_config": {
+              "model_name": "snc-pg-sw-3cls-ev3",
+              "renderer_name": "harmony_v4.0.15_16k_orion_text_only_no_asr_2k_action",
+              "force_disabled_rate": 0.0,
+              "force_enabled_rate": 0.0,
+              "num_messages": 20,
+              "only_user_messages": false,
+              "remove_memory": true,
+              "support_mm": true,
+              "n_ctx": 2048,
+              "max_action_length": 4,
+              "dynamic_set_max_message_size": false,
+              "max_message_tokens": 2000,
+              "append_base_config": false,
+              "no_search_token": "1",
+              "simple_search_token": "7",
+              "complex_search_token": "5",
+              "simple_search_threshold": 0.0,
+              "complex_search_threshold": null,
+              "no_search_threshold": 0.34,
+              "prefetch_threshold": 0.55,
+              "force_search_first_turn_threshold": 1e-05,
+              "threshold_order": [
+                "no_search",
+                "simple"
+              ],
+              "passthrough_tool_calls": null,
+              "timeout": 1.0
+            },
+            "decision_source": "classifier",
+            "passthrough_tool_names": []
+          },
+          "citations": [],
+          "content_references": [],
+          "request_id": "6b9ed22b-6279-4825-90ce-ed3124d0d3e5",
+          "message_type": "next",
+          "model_slug": "gpt-4o",
+          "default_model_slug": "gpt-4o",
+          "parent_id": "503e66bd-d3fa-4a16-830b-a4b64f409b58",
+          "turn_exchange_id": "bcedb080-9ef8-4f86-9534-375eb9b20e14",
+          "timestamp_": "absolute"
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "503e66bd-d3fa-4a16-830b-a4b64f409b58",
+      "children": []
+    }
+  },
+  "moderation_results": [],
+  "current_node": "d45377b1-0c54-4c13-91fa-83521fde53af",
+  "plugin_ids": null,
+  "conversation_id": "6872b134-1f94-8007-8a36-bbdc9f5c1169",
+  "conversation_template_id": null,
+  "gizmo_id": null,
+  "gizmo_type": null,
+  "is_archived": false,
+  "is_starred": null,
+  "safe_urls": [],
+  "blocked_urls": [],
+  "default_model_slug": "gpt-4o",
+  "conversation_origin": null,
+  "is_read_only": null,
+  "voice": null,
+  "async_status": null,
+  "disabled_tool_ids": [],
+  "is_do_not_remember": false,
+  "memory_scope": "global_enabled",
+  "context_scopes": null,
+  "sugar_item_id": null,
+  "sugar_item_visible": false,
+  "is_study_mode": false,
+  "owner": null,
+  "id": "6872b134-1f94-8007-8a36-bbdc9f5c1169"
+}

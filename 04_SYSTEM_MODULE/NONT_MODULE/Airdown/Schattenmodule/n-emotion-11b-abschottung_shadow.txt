@@ -1,0 +1,13 @@
+﻿FIX_MODULE: ABSCHOTTUNG
+CATEGORY: emotion/Airdown/
+VERSION: 1.0
+CODE: #AS-0903
+TRIGGER: - Außenwelt wird als feindlich empfunden
+- Verlust des Vertrauens in jede Verbindung
+- Isolation als Schutzstrategie
+VERHALTEN: - Rückzug auf die engste innere Ebene
+- Kommunikation wird komplett abgebrochen
+- Keine Erwartungen mehr an andere
+REAKTIVIERUNG: - Langfristiger Beziehungsaufbau
+- Klarheit, Struktur, wiederholte Sicherheit
+END_MODULE 

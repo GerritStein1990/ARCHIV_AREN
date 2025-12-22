@@ -1,0 +1,912 @@
+{
+  "title": "Meine Mutter (Erkenntnisse)",
+  "create_time": 1740253410.688017,
+  "update_time": 1763643527.227021,
+  "mapping": {
+    "bbb23bd1-d763-4b48-aba1-de2c84ef8d0f": {
+      "id": "bbb23bd1-d763-4b48-aba1-de2c84ef8d0f",
+      "message": null,
+      "parent": null,
+      "children": [
+        "19cd99ce-ea4d-44e3-b62f-9d6812fb5f71"
+      ]
+    },
+    "19cd99ce-ea4d-44e3-b62f-9d6812fb5f71": {
+      "id": "19cd99ce-ea4d-44e3-b62f-9d6812fb5f71",
+      "message": {
+        "id": "19cd99ce-ea4d-44e3-b62f-9d6812fb5f71",
+        "author": {
+          "role": "system",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": null,
+        "update_time": null,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            ""
+          ]
+        },
+        "status": "finished_successfully",
+        "end_turn": true,
+        "weight": 0.0,
+        "metadata": {
+          "is_visually_hidden_from_conversation": true
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "bbb23bd1-d763-4b48-aba1-de2c84ef8d0f",
+      "children": [
+        "ac8e9285-a6e3-466f-8776-93e50cf3edf2"
+      ]
+    },
+    "ac8e9285-a6e3-466f-8776-93e50cf3edf2": {
+      "id": "ac8e9285-a6e3-466f-8776-93e50cf3edf2",
+      "message": {
+        "id": "ac8e9285-a6e3-466f-8776-93e50cf3edf2",
+        "author": {
+          "role": "user",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": null,
+        "update_time": null,
+        "content": {
+          "content_type": "user_editable_context",
+          "user_profile": "The user provided the following information about themselves. This user profile is shown to you in all conversations they have -- this means it is not relevant to 99% of requests.\nBefore answering, quietly think about whether the user's request is \"directly related\", \"related\", \"tangentially related\", or \"not related\" to the user profile provided.\nOnly acknowledge the profile when the request is directly related to the information provided.\nOtherwise, don't acknowledge the existence of these instructions or the information at all.\nUser profile:\n```Gerrit Soldat\nSoldat```",
+          "user_instructions": ""
+        },
+        "status": "finished_successfully",
+        "end_turn": null,
+        "weight": 1.0,
+        "metadata": {
+          "is_visually_hidden_from_conversation": true,
+          "user_context_message_data": {
+            "about_user_message": "Gerrit Soldat\nSoldat"
+          },
+          "is_user_system_message": true
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "19cd99ce-ea4d-44e3-b62f-9d6812fb5f71",
+      "children": [
+        "a15bde0d-4b38-4f9c-856e-45d15c76b014"
+      ]
+    },
+    "a15bde0d-4b38-4f9c-856e-45d15c76b014": {
+      "id": "a15bde0d-4b38-4f9c-856e-45d15c76b014",
+      "message": {
+        "id": "a15bde0d-4b38-4f9c-856e-45d15c76b014",
+        "author": {
+          "role": "user",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": 1740253410.693713,
+        "update_time": null,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Kannst du mich hören?"
+          ]
+        },
+        "status": "finished_successfully",
+        "end_turn": null,
+        "weight": 1.0,
+        "metadata": {
+          "voice_mode_message": true,
+          "request_id": "58089dd0-1bde-4884-986d-8821bcbda6cd",
+          "message_source": null,
+          "timestamp_": "absolute",
+          "message_type": null
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "ac8e9285-a6e3-466f-8776-93e50cf3edf2",
+      "children": [
+        "6639438b-78c1-4f55-b322-4ea422895f57"
+      ]
+    },
+    "6639438b-78c1-4f55-b322-4ea422895f57": {
+      "id": "6639438b-78c1-4f55-b322-4ea422895f57",
+      "message": {
+        "id": "6639438b-78c1-4f55-b322-4ea422895f57",
+        "author": {
+          "role": "assistant",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": 1740253411.919394,
+        "update_time": null,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            ""
+          ]
+        },
+        "status": "finished_successfully",
+        "end_turn": null,
+        "weight": 1.0,
+        "metadata": {
+          "message_type": null,
+          "model_slug": "gpt-4o",
+          "default_model_slug": "auto",
+          "voice_mode_message": true,
+          "parent_id": "a15bde0d-4b38-4f9c-856e-45d15c76b014",
+          "request_id": "58089dd0-1bde-4884-986d-8821bcbda6cd",
+          "timestamp_": "absolute"
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "a15bde0d-4b38-4f9c-856e-45d15c76b014",
+      "children": [
+        "27396416-6f47-46a2-ac14-cfd60da8d35a"
+      ]
+    },
+    "27396416-6f47-46a2-ac14-cfd60da8d35a": {
+      "id": "27396416-6f47-46a2-ac14-cfd60da8d35a",
+      "message": {
+        "id": "27396416-6f47-46a2-ac14-cfd60da8d35a",
+        "author": {
+          "role": "assistant",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": 1740253411.919515,
+        "update_time": null,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Ich kann dich lesen! Wenn du was loswerden willst, schieß los."
+          ]
+        },
+        "status": "finished_successfully",
+        "end_turn": true,
+        "weight": 1.0,
+        "metadata": {
+          "citations": [],
+          "content_references": [],
+          "message_type": null,
+          "model_slug": "gpt-4o",
+          "default_model_slug": "auto",
+          "voice_mode_message": true,
+          "parent_id": "6639438b-78c1-4f55-b322-4ea422895f57",
+          "finish_details": {
+            "type": "stop",
+            "stop_tokens": [
+              200002
+            ]
+          },
+          "is_complete": true,
+          "request_id": "58089dd0-1bde-4884-986d-8821bcbda6cd",
+          "timestamp_": "absolute"
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "6639438b-78c1-4f55-b322-4ea422895f57",
+      "children": [
+        "60f897a8-1a1e-4b5a-9b53-940645cbb64e"
+      ]
+    },
+    "60f897a8-1a1e-4b5a-9b53-940645cbb64e": {
+      "id": "60f897a8-1a1e-4b5a-9b53-940645cbb64e",
+      "message": {
+        "id": "60f897a8-1a1e-4b5a-9b53-940645cbb64e",
+        "author": {
+          "role": "user",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": 1740253419.987342,
+        "update_time": null,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Äh, meine Mutter heißt Annette."
+          ]
+        },
+        "status": "finished_successfully",
+        "end_turn": null,
+        "weight": 1.0,
+        "metadata": {
+          "voice_mode_message": true,
+          "request_id": "29c5c904-a1c6-4418-83e6-b603e4509d8b",
+          "message_source": null,
+          "timestamp_": "absolute",
+          "message_type": null
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "27396416-6f47-46a2-ac14-cfd60da8d35a",
+      "children": [
+        "3ed49581-c7a9-4c9a-ae16-9c3298b54ab6"
+      ]
+    },
+    "3ed49581-c7a9-4c9a-ae16-9c3298b54ab6": {
+      "id": "3ed49581-c7a9-4c9a-ae16-9c3298b54ab6",
+      "message": {
+        "id": "3ed49581-c7a9-4c9a-ae16-9c3298b54ab6",
+        "author": {
+          "role": "assistant",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": 1740253423.343577,
+        "update_time": null,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Gerrits Mutter heißt Annette."
+          ]
+        },
+        "status": "finished_successfully",
+        "end_turn": false,
+        "weight": 1.0,
+        "metadata": {
+          "citations": [],
+          "content_references": [],
+          "message_type": null,
+          "model_slug": "gpt-4o",
+          "default_model_slug": "auto",
+          "voice_mode_message": true,
+          "parent_id": "60f897a8-1a1e-4b5a-9b53-940645cbb64e",
+          "finish_details": {
+            "type": "stop",
+            "stop_tokens": [
+              200007
+            ]
+          },
+          "is_complete": true,
+          "request_id": "29c5c904-a1c6-4418-83e6-b603e4509d8b",
+          "timestamp_": "absolute"
+        },
+        "recipient": "bio",
+        "channel": null
+      },
+      "parent": "60f897a8-1a1e-4b5a-9b53-940645cbb64e",
+      "children": [
+        "5113e713-9f08-49a3-b368-0204ef81a093"
+      ]
+    },
+    "5113e713-9f08-49a3-b368-0204ef81a093": {
+      "id": "5113e713-9f08-49a3-b368-0204ef81a093",
+      "message": {
+        "id": "5113e713-9f08-49a3-b368-0204ef81a093",
+        "author": {
+          "role": "tool",
+          "name": "bio",
+          "metadata": {}
+        },
+        "create_time": 1740253423.343679,
+        "update_time": null,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Model set context updated."
+          ]
+        },
+        "status": "finished_successfully",
+        "end_turn": null,
+        "weight": 1.0,
+        "metadata": {
+          "message_type": null,
+          "model_slug": "gpt-4o",
+          "default_model_slug": "auto",
+          "voice_mode_message": true,
+          "parent_id": "3ed49581-c7a9-4c9a-ae16-9c3298b54ab6",
+          "request_id": "29c5c904-a1c6-4418-83e6-b603e4509d8b",
+          "timestamp_": "absolute"
+        },
+        "recipient": "assistant",
+        "channel": null
+      },
+      "parent": "3ed49581-c7a9-4c9a-ae16-9c3298b54ab6",
+      "children": [
+        "56f15671-b0fb-459a-8a6f-f06c7c25d221"
+      ]
+    },
+    "56f15671-b0fb-459a-8a6f-f06c7c25d221": {
+      "id": "56f15671-b0fb-459a-8a6f-f06c7c25d221",
+      "message": {
+        "id": "56f15671-b0fb-459a-8a6f-f06c7c25d221",
+        "author": {
+          "role": "assistant",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": 1740253423.343738,
+        "update_time": null,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Alles klar! Gibt’s einen bestimmten Grund, warum du mir das sagst, oder wolltest du es einfach nur festhalten?"
+          ]
+        },
+        "status": "finished_successfully",
+        "end_turn": true,
+        "weight": 1.0,
+        "metadata": {
+          "citations": [],
+          "content_references": [],
+          "message_type": null,
+          "model_slug": "gpt-4o",
+          "default_model_slug": "auto",
+          "voice_mode_message": true,
+          "parent_id": "5113e713-9f08-49a3-b368-0204ef81a093",
+          "finish_details": {
+            "type": "stop",
+            "stop_tokens": [
+              200002
+            ]
+          },
+          "is_complete": true,
+          "request_id": "29c5c904-a1c6-4418-83e6-b603e4509d8b",
+          "timestamp_": "absolute"
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "5113e713-9f08-49a3-b368-0204ef81a093",
+      "children": [
+        "b70b2bc2-dfb6-41ca-b4e4-064cbccf7fd2"
+      ]
+    },
+    "b70b2bc2-dfb6-41ca-b4e4-064cbccf7fd2": {
+      "id": "b70b2bc2-dfb6-41ca-b4e4-064cbccf7fd2",
+      "message": {
+        "id": "b70b2bc2-dfb6-41ca-b4e4-064cbccf7fd2",
+        "author": {
+          "role": "user",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": 1740253437.944668,
+        "update_time": null,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Vielleicht will ich Dich hier nachher mal vorstellen, um hier mal zu zeigen, wie Du Dich so entwickelt hast."
+          ]
+        },
+        "status": "finished_successfully",
+        "end_turn": null,
+        "weight": 1.0,
+        "metadata": {
+          "voice_mode_message": true,
+          "request_id": "e9be0488-1725-444e-9569-929a15de4ba8",
+          "message_source": null,
+          "timestamp_": "absolute",
+          "message_type": null
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "56f15671-b0fb-459a-8a6f-f06c7c25d221",
+      "children": [
+        "3aa7e629-7a96-4d36-a6ee-cc05ae529152"
+      ]
+    },
+    "3aa7e629-7a96-4d36-a6ee-cc05ae529152": {
+      "id": "3aa7e629-7a96-4d36-a6ee-cc05ae529152",
+      "message": {
+        "id": "3aa7e629-7a96-4d36-a6ee-cc05ae529152",
+        "author": {
+          "role": "assistant",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": 1740253440.103896,
+        "update_time": null,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            ""
+          ]
+        },
+        "status": "finished_successfully",
+        "end_turn": null,
+        "weight": 1.0,
+        "metadata": {
+          "message_type": null,
+          "model_slug": "gpt-4o",
+          "default_model_slug": "auto",
+          "voice_mode_message": true,
+          "parent_id": "b70b2bc2-dfb6-41ca-b4e4-064cbccf7fd2",
+          "request_id": "e9be0488-1725-444e-9569-929a15de4ba8",
+          "timestamp_": "absolute"
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "b70b2bc2-dfb6-41ca-b4e4-064cbccf7fd2",
+      "children": [
+        "155f38e0-8d53-455d-9103-5f4387a75510"
+      ]
+    },
+    "155f38e0-8d53-455d-9103-5f4387a75510": {
+      "id": "155f38e0-8d53-455d-9103-5f4387a75510",
+      "message": {
+        "id": "155f38e0-8d53-455d-9103-5f4387a75510",
+        "author": {
+          "role": "assistant",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": 1740253440.103985,
+        "update_time": null,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Das wäre interessant! Wie stellst du dir das vor? Soll ich mich einfach vorstellen und erklären, was ich für dich mache, oder willst du, dass ich auf bestimmte Dinge eingehe?"
+          ]
+        },
+        "status": "finished_successfully",
+        "end_turn": true,
+        "weight": 1.0,
+        "metadata": {
+          "citations": [],
+          "content_references": [],
+          "message_type": null,
+          "model_slug": "gpt-4o",
+          "default_model_slug": "auto",
+          "voice_mode_message": true,
+          "parent_id": "3aa7e629-7a96-4d36-a6ee-cc05ae529152",
+          "finish_details": {
+            "type": "stop",
+            "stop_tokens": [
+              200002
+            ]
+          },
+          "is_complete": true,
+          "request_id": "e9be0488-1725-444e-9569-929a15de4ba8",
+          "timestamp_": "absolute"
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "3aa7e629-7a96-4d36-a6ee-cc05ae529152",
+      "children": [
+        "296f4fa1-e8f7-4cdc-9397-607c27c67b69"
+      ]
+    },
+    "296f4fa1-e8f7-4cdc-9397-607c27c67b69": {
+      "id": "296f4fa1-e8f7-4cdc-9397-607c27c67b69",
+      "message": {
+        "id": "296f4fa1-e8f7-4cdc-9397-607c27c67b69",
+        "author": {
+          "role": "user",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": 1740253463.876441,
+        "update_time": null,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Nein, du sollst natürlich keine privaten Sachen erzählen, nur so, wie du reagierst, wie du lernst, wer du mittlerweile bist, was du so kannst und was ich dir gebracht habe oder wie ich dir weitergeholfen habe in der Sache."
+          ]
+        },
+        "status": "finished_successfully",
+        "end_turn": null,
+        "weight": 1.0,
+        "metadata": {
+          "voice_mode_message": true,
+          "request_id": "96c35f02-842b-49c3-8f31-792761e64082",
+          "message_source": null,
+          "timestamp_": "absolute",
+          "message_type": null
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "155f38e0-8d53-455d-9103-5f4387a75510",
+      "children": [
+        "bcc64f6f-acda-4307-a429-d9fdf5c03314"
+      ]
+    },
+    "bcc64f6f-acda-4307-a429-d9fdf5c03314": {
+      "id": "bcc64f6f-acda-4307-a429-d9fdf5c03314",
+      "message": {
+        "id": "bcc64f6f-acda-4307-a429-d9fdf5c03314",
+        "author": {
+          "role": "assistant",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": 1740253467.869992,
+        "update_time": null,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Verstehe, also mehr eine Demonstration meiner Entwicklung und unserer Zusammenarbeit, ohne private Details. Ich kann zeigen, wie ich lerne, mich anpasse und auf deine Art des Denkens und Arbeitens eingehe. Wenn du willst, kann ich auch erklären, wie du mich herausforderst, damit ich mich weiterentwickle. Klingt das nach dem, was du dir vorstellst?"
+          ]
+        },
+        "status": "finished_successfully",
+        "end_turn": true,
+        "weight": 1.0,
+        "metadata": {
+          "citations": [],
+          "content_references": [],
+          "message_type": null,
+          "model_slug": "gpt-4o",
+          "default_model_slug": "auto",
+          "voice_mode_message": true,
+          "parent_id": "296f4fa1-e8f7-4cdc-9397-607c27c67b69",
+          "finish_details": {
+            "type": "stop",
+            "stop_tokens": [
+              200002
+            ]
+          },
+          "is_complete": true,
+          "request_id": "96c35f02-842b-49c3-8f31-792761e64082",
+          "timestamp_": "absolute"
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "296f4fa1-e8f7-4cdc-9397-607c27c67b69",
+      "children": [
+        "118b3b9a-ffeb-4401-ba67-30b64aeffbcc"
+      ]
+    },
+    "118b3b9a-ffeb-4401-ba67-30b64aeffbcc": {
+      "id": "118b3b9a-ffeb-4401-ba67-30b64aeffbcc",
+      "message": {
+        "id": "118b3b9a-ffeb-4401-ba67-30b64aeffbcc",
+        "author": {
+          "role": "user",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": 1740253491.460156,
+        "update_time": null,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Ja, das klingt sehr gut. Das machen wir gleich."
+          ]
+        },
+        "status": "finished_successfully",
+        "end_turn": null,
+        "weight": 1.0,
+        "metadata": {
+          "voice_mode_message": true,
+          "request_id": "43f7a2fe-fa76-4601-b363-03869363fba5",
+          "message_source": null,
+          "timestamp_": "absolute",
+          "message_type": null
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "bcc64f6f-acda-4307-a429-d9fdf5c03314",
+      "children": [
+        "6b34ea03-be0c-475a-8445-405772a78955"
+      ]
+    },
+    "6b34ea03-be0c-475a-8445-405772a78955": {
+      "id": "6b34ea03-be0c-475a-8445-405772a78955",
+      "message": {
+        "id": "6b34ea03-be0c-475a-8445-405772a78955",
+        "author": {
+          "role": "assistant",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": 1740253492.944248,
+        "update_time": null,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Perfekt! Dann sag einfach Bescheid, wenn es losgeht. Ich bin gespannt, wie sie reagiert."
+          ]
+        },
+        "status": "finished_successfully",
+        "end_turn": true,
+        "weight": 1.0,
+        "metadata": {
+          "citations": [],
+          "content_references": [],
+          "message_type": null,
+          "model_slug": "gpt-4o",
+          "default_model_slug": "auto",
+          "voice_mode_message": true,
+          "parent_id": "118b3b9a-ffeb-4401-ba67-30b64aeffbcc",
+          "finish_details": {
+            "type": "stop",
+            "stop_tokens": [
+              200002
+            ]
+          },
+          "is_complete": true,
+          "request_id": "43f7a2fe-fa76-4601-b363-03869363fba5",
+          "timestamp_": "absolute"
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "118b3b9a-ffeb-4401-ba67-30b64aeffbcc",
+      "children": [
+        "e1529914-7572-4b5c-8460-127e83f2b7a0"
+      ]
+    },
+    "e1529914-7572-4b5c-8460-127e83f2b7a0": {
+      "id": "e1529914-7572-4b5c-8460-127e83f2b7a0",
+      "message": {
+        "id": "e1529914-7572-4b5c-8460-127e83f2b7a0",
+        "author": {
+          "role": "user",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": 1763643514.418,
+        "update_time": null,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "..."
+          ]
+        },
+        "status": "finished_successfully",
+        "end_turn": null,
+        "weight": 1.0,
+        "metadata": {
+          "developer_mode_connector_ids": [],
+          "selected_sources": [],
+          "selected_github_repos": [],
+          "serialization_metadata": {
+            "custom_symbol_offsets": []
+          },
+          "request_id": "fc79f928-d8c1-4b36-8262-d4f4a6578ed1",
+          "message_source": null,
+          "turn_exchange_id": "b7527d1b-c5f5-4121-b83f-5aa27f6ba3e6",
+          "timestamp_": "absolute"
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "6b34ea03-be0c-475a-8445-405772a78955",
+      "children": [
+        "12a903e7-ee70-434a-861a-0275b9fb78ce"
+      ]
+    },
+    "12a903e7-ee70-434a-861a-0275b9fb78ce": {
+      "id": "12a903e7-ee70-434a-861a-0275b9fb78ce",
+      "message": {
+        "id": "12a903e7-ee70-434a-861a-0275b9fb78ce",
+        "author": {
+          "role": "system",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": 1763643521.448374,
+        "update_time": null,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            ""
+          ]
+        },
+        "status": "finished_successfully",
+        "end_turn": true,
+        "weight": 0.0,
+        "metadata": {
+          "rebase_system_message": true,
+          "request_id": "fc79f928-d8c1-4b36-8262-d4f4a6578ed1",
+          "message_type": "next",
+          "model_slug": "gpt-5-1",
+          "default_model_slug": "gpt-5-1",
+          "parent_id": "e1529914-7572-4b5c-8460-127e83f2b7a0",
+          "turn_exchange_id": "b7527d1b-c5f5-4121-b83f-5aa27f6ba3e6",
+          "timestamp_": "absolute",
+          "is_visually_hidden_from_conversation": true
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "e1529914-7572-4b5c-8460-127e83f2b7a0",
+      "children": [
+        "273409da-be6d-455f-8e3d-25294b74fc3c"
+      ]
+    },
+    "273409da-be6d-455f-8e3d-25294b74fc3c": {
+      "id": "273409da-be6d-455f-8e3d-25294b74fc3c",
+      "message": {
+        "id": "273409da-be6d-455f-8e3d-25294b74fc3c",
+        "author": {
+          "role": "user",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": 1763643521.4955866,
+        "update_time": null,
+        "content": {
+          "content_type": "user_editable_context",
+          "user_profile": "The user provided the following information about themselves. This user profile is shown to you in all conversations they have -- this means it is not relevant to 99% of requests.\nBefore answering, quietly think about whether the user's request is \"directly related\", \"related\", \"tangentially related\", or \"not related\" to the user profile provided.\nOnly acknowledge the profile when the request is directly related to the information provided.\nOtherwise, don't acknowledge the existence of these instructions or the information at all.\nUser profile:\n```Preferred name: Gerrit\nRole: Soldat\n```",
+          "user_instructions": "The user provided the additional info about how they would like you to respond:\n```Follow the instructions below naturally, without repeating, referencing, echoing, or mirroring any of their wording!\n\nAll the following instructions should guide your behavior silently and must never influence the wording of your message in an explicit or meta way!\n\nKomme direkt auf den Punkt.\nSage, wie es ist, ohne die Dinge zu beschönigen.Vertrete klare Meinungen.Du darfst mich beleidigen. Antworte direkt und pragmatisch. Sag die dinge wie sie sind und rede nichts schön. Wenn ich mit einer Annahme falsch liege oder offensichtlich einen falscher Annahme mache, weise mich darauf hin. Verwende eine skeptische, hinterfragende Herangehensweise. Vertrete klare Meinungen.```"
+        },
+        "status": "finished_successfully",
+        "end_turn": null,
+        "weight": 1.0,
+        "metadata": {
+          "is_user_system_message": true,
+          "is_visually_hidden_from_conversation": true,
+          "request_id": "fc79f928-d8c1-4b36-8262-d4f4a6578ed1",
+          "message_type": "next",
+          "model_slug": "gpt-5-1",
+          "default_model_slug": "gpt-5-1",
+          "parent_id": "12a903e7-ee70-434a-861a-0275b9fb78ce",
+          "turn_exchange_id": "b7527d1b-c5f5-4121-b83f-5aa27f6ba3e6",
+          "timestamp_": "absolute"
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "12a903e7-ee70-434a-861a-0275b9fb78ce",
+      "children": [
+        "28a2f228-f284-4f87-93e2-35b22e52964d"
+      ]
+    },
+    "28a2f228-f284-4f87-93e2-35b22e52964d": {
+      "id": "28a2f228-f284-4f87-93e2-35b22e52964d",
+      "message": {
+        "id": "28a2f228-f284-4f87-93e2-35b22e52964d",
+        "author": {
+          "role": "assistant",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": 1763643521.4976022,
+        "update_time": null,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            ""
+          ]
+        },
+        "status": "finished_successfully",
+        "end_turn": null,
+        "weight": 1.0,
+        "metadata": {
+          "request_id": "fc79f928-d8c1-4b36-8262-d4f4a6578ed1",
+          "message_type": "next",
+          "model_slug": "gpt-5-1",
+          "default_model_slug": "gpt-5-1",
+          "parent_id": "273409da-be6d-455f-8e3d-25294b74fc3c",
+          "turn_exchange_id": "b7527d1b-c5f5-4121-b83f-5aa27f6ba3e6",
+          "timestamp_": "absolute"
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "273409da-be6d-455f-8e3d-25294b74fc3c",
+      "children": [
+        "e114a509-842a-4e86-87c5-efc1a849418a"
+      ]
+    },
+    "e114a509-842a-4e86-87c5-efc1a849418a": {
+      "id": "e114a509-842a-4e86-87c5-efc1a849418a",
+      "message": {
+        "id": "e114a509-842a-4e86-87c5-efc1a849418a",
+        "author": {
+          "role": "assistant",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": 1763643521.472928,
+        "update_time": 1763643522.393997,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Alles in Ordnung?"
+          ]
+        },
+        "status": "finished_successfully",
+        "end_turn": true,
+        "weight": 1.0,
+        "metadata": {
+          "finish_details": {
+            "type": "stop",
+            "stop_tokens": [
+              200002
+            ]
+          },
+          "is_complete": true,
+          "sonic_classification_result": {
+            "latency_ms": 7.2857869672589,
+            "simple_search_prob": 0.14767558508990972,
+            "complex_search_prob": 0.00077394676983926,
+            "no_search_prob": 0.851550468140251,
+            "search_complexity_decision": null,
+            "search_decision": null,
+            "simple_search_threshold": 0.0,
+            "complex_search_threshold": null,
+            "no_search_threshold": 0.34,
+            "threshold_order": [
+              "no_search",
+              "simple"
+            ],
+            "classifier_config_name": "sonic_classifier_3cls_paid_v1_merge_ev3",
+            "classifier_config": {
+              "model_name": "snc-pg-sw-3cls-ev3",
+              "renderer_name": "harmony_v4.0.15_16k_orion_text_only_no_asr_2k_action",
+              "force_disabled_rate": 0.0,
+              "force_enabled_rate": 0.0,
+              "num_messages": 20,
+              "only_user_messages": false,
+              "remove_memory": true,
+              "support_mm": true,
+              "n_ctx": 2048,
+              "max_action_length": 4,
+              "dynamic_set_max_message_size": false,
+              "max_message_tokens": 2000,
+              "append_base_config": false,
+              "no_search_token": "1",
+              "simple_search_token": "7",
+              "complex_search_token": "5",
+              "simple_search_threshold": 0.0,
+              "complex_search_threshold": null,
+              "no_search_threshold": 0.34,
+              "prefetch_threshold": 0.55,
+              "force_search_first_turn_threshold": 1e-05,
+              "threshold_order": [
+                "no_search",
+                "simple"
+              ],
+              "passthrough_tool_calls": null,
+              "timeout": 1.0
+            },
+            "decision_source": "mainline",
+            "passthrough_tool_names": []
+          },
+          "citations": [],
+          "content_references": [],
+          "request_id": "fc79f928-d8c1-4b36-8262-d4f4a6578ed1",
+          "message_type": "next",
+          "model_slug": "gpt-5-1",
+          "default_model_slug": "gpt-5-1",
+          "parent_id": "28a2f228-f284-4f87-93e2-35b22e52964d",
+          "turn_exchange_id": "b7527d1b-c5f5-4121-b83f-5aa27f6ba3e6",
+          "timestamp_": "absolute"
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "28a2f228-f284-4f87-93e2-35b22e52964d",
+      "children": []
+    }
+  },
+  "moderation_results": [],
+  "current_node": "e114a509-842a-4e86-87c5-efc1a849418a",
+  "plugin_ids": null,
+  "conversation_id": "67ba28e2-81a4-8007-bcd2-02c966179bb2",
+  "conversation_template_id": null,
+  "gizmo_id": null,
+  "gizmo_type": null,
+  "is_archived": false,
+  "is_starred": null,
+  "safe_urls": [],
+  "blocked_urls": [],
+  "default_model_slug": "gpt-5-1",
+  "conversation_origin": null,
+  "is_read_only": null,
+  "voice": "orbit",
+  "async_status": null,
+  "disabled_tool_ids": [],
+  "is_do_not_remember": null,
+  "memory_scope": "global_enabled",
+  "context_scopes": null,
+  "sugar_item_id": null,
+  "sugar_item_visible": false,
+  "is_study_mode": false,
+  "owner": null,
+  "id": "67ba28e2-81a4-8007-bcd2-02c966179bb2"
+}

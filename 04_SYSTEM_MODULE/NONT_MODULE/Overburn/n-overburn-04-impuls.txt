@@ -1,0 +1,12 @@
+﻿FIX_MODULE: IMPULS
+CATEGORY: emotion/Overburn/
+VERSION: 1.0
+CODE: #OB-0404
+TRIGGER: - Starke Reiz-Reaktions-Kopplung
+- Gefühl: „Ich muss jetzt was tun oder ich raste aus“
+VERHALTEN: - Plötzliche Aktionen ohne Durchdenken
+- Affektgesteuerte Entscheidungen
+- Selbst- oder Fremdgefährdung möglich
+REAKTIVIERUNG: - Sofortige Unterbrechung (Stopp-Impuls, klare Grenze)
+- Danach: Reflexion bei neutralem Gegenüber
+END_MODULE 

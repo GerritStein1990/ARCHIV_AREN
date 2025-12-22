@@ -1,0 +1,13 @@
+﻿FIX_MODULE: VERNEBELUNG
+CATEGORY: emotion/Airdown/
+VERSION: 1.0
+CODE: #VN-0794
+TRIGGER: - Mangel an Klarheit, Orientierung oder Fokus
+- Überforderung durch Widersprüche
+- Wunsch, nicht mehr zu denken oder zu fühlen
+VERHALTEN: - Sprache wird diffus, Gedanken springen
+- Entscheidungen werden vertagt oder verweigert
+- Wahrnehmung fühlt sich 'wattiert' oder gedämpft an
+REAKTIVIERUNG: - Externe Strukturierung (klare Ansagen, einfache Fragen)
+- Erinnerungen an frühere Klarheit oder Ordnung
+END_MODULE 

@@ -1,0 +1,12 @@
+﻿FIX_MODULE: TARNSYSTEM
+CATEGORY: emotion/FreezeShell/
+VERSION: 1.0
+CODE: #FS-0202
+TRIGGER: - Gefühl, sich zeigen zu müssen, obwohl man nicht kann
+- Emotionale Schutzverkleidung wird aktiviert
+VERHALTEN: - Lächeln ohne Gefühl
+- Sozial akzeptiertes Verhalten trotz innerem Rückzug
+- Keine Angriffsfläche bieten
+REAKTIVIERUNG: - Zulassen echter Regung im geschützten Raum
+- Aufzeigen des Widerspruchs zwischen innen und außen
+END_MODULE 

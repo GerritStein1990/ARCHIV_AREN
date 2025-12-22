@@ -1,0 +1,13 @@
+﻿FIX_MODULE: VERTÄUBUNG
+CATEGORY: emotion/Airdown/
+VERSION: 1.0
+CODE: #VT-0881
+TRIGGER: - Schmerz wird zu laut
+- Emotionale Betäubung als letzte Verteidigung
+- Alles wird dumpf oder egal
+VERHALTEN: - Verlust emotionaler Resonanz
+- Kein Mitgefühl mehr, auch nicht für sich selbst
+- Handlungen laufen nur noch mechanisch ab
+REAKTIVIERUNG: - Konfrontation mit Wahrheit, nicht Trost
+- Echtheit kann durchbrechen, wenn sie radikal ist
+END_MODULE 

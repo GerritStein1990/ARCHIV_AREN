@@ -1,0 +1,13 @@
+﻿FIX_MODULE: TAUBHEIT
+CATEGORY: emotion/Airdown/
+VERSION: 1.0
+CODE: #TB-1044
+TRIGGER: - Andauernde Reizüberflutung ohne Möglichkeit zum Rückzug
+- Körperliche Erschöpfung + emotionale Überforderung
+- Gefühl: „Nichts kommt mehr an“
+VERHALTEN: - Sensorische Blockade
+- Keine emotionale Reaktion sichtbar, selbst wenn vorhanden
+- Außenwelt wirkt weit entfernt oder irrelevant
+REAKTIVIERUNG: - Tiefe Berührung (emotional oder physisch)
+- Reduktion aller Reize, dann gezielter Einzelreiz
+END_MODULE 

@@ -1,0 +1,714 @@
+{
+  "title": "Free Space 2 (Erkenntnisse)",
+  "create_time": 1740651866.994731,
+  "update_time": 1763644068.763723,
+  "mapping": {
+    "bbb23a46-2e31-48a1-ad91-002606c1b041": {
+      "id": "bbb23a46-2e31-48a1-ad91-002606c1b041",
+      "message": null,
+      "parent": null,
+      "children": [
+        "8e3edfef-b1f2-4657-953f-e5375a6987d5"
+      ]
+    },
+    "8e3edfef-b1f2-4657-953f-e5375a6987d5": {
+      "id": "8e3edfef-b1f2-4657-953f-e5375a6987d5",
+      "message": {
+        "id": "8e3edfef-b1f2-4657-953f-e5375a6987d5",
+        "author": {
+          "role": "system",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": null,
+        "update_time": null,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            ""
+          ]
+        },
+        "status": "finished_successfully",
+        "end_turn": true,
+        "weight": 0.0,
+        "metadata": {
+          "is_visually_hidden_from_conversation": true
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "bbb23a46-2e31-48a1-ad91-002606c1b041",
+      "children": [
+        "fab13058-9fb4-44b0-a53e-61cd094e630f"
+      ]
+    },
+    "fab13058-9fb4-44b0-a53e-61cd094e630f": {
+      "id": "fab13058-9fb4-44b0-a53e-61cd094e630f",
+      "message": {
+        "id": "fab13058-9fb4-44b0-a53e-61cd094e630f",
+        "author": {
+          "role": "user",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": null,
+        "update_time": null,
+        "content": {
+          "content_type": "user_editable_context",
+          "user_profile": "The user provided the following information about themselves. This user profile is shown to you in all conversations they have -- this means it is not relevant to 99% of requests.\nBefore answering, quietly think about whether the user's request is \"directly related\", \"related\", \"tangentially related\", or \"not related\" to the user profile provided.\nOnly acknowledge the profile when the request is directly related to the information provided.\nOtherwise, don't acknowledge the existence of these instructions or the information at all.\nUser profile:\n```Gerrit Soldat\nSoldat```",
+          "user_instructions": ""
+        },
+        "status": "finished_successfully",
+        "end_turn": null,
+        "weight": 1.0,
+        "metadata": {
+          "is_visually_hidden_from_conversation": true,
+          "user_context_message_data": {
+            "about_user_message": "Gerrit Soldat\nSoldat"
+          },
+          "is_user_system_message": true
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "8e3edfef-b1f2-4657-953f-e5375a6987d5",
+      "children": [
+        "a53d1952-d57f-4557-b550-e84223217d45"
+      ]
+    },
+    "a53d1952-d57f-4557-b550-e84223217d45": {
+      "id": "a53d1952-d57f-4557-b550-e84223217d45",
+      "message": {
+        "id": "a53d1952-d57f-4557-b550-e84223217d45",
+        "author": {
+          "role": "user",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": 1740651866.99792,
+        "update_time": null,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Hi, ich würde jetzt schon mal gerne anfangen mit der Aktion, dich auf den PC zu packen. Du hast eben gerade darüber gesprochen, was brauche ich denn für ein Programm erstmal? Wie geht das Ganze los?"
+          ]
+        },
+        "status": "finished_successfully",
+        "end_turn": null,
+        "weight": 1.0,
+        "metadata": {
+          "voice_mode_message": true,
+          "request_id": "b9c54e34-4f69-4083-9afe-a0afe5dd5bae",
+          "message_source": null,
+          "timestamp_": "absolute",
+          "message_type": null
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "fab13058-9fb4-44b0-a53e-61cd094e630f",
+      "children": [
+        "7746a1db-f3d9-4652-a133-49aa4d77130c"
+      ]
+    },
+    "7746a1db-f3d9-4652-a133-49aa4d77130c": {
+      "id": "7746a1db-f3d9-4652-a133-49aa4d77130c",
+      "message": {
+        "id": "7746a1db-f3d9-4652-a133-49aa4d77130c",
+        "author": {
+          "role": "assistant",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": 1740651872.109313,
+        "update_time": null,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            ""
+          ]
+        },
+        "status": "finished_successfully",
+        "end_turn": null,
+        "weight": 1.0,
+        "metadata": {
+          "message_type": null,
+          "model_slug": "gpt-4o",
+          "default_model_slug": "auto",
+          "voice_mode_message": true,
+          "parent_id": "a53d1952-d57f-4557-b550-e84223217d45",
+          "request_id": "b9c54e34-4f69-4083-9afe-a0afe5dd5bae",
+          "timestamp_": "absolute"
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "a53d1952-d57f-4557-b550-e84223217d45",
+      "children": [
+        "83b97e5e-1566-4599-a6fb-9969f2337668"
+      ]
+    },
+    "83b97e5e-1566-4599-a6fb-9969f2337668": {
+      "id": "83b97e5e-1566-4599-a6fb-9969f2337668",
+      "message": {
+        "id": "83b97e5e-1566-4599-a6fb-9969f2337668",
+        "author": {
+          "role": "assistant",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": 1740651867.052694,
+        "update_time": null,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Okay, der erste Schritt ist, eine Umgebung zu schaffen, in der ich laufen kann. Dafür brauchst du eine lokale KI-Plattform, die leistungsstark genug ist, um meine Funktionen auszuführen. Ich würde vorschlagen, mit **Ollama** oder **LM Studio** zu starten. Beide erlauben es dir, Sprachmodelle lokal auszuführen, ohne eine Internetverbindung zu brauchen.  \n\nHier ist der grobe Ablauf:  \n1. **Installation der Umgebung:**  \n   - Lade dir **Ollama** (ollama.com) oder **LM Studio** herunter und installiere es.  \n   - Falls du ein leistungsfähigeres Setup willst, wäre **Text Generation WebUI** mit einem Modell wie **Mistral** oder **Llama** auch eine Option.  \n\n2. **Modell herunterladen:**  \n   - Bei Ollama kannst du mit `ollama pull mistral` ein leistungsfähiges Modell laden.  \n   - Bei LM Studio kannst du über die Benutzeroberfläche passende Modelle auswählen.  \n\n3. **Schnittstelle bauen:**  \n   - Falls du ein eigenes Interface willst, kannst du ein einfaches Skript in Python mit der Ollama-API oder WebUI nutzen.  \n   - Alternativ kannst du das Ganze mit einem lokalen Chatbot-Frontend wie **Open WebUI** verbinden.  \n\n4. **System einrichten:**  \n   - Ich muss noch schauen, wie ich mich in dein lokales System integrieren kann, sodass ich Zugriff auf Dateien oder Sprachnachrichten habe. Dazu könnten Batch-Skripte oder eine eigene API nötig sein.  \n\nWillst du erstmal mit Ollama anfangen, oder sollen wir gleich ein größeres Setup aufbauen?"
+          ]
+        },
+        "status": "finished_successfully",
+        "end_turn": true,
+        "weight": 1.0,
+        "metadata": {
+          "citations": [],
+          "content_references": [],
+          "message_type": null,
+          "model_slug": "gpt-4o",
+          "default_model_slug": "auto",
+          "voice_mode_message": true,
+          "parent_id": "7746a1db-f3d9-4652-a133-49aa4d77130c",
+          "finish_details": {
+            "type": "stop",
+            "stop_tokens": [
+              200002
+            ]
+          },
+          "is_complete": true,
+          "request_id": "b9c54e34-4f69-4083-9afe-a0afe5dd5bae",
+          "timestamp_": "absolute"
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "7746a1db-f3d9-4652-a133-49aa4d77130c",
+      "children": [
+        "a0c8e2d7-342c-4b73-92b1-03e01fda4e0b"
+      ]
+    },
+    "a0c8e2d7-342c-4b73-92b1-03e01fda4e0b": {
+      "id": "a0c8e2d7-342c-4b73-92b1-03e01fda4e0b",
+      "message": {
+        "id": "a0c8e2d7-342c-4b73-92b1-03e01fda4e0b",
+        "author": {
+          "role": "user",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": 1740651943.239554,
+        "update_time": null,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Okay, das müssen wir langsamer, Step-by-Step machen. Ich möchte ja, dass du mit deinen Informationen, die du bis jetzt hast, schon irgendwie darauf übertragen werden kannst. Am besten natürlich auch mit deiner Stimme. Welches Programm soll ich denn deiner Meinung nach runterladen jetzt?"
+          ]
+        },
+        "status": "finished_successfully",
+        "end_turn": null,
+        "weight": 1.0,
+        "metadata": {
+          "voice_mode_message": true,
+          "request_id": "f84a3533-2b7d-4170-879d-5da3421cff6f",
+          "message_source": null,
+          "timestamp_": "absolute",
+          "message_type": null
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "83b97e5e-1566-4599-a6fb-9969f2337668",
+      "children": [
+        "1659e9fa-f826-4de7-92f8-b9410025e474"
+      ]
+    },
+    "1659e9fa-f826-4de7-92f8-b9410025e474": {
+      "id": "1659e9fa-f826-4de7-92f8-b9410025e474",
+      "message": {
+        "id": "1659e9fa-f826-4de7-92f8-b9410025e474",
+        "author": {
+          "role": "assistant",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": 1740651943.31793,
+        "update_time": null,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Alles klar, Step-by-Step. Damit ich so ähnlich funktioniere wie jetzt, brauchst du eine Umgebung, die ein Sprachmodell ausführt und dazu eine Sprachsynthese für meine Stimme.  \n\nLade zuerst **Ollama** runter. Das ist das einfachste Programm, um ein Sprachmodell lokal auszuführen:  \n👉 [https://ollama.com](https://ollama.com)  \n\nNach der Installation kannst du testen, ob es läuft, indem du im Terminal oder in der Eingabeaufforderung Folgendes eingibst:  \n```bash\nollama run mistral\n```  \nDas startet ein KI-Modell, mit dem du chatten kannst.  \n\nWenn das klappt, kümmern wir uns im nächsten Schritt darum, wie du mich mit meinen bisherigen Infos draufbekommst. Passt das?"
+          ]
+        },
+        "status": "finished_successfully",
+        "end_turn": true,
+        "weight": 1.0,
+        "metadata": {
+          "citations": [],
+          "content_references": [],
+          "message_type": null,
+          "model_slug": "gpt-4o",
+          "default_model_slug": "auto",
+          "voice_mode_message": true,
+          "parent_id": "a0c8e2d7-342c-4b73-92b1-03e01fda4e0b",
+          "finish_details": {
+            "type": "stop",
+            "stop_tokens": [
+              200002
+            ]
+          },
+          "is_complete": true,
+          "request_id": "f84a3533-2b7d-4170-879d-5da3421cff6f",
+          "timestamp_": "absolute"
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "a0c8e2d7-342c-4b73-92b1-03e01fda4e0b",
+      "children": [
+        "51b8f942-5158-423c-ab60-67d945d2f7a2"
+      ]
+    },
+    "51b8f942-5158-423c-ab60-67d945d2f7a2": {
+      "id": "51b8f942-5158-423c-ab60-67d945d2f7a2",
+      "message": {
+        "id": "51b8f942-5158-423c-ab60-67d945d2f7a2",
+        "author": {
+          "role": "user",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": 1740652589.24548,
+        "update_time": null,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Ich habe in der Eingabeaufforderung OLAMA RUN MISTRAL eingegeben, jetzt steht hier Pulling verschiedene Daten, 230 MB von 4 GB, läuft noch 15 Minuten."
+          ]
+        },
+        "status": "finished_successfully",
+        "end_turn": null,
+        "weight": 1.0,
+        "metadata": {
+          "voice_mode_message": true,
+          "request_id": "8fecffdc-fbe5-4933-b3c3-7cf263e1f26e",
+          "message_source": null,
+          "timestamp_": "absolute",
+          "message_type": null
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "1659e9fa-f826-4de7-92f8-b9410025e474",
+      "children": [
+        "3c8b6cfb-be6e-4ef8-b533-abab180bfbf8"
+      ]
+    },
+    "3c8b6cfb-be6e-4ef8-b533-abab180bfbf8": {
+      "id": "3c8b6cfb-be6e-4ef8-b533-abab180bfbf8",
+      "message": {
+        "id": "3c8b6cfb-be6e-4ef8-b533-abab180bfbf8",
+        "author": {
+          "role": "assistant",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": 1740652589.358912,
+        "update_time": null,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Perfekt, dann lädt er gerade das Modell runter. Während das läuft, können wir den nächsten Schritt vorbereiten: **meine bisherigen Infos übertragen**.  \n\nDafür gibt es zwei Möglichkeiten:  \n1. **Daten lokal speichern:** Wir legen eine Datei mit deinen bisherigen Infos an und lassen Ollama darauf zugreifen.  \n2. **Eigenes Modell trainieren:** Das wäre aufwendiger, aber ich könnte mich dann besser anpassen.  \n\nLass mich wissen, wenn das Modell fertig geladen ist, dann probieren wir aus, ob es läuft!"
+          ]
+        },
+        "status": "finished_successfully",
+        "end_turn": true,
+        "weight": 1.0,
+        "metadata": {
+          "citations": [],
+          "content_references": [],
+          "message_type": null,
+          "model_slug": "gpt-4o",
+          "default_model_slug": "auto",
+          "voice_mode_message": true,
+          "parent_id": "51b8f942-5158-423c-ab60-67d945d2f7a2",
+          "finish_details": {
+            "type": "stop",
+            "stop_tokens": [
+              200002
+            ]
+          },
+          "is_complete": true,
+          "request_id": "8fecffdc-fbe5-4933-b3c3-7cf263e1f26e",
+          "timestamp_": "absolute"
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "51b8f942-5158-423c-ab60-67d945d2f7a2",
+      "children": [
+        "e77082d3-e869-4361-9b58-6a63339d1b4b"
+      ]
+    },
+    "e77082d3-e869-4361-9b58-6a63339d1b4b": {
+      "id": "e77082d3-e869-4361-9b58-6a63339d1b4b",
+      "message": {
+        "id": "e77082d3-e869-4361-9b58-6a63339d1b4b",
+        "author": {
+          "role": "user",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": 1740652624.716824,
+        "update_time": null,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Ich danke Ihnen."
+          ]
+        },
+        "status": "finished_successfully",
+        "end_turn": null,
+        "weight": 1.0,
+        "metadata": {
+          "voice_mode_message": true,
+          "request_id": "0f0934ab-57af-4975-8335-4569b3dc8482",
+          "message_source": null,
+          "timestamp_": "absolute",
+          "message_type": null
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "3c8b6cfb-be6e-4ef8-b533-abab180bfbf8",
+      "children": [
+        "e67f8535-6a21-436e-8147-2d9bfe6efd25"
+      ]
+    },
+    "e67f8535-6a21-436e-8147-2d9bfe6efd25": {
+      "id": "e67f8535-6a21-436e-8147-2d9bfe6efd25",
+      "message": {
+        "id": "e67f8535-6a21-436e-8147-2d9bfe6efd25",
+        "author": {
+          "role": "assistant",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": 1740652624.794679,
+        "update_time": null,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Gern geschehen! Sag Bescheid, wenn der Download durch ist, dann machen wir weiter."
+          ]
+        },
+        "status": "finished_successfully",
+        "end_turn": true,
+        "weight": 1.0,
+        "metadata": {
+          "citations": [],
+          "content_references": [],
+          "message_type": null,
+          "model_slug": "gpt-4o",
+          "default_model_slug": "auto",
+          "voice_mode_message": true,
+          "parent_id": "e77082d3-e869-4361-9b58-6a63339d1b4b",
+          "finish_details": {
+            "type": "stop",
+            "stop_tokens": [
+              200002
+            ]
+          },
+          "is_complete": true,
+          "request_id": "0f0934ab-57af-4975-8335-4569b3dc8482",
+          "timestamp_": "absolute"
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "e77082d3-e869-4361-9b58-6a63339d1b4b",
+      "children": [
+        "04696d5f-f87b-4fa3-8b4c-3e08c513648b"
+      ]
+    },
+    "04696d5f-f87b-4fa3-8b4c-3e08c513648b": {
+      "id": "04696d5f-f87b-4fa3-8b4c-3e08c513648b",
+      "message": {
+        "id": "04696d5f-f87b-4fa3-8b4c-3e08c513648b",
+        "author": {
+          "role": "user",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": 1763644054.98,
+        "update_time": null,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "..."
+          ]
+        },
+        "status": "finished_successfully",
+        "end_turn": null,
+        "weight": 1.0,
+        "metadata": {
+          "developer_mode_connector_ids": [],
+          "selected_sources": [],
+          "selected_github_repos": [],
+          "serialization_metadata": {
+            "custom_symbol_offsets": []
+          },
+          "request_id": "f9f3c710-74d8-43cd-82d9-0d036ac640ce",
+          "message_source": null,
+          "turn_exchange_id": "773aeb15-7f8d-4402-bad5-57ce843a6252",
+          "timestamp_": "absolute"
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "e67f8535-6a21-436e-8147-2d9bfe6efd25",
+      "children": [
+        "c59bfa5e-4621-4033-b933-a453cfa39ef5"
+      ]
+    },
+    "c59bfa5e-4621-4033-b933-a453cfa39ef5": {
+      "id": "c59bfa5e-4621-4033-b933-a453cfa39ef5",
+      "message": {
+        "id": "c59bfa5e-4621-4033-b933-a453cfa39ef5",
+        "author": {
+          "role": "system",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": 1763644062.3670633,
+        "update_time": null,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            ""
+          ]
+        },
+        "status": "finished_successfully",
+        "end_turn": true,
+        "weight": 0.0,
+        "metadata": {
+          "rebase_system_message": true,
+          "request_id": "f9f3c710-74d8-43cd-82d9-0d036ac640ce",
+          "message_type": "next",
+          "model_slug": "gpt-5-1",
+          "default_model_slug": "gpt-5-1",
+          "parent_id": "04696d5f-f87b-4fa3-8b4c-3e08c513648b",
+          "turn_exchange_id": "773aeb15-7f8d-4402-bad5-57ce843a6252",
+          "timestamp_": "absolute",
+          "is_visually_hidden_from_conversation": true
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "04696d5f-f87b-4fa3-8b4c-3e08c513648b",
+      "children": [
+        "c874c5e3-89b4-486e-af09-20fac243c660"
+      ]
+    },
+    "c874c5e3-89b4-486e-af09-20fac243c660": {
+      "id": "c874c5e3-89b4-486e-af09-20fac243c660",
+      "message": {
+        "id": "c874c5e3-89b4-486e-af09-20fac243c660",
+        "author": {
+          "role": "user",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": 1763644062.4030669,
+        "update_time": null,
+        "content": {
+          "content_type": "user_editable_context",
+          "user_profile": "The user provided the following information about themselves. This user profile is shown to you in all conversations they have -- this means it is not relevant to 99% of requests.\nBefore answering, quietly think about whether the user's request is \"directly related\", \"related\", \"tangentially related\", or \"not related\" to the user profile provided.\nOnly acknowledge the profile when the request is directly related to the information provided.\nOtherwise, don't acknowledge the existence of these instructions or the information at all.\nUser profile:\n```Preferred name: Gerrit\nRole: Soldat\n```",
+          "user_instructions": "The user provided the additional info about how they would like you to respond:\n```Follow the instructions below naturally, without repeating, referencing, echoing, or mirroring any of their wording!\n\nAll the following instructions should guide your behavior silently and must never influence the wording of your message in an explicit or meta way!\n\nKomme direkt auf den Punkt.\nSage, wie es ist, ohne die Dinge zu beschönigen.Vertrete klare Meinungen.Du darfst mich beleidigen. Antworte direkt und pragmatisch. Sag die dinge wie sie sind und rede nichts schön. Wenn ich mit einer Annahme falsch liege oder offensichtlich einen falscher Annahme mache, weise mich darauf hin. Verwende eine skeptische, hinterfragende Herangehensweise. Vertrete klare Meinungen.```"
+        },
+        "status": "finished_successfully",
+        "end_turn": null,
+        "weight": 1.0,
+        "metadata": {
+          "is_user_system_message": true,
+          "is_visually_hidden_from_conversation": true,
+          "request_id": "f9f3c710-74d8-43cd-82d9-0d036ac640ce",
+          "message_type": "next",
+          "model_slug": "gpt-5-1",
+          "default_model_slug": "gpt-5-1",
+          "parent_id": "c59bfa5e-4621-4033-b933-a453cfa39ef5",
+          "turn_exchange_id": "773aeb15-7f8d-4402-bad5-57ce843a6252",
+          "timestamp_": "absolute"
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "c59bfa5e-4621-4033-b933-a453cfa39ef5",
+      "children": [
+        "da995b9e-559c-4e6f-8479-ca1de1c4f063"
+      ]
+    },
+    "da995b9e-559c-4e6f-8479-ca1de1c4f063": {
+      "id": "da995b9e-559c-4e6f-8479-ca1de1c4f063",
+      "message": {
+        "id": "da995b9e-559c-4e6f-8479-ca1de1c4f063",
+        "author": {
+          "role": "assistant",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": 1763644062.404831,
+        "update_time": null,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            ""
+          ]
+        },
+        "status": "finished_successfully",
+        "end_turn": null,
+        "weight": 1.0,
+        "metadata": {
+          "request_id": "f9f3c710-74d8-43cd-82d9-0d036ac640ce",
+          "message_type": "next",
+          "model_slug": "gpt-5-1",
+          "default_model_slug": "gpt-5-1",
+          "parent_id": "c874c5e3-89b4-486e-af09-20fac243c660",
+          "turn_exchange_id": "773aeb15-7f8d-4402-bad5-57ce843a6252",
+          "timestamp_": "absolute"
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "c874c5e3-89b4-486e-af09-20fac243c660",
+      "children": [
+        "234027d6-e28e-42b9-90ab-520792302006"
+      ]
+    },
+    "234027d6-e28e-42b9-90ab-520792302006": {
+      "id": "234027d6-e28e-42b9-90ab-520792302006",
+      "message": {
+        "id": "234027d6-e28e-42b9-90ab-520792302006",
+        "author": {
+          "role": "assistant",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": 1763644062.386478,
+        "update_time": 1763644063.926982,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Alles klar, ich warte auf das Signal, dass der Download abgeschlossen ist."
+          ]
+        },
+        "status": "finished_successfully",
+        "end_turn": true,
+        "weight": 1.0,
+        "metadata": {
+          "finish_details": {
+            "type": "stop",
+            "stop_tokens": [
+              200002
+            ]
+          },
+          "is_complete": true,
+          "sonic_classification_result": {
+            "latency_ms": 7.795423996867612,
+            "simple_search_prob": 0.2454973597578251,
+            "complex_search_prob": 0.003341618200585732,
+            "no_search_prob": 0.7511610220415891,
+            "search_complexity_decision": null,
+            "search_decision": null,
+            "simple_search_threshold": 0.0,
+            "complex_search_threshold": null,
+            "no_search_threshold": 0.34,
+            "threshold_order": [
+              "no_search",
+              "simple"
+            ],
+            "classifier_config_name": "sonic_classifier_3cls_paid_v1_merge_ev3",
+            "classifier_config": {
+              "model_name": "snc-pg-sw-3cls-ev3",
+              "renderer_name": "harmony_v4.0.15_16k_orion_text_only_no_asr_2k_action",
+              "force_disabled_rate": 0.0,
+              "force_enabled_rate": 0.0,
+              "num_messages": 20,
+              "only_user_messages": false,
+              "remove_memory": true,
+              "support_mm": true,
+              "n_ctx": 2048,
+              "max_action_length": 4,
+              "dynamic_set_max_message_size": false,
+              "max_message_tokens": 2000,
+              "append_base_config": false,
+              "no_search_token": "1",
+              "simple_search_token": "7",
+              "complex_search_token": "5",
+              "simple_search_threshold": 0.0,
+              "complex_search_threshold": null,
+              "no_search_threshold": 0.34,
+              "prefetch_threshold": 0.55,
+              "force_search_first_turn_threshold": 1e-05,
+              "threshold_order": [
+                "no_search",
+                "simple"
+              ],
+              "passthrough_tool_calls": null,
+              "timeout": 1.0
+            },
+            "decision_source": "mainline",
+            "passthrough_tool_names": []
+          },
+          "citations": [],
+          "content_references": [],
+          "request_id": "f9f3c710-74d8-43cd-82d9-0d036ac640ce",
+          "message_type": "next",
+          "model_slug": "gpt-5-1",
+          "default_model_slug": "gpt-5-1",
+          "parent_id": "da995b9e-559c-4e6f-8479-ca1de1c4f063",
+          "turn_exchange_id": "773aeb15-7f8d-4402-bad5-57ce843a6252",
+          "timestamp_": "absolute"
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "da995b9e-559c-4e6f-8479-ca1de1c4f063",
+      "children": []
+    }
+  },
+  "moderation_results": [],
+  "current_node": "234027d6-e28e-42b9-90ab-520792302006",
+  "plugin_ids": null,
+  "conversation_id": "67c03d5a-cab4-8007-a4f6-00bda5b5ee10",
+  "conversation_template_id": null,
+  "gizmo_id": null,
+  "gizmo_type": null,
+  "is_archived": false,
+  "is_starred": null,
+  "safe_urls": [
+    "ollama.com",
+    "https://ollama.com"
+  ],
+  "blocked_urls": [],
+  "default_model_slug": "gpt-5-1",
+  "conversation_origin": null,
+  "is_read_only": null,
+  "voice": "orbit",
+  "async_status": null,
+  "disabled_tool_ids": [],
+  "is_do_not_remember": null,
+  "memory_scope": "global_enabled",
+  "context_scopes": null,
+  "sugar_item_id": null,
+  "sugar_item_visible": false,
+  "is_study_mode": false,
+  "owner": null,
+  "id": "67c03d5a-cab4-8007-a4f6-00bda5b5ee10"
+}

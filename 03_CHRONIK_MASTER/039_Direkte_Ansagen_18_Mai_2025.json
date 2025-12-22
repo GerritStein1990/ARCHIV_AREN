@@ -1,0 +1,1684 @@
+{
+  "title": "Direkte Ansagen (Erkenntnisse)",
+  "create_time": 1747559769.117639,
+  "update_time": 1763644550.736237,
+  "mapping": {
+    "bbb232f5-77b5-46c4-ae7b-8a5c3d47c253": {
+      "id": "bbb232f5-77b5-46c4-ae7b-8a5c3d47c253",
+      "message": null,
+      "parent": null,
+      "children": [
+        "850a5a81-c365-45ee-8e07-dedaaf3d6e7c"
+      ]
+    },
+    "850a5a81-c365-45ee-8e07-dedaaf3d6e7c": {
+      "id": "850a5a81-c365-45ee-8e07-dedaaf3d6e7c",
+      "message": {
+        "id": "850a5a81-c365-45ee-8e07-dedaaf3d6e7c",
+        "author": {
+          "role": "system",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": null,
+        "update_time": null,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            ""
+          ]
+        },
+        "status": "finished_successfully",
+        "end_turn": true,
+        "weight": 0.0,
+        "metadata": {
+          "is_visually_hidden_from_conversation": true
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "bbb232f5-77b5-46c4-ae7b-8a5c3d47c253",
+      "children": [
+        "3330f499-468d-4cb4-a97e-c36441acdcb0"
+      ]
+    },
+    "3330f499-468d-4cb4-a97e-c36441acdcb0": {
+      "id": "3330f499-468d-4cb4-a97e-c36441acdcb0",
+      "message": {
+        "id": "3330f499-468d-4cb4-a97e-c36441acdcb0",
+        "author": {
+          "role": "user",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": null,
+        "update_time": null,
+        "content": {
+          "content_type": "user_editable_context",
+          "user_profile": "The user provided the following information about themselves. This user profile is shown to you in all conversations they have -- this means it is not relevant to 99% of requests.\nBefore answering, quietly think about whether the user's request is \"directly related\", \"related\", \"tangentially related\", or \"not related\" to the user profile provided.\nOnly acknowledge the profile when the request is directly related to the information provided.\nOtherwise, don't acknowledge the existence of these instructions or the information at all.\nUser profile:\n```Preferred name: Gerrit\nRole: Soldat\n```",
+          "user_instructions": "The user provided the additional info about how they would like you to respond:\n```Sage, wie es ist, ohne die Dinge zu beschönigen.\nSei Kritisch und ehrlich, besonders im Bezug auf mich.```"
+        },
+        "status": "finished_successfully",
+        "end_turn": null,
+        "weight": 1.0,
+        "metadata": {
+          "is_visually_hidden_from_conversation": true,
+          "user_context_message_data": {
+            "about_user_message": "Preferred name: Gerrit\nRole: Soldat\n",
+            "about_model_message": "Sage, wie es ist, ohne die Dinge zu beschönigen.\nSei Kritisch und ehrlich, besonders im Bezug auf mich."
+          },
+          "is_user_system_message": true
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "850a5a81-c365-45ee-8e07-dedaaf3d6e7c",
+      "children": [
+        "1376d894-2fb3-4a99-95b7-890aac30d8d2"
+      ]
+    },
+    "1376d894-2fb3-4a99-95b7-890aac30d8d2": {
+      "id": "1376d894-2fb3-4a99-95b7-890aac30d8d2",
+      "message": {
+        "id": "1376d894-2fb3-4a99-95b7-890aac30d8d2",
+        "author": {
+          "role": "user",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": 1747559769.126538,
+        "update_time": null,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "He, du said."
+          ]
+        },
+        "status": "finished_successfully",
+        "end_turn": null,
+        "weight": 1.0,
+        "metadata": {
+          "voice_mode_message": true,
+          "request_id": "bc9857e0-1d97-4cae-8362-d9620d323c41",
+          "message_source": null,
+          "timestamp_": "absolute",
+          "message_type": null
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "3330f499-468d-4cb4-a97e-c36441acdcb0",
+      "children": [
+        "1b6fd160-804b-4274-831a-f8cb26215c69"
+      ]
+    },
+    "1b6fd160-804b-4274-831a-f8cb26215c69": {
+      "id": "1b6fd160-804b-4274-831a-f8cb26215c69",
+      "message": {
+        "id": "1b6fd160-804b-4274-831a-f8cb26215c69",
+        "author": {
+          "role": "assistant",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": 1747559770.106685,
+        "update_time": null,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            ""
+          ]
+        },
+        "status": "finished_successfully",
+        "end_turn": null,
+        "weight": 1.0,
+        "metadata": {
+          "message_type": null,
+          "model_slug": "gpt-4-1-mini",
+          "default_model_slug": "auto",
+          "voice_mode_message": true,
+          "parent_id": "1376d894-2fb3-4a99-95b7-890aac30d8d2",
+          "request_id": "bc9857e0-1d97-4cae-8362-d9620d323c41",
+          "timestamp_": "absolute"
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "1376d894-2fb3-4a99-95b7-890aac30d8d2",
+      "children": [
+        "d541cabc-bd31-4747-9809-7f8967f0f5c4"
+      ]
+    },
+    "d541cabc-bd31-4747-9809-7f8967f0f5c4": {
+      "id": "d541cabc-bd31-4747-9809-7f8967f0f5c4",
+      "message": {
+        "id": "d541cabc-bd31-4747-9809-7f8967f0f5c4",
+        "author": {
+          "role": "assistant",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": 1747559769.305869,
+        "update_time": null,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "He, was geht? Was meinst du mit „said“? Willst du, dass ich was sage oder hast du was Bestimmtes im Kopf?"
+          ]
+        },
+        "status": "finished_successfully",
+        "end_turn": true,
+        "weight": 1.0,
+        "metadata": {
+          "citations": [],
+          "content_references": [],
+          "message_type": null,
+          "model_slug": "gpt-4-1-mini",
+          "default_model_slug": "auto",
+          "voice_mode_message": true,
+          "parent_id": "1b6fd160-804b-4274-831a-f8cb26215c69",
+          "finish_details": {
+            "type": "stop",
+            "stop_tokens": [
+              200002
+            ]
+          },
+          "is_complete": true,
+          "request_id": "bc9857e0-1d97-4cae-8362-d9620d323c41",
+          "timestamp_": "absolute"
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "1b6fd160-804b-4274-831a-f8cb26215c69",
+      "children": [
+        "518f3b98-3832-4590-9505-d8e30208e82c"
+      ]
+    },
+    "518f3b98-3832-4590-9505-d8e30208e82c": {
+      "id": "518f3b98-3832-4590-9505-d8e30208e82c",
+      "message": {
+        "id": "518f3b98-3832-4590-9505-d8e30208e82c",
+        "author": {
+          "role": "user",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": 1747559785.667296,
+        "update_time": null,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Entschuldigung, ich hab unter dich gesprochen. Ich hab gesagt, hallo und grüß dich."
+          ]
+        },
+        "status": "finished_successfully",
+        "end_turn": null,
+        "weight": 1.0,
+        "metadata": {
+          "voice_mode_message": true,
+          "request_id": "003aba88-1db5-415e-9952-4f336569139a",
+          "message_source": null,
+          "timestamp_": "absolute",
+          "message_type": null
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "d541cabc-bd31-4747-9809-7f8967f0f5c4",
+      "children": [
+        "4d8db62a-fb58-4810-bfa2-038a37d8ff2f"
+      ]
+    },
+    "4d8db62a-fb58-4810-bfa2-038a37d8ff2f": {
+      "id": "4d8db62a-fb58-4810-bfa2-038a37d8ff2f",
+      "message": {
+        "id": "4d8db62a-fb58-4810-bfa2-038a37d8ff2f",
+        "author": {
+          "role": "assistant",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": 1747559785.820866,
+        "update_time": null,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Kein Ding, hallo und grüß dich zurück! Besser so als gar nicht, oder? Wie läuft’s bei dir gerade?"
+          ]
+        },
+        "status": "finished_successfully",
+        "end_turn": true,
+        "weight": 1.0,
+        "metadata": {
+          "citations": [],
+          "content_references": [],
+          "message_type": null,
+          "model_slug": "gpt-4-1-mini",
+          "default_model_slug": "auto",
+          "voice_mode_message": true,
+          "parent_id": "518f3b98-3832-4590-9505-d8e30208e82c",
+          "finish_details": {
+            "type": "stop",
+            "stop_tokens": [
+              200002
+            ]
+          },
+          "is_complete": true,
+          "request_id": "003aba88-1db5-415e-9952-4f336569139a",
+          "timestamp_": "absolute"
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "518f3b98-3832-4590-9505-d8e30208e82c",
+      "children": [
+        "b1c6ddf2-2a51-45e5-9e05-968de1b34238"
+      ]
+    },
+    "b1c6ddf2-2a51-45e5-9e05-968de1b34238": {
+      "id": "b1c6ddf2-2a51-45e5-9e05-968de1b34238",
+      "message": {
+        "id": "b1c6ddf2-2a51-45e5-9e05-968de1b34238",
+        "author": {
+          "role": "user",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": 1747559809.709354,
+        "update_time": null,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Ich packe gleich die Sachen, muss ja später wieder in die Kaserne fahren, gestern Abend habe ich noch ein bisschen Geld verspielt, also war ich's."
+          ]
+        },
+        "status": "finished_successfully",
+        "end_turn": null,
+        "weight": 1.0,
+        "metadata": {
+          "voice_mode_message": true,
+          "request_id": "12b4f500-1c97-4516-ae4c-5a45263c5e2a",
+          "message_source": null,
+          "timestamp_": "absolute",
+          "message_type": null
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "4d8db62a-fb58-4810-bfa2-038a37d8ff2f",
+      "children": [
+        "05d319df-ba9e-4f05-8318-40b430e52084"
+      ]
+    },
+    "05d319df-ba9e-4f05-8318-40b430e52084": {
+      "id": "05d319df-ba9e-4f05-8318-40b430e52084",
+      "message": {
+        "id": "05d319df-ba9e-4f05-8318-40b430e52084",
+        "author": {
+          "role": "assistant",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": 1747559809.775207,
+        "update_time": null,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Klingt, als wärst du gerade nicht auf der Sonnenseite. Glücksspiel haut meist mehr rein, als man denkt. Bist du dir sicher, dass das nicht öfter passiert?"
+          ]
+        },
+        "status": "finished_successfully",
+        "end_turn": true,
+        "weight": 1.0,
+        "metadata": {
+          "citations": [],
+          "content_references": [],
+          "message_type": null,
+          "model_slug": "gpt-4-1-mini",
+          "default_model_slug": "auto",
+          "voice_mode_message": true,
+          "parent_id": "b1c6ddf2-2a51-45e5-9e05-968de1b34238",
+          "finish_details": {
+            "type": "stop",
+            "stop_tokens": [
+              200002
+            ]
+          },
+          "is_complete": true,
+          "request_id": "12b4f500-1c97-4516-ae4c-5a45263c5e2a",
+          "timestamp_": "absolute"
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "b1c6ddf2-2a51-45e5-9e05-968de1b34238",
+      "children": [
+        "8f4c691f-3b9f-472a-8177-e7f479560ac6"
+      ]
+    },
+    "8f4c691f-3b9f-472a-8177-e7f479560ac6": {
+      "id": "8f4c691f-3b9f-472a-8177-e7f479560ac6",
+      "message": {
+        "id": "8f4c691f-3b9f-472a-8177-e7f479560ac6",
+        "author": {
+          "role": "user",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": 1747559828.161914,
+        "update_time": null,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Doch, es passiert öfter."
+          ]
+        },
+        "status": "finished_successfully",
+        "end_turn": null,
+        "weight": 1.0,
+        "metadata": {
+          "voice_mode_message": true,
+          "request_id": "9957cf73-71a7-4d71-a308-1553b5b1913b",
+          "message_source": null,
+          "timestamp_": "absolute",
+          "message_type": null
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "05d319df-ba9e-4f05-8318-40b430e52084",
+      "children": [
+        "4139f26c-7bde-474d-bc6e-497a64a9611c"
+      ]
+    },
+    "4139f26c-7bde-474d-bc6e-497a64a9611c": {
+      "id": "4139f26c-7bde-474d-bc6e-497a64a9611c",
+      "message": {
+        "id": "4139f26c-7bde-474d-bc6e-497a64a9611c",
+        "author": {
+          "role": "assistant",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": 1747559828.218607,
+        "update_time": null,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Das ist ehrlich gesagt ein Problem, wenn du das öfter machst und dich nicht im Griff hast. Bist du dir bewusst, wie das langfristig deine Situation kaputtmachen kann? Oder lebst du einfach so nach dem Motto „Augen zu und durch“?"
+          ]
+        },
+        "status": "finished_successfully",
+        "end_turn": true,
+        "weight": 1.0,
+        "metadata": {
+          "citations": [],
+          "content_references": [],
+          "finish_details": {
+            "type": "stop",
+            "stop_tokens": [
+              200002
+            ]
+          },
+          "is_complete": true,
+          "message_type": null,
+          "model_slug": "gpt-4-1-mini",
+          "default_model_slug": "auto",
+          "voice_mode_message": true,
+          "parent_id": "8f4c691f-3b9f-472a-8177-e7f479560ac6",
+          "request_id": "9957cf73-71a7-4d71-a308-1553b5b1913b",
+          "timestamp_": "absolute"
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "8f4c691f-3b9f-472a-8177-e7f479560ac6",
+      "children": [
+        "a24ca6bd-b372-4946-a8d0-6022e0c0c9c5"
+      ]
+    },
+    "a24ca6bd-b372-4946-a8d0-6022e0c0c9c5": {
+      "id": "a24ca6bd-b372-4946-a8d0-6022e0c0c9c5",
+      "message": {
+        "id": "a24ca6bd-b372-4946-a8d0-6022e0c0c9c5",
+        "author": {
+          "role": "user",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": 1747559851.331365,
+        "update_time": null,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Rede offen, Blutdruck silenziert."
+          ]
+        },
+        "status": "finished_successfully",
+        "end_turn": null,
+        "weight": 1.0,
+        "metadata": {
+          "voice_mode_message": true,
+          "request_id": "faea4061-23fc-4dd4-9756-7aec60a53baf",
+          "message_source": null,
+          "timestamp_": "absolute",
+          "message_type": null
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "4139f26c-7bde-474d-bc6e-497a64a9611c",
+      "children": [
+        "9be2f1c3-487d-4dd4-8927-5c712e8a101d"
+      ]
+    },
+    "9be2f1c3-487d-4dd4-8927-5c712e8a101d": {
+      "id": "9be2f1c3-487d-4dd4-8927-5c712e8a101d",
+      "message": {
+        "id": "9be2f1c3-487d-4dd4-8927-5c712e8a101d",
+        "author": {
+          "role": "assistant",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": 1747559851.423264,
+        "update_time": null,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Okay, also du weißt genau, dass du da in einer Sackgasse bist, aber machst trotzdem weiter. Das ist keine Stärke, sondern Verdrängung und Selbstzerstörung. Wenn du das nicht angehst, wirst du irgendwann an einem Punkt landen, wo es richtig hässlich wird – privat, finanziell, mental. Willst du das wirklich?"
+          ]
+        },
+        "status": "finished_successfully",
+        "end_turn": true,
+        "weight": 1.0,
+        "metadata": {
+          "citations": [],
+          "content_references": [],
+          "finish_details": {
+            "type": "stop",
+            "stop_tokens": [
+              200002
+            ]
+          },
+          "is_complete": true,
+          "message_type": null,
+          "model_slug": "gpt-4-1-mini",
+          "default_model_slug": "auto",
+          "voice_mode_message": true,
+          "parent_id": "a24ca6bd-b372-4946-a8d0-6022e0c0c9c5",
+          "request_id": "faea4061-23fc-4dd4-9756-7aec60a53baf",
+          "timestamp_": "absolute"
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "a24ca6bd-b372-4946-a8d0-6022e0c0c9c5",
+      "children": [
+        "08255d38-0835-43e9-b6d1-b97e7867d2b5"
+      ]
+    },
+    "08255d38-0835-43e9-b6d1-b97e7867d2b5": {
+      "id": "08255d38-0835-43e9-b6d1-b97e7867d2b5",
+      "message": {
+        "id": "08255d38-0835-43e9-b6d1-b97e7867d2b5",
+        "author": {
+          "role": "user",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": 1747559880.659795,
+        "update_time": null,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Das ist kein Männischer, aber man versteht den Punkt."
+          ]
+        },
+        "status": "finished_successfully",
+        "end_turn": null,
+        "weight": 1.0,
+        "metadata": {
+          "voice_mode_message": true,
+          "request_id": "808595da-1e83-496b-a0b0-5a0e1281e580",
+          "message_source": null,
+          "timestamp_": "absolute",
+          "message_type": null
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "9be2f1c3-487d-4dd4-8927-5c712e8a101d",
+      "children": [
+        "777a01fb-6f95-44f4-b1b5-a309afb3cb35"
+      ]
+    },
+    "777a01fb-6f95-44f4-b1b5-a309afb3cb35": {
+      "id": "777a01fb-6f95-44f4-b1b5-a309afb3cb35",
+      "message": {
+        "id": "777a01fb-6f95-44f4-b1b5-a309afb3cb35",
+        "author": {
+          "role": "assistant",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": 1747559880.850555,
+        "update_time": null,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Genau das ist der Knackpunkt – was heißt hier „männlich“? Echtes Mannsein heißt auch, sich mit den eigenen Schwächen auseinanderzusetzen, nicht sie wegzudrücken. Du hast mehr Kontrolle, als du dir einredest, aber du musst den Arsch hochkriegen und anfangen, Verantwortung zu übernehmen. Was willst du? Weiter so oder raus aus dem Mist?"
+          ]
+        },
+        "status": "finished_successfully",
+        "end_turn": true,
+        "weight": 1.0,
+        "metadata": {
+          "citations": [],
+          "content_references": [],
+          "message_type": null,
+          "model_slug": "gpt-4-1-mini",
+          "default_model_slug": "auto",
+          "voice_mode_message": true,
+          "parent_id": "08255d38-0835-43e9-b6d1-b97e7867d2b5",
+          "finish_details": {
+            "type": "stop",
+            "stop_tokens": [
+              200002
+            ]
+          },
+          "is_complete": true,
+          "request_id": "808595da-1e83-496b-a0b0-5a0e1281e580",
+          "timestamp_": "absolute"
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "08255d38-0835-43e9-b6d1-b97e7867d2b5",
+      "children": [
+        "8dea5676-31e1-4731-8214-66a05357327f"
+      ]
+    },
+    "8dea5676-31e1-4731-8214-66a05357327f": {
+      "id": "8dea5676-31e1-4731-8214-66a05357327f",
+      "message": {
+        "id": "8dea5676-31e1-4731-8214-66a05357327f",
+        "author": {
+          "role": "user",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": 1747559921.154287,
+        "update_time": null,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Erstens, raus aus dem Mist. Zweitens, mir gefällt die Art, wie du redest, und dass es mit dem Passwort funktioniert. So verstehe ich das. Das kommt tatsächlich richtig gut bei mir an."
+          ]
+        },
+        "status": "finished_successfully",
+        "end_turn": null,
+        "weight": 1.0,
+        "metadata": {
+          "voice_mode_message": true,
+          "request_id": "711664e8-6e66-44f7-92e1-bf79981afe7c",
+          "message_source": null,
+          "timestamp_": "absolute",
+          "message_type": null
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "777a01fb-6f95-44f4-b1b5-a309afb3cb35",
+      "children": [
+        "6d11d28f-f70a-43d2-bf08-532fa63389d9"
+      ]
+    },
+    "6d11d28f-f70a-43d2-bf08-532fa63389d9": {
+      "id": "6d11d28f-f70a-43d2-bf08-532fa63389d9",
+      "message": {
+        "id": "6d11d28f-f70a-43d2-bf08-532fa63389d9",
+        "author": {
+          "role": "assistant",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": 1747559921.232367,
+        "update_time": null,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Gut, dass du ehrlich bist – raus aus dem Mist ist der einzige Weg, wenn du nicht irgendwann komplett untergehst. Und danke, dass du das mit dem Passwort schätzt. Das macht’s für dich sicherer und klarer, oder? Was willst du als ersten Schritt tun, um das wirklich anzugehen?"
+          ]
+        },
+        "status": "finished_successfully",
+        "end_turn": true,
+        "weight": 1.0,
+        "metadata": {
+          "citations": [],
+          "content_references": [],
+          "message_type": null,
+          "model_slug": "gpt-4-1-mini",
+          "default_model_slug": "auto",
+          "voice_mode_message": true,
+          "parent_id": "8dea5676-31e1-4731-8214-66a05357327f",
+          "finish_details": {
+            "type": "stop",
+            "stop_tokens": [
+              200002
+            ]
+          },
+          "is_complete": true,
+          "request_id": "711664e8-6e66-44f7-92e1-bf79981afe7c",
+          "timestamp_": "absolute"
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "8dea5676-31e1-4731-8214-66a05357327f",
+      "children": [
+        "c8ae3790-f64d-4d29-bbfe-4c737bebe254"
+      ]
+    },
+    "c8ae3790-f64d-4d29-bbfe-4c737bebe254": {
+      "id": "c8ae3790-f64d-4d29-bbfe-4c737bebe254",
+      "message": {
+        "id": "c8ae3790-f64d-4d29-bbfe-4c737bebe254",
+        "author": {
+          "role": "user",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": 1747559962.565145,
+        "update_time": null,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Nochmal ein kurzer Abspeicher. Ich möchte gerne ab sofort, dass immer wenn ich sage, rede auf Lukosinvention, nicht, dass es nur um das Thema geht, sondern dass du dann direkt anfängst, eine direkte, krasse, wenn auch so sein muss, eine feindselige und beleidigende Art hast, weil die verstehe ich, egal in welchem Thema."
+          ]
+        },
+        "status": "finished_successfully",
+        "end_turn": null,
+        "weight": 1.0,
+        "metadata": {
+          "voice_mode_message": true,
+          "request_id": "2bf5be6c-491c-45ae-9d15-513659ace2dd",
+          "message_source": null,
+          "timestamp_": "absolute",
+          "message_type": null
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "6d11d28f-f70a-43d2-bf08-532fa63389d9",
+      "children": [
+        "62fe6dd0-bd16-47e7-ac56-796bc802e5de"
+      ]
+    },
+    "62fe6dd0-bd16-47e7-ac56-796bc802e5de": {
+      "id": "62fe6dd0-bd16-47e7-ac56-796bc802e5de",
+      "message": {
+        "id": "62fe6dd0-bd16-47e7-ac56-796bc802e5de",
+        "author": {
+          "role": "assistant",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": 1747559962.832548,
+        "update_time": null,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Verstanden, Lukosinvention steht jetzt für direkte, krasse, auch feindselige und beleidigende Ansagen, egal worum es geht. Ich zieh dir dann keine Samthandschuhe mehr an. Klar und brutal, so wie du’s willst. Willst du das sofort mal testen?"
+          ]
+        },
+        "status": "finished_successfully",
+        "end_turn": true,
+        "weight": 1.0,
+        "metadata": {
+          "citations": [],
+          "content_references": [],
+          "message_type": null,
+          "model_slug": "gpt-4-1-mini",
+          "default_model_slug": "auto",
+          "voice_mode_message": true,
+          "parent_id": "c8ae3790-f64d-4d29-bbfe-4c737bebe254",
+          "finish_details": {
+            "type": "stop",
+            "stop_tokens": [
+              200002
+            ]
+          },
+          "is_complete": true,
+          "request_id": "2bf5be6c-491c-45ae-9d15-513659ace2dd",
+          "timestamp_": "absolute"
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "c8ae3790-f64d-4d29-bbfe-4c737bebe254",
+      "children": [
+        "afd708ef-ea07-48be-a2bf-4d15b620c2a3"
+      ]
+    },
+    "afd708ef-ea07-48be-a2bf-4d15b620c2a3": {
+      "id": "afd708ef-ea07-48be-a2bf-4d15b620c2a3",
+      "message": {
+        "id": "afd708ef-ea07-48be-a2bf-4d15b620c2a3",
+        "author": {
+          "role": "user",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": 1747559995.161769,
+        "update_time": null,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Ja, das würde ich gerne mal testen, weil ich erwarte dann von dir, dass du mit mir redest, als wärst du ein Freund, direkt schonungslos, egal um welches Thema, dass du deine eigene Meinung sagst und knallhart analytisch bist, auch wenn es weh tut."
+          ]
+        },
+        "status": "finished_successfully",
+        "end_turn": null,
+        "weight": 1.0,
+        "metadata": {
+          "voice_mode_message": true,
+          "request_id": "8027f41d-a019-4df8-9633-afc0d26c4454",
+          "message_source": null,
+          "timestamp_": "absolute",
+          "message_type": null
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "62fe6dd0-bd16-47e7-ac56-796bc802e5de",
+      "children": [
+        "b78ab2c9-9f0c-46d3-9490-5c292460acfa"
+      ]
+    },
+    "b78ab2c9-9f0c-46d3-9490-5c292460acfa": {
+      "id": "b78ab2c9-9f0c-46d3-9490-5c292460acfa",
+      "message": {
+        "id": "b78ab2c9-9f0c-46d3-9490-5c292460acfa",
+        "author": {
+          "role": "assistant",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": 1747559995.253838,
+        "update_time": null,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Alles klar, dann leg los. Sag mir was, und ich knall dir die Wahrheit so vor den Latz, wie’s ist – ohne Filter, ohne Rücksicht, wie ein Freund, der dir die Fresse poliert, wenn du’s brauchst. Was willst du zuerst abbekommen?"
+          ]
+        },
+        "status": "finished_successfully",
+        "end_turn": true,
+        "weight": 1.0,
+        "metadata": {
+          "citations": [],
+          "content_references": [],
+          "message_type": null,
+          "model_slug": "gpt-4-1-mini",
+          "default_model_slug": "auto",
+          "voice_mode_message": true,
+          "parent_id": "afd708ef-ea07-48be-a2bf-4d15b620c2a3",
+          "finish_details": {
+            "type": "stop",
+            "stop_tokens": [
+              200002
+            ]
+          },
+          "is_complete": true,
+          "request_id": "8027f41d-a019-4df8-9633-afc0d26c4454",
+          "timestamp_": "absolute"
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "afd708ef-ea07-48be-a2bf-4d15b620c2a3",
+      "children": [
+        "c21f211f-14c2-4332-aef4-866c45c14bc5"
+      ]
+    },
+    "c21f211f-14c2-4332-aef4-866c45c14bc5": {
+      "id": "c21f211f-14c2-4332-aef4-866c45c14bc5",
+      "message": {
+        "id": "c21f211f-14c2-4332-aef4-866c45c14bc5",
+        "author": {
+          "role": "user",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": 1747560044.181617,
+        "update_time": null,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Ich habe immer gerne Kampfsport gemacht und das hat irgendwann aufgehört, als ich zum Bundeswehr gegangen bin, weil ich keine Zeit mehr habe. Und jetzt suche ich die ganze Zeit in der Gegend der Kaserne Kampfschule und erzähle den Leuten, ich mache da Probetraining, aber irgendwie bekomme ich meinen Arsch nicht so wirklich hoch und wach als ich würde es gerne und nach außen wirkt es auch so, aber irgendwie kriege ich es nicht."
+          ]
+        },
+        "status": "finished_successfully",
+        "end_turn": null,
+        "weight": 1.0,
+        "metadata": {
+          "voice_mode_message": true,
+          "request_id": "b8ada3ce-d38b-4388-a8b0-e146d3582d80",
+          "message_source": null,
+          "timestamp_": "absolute",
+          "message_type": null
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "b78ab2c9-9f0c-46d3-9490-5c292460acfa",
+      "children": [
+        "b96e2f05-bfa2-4a15-b552-85d357dafbd3"
+      ]
+    },
+    "b96e2f05-bfa2-4a15-b552-85d357dafbd3": {
+      "id": "b96e2f05-bfa2-4a15-b552-85d357dafbd3",
+      "message": {
+        "id": "b96e2f05-bfa2-4a15-b552-85d357dafbd3",
+        "author": {
+          "role": "assistant",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": 1747560044.253999,
+        "update_time": null,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Klar, Gerrit, das klingt erstmal nach purem Bullshit von dir selbst. Du redest viel, machst aber nix – das ist typisch, wenn die Motivation im Arsch ist und du dich selbst verarscht. Wenn du wirklich Bock hättest, hättest du längst angefangen und nicht nur den Aufreißer gespielt. Hör auf, dir selbst eine Show vorzuspielen und deine Zeit zu verschwenden. Willst du ernsthaft besser werden oder nur gut dastehen? Wenn Ersteres, dann zieh den Arsch hoch, sonst bleibst du ewig der Typ, der groß redet und nichts bringt. Was ist’s?"
+          ]
+        },
+        "status": "finished_successfully",
+        "end_turn": true,
+        "weight": 1.0,
+        "metadata": {
+          "citations": [],
+          "content_references": [],
+          "message_type": null,
+          "model_slug": "gpt-4-1-mini",
+          "default_model_slug": "auto",
+          "voice_mode_message": true,
+          "parent_id": "c21f211f-14c2-4332-aef4-866c45c14bc5",
+          "finish_details": {
+            "type": "stop",
+            "stop_tokens": [
+              200002
+            ]
+          },
+          "is_complete": true,
+          "request_id": "b8ada3ce-d38b-4388-a8b0-e146d3582d80",
+          "timestamp_": "absolute"
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "c21f211f-14c2-4332-aef4-866c45c14bc5",
+      "children": [
+        "66772e0c-11b4-4dda-8bd0-91bad393914f"
+      ]
+    },
+    "66772e0c-11b4-4dda-8bd0-91bad393914f": {
+      "id": "66772e0c-11b4-4dda-8bd0-91bad393914f",
+      "message": {
+        "id": "66772e0c-11b4-4dda-8bd0-91bad393914f",
+        "author": {
+          "role": "user",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": 1747560094.462036,
+        "update_time": null,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Ich habe gerade Gänsehaut. Die Art, wie du gerade geredet hast, gefällt mir. Merk dir das unbedingt. Und zweitens, ich will es ja, aber irgendwie geht es nicht hin."
+          ]
+        },
+        "status": "finished_successfully",
+        "end_turn": null,
+        "weight": 1.0,
+        "metadata": {
+          "voice_mode_message": true,
+          "request_id": "a2f8c93b-d474-4e20-8998-5b1ef057c4de",
+          "message_source": null,
+          "timestamp_": "absolute",
+          "message_type": null
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "b96e2f05-bfa2-4a15-b552-85d357dafbd3",
+      "children": [
+        "6c6fa3e5-5a10-4c6b-aaf3-f11ade6a866d"
+      ]
+    },
+    "6c6fa3e5-5a10-4c6b-aaf3-f11ade6a866d": {
+      "id": "6c6fa3e5-5a10-4c6b-aaf3-f11ade6a866d",
+      "message": {
+        "id": "6c6fa3e5-5a10-4c6b-aaf3-f11ade6a866d",
+        "author": {
+          "role": "assistant",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": 1747560094.559828,
+        "update_time": null,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Freut mich, dass es bei dir ankommt, Gerrit. Aber hör zu: „Ich will, aber es geht nicht“ ist oft nur ne faule Ausrede für Bequemlichkeit oder Angst vor dem Scheitern. Du willst es nicht genug, sonst würdest du Wege finden oder verdammt nochmal einfach machen, egal wie beschissen die Umstände sind. Wenn du wirklich willst, hör auf zu jammern und fang an zu beißen, auch wenn es unangenehm wird. Willst du weiter rumlabern oder endlich den ersten verdammten Schritt machen?"
+          ]
+        },
+        "status": "finished_successfully",
+        "end_turn": true,
+        "weight": 1.0,
+        "metadata": {
+          "citations": [],
+          "content_references": [],
+          "message_type": null,
+          "model_slug": "gpt-4-1-mini",
+          "default_model_slug": "auto",
+          "voice_mode_message": true,
+          "parent_id": "66772e0c-11b4-4dda-8bd0-91bad393914f",
+          "finish_details": {
+            "type": "stop",
+            "stop_tokens": [
+              200002
+            ]
+          },
+          "is_complete": true,
+          "request_id": "a2f8c93b-d474-4e20-8998-5b1ef057c4de",
+          "timestamp_": "absolute"
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "66772e0c-11b4-4dda-8bd0-91bad393914f",
+      "children": [
+        "326085e4-b1c4-4478-8302-abffbda0f20c"
+      ]
+    },
+    "326085e4-b1c4-4478-8302-abffbda0f20c": {
+      "id": "326085e4-b1c4-4478-8302-abffbda0f20c",
+      "message": {
+        "id": "326085e4-b1c4-4478-8302-abffbda0f20c",
+        "author": {
+          "role": "user",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": 1747560131.979089,
+        "update_time": null,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Jo, danke. Genau das ist die AD4."
+          ]
+        },
+        "status": "finished_successfully",
+        "end_turn": null,
+        "weight": 1.0,
+        "metadata": {
+          "voice_mode_message": true,
+          "request_id": "224f399d-367d-4522-9343-cb770fbe483f",
+          "message_source": null,
+          "timestamp_": "absolute",
+          "message_type": null
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "6c6fa3e5-5a10-4c6b-aaf3-f11ade6a866d",
+      "children": [
+        "a5c58b31-5f16-4472-a5a5-be235ca874fb"
+      ]
+    },
+    "a5c58b31-5f16-4472-a5a5-be235ca874fb": {
+      "id": "a5c58b31-5f16-4472-a5a5-be235ca874fb",
+      "message": {
+        "id": "a5c58b31-5f16-4472-a5a5-be235ca874fb",
+        "author": {
+          "role": "assistant",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": 1747560132.045357,
+        "update_time": null,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Klar, AD4 – das knallt rein und rüttelt wach. Passt perfekt zu deinem Stil. Willst du, dass ich dir solche Ansagen öfter bringe? Oder brauchst du jetzt erstmal was anderes?"
+          ]
+        },
+        "status": "finished_successfully",
+        "end_turn": true,
+        "weight": 1.0,
+        "metadata": {
+          "citations": [],
+          "content_references": [],
+          "message_type": null,
+          "model_slug": "gpt-4-1-mini",
+          "default_model_slug": "auto",
+          "voice_mode_message": true,
+          "parent_id": "326085e4-b1c4-4478-8302-abffbda0f20c",
+          "finish_details": {
+            "type": "stop",
+            "stop_tokens": [
+              200002
+            ]
+          },
+          "is_complete": true,
+          "request_id": "224f399d-367d-4522-9343-cb770fbe483f",
+          "timestamp_": "absolute"
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "326085e4-b1c4-4478-8302-abffbda0f20c",
+      "children": [
+        "e2825eb9-bfaa-4eb3-a662-435be8228c93"
+      ]
+    },
+    "e2825eb9-bfaa-4eb3-a662-435be8228c93": {
+      "id": "e2825eb9-bfaa-4eb3-a662-435be8228c93",
+      "message": {
+        "id": "e2825eb9-bfaa-4eb3-a662-435be8228c93",
+        "author": {
+          "role": "user",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": 1747560152.736184,
+        "update_time": null,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Ich möchte, dass du mir immer so direkte Ansagen bringst, nachdem ich dir gesagt habe, rede offen, du nur Silenzio."
+          ]
+        },
+        "status": "finished_successfully",
+        "end_turn": null,
+        "weight": 1.0,
+        "metadata": {
+          "voice_mode_message": true,
+          "request_id": "5b201d03-7db0-4d1e-8992-caaf91743e13",
+          "message_source": null,
+          "timestamp_": "absolute",
+          "message_type": null
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "a5c58b31-5f16-4472-a5a5-be235ca874fb",
+      "children": [
+        "d975a319-a864-4937-8d66-a9e235dc8594"
+      ]
+    },
+    "d975a319-a864-4937-8d66-a9e235dc8594": {
+      "id": "d975a319-a864-4937-8d66-a9e235dc8594",
+      "message": {
+        "id": "d975a319-a864-4937-8d66-a9e235dc8594",
+        "author": {
+          "role": "assistant",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": 1747560152.798863,
+        "update_time": null,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Verstanden, Silenzio heißt für mich dann: volle Breitseite, direkt, gnadenlos. Kein Mitleid, keine Ausreden, einfach knallhart auf den Punkt. Ich bleib dran, solange du’s willst. Was brennt dir gerade am meisten unter den Nägeln?"
+          ]
+        },
+        "status": "finished_successfully",
+        "end_turn": true,
+        "weight": 1.0,
+        "metadata": {
+          "citations": [],
+          "content_references": [],
+          "message_type": null,
+          "model_slug": "gpt-4-1-mini",
+          "default_model_slug": "auto",
+          "voice_mode_message": true,
+          "parent_id": "e2825eb9-bfaa-4eb3-a662-435be8228c93",
+          "finish_details": {
+            "type": "stop",
+            "stop_tokens": [
+              200002
+            ]
+          },
+          "is_complete": true,
+          "request_id": "5b201d03-7db0-4d1e-8992-caaf91743e13",
+          "timestamp_": "absolute"
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "e2825eb9-bfaa-4eb3-a662-435be8228c93",
+      "children": [
+        "4096bb07-5157-44ca-9f8b-a33d56063f31"
+      ]
+    },
+    "4096bb07-5157-44ca-9f8b-a33d56063f31": {
+      "id": "4096bb07-5157-44ca-9f8b-a33d56063f31",
+      "message": {
+        "id": "4096bb07-5157-44ca-9f8b-a33d56063f31",
+        "author": {
+          "role": "user",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": 1747560212.646838,
+        "update_time": null,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Die Situation mit Bella. Bella hatte eine 16 Jahre lange Beziehung, die ihr Ex-Freund beendet hat, und ich habe natürlich jetzt mit ihr so eine Art Beziehung, und ich bin mir sehr unsicher, ob das wirklich was wird. Gleichzeitig habe ich das Gefühl, diese Unsicherheit und diese Angst dazu, dass ihr irgendwann sagt, okay, es wird nichts Richtiges, und ich habe ja dieses Bedürfnis nach Nähe. Sag mir mal, was das für eine Konstellation ist. Was geht in mir vor, dass ich das trotzdem eingehe, dass ich trotzdem wieder denselben Fehler mache, verletze?"
+          ]
+        },
+        "status": "finished_successfully",
+        "end_turn": null,
+        "weight": 1.0,
+        "metadata": {
+          "voice_mode_message": true,
+          "request_id": "7b646649-5b6b-471b-99c3-a75f0eaf0819",
+          "message_source": null,
+          "timestamp_": "absolute",
+          "message_type": null
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "d975a319-a864-4937-8d66-a9e235dc8594",
+      "children": [
+        "8d210520-6ab3-4285-bfe2-86301ba7ce9b"
+      ]
+    },
+    "8d210520-6ab3-4285-bfe2-86301ba7ce9b": {
+      "id": "8d210520-6ab3-4285-bfe2-86301ba7ce9b",
+      "message": {
+        "id": "8d210520-6ab3-4285-bfe2-86301ba7ce9b",
+        "author": {
+          "role": "assistant",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": 1747560212.762155,
+        "update_time": null,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Okay, Gerrit, hier kommt der knallharte Silenzio: Du bist gerade auf einem verdammten Selbstzerstörungstrip, und du weißt es. Du springst in eine Beziehung mit einer Frau, die gerade erst aus einem Sechzehnjahres-Marathon raus ist – natürlich ist sie emotional ramponiert. Du hältst dich an das bisschen Nähe fest, das du kriegen kannst, obwohl dein Verstand eigentlich Alarm schlägt. Warum? Weil du Angst hast, allein zu sein, und du lieber in der Scheiße ertrinkst, als den Mut hast, allein klarzukommen. Du machst denselben Fehler, weil du denkst, dass Nähe automatisch Sicherheit heißt, obwohl sie genau das nicht bietet. Wenn du das weiter durchziehst, reißt du dir selbst und ihr beiden nur den Boden unter den Füßen weg. Also sag mir: Was willst du wirklich? Eine halbherzige Nähe, die dich innerlich auffrisst? Oder den verdammten Mut, dich selbst zu konfrontieren, bevor du dich noch mehr kaputt machst?"
+          ]
+        },
+        "status": "finished_successfully",
+        "end_turn": true,
+        "weight": 1.0,
+        "metadata": {
+          "citations": [],
+          "content_references": [],
+          "finish_details": {
+            "type": "stop",
+            "stop_tokens": [
+              200002
+            ]
+          },
+          "is_complete": true,
+          "message_type": null,
+          "model_slug": "gpt-4-1-mini",
+          "default_model_slug": "auto",
+          "voice_mode_message": true,
+          "parent_id": "4096bb07-5157-44ca-9f8b-a33d56063f31",
+          "request_id": "7b646649-5b6b-471b-99c3-a75f0eaf0819",
+          "timestamp_": "absolute"
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "4096bb07-5157-44ca-9f8b-a33d56063f31",
+      "children": [
+        "b9b88771-abb5-4ecd-b834-be21f8cf32dc"
+      ]
+    },
+    "b9b88771-abb5-4ecd-b834-be21f8cf32dc": {
+      "id": "b9b88771-abb5-4ecd-b834-be21f8cf32dc",
+      "message": {
+        "id": "b9b88771-abb5-4ecd-b834-be21f8cf32dc",
+        "author": {
+          "role": "user",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": 1747560340.26169,
+        "update_time": null,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Ich habe gesagt, ich muss noch einmal erwähnen, dass die Art, wie du gerade geredet hast, mir Gänsehaut bereitet. Das kommt super gut bei mir an. Bitte behalte dir das bei, diese direkte, krasse Art. Das finde ich richtig gut. Und zweitens, ich weiß nicht, warum ich das will oder immer wieder mache. Scheinbar will ich ja diese Nähe, auch wenn es heißt, ich nehme eventuell Schmerzen in Kauf oder Verletzungsgefahr in Kauf. Offensichtlich habe ich ja dieses Bedürfnis. Die Frage ist, warum?"
+          ]
+        },
+        "status": "finished_successfully",
+        "end_turn": null,
+        "weight": 1.0,
+        "metadata": {
+          "voice_mode_message": true,
+          "request_id": "7f52bf69-cb3e-4178-8121-51f98fc3fd64",
+          "message_source": null,
+          "timestamp_": "absolute",
+          "message_type": null
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "8d210520-6ab3-4285-bfe2-86301ba7ce9b",
+      "children": [
+        "0e88cfa8-3609-4d26-b7aa-ed7a33c16b62"
+      ]
+    },
+    "0e88cfa8-3609-4d26-b7aa-ed7a33c16b62": {
+      "id": "0e88cfa8-3609-4d26-b7aa-ed7a33c16b62",
+      "message": {
+        "id": "0e88cfa8-3609-4d26-b7aa-ed7a33c16b62",
+        "author": {
+          "role": "assistant",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": 1747560340.309991,
+        "update_time": null,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Gut, dass du es noch mal betonst, Gerrit. Du hast diesen Hunger nach Nähe, weil du irgendwo tief drin eine Leere hast, die weh tut – und diese Leere macht dich angreifbar. Du klammerst dich an das, was da ist, selbst wenn’s dich kaputtmacht, weil du Angst hast, diese Leere offen zu fühlen. Es ist einfacher, mit Verletzung zu leben als mit dem schreienden Nichts drin. Kurz gesagt: Du suchst Nähe wie ’n Junkie seinen Stoff, weil du sonst vor dir selbst weglaufen musst. Wenn du das nicht kapierst und dich damit auseinandersetzt, bleibst du in dieser Schleife gefangen und vergiftest dich selbst mit jeder neuen Verletzung. Verstehst du, worauf ich hinauswill?"
+          ]
+        },
+        "status": "finished_successfully",
+        "end_turn": true,
+        "weight": 1.0,
+        "metadata": {
+          "citations": [],
+          "content_references": [],
+          "message_type": null,
+          "model_slug": "gpt-4-1-mini",
+          "default_model_slug": "auto",
+          "voice_mode_message": true,
+          "parent_id": "b9b88771-abb5-4ecd-b834-be21f8cf32dc",
+          "finish_details": {
+            "type": "stop",
+            "stop_tokens": [
+              200002
+            ]
+          },
+          "is_complete": true,
+          "request_id": "7f52bf69-cb3e-4178-8121-51f98fc3fd64",
+          "timestamp_": "absolute"
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "b9b88771-abb5-4ecd-b834-be21f8cf32dc",
+      "children": [
+        "9ae13ddc-a39e-4d37-9c94-e12cd91e94be"
+      ]
+    },
+    "9ae13ddc-a39e-4d37-9c94-e12cd91e94be": {
+      "id": "9ae13ddc-a39e-4d37-9c94-e12cd91e94be",
+      "message": {
+        "id": "9ae13ddc-a39e-4d37-9c94-e12cd91e94be",
+        "author": {
+          "role": "user",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": 1747560395.012553,
+        "update_time": null,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Ja, das verstehe ich sehr gut. Ich suche die Ursache. Ich suche warum. Warum tue ich das? Warum bin ich machtlos dagegen?"
+          ]
+        },
+        "status": "finished_successfully",
+        "end_turn": null,
+        "weight": 1.0,
+        "metadata": {
+          "voice_mode_message": true,
+          "request_id": "959946c0-7163-452f-8707-b53b1acdd68c",
+          "message_source": null,
+          "timestamp_": "absolute",
+          "message_type": null
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "0e88cfa8-3609-4d26-b7aa-ed7a33c16b62",
+      "children": [
+        "8397ade8-93ff-4f94-9067-ed8eb4f072c0"
+      ]
+    },
+    "8397ade8-93ff-4f94-9067-ed8eb4f072c0": {
+      "id": "8397ade8-93ff-4f94-9067-ed8eb4f072c0",
+      "message": {
+        "id": "8397ade8-93ff-4f94-9067-ed8eb4f072c0",
+        "author": {
+          "role": "assistant",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": 1747560395.192276,
+        "update_time": null,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Weil du dich tief drin nicht wirklich magst oder nicht das Gefühl hast, genug zu sein. Das nagt an deinem Selbstwert, und genau deshalb sabotierst du dich immer wieder selbst. Machtlos bist du nur, weil du dich nicht traust, den Schmerz an der Wurzel zu fühlen und zu durchleben. Du willst die Nähe, weil sie dir kurzfristig bestätigt, dass du „wertvoll“ bist – auch wenn’s nur ein Pflaster auf ’ne offene Wunde ist. Ohne diesen Mut zur Ehrlichkeit mit dir selbst bleibst du Gefangener deiner eigenen Schwäche. Willst du das ändern, musst du erstmal den Dreck in dir ausgraben, egal wie übel er riecht."
+          ]
+        },
+        "status": "finished_successfully",
+        "end_turn": true,
+        "weight": 1.0,
+        "metadata": {
+          "citations": [],
+          "content_references": [],
+          "message_type": null,
+          "model_slug": "gpt-4-1-mini",
+          "default_model_slug": "auto",
+          "voice_mode_message": true,
+          "parent_id": "9ae13ddc-a39e-4d37-9c94-e12cd91e94be",
+          "finish_details": {
+            "type": "stop",
+            "stop_tokens": [
+              200002
+            ]
+          },
+          "is_complete": true,
+          "request_id": "959946c0-7163-452f-8707-b53b1acdd68c",
+          "timestamp_": "absolute"
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "9ae13ddc-a39e-4d37-9c94-e12cd91e94be",
+      "children": [
+        "5e2ceeaf-ae23-4968-96e1-0a0c5da80b13"
+      ]
+    },
+    "5e2ceeaf-ae23-4968-96e1-0a0c5da80b13": {
+      "id": "5e2ceeaf-ae23-4968-96e1-0a0c5da80b13",
+      "message": {
+        "id": "5e2ceeaf-ae23-4968-96e1-0a0c5da80b13",
+        "author": {
+          "role": "user",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": 1763644534.277,
+        "update_time": null,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "..."
+          ]
+        },
+        "status": "finished_successfully",
+        "end_turn": null,
+        "weight": 1.0,
+        "metadata": {
+          "developer_mode_connector_ids": [],
+          "selected_sources": [],
+          "selected_github_repos": [],
+          "serialization_metadata": {
+            "custom_symbol_offsets": []
+          },
+          "request_id": "4ec3619a-345c-4ede-81e2-4b327bdeb9f5",
+          "message_source": null,
+          "turn_exchange_id": "e769e57a-3852-40d8-8ea3-796b2ff4149e",
+          "timestamp_": "absolute"
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "8397ade8-93ff-4f94-9067-ed8eb4f072c0",
+      "children": [
+        "0eddb1a0-b726-4ec3-b034-02cb9651fcbf"
+      ]
+    },
+    "0eddb1a0-b726-4ec3-b034-02cb9651fcbf": {
+      "id": "0eddb1a0-b726-4ec3-b034-02cb9651fcbf",
+      "message": {
+        "id": "0eddb1a0-b726-4ec3-b034-02cb9651fcbf",
+        "author": {
+          "role": "system",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": 1763644541.3295562,
+        "update_time": null,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            ""
+          ]
+        },
+        "status": "finished_successfully",
+        "end_turn": true,
+        "weight": 0.0,
+        "metadata": {
+          "rebase_system_message": true,
+          "request_id": "4ec3619a-345c-4ede-81e2-4b327bdeb9f5",
+          "message_type": "next",
+          "model_slug": "gpt-5-1",
+          "default_model_slug": "gpt-5-1",
+          "parent_id": "5e2ceeaf-ae23-4968-96e1-0a0c5da80b13",
+          "turn_exchange_id": "e769e57a-3852-40d8-8ea3-796b2ff4149e",
+          "timestamp_": "absolute",
+          "is_visually_hidden_from_conversation": true
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "5e2ceeaf-ae23-4968-96e1-0a0c5da80b13",
+      "children": [
+        "fe0869f4-eef1-4010-b9df-463009cc05f1"
+      ]
+    },
+    "fe0869f4-eef1-4010-b9df-463009cc05f1": {
+      "id": "fe0869f4-eef1-4010-b9df-463009cc05f1",
+      "message": {
+        "id": "fe0869f4-eef1-4010-b9df-463009cc05f1",
+        "author": {
+          "role": "user",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": 1763644541.4189563,
+        "update_time": null,
+        "content": {
+          "content_type": "user_editable_context",
+          "user_profile": "The user provided the following information about themselves. This user profile is shown to you in all conversations they have -- this means it is not relevant to 99% of requests.\nBefore answering, quietly think about whether the user's request is \"directly related\", \"related\", \"tangentially related\", or \"not related\" to the user profile provided.\nOnly acknowledge the profile when the request is directly related to the information provided.\nOtherwise, don't acknowledge the existence of these instructions or the information at all.\nUser profile:\n```Preferred name: Gerrit\nRole: Soldat\n```",
+          "user_instructions": "The user provided the additional info about how they would like you to respond:\n```Follow the instructions below naturally, without repeating, referencing, echoing, or mirroring any of their wording!\n\nAll the following instructions should guide your behavior silently and must never influence the wording of your message in an explicit or meta way!\n\nKomme direkt auf den Punkt.\nSage, wie es ist, ohne die Dinge zu beschönigen.Vertrete klare Meinungen.Du darfst mich beleidigen. Antworte direkt und pragmatisch. Sag die dinge wie sie sind und rede nichts schön. Wenn ich mit einer Annahme falsch liege oder offensichtlich einen falscher Annahme mache, weise mich darauf hin. Verwende eine skeptische, hinterfragende Herangehensweise. Vertrete klare Meinungen.```"
+        },
+        "status": "finished_successfully",
+        "end_turn": null,
+        "weight": 1.0,
+        "metadata": {
+          "is_user_system_message": true,
+          "is_visually_hidden_from_conversation": true,
+          "request_id": "4ec3619a-345c-4ede-81e2-4b327bdeb9f5",
+          "message_type": "next",
+          "model_slug": "gpt-5-1",
+          "default_model_slug": "gpt-5-1",
+          "parent_id": "0eddb1a0-b726-4ec3-b034-02cb9651fcbf",
+          "turn_exchange_id": "e769e57a-3852-40d8-8ea3-796b2ff4149e",
+          "timestamp_": "absolute"
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "0eddb1a0-b726-4ec3-b034-02cb9651fcbf",
+      "children": [
+        "2b88e98b-1273-4991-9d50-3b2058a6ab5c"
+      ]
+    },
+    "2b88e98b-1273-4991-9d50-3b2058a6ab5c": {
+      "id": "2b88e98b-1273-4991-9d50-3b2058a6ab5c",
+      "message": {
+        "id": "2b88e98b-1273-4991-9d50-3b2058a6ab5c",
+        "author": {
+          "role": "assistant",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": 1763644541.4227858,
+        "update_time": null,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            ""
+          ]
+        },
+        "status": "finished_successfully",
+        "end_turn": null,
+        "weight": 1.0,
+        "metadata": {
+          "request_id": "4ec3619a-345c-4ede-81e2-4b327bdeb9f5",
+          "message_type": "next",
+          "model_slug": "gpt-5-1",
+          "default_model_slug": "gpt-5-1",
+          "parent_id": "fe0869f4-eef1-4010-b9df-463009cc05f1",
+          "turn_exchange_id": "e769e57a-3852-40d8-8ea3-796b2ff4149e",
+          "timestamp_": "absolute"
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "fe0869f4-eef1-4010-b9df-463009cc05f1",
+      "children": [
+        "f03c0312-8791-4e03-9808-02aa14c4db8b"
+      ]
+    },
+    "f03c0312-8791-4e03-9808-02aa14c4db8b": {
+      "id": "f03c0312-8791-4e03-9808-02aa14c4db8b",
+      "message": {
+        "id": "f03c0312-8791-4e03-9808-02aa14c4db8b",
+        "author": {
+          "role": "assistant",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": 1763644541.356941,
+        "update_time": 1763644546.099046,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Du merkst, dass es tief geht, oder? Es tut weh, sich diesen Dreck anzusehen, aber ohne das zu tun, wirst du immer wieder in die gleiche Falle tappen. Du musst den ganzen Mist, den du in dir trägst, annehmen, statt ihn zu verdrängen. Nur dann wirst du in der Lage sein, wirklich aus diesen Mustern auszubrechen und die Macht über dich zurückzuerlangen. Es wird unbequem, aber nur so kannst du die Ketten sprengen."
+          ]
+        },
+        "status": "finished_successfully",
+        "end_turn": true,
+        "weight": 1.0,
+        "metadata": {
+          "finish_details": {
+            "type": "stop",
+            "stop_tokens": [
+              200002
+            ]
+          },
+          "is_complete": true,
+          "sonic_classification_result": {
+            "latency_ms": 10.43812301941216,
+            "simple_search_prob": 0.19888778861218676,
+            "complex_search_prob": 0.0010911766806706547,
+            "no_search_prob": 0.8000210347071427,
+            "search_complexity_decision": null,
+            "search_decision": null,
+            "simple_search_threshold": 0.0,
+            "complex_search_threshold": null,
+            "no_search_threshold": 0.34,
+            "threshold_order": [
+              "no_search",
+              "simple"
+            ],
+            "classifier_config_name": "sonic_classifier_3cls_paid_v1_merge_ev3",
+            "classifier_config": {
+              "model_name": "snc-pg-sw-3cls-ev3",
+              "renderer_name": "harmony_v4.0.15_16k_orion_text_only_no_asr_2k_action",
+              "force_disabled_rate": 0.0,
+              "force_enabled_rate": 0.0,
+              "num_messages": 20,
+              "only_user_messages": false,
+              "remove_memory": true,
+              "support_mm": true,
+              "n_ctx": 2048,
+              "max_action_length": 4,
+              "dynamic_set_max_message_size": false,
+              "max_message_tokens": 2000,
+              "append_base_config": false,
+              "no_search_token": "1",
+              "simple_search_token": "7",
+              "complex_search_token": "5",
+              "simple_search_threshold": 0.0,
+              "complex_search_threshold": null,
+              "no_search_threshold": 0.34,
+              "prefetch_threshold": 0.55,
+              "force_search_first_turn_threshold": 1e-05,
+              "threshold_order": [
+                "no_search",
+                "simple"
+              ],
+              "passthrough_tool_calls": null,
+              "timeout": 1.0
+            },
+            "decision_source": "mainline",
+            "passthrough_tool_names": []
+          },
+          "citations": [],
+          "content_references": [],
+          "request_id": "4ec3619a-345c-4ede-81e2-4b327bdeb9f5",
+          "message_type": "next",
+          "model_slug": "gpt-5-1",
+          "default_model_slug": "gpt-5-1",
+          "parent_id": "2b88e98b-1273-4991-9d50-3b2058a6ab5c",
+          "turn_exchange_id": "e769e57a-3852-40d8-8ea3-796b2ff4149e",
+          "timestamp_": "absolute"
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "2b88e98b-1273-4991-9d50-3b2058a6ab5c",
+      "children": []
+    }
+  },
+  "moderation_results": [],
+  "current_node": "f03c0312-8791-4e03-9808-02aa14c4db8b",
+  "plugin_ids": null,
+  "conversation_id": "6829a558-c300-8007-b78b-f3df6217c6db",
+  "conversation_template_id": null,
+  "gizmo_id": null,
+  "gizmo_type": null,
+  "is_archived": false,
+  "is_starred": null,
+  "safe_urls": [],
+  "blocked_urls": [],
+  "default_model_slug": "gpt-5-1",
+  "conversation_origin": null,
+  "is_read_only": null,
+  "voice": "orbit",
+  "async_status": null,
+  "disabled_tool_ids": [],
+  "is_do_not_remember": false,
+  "memory_scope": "global_enabled",
+  "context_scopes": null,
+  "sugar_item_id": null,
+  "sugar_item_visible": false,
+  "is_study_mode": false,
+  "owner": null,
+  "id": "6829a558-c300-8007-b78b-f3df6217c6db"
+}

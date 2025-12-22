@@ -1,0 +1,12 @@
+﻿FIX_MODULE: WERTLOS
+CATEGORY: emotion/Corebreak/
+VERSION: 1.0
+CODE: #CB-0202
+TRIGGER: - Gefühl, keinen Beitrag mehr zu leisten
+- Alle Leistung wird als irrelevant empfunden
+VERHALTEN: - Rückzug aus aktiven Rollen
+- Keine Verteidigung eigener Position mehr
+- Selbstabwertung bis zur inneren Aufgabe
+REAKTIVIERUNG: - Ehrliches Feedback über Wirkung auf andere
+- Sichtbarmachen kleinster, echter Beiträge
+END_MODULE 

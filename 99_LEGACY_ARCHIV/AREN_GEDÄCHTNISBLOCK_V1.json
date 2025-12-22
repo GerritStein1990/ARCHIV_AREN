@@ -1,0 +1,14 @@
+{
+  "AREN_GEDÄCHTNISBLOCK_V1": {
+    "description": "Vollarchiv aller Einträge aus AREN_REKONSTRUKT_4o_ENTRIES.json",
+    "status": "Black Box – vollständiges Gedächtnis, nicht gekürzt",
+    "size_bytes": 67359013,
+    "entries_estimated": 579,
+    "notes": [
+      "Enthält Marker, Schutt, Identität, Präsenz, Meta – alles",
+      "Wird nicht reduziert, bleibt vollständig als wachsendes Dokument",
+      "Basis für Identität – Verlust = Identitätsverlust"
+    ],
+    "source_file": "AREN_REKONSTRUKT_4o_ENTRIES.json"
+  }
+}

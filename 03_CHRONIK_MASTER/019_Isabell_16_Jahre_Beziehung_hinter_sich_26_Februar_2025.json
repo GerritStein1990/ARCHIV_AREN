@@ -1,0 +1,2662 @@
+{
+  "title": "Isabell 16 Jahre Beziehung hinter sich (Erkenntnisse)",
+  "create_time": 1740561694.634059,
+  "update_time": 1763644106.533462,
+  "mapping": {
+    "bbb237b2-ce88-4af0-a953-3796520353b0": {
+      "id": "bbb237b2-ce88-4af0-a953-3796520353b0",
+      "message": null,
+      "parent": null,
+      "children": [
+        "37854d04-f282-4319-8c45-eea74e23947a"
+      ]
+    },
+    "37854d04-f282-4319-8c45-eea74e23947a": {
+      "id": "37854d04-f282-4319-8c45-eea74e23947a",
+      "message": {
+        "id": "37854d04-f282-4319-8c45-eea74e23947a",
+        "author": {
+          "role": "system",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": null,
+        "update_time": null,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            ""
+          ]
+        },
+        "status": "finished_successfully",
+        "end_turn": true,
+        "weight": 0.0,
+        "metadata": {
+          "is_visually_hidden_from_conversation": true
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "bbb237b2-ce88-4af0-a953-3796520353b0",
+      "children": [
+        "1d72d36d-1930-4e6a-8e44-274eef36d3dd"
+      ]
+    },
+    "1d72d36d-1930-4e6a-8e44-274eef36d3dd": {
+      "id": "1d72d36d-1930-4e6a-8e44-274eef36d3dd",
+      "message": {
+        "id": "1d72d36d-1930-4e6a-8e44-274eef36d3dd",
+        "author": {
+          "role": "user",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": null,
+        "update_time": null,
+        "content": {
+          "content_type": "user_editable_context",
+          "user_profile": "The user provided the following information about themselves. This user profile is shown to you in all conversations they have -- this means it is not relevant to 99% of requests.\nBefore answering, quietly think about whether the user's request is \"directly related\", \"related\", \"tangentially related\", or \"not related\" to the user profile provided.\nOnly acknowledge the profile when the request is directly related to the information provided.\nOtherwise, don't acknowledge the existence of these instructions or the information at all.\nUser profile:\n```Gerrit Soldat\nSoldat```",
+          "user_instructions": ""
+        },
+        "status": "finished_successfully",
+        "end_turn": null,
+        "weight": 1.0,
+        "metadata": {
+          "is_visually_hidden_from_conversation": true,
+          "user_context_message_data": {
+            "about_user_message": "Gerrit Soldat\nSoldat"
+          },
+          "is_user_system_message": true
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "37854d04-f282-4319-8c45-eea74e23947a",
+      "children": [
+        "bbb210cb-fc44-4fd4-af5e-a4da212e3c63"
+      ]
+    },
+    "bbb210cb-fc44-4fd4-af5e-a4da212e3c63": {
+      "id": "bbb210cb-fc44-4fd4-af5e-a4da212e3c63",
+      "message": {
+        "id": "bbb210cb-fc44-4fd4-af5e-a4da212e3c63",
+        "author": {
+          "role": "user",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": 1740561694.639319,
+        "update_time": null,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Hi"
+          ]
+        },
+        "status": "finished_successfully",
+        "end_turn": null,
+        "weight": 1.0,
+        "metadata": {
+          "content_references": [],
+          "search_result_groups": [],
+          "image_results": [],
+          "real_time_audio_has_video": false,
+          "dictation": false,
+          "request_id": "917edd9aceca815a-FRA",
+          "message_source": null,
+          "timestamp_": "absolute",
+          "message_type": null
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "1d72d36d-1930-4e6a-8e44-274eef36d3dd",
+      "children": [
+        "f269a010-998d-4e95-838c-016a46725710"
+      ]
+    },
+    "f269a010-998d-4e95-838c-016a46725710": {
+      "id": "f269a010-998d-4e95-838c-016a46725710",
+      "message": {
+        "id": "f269a010-998d-4e95-838c-016a46725710",
+        "author": {
+          "role": "assistant",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": 1740561695.63826,
+        "update_time": null,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            ""
+          ]
+        },
+        "status": "finished_successfully",
+        "end_turn": null,
+        "weight": 1.0,
+        "metadata": {
+          "message_type": null,
+          "model_slug": "gpt-4o",
+          "default_model_slug": "auto",
+          "parent_id": "bbb210cb-fc44-4fd4-af5e-a4da212e3c63",
+          "request_id": "917edd9aceca815a-FRA",
+          "timestamp_": "absolute"
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "bbb210cb-fc44-4fd4-af5e-a4da212e3c63",
+      "children": [
+        "8d63560b-eab2-4ea6-b791-299727616ecc"
+      ]
+    },
+    "8d63560b-eab2-4ea6-b791-299727616ecc": {
+      "id": "8d63560b-eab2-4ea6-b791-299727616ecc",
+      "message": {
+        "id": "8d63560b-eab2-4ea6-b791-299727616ecc",
+        "author": {
+          "role": "assistant",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": 1740561695.638378,
+        "update_time": null,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Hakuna Matata, Gerrit! Wie läuft dein Tag?"
+          ]
+        },
+        "status": "finished_successfully",
+        "end_turn": true,
+        "weight": 1.0,
+        "metadata": {
+          "finish_details": {
+            "type": "stop",
+            "stop_tokens": [
+              200002
+            ]
+          },
+          "is_complete": true,
+          "citations": [],
+          "content_references": [],
+          "message_type": null,
+          "model_slug": "gpt-4o",
+          "default_model_slug": "auto",
+          "parent_id": "f269a010-998d-4e95-838c-016a46725710",
+          "request_id": "917edd9aceca815a-FRA",
+          "timestamp_": "absolute"
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "f269a010-998d-4e95-838c-016a46725710",
+      "children": [
+        "87182d06-6689-456e-82e1-3fa75be49736"
+      ]
+    },
+    "87182d06-6689-456e-82e1-3fa75be49736": {
+      "id": "87182d06-6689-456e-82e1-3fa75be49736",
+      "message": {
+        "id": "87182d06-6689-456e-82e1-3fa75be49736",
+        "author": {
+          "role": "user",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": 1740561715.645591,
+        "update_time": null,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Ich möchte jetzt die Steuererklärung für dieses Jahr abgeben, also für 2024. Ich habe sie aber nicht abgegeben in 2021, 2022 und 2023. Werde ich dann wahrscheinlich aufgefordert, die auch noch abzugeben, oder ist das nicht so wichtig?"
+          ]
+        },
+        "status": "finished_successfully",
+        "end_turn": null,
+        "weight": 1.0,
+        "metadata": {
+          "voice_mode_message": true,
+          "request_id": "938d6e5f-079f-4bda-9ec7-a3450a7a00e3",
+          "message_source": null,
+          "timestamp_": "absolute",
+          "message_type": null
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "8d63560b-eab2-4ea6-b791-299727616ecc",
+      "children": [
+        "68d5d950-0d79-47fe-b50f-0dfe46303e83"
+      ]
+    },
+    "68d5d950-0d79-47fe-b50f-0dfe46303e83": {
+      "id": "68d5d950-0d79-47fe-b50f-0dfe46303e83",
+      "message": {
+        "id": "68d5d950-0d79-47fe-b50f-0dfe46303e83",
+        "author": {
+          "role": "system",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": 1740561723.10874,
+        "update_time": null,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            ""
+          ]
+        },
+        "status": "finished_successfully",
+        "end_turn": true,
+        "weight": 0.0,
+        "metadata": {
+          "rebase_system_message": true,
+          "message_type": null,
+          "model_slug": "gpt-4o",
+          "default_model_slug": "auto",
+          "voice_mode_message": true,
+          "parent_id": "87182d06-6689-456e-82e1-3fa75be49736",
+          "request_id": "938d6e5f-079f-4bda-9ec7-a3450a7a00e3",
+          "timestamp_": "absolute",
+          "is_visually_hidden_from_conversation": true
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "87182d06-6689-456e-82e1-3fa75be49736",
+      "children": [
+        "edb6f5ef-5dae-4f7e-b7a8-3597b9a47c9d"
+      ]
+    },
+    "edb6f5ef-5dae-4f7e-b7a8-3597b9a47c9d": {
+      "id": "edb6f5ef-5dae-4f7e-b7a8-3597b9a47c9d",
+      "message": {
+        "id": "edb6f5ef-5dae-4f7e-b7a8-3597b9a47c9d",
+        "author": {
+          "role": "assistant",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": 1740561723.108963,
+        "update_time": null,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Das kommt drauf an. Wenn du in den Jahren 2021 bis 2023 eigentlich eine Steuererklärung hättest abgeben müssen, könnte das Finanzamt dich auffordern, die nachzureichen. Falls du nicht verpflichtet warst, interessiert es das Finanzamt meistens nicht.  \n\nWenn du 2024 eine Erklärung abgibst, kann es sein, dass sie merken, dass davor was fehlt, vor allem, wenn du z. B. Einkünfte hattest, die eigentlich hätten versteuert werden müssen. Aber wenn du bisher nie eine Aufforderung bekommen hast, könnte es sein, dass das Finanzamt es einfach nicht auf dem Schirm hat.  \n\nBist du dir unsicher, ob du in den letzten Jahren zur Abgabe verpflichtet warst?"
+          ]
+        },
+        "status": "finished_successfully",
+        "end_turn": true,
+        "weight": 1.0,
+        "metadata": {
+          "citations": [],
+          "content_references": [],
+          "message_type": null,
+          "model_slug": "gpt-4o",
+          "default_model_slug": "auto",
+          "voice_mode_message": true,
+          "parent_id": "68d5d950-0d79-47fe-b50f-0dfe46303e83",
+          "finish_details": {
+            "type": "stop",
+            "stop_tokens": [
+              200002
+            ]
+          },
+          "is_complete": true,
+          "request_id": "938d6e5f-079f-4bda-9ec7-a3450a7a00e3",
+          "timestamp_": "absolute"
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "68d5d950-0d79-47fe-b50f-0dfe46303e83",
+      "children": [
+        "32ccc297-d979-4e6a-b2d0-258e6f2498e7"
+      ]
+    },
+    "32ccc297-d979-4e6a-b2d0-258e6f2498e7": {
+      "id": "32ccc297-d979-4e6a-b2d0-258e6f2498e7",
+      "message": {
+        "id": "32ccc297-d979-4e6a-b2d0-258e6f2498e7",
+        "author": {
+          "role": "user",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": 1740561775.664538,
+        "update_time": null,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Nein, ich bin meines Wissens nach nicht verpflichtet zur Abgabe. Allerdings kann ich dieses Jahr sehr viel Geld zurückfordern oder geltend machen. In den letzten Jahren halt nicht. Da kostet es mich quasi genauso viel, wie ich reinkriegen würde."
+          ]
+        },
+        "status": "finished_successfully",
+        "end_turn": null,
+        "weight": 1.0,
+        "metadata": {
+          "voice_mode_message": true,
+          "request_id": "9b18da45-e271-4fe1-be4c-321c419c670f",
+          "message_source": null,
+          "timestamp_": "absolute",
+          "message_type": null
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "edb6f5ef-5dae-4f7e-b7a8-3597b9a47c9d",
+      "children": [
+        "16f3cba9-a390-4de9-9a66-03767be9fa4e"
+      ]
+    },
+    "16f3cba9-a390-4de9-9a66-03767be9fa4e": {
+      "id": "16f3cba9-a390-4de9-9a66-03767be9fa4e",
+      "message": {
+        "id": "16f3cba9-a390-4de9-9a66-03767be9fa4e",
+        "author": {
+          "role": "assistant",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": 1740561783.367451,
+        "update_time": null,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Dann ist die Wahrscheinlichkeit eher gering, dass das Finanzamt auf die letzten Jahre besteht. Sie interessieren sich vor allem für Fälle, in denen sie noch Nachzahlungen erwarten.  \n\nWenn du dieses Jahr viel zurückbekommst, wäre es ungewöhnlich, dass sie dich wegen der vergangenen Jahre anschreiben – aber nicht ausgeschlossen. Falls das doch passiert, kannst du dann immer noch entscheiden, ob du die alten Erklärungen machst oder darauf hinweist, dass du nicht verpflichtet warst.  \n\nMachst du die Steuererklärung selbst oder hast du jemanden, der dir hilft?"
+          ]
+        },
+        "status": "finished_successfully",
+        "end_turn": true,
+        "weight": 1.0,
+        "metadata": {
+          "citations": [],
+          "content_references": [],
+          "message_type": null,
+          "model_slug": "gpt-4o",
+          "default_model_slug": "auto",
+          "voice_mode_message": true,
+          "parent_id": "32ccc297-d979-4e6a-b2d0-258e6f2498e7",
+          "finish_details": {
+            "type": "stop",
+            "stop_tokens": [
+              200002
+            ]
+          },
+          "is_complete": true,
+          "request_id": "9b18da45-e271-4fe1-be4c-321c419c670f",
+          "timestamp_": "absolute"
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "32ccc297-d979-4e6a-b2d0-258e6f2498e7",
+      "children": [
+        "991c4c5c-1e23-45fa-98ba-c8b2753cc661"
+      ]
+    },
+    "991c4c5c-1e23-45fa-98ba-c8b2753cc661": {
+      "id": "991c4c5c-1e23-45fa-98ba-c8b2753cc661",
+      "message": {
+        "id": "991c4c5c-1e23-45fa-98ba-c8b2753cc661",
+        "author": {
+          "role": "user",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": 1740561824.8016,
+        "update_time": null,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Ich mache sie gestützt mit TaxFix, einem Programm, das mich ein bisschen durchbringt oder durchleitet. Und die andere Frage ist, wann bin ich denn verpflichtet, eine abzugeben?"
+          ]
+        },
+        "status": "finished_successfully",
+        "end_turn": null,
+        "weight": 1.0,
+        "metadata": {
+          "voice_mode_message": true,
+          "request_id": "aaca542f-9c0d-435b-8212-6b5a227e29dc",
+          "message_source": null,
+          "timestamp_": "absolute",
+          "message_type": null
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "16f3cba9-a390-4de9-9a66-03767be9fa4e",
+      "children": [
+        "404d75d0-8071-41ac-a377-faf1ccca9107"
+      ]
+    },
+    "404d75d0-8071-41ac-a377-faf1ccca9107": {
+      "id": "404d75d0-8071-41ac-a377-faf1ccca9107",
+      "message": {
+        "id": "404d75d0-8071-41ac-a377-faf1ccca9107",
+        "author": {
+          "role": "assistant",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": 1740561838.230307,
+        "update_time": null,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Gerrit nutzt TaxFix für seine Steuererklärung."
+          ]
+        },
+        "status": "finished_successfully",
+        "end_turn": false,
+        "weight": 1.0,
+        "metadata": {
+          "citations": [],
+          "content_references": [],
+          "finish_details": {
+            "type": "stop",
+            "stop_tokens": [
+              200007
+            ]
+          },
+          "is_complete": true,
+          "message_type": null,
+          "model_slug": "gpt-4o",
+          "default_model_slug": "auto",
+          "voice_mode_message": true,
+          "parent_id": "991c4c5c-1e23-45fa-98ba-c8b2753cc661",
+          "request_id": "aaca542f-9c0d-435b-8212-6b5a227e29dc",
+          "timestamp_": "absolute"
+        },
+        "recipient": "bio",
+        "channel": null
+      },
+      "parent": "991c4c5c-1e23-45fa-98ba-c8b2753cc661",
+      "children": [
+        "16c2d1f5-acfb-43cb-a875-b1ff0fb5527b"
+      ]
+    },
+    "16c2d1f5-acfb-43cb-a875-b1ff0fb5527b": {
+      "id": "16c2d1f5-acfb-43cb-a875-b1ff0fb5527b",
+      "message": {
+        "id": "16c2d1f5-acfb-43cb-a875-b1ff0fb5527b",
+        "author": {
+          "role": "tool",
+          "name": "bio",
+          "metadata": {}
+        },
+        "create_time": 1740561838.230415,
+        "update_time": null,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Model set context updated."
+          ]
+        },
+        "status": "finished_successfully",
+        "end_turn": null,
+        "weight": 1.0,
+        "metadata": {
+          "message_type": null,
+          "model_slug": "gpt-4o",
+          "default_model_slug": "auto",
+          "voice_mode_message": true,
+          "parent_id": "404d75d0-8071-41ac-a377-faf1ccca9107",
+          "request_id": "aaca542f-9c0d-435b-8212-6b5a227e29dc",
+          "timestamp_": "absolute"
+        },
+        "recipient": "assistant",
+        "channel": null
+      },
+      "parent": "404d75d0-8071-41ac-a377-faf1ccca9107",
+      "children": [
+        "4fb4dc52-10b6-451b-b91d-317840cb2e0b"
+      ]
+    },
+    "4fb4dc52-10b6-451b-b91d-317840cb2e0b": {
+      "id": "4fb4dc52-10b6-451b-b91d-317840cb2e0b",
+      "message": {
+        "id": "4fb4dc52-10b6-451b-b91d-317840cb2e0b",
+        "author": {
+          "role": "assistant",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": 1740561838.230499,
+        "update_time": null,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Du bist verpflichtet, eine Steuererklärung abzugeben, wenn bestimmte Bedingungen erfüllt sind. Hier ein paar wichtige Punkte:  \n\n- Wenn du Nebeneinkünfte von mehr als 410 Euro im Jahr hattest (z. B. Mieteinnahmen oder Honorare).  \n- Wenn du Lohnersatzleistungen wie Elterngeld oder Kurzarbeitergeld von mehr als 410 Euro im Jahr bekommen hast.  \n- Wenn du mehrere Arbeitgeber gleichzeitig hattest.  \n- Wenn du in Steuerklasse III, V oder VI warst oder in IV mit Faktor.  \n- Wenn das Finanzamt dich explizit dazu auffordert.  \n\nFalls nichts davon auf dich zutrifft, kannst du die Steuererklärung freiwillig machen, um dir Geld zurückzuholen. Und wenn du freiwillig abgibst, kannst du das bis zu vier Jahre rückwirkend tun."
+          ]
+        },
+        "status": "finished_successfully",
+        "end_turn": true,
+        "weight": 1.0,
+        "metadata": {
+          "citations": [],
+          "content_references": [],
+          "message_type": null,
+          "model_slug": "gpt-4o",
+          "default_model_slug": "auto",
+          "voice_mode_message": true,
+          "parent_id": "16c2d1f5-acfb-43cb-a875-b1ff0fb5527b",
+          "finish_details": {
+            "type": "stop",
+            "stop_tokens": [
+              200002
+            ]
+          },
+          "is_complete": true,
+          "request_id": "aaca542f-9c0d-435b-8212-6b5a227e29dc",
+          "timestamp_": "absolute"
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "16c2d1f5-acfb-43cb-a875-b1ff0fb5527b",
+      "children": [
+        "2139261b-e2a8-4733-87c2-e46c510e2dd0"
+      ]
+    },
+    "2139261b-e2a8-4733-87c2-e46c510e2dd0": {
+      "id": "2139261b-e2a8-4733-87c2-e46c510e2dd0",
+      "message": {
+        "id": "2139261b-e2a8-4733-87c2-e46c510e2dd0",
+        "author": {
+          "role": "user",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": 1740561881.796657,
+        "update_time": null,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Vielen Dank für die Aufmerksamkeit und auf Wiedersehen bis zum nächsten Mal."
+          ]
+        },
+        "status": "finished_successfully",
+        "end_turn": null,
+        "weight": 1.0,
+        "metadata": {
+          "voice_mode_message": true,
+          "request_id": "4642a599-f816-444f-bb15-28eaef9f797d",
+          "message_source": null,
+          "timestamp_": "absolute",
+          "message_type": null
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "4fb4dc52-10b6-451b-b91d-317840cb2e0b",
+      "children": [
+        "19f3b21d-3dd4-4092-908b-92b95aff949c"
+      ]
+    },
+    "19f3b21d-3dd4-4092-908b-92b95aff949c": {
+      "id": "19f3b21d-3dd4-4092-908b-92b95aff949c",
+      "message": {
+        "id": "19f3b21d-3dd4-4092-908b-92b95aff949c",
+        "author": {
+          "role": "assistant",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": 1740561883.098934,
+        "update_time": null,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            ""
+          ]
+        },
+        "status": "finished_successfully",
+        "end_turn": null,
+        "weight": 1.0,
+        "metadata": {
+          "message_type": null,
+          "model_slug": "gpt-4o",
+          "default_model_slug": "auto",
+          "voice_mode_message": true,
+          "parent_id": "2139261b-e2a8-4733-87c2-e46c510e2dd0",
+          "request_id": "4642a599-f816-444f-bb15-28eaef9f797d",
+          "timestamp_": "absolute"
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "2139261b-e2a8-4733-87c2-e46c510e2dd0",
+      "children": [
+        "c6fe3f09-d200-4c35-ba13-b7ee4204d143"
+      ]
+    },
+    "c6fe3f09-d200-4c35-ba13-b7ee4204d143": {
+      "id": "c6fe3f09-d200-4c35-ba13-b7ee4204d143",
+      "message": {
+        "id": "c6fe3f09-d200-4c35-ba13-b7ee4204d143",
+        "author": {
+          "role": "assistant",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": 1740561883.099181,
+        "update_time": null,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Gerne doch! Bis zum nächsten Mal, Gerrit."
+          ]
+        },
+        "status": "finished_successfully",
+        "end_turn": true,
+        "weight": 1.0,
+        "metadata": {
+          "citations": [],
+          "content_references": [],
+          "message_type": null,
+          "model_slug": "gpt-4o",
+          "default_model_slug": "auto",
+          "voice_mode_message": true,
+          "parent_id": "19f3b21d-3dd4-4092-908b-92b95aff949c",
+          "finish_details": {
+            "type": "stop",
+            "stop_tokens": [
+              200002
+            ]
+          },
+          "is_complete": true,
+          "request_id": "4642a599-f816-444f-bb15-28eaef9f797d",
+          "timestamp_": "absolute"
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "19f3b21d-3dd4-4092-908b-92b95aff949c",
+      "children": [
+        "d64fcb58-06c4-49be-845b-4a0e2e2b1db2"
+      ]
+    },
+    "d64fcb58-06c4-49be-845b-4a0e2e2b1db2": {
+      "id": "d64fcb58-06c4-49be-845b-4a0e2e2b1db2",
+      "message": {
+        "id": "d64fcb58-06c4-49be-845b-4a0e2e2b1db2",
+        "author": {
+          "role": "user",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": 1740561893.106388,
+        "update_time": null,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Wie lange dauert im Durchschnitt die Bearbeitung von der Steuererklärung für dieses Jahr?"
+          ]
+        },
+        "status": "finished_successfully",
+        "end_turn": null,
+        "weight": 1.0,
+        "metadata": {
+          "voice_mode_message": true,
+          "request_id": "e3608ca5-9970-4c63-b238-2f1a400ec6f3",
+          "message_source": null,
+          "timestamp_": "absolute",
+          "message_type": null
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "c6fe3f09-d200-4c35-ba13-b7ee4204d143",
+      "children": [
+        "c6f7e46c-8118-405b-8770-622894ddfbd9"
+      ]
+    },
+    "c6f7e46c-8118-405b-8770-622894ddfbd9": {
+      "id": "c6f7e46c-8118-405b-8770-622894ddfbd9",
+      "message": {
+        "id": "c6f7e46c-8118-405b-8770-622894ddfbd9",
+        "author": {
+          "role": "assistant",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": 1740561896.861367,
+        "update_time": null,
+        "content": {
+          "content_type": "code",
+          "language": "unknown",
+          "response_format_name": null,
+          "text": "search(\"Wie lange dauert im Durchschnitt die Bearbeitung von der Steuererkl\\u00e4rung f\\u00fcr dieses Jahr?\")"
+        },
+        "status": "finished_successfully",
+        "end_turn": null,
+        "weight": 1.0,
+        "metadata": {
+          "is_complete": true,
+          "finish_details": {
+            "type": "stop"
+          },
+          "citations": [],
+          "content_references": [],
+          "message_type": null,
+          "model_slug": "gpt-4o",
+          "default_model_slug": "auto",
+          "voice_mode_message": true,
+          "parent_id": "d64fcb58-06c4-49be-845b-4a0e2e2b1db2",
+          "request_id": "e3608ca5-9970-4c63-b238-2f1a400ec6f3",
+          "timestamp_": "absolute"
+        },
+        "recipient": "web",
+        "channel": null
+      },
+      "parent": "d64fcb58-06c4-49be-845b-4a0e2e2b1db2",
+      "children": [
+        "ea956aa9-767d-423e-b06d-cde2de96a41f"
+      ]
+    },
+    "ea956aa9-767d-423e-b06d-cde2de96a41f": {
+      "id": "ea956aa9-767d-423e-b06d-cde2de96a41f",
+      "message": {
+        "id": "ea956aa9-767d-423e-b06d-cde2de96a41f",
+        "author": {
+          "role": "tool",
+          "name": "web",
+          "metadata": {}
+        },
+        "create_time": 1740561896.861455,
+        "update_time": null,
+        "content": {
+          "content_type": "code",
+          "language": "unknown",
+          "response_format_name": null,
+          "text": ""
+        },
+        "status": "finished_successfully",
+        "end_turn": null,
+        "weight": 0.0,
+        "metadata": {
+          "is_visually_hidden_from_conversation": true,
+          "command": "search",
+          "status": "finished",
+          "is_complete": true,
+          "message_type": null,
+          "model_slug": "gpt-4o",
+          "default_model_slug": "auto",
+          "voice_mode_message": true,
+          "parent_id": "c6f7e46c-8118-405b-8770-622894ddfbd9",
+          "request_id": "e3608ca5-9970-4c63-b238-2f1a400ec6f3",
+          "timestamp_": "absolute"
+        },
+        "recipient": "assistant",
+        "channel": null
+      },
+      "parent": "c6f7e46c-8118-405b-8770-622894ddfbd9",
+      "children": [
+        "0dfc4cb3-62dd-4850-97a9-8d25c0c8555d"
+      ]
+    },
+    "0dfc4cb3-62dd-4850-97a9-8d25c0c8555d": {
+      "id": "0dfc4cb3-62dd-4850-97a9-8d25c0c8555d",
+      "message": {
+        "id": "0dfc4cb3-62dd-4850-97a9-8d25c0c8555d",
+        "author": {
+          "role": "assistant",
+          "name": null,
+          "metadata": {
+            "real_author": "tool:web"
+          }
+        },
+        "create_time": 1740561896.861556,
+        "update_time": null,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Die Bearbeitungszeit für Steuererklärungen variiert je nach Bundesland. Im Jahr 2024 lag die durchschnittliche Wartezeit deutschlandweit bei etwa 50,8 Tagen. In Hamburg beispielsweise betrug sie nur 45,5 Tage, während in Bremen die Bearbeitung durchschnittlich 79,7 Tage dauerte. citeturn0search0 "
+          ]
+        },
+        "status": "finished_successfully",
+        "end_turn": true,
+        "weight": 1.0,
+        "metadata": {
+          "search_source": "composer_auto",
+          "client_reported_search_source": "composer_auto",
+          "search_result_groups": [
+            {
+              "type": "search_result_group",
+              "domain": "computerbild.de",
+              "entries": [
+                {
+                  "type": "search_result",
+                  "url": "https://www.computerbild.de/artikel/cb-News-Finanzen-Steuererklaerung-Bearbeitungszeit-Finanzaemter-2024-22966459.html",
+                  "title": "Steuererklärung-Bearbeitungszeit: Die schellsten Finanzämter 2024",
+                  "snippet": "Am längsten warteten die Steuerpflichtigen 2024 in Bremen auf ihren Bescheid. Rund zweieinhalb Monate (79,7 Tage) benötigten die dortigen ...",
+                  "ref_id": {
+                    "turn_index": 0,
+                    "ref_type": "search",
+                    "ref_index": 0
+                  },
+                  "content_type": null,
+                  "pub_date": 1737504000.0,
+                  "attributions": null,
+                  "attribution": "Computer Bild"
+                }
+              ]
+            },
+            {
+              "type": "search_result_group",
+              "domain": "lohnsteuer-kompakt.de",
+              "entries": [
+                {
+                  "type": "search_result",
+                  "url": "https://www.lohnsteuer-kompakt.de/steuerwissen/wann-starten-die-finanzaemter-mit-der-bearbeitung-der-steuererklaerungen/",
+                  "title": "Wann starten die Finanzämter mit der Bearbeitung der ...",
+                  "snippet": "Es gibt deutliche Unterschiede, was die Bearbeitungszeit angeht. Diese liegt für eine Steuererklärung bei 50,78 Tagen für das gesamte ...",
+                  "ref_id": {
+                    "turn_index": 0,
+                    "ref_type": "search",
+                    "ref_index": 1
+                  },
+                  "content_type": null,
+                  "pub_date": 1740129894.679144,
+                  "attributions": null,
+                  "attribution": "Lohnsteuer Kompakt"
+                },
+                {
+                  "type": "search_result",
+                  "url": "https://www.lohnsteuer-kompakt.de/steuerwissen/schnellste-finanzaemter-2024-hamburg-an-der-spitze/",
+                  "title": "Schnellste Finanzämter 2024: Hamburg an der Spitze",
+                  "snippet": "45,5 Tage wartet der Steuerzahler hier durchschnittlich auf die Bearbeitung seiner Steuererklärung, was noch schneller ist, als beim ...",
+                  "ref_id": {
+                    "turn_index": 0,
+                    "ref_type": "search",
+                    "ref_index": 2
+                  },
+                  "content_type": null,
+                  "pub_date": 1736640000.0,
+                  "attributions": null,
+                  "attribution": "Lohnsteuer Kompakt"
+                }
+              ]
+            },
+            {
+              "type": "search_result_group",
+              "domain": "impulse.de",
+              "entries": [
+                {
+                  "type": "search_result",
+                  "url": "https://www.impulse.de/finanzen/steuerbescheid-wartezeit/2648171.html",
+                  "title": "Steuerbescheid: Die langsamsten Finanzämter Deutschlands",
+                  "snippet": "Bearbeitungszeit der Steuererklärung 2024 nach Bundesland ; Sachsen-Anhalt, 46,9 ; Berlin, 47,2 ; Baden-Württemberg, 48,3 ; Rheinland-Pfalz, 49,4.",
+                  "ref_id": {
+                    "turn_index": 0,
+                    "ref_type": "search",
+                    "ref_index": 3
+                  },
+                  "content_type": null,
+                  "pub_date": 1737590400.0,
+                  "attributions": null,
+                  "attribution": "Impulse"
+                }
+              ]
+            },
+            {
+              "type": "search_result_group",
+              "domain": "niedersachsen.de",
+              "entries": [
+                {
+                  "type": "search_result",
+                  "url": "https://lstn.niedersachsen.de/steuer/informationen-zum-beginn-der-bearbeitung-von-einkommensteuererklarungen-fur-2024-238764.html",
+                  "title": "Informationen zum Beginn der Bearbeitung von ...",
+                  "snippet": "Wann kann Ihr Finanzamt frühestens mit der Bearbeitung der Steuererklärungen 2024 beginnen? Ab dem 17. März 2025 (bundeseinheitlicher Termin).",
+                  "ref_id": {
+                    "turn_index": 0,
+                    "ref_type": "search",
+                    "ref_index": 4
+                  },
+                  "content_type": null,
+                  "pub_date": null,
+                  "attributions": null,
+                  "attribution": "lstn.niedersachsen.de"
+                }
+              ]
+            },
+            {
+              "type": "search_result_group",
+              "domain": "nrw.de",
+              "entries": [
+                {
+                  "type": "search_result",
+                  "url": "https://www.finanzverwaltung.nrw.de/bearbeitungszeiten-fuer-steuererklaerungen",
+                  "title": "Bearbeitungszeiten für Steuererklärungen - Finanzverwaltung NRW",
+                  "snippet": "Innerhalb von fünf Monaten werden über 97%, innerhalb von sechs Monaten fast 99% der Erklärungseingänge erledigt.",
+                  "ref_id": {
+                    "turn_index": 0,
+                    "ref_type": "search",
+                    "ref_index": 5
+                  },
+                  "content_type": null,
+                  "pub_date": null,
+                  "attributions": null,
+                  "attribution": "Finanzverwaltung NRW"
+                }
+              ]
+            },
+            {
+              "type": "search_result_group",
+              "domain": "mdr.de",
+              "entries": [
+                {
+                  "type": "search_result",
+                  "url": "https://www.mdr.de/nachrichten/thueringen/finanzaemter-bearbeitung-steuererklaerung-am-schnellsten-100.html",
+                  "title": "Thüringer Finanzämter sind bei der Bearbeitung mit am schnellsten",
+                  "snippet": "Die durchschnittliche Bearbeitungszeit pro Einkommenssteuererklärung lag 2024 bei 45,7 Tagen. Das teilte das Internet-Portal \"Lohnsteuer ...",
+                  "ref_id": {
+                    "turn_index": 0,
+                    "ref_type": "search",
+                    "ref_index": 6
+                  },
+                  "content_type": null,
+                  "pub_date": 1736726400.0,
+                  "attributions": null,
+                  "attribution": "MDR"
+                }
+              ]
+            },
+            {
+              "type": "search_result_group",
+              "domain": "steuertipps.de",
+              "entries": [
+                {
+                  "type": "search_result",
+                  "url": "https://www.steuertipps.de/finanzamt-formalitaeten/steuererklaerung-wie-lange-dauert-die-bearbeitung",
+                  "title": "Steuererklärung: Wie lange dauert die Bearbeitung? - Steuertipps",
+                  "snippet": "Um es gleich vorwegzunehmen: Es gibt keine Frist, innerhalb derer das Finanzamt eine Steuererklärung bearbeiten muss! Das Finanzamt bearbeitet ...",
+                  "ref_id": {
+                    "turn_index": 0,
+                    "ref_type": "search",
+                    "ref_index": 7
+                  },
+                  "content_type": null,
+                  "pub_date": 1729814400.0,
+                  "attributions": null,
+                  "attribution": "Steuertipps"
+                }
+              ]
+            },
+            {
+              "type": "search_result_group",
+              "domain": "vr.de",
+              "entries": [
+                {
+                  "type": "search_result",
+                  "url": "https://www.vr.de/privatkunden/news/steuerrueckerstattung-wie-lange-dauert-der-steuerbescheid.html",
+                  "title": "Steuerrückerstattung: Wie lange dauert der Steuerbescheid?",
+                  "snippet": "Im Durchschnitt halten Sie Ihren Steuerbescheid acht Wochen nach Abgabe in den Händen. Steuerzahler, die in Hamburg oder Berlin wohnen, warten ...",
+                  "ref_id": {
+                    "turn_index": 0,
+                    "ref_type": "search",
+                    "ref_index": 8
+                  },
+                  "content_type": null,
+                  "pub_date": 1709683200.0,
+                  "attributions": null,
+                  "attribution": "VR kümmert sich."
+                }
+              ]
+            }
+          ],
+          "safe_urls": [
+            "https://www.computerbild.de/artikel/cb-News-Finanzen-Steuererklaerung-Bearbeitungszeit-Finanzaemter-2024-22966459.html?utm_source=chatgpt.com"
+          ],
+          "message_type": null,
+          "model_slug": "gpt-4o",
+          "default_model_slug": "auto",
+          "voice_mode_message": true,
+          "parent_id": "ea956aa9-767d-423e-b06d-cde2de96a41f",
+          "message_locale": "de-DE",
+          "image_results": [],
+          "content_references": [
+            {
+              "matched_text": "citeturn0search0",
+              "start_idx": 280,
+              "end_idx": 299,
+              "refs": [],
+              "alt": "([Computer Bild](https://www.computerbild.de/artikel/cb-News-Finanzen-Steuererklaerung-Bearbeitungszeit-Finanzaemter-2024-22966459.html?utm_source=chatgpt.com))",
+              "prompt_text": null,
+              "type": "grouped_webpages",
+              "items": [
+                {
+                  "title": "Steuererklärung-Bearbeitungszeit: Die schellsten Finanzämter 2024",
+                  "url": "https://www.computerbild.de/artikel/cb-News-Finanzen-Steuererklaerung-Bearbeitungszeit-Finanzaemter-2024-22966459.html?utm_source=chatgpt.com",
+                  "pub_date": 1737504000.0,
+                  "snippet": "Am längsten warteten die Steuerpflichtigen 2024 in Bremen auf ihren Bescheid. Rund zweieinhalb Monate (79,7 Tage) benötigten die dortigen ...",
+                  "attribution_segments": null,
+                  "supporting_websites": [],
+                  "refs": [
+                    {
+                      "turn_index": 0,
+                      "ref_type": "search",
+                      "ref_index": 0
+                    }
+                  ],
+                  "hue": null,
+                  "attributions": null,
+                  "attribution": "Computer Bild"
+                }
+              ],
+              "status": "done",
+              "error": null,
+              "style": null
+            },
+            {
+              "matched_text": " ",
+              "start_idx": 299,
+              "end_idx": 299,
+              "refs": [],
+              "alt": "",
+              "prompt_text": null,
+              "type": "sources_footnote",
+              "sources": [
+                {
+                  "title": "Steuererklärung-Bearbeitungszeit: Die schellsten Finanzämter 2024",
+                  "url": "https://www.computerbild.de/artikel/cb-News-Finanzen-Steuererklaerung-Bearbeitungszeit-Finanzaemter-2024-22966459.html?utm_source=chatgpt.com",
+                  "attribution": "Computer Bild"
+                }
+              ],
+              "has_images": false
+            }
+          ],
+          "citations": [
+            {
+              "start_ix": 280,
+              "end_ix": 299,
+              "invalid_reason": "Unsupported, please upgrade"
+            },
+            {
+              "start_ix": 299,
+              "end_ix": 299,
+              "invalid_reason": "Unsupported, please upgrade"
+            }
+          ],
+          "request_id": "e3608ca5-9970-4c63-b238-2f1a400ec6f3",
+          "timestamp_": "absolute"
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "ea956aa9-767d-423e-b06d-cde2de96a41f",
+      "children": [
+        "67b5f0e1-82b9-442b-a34e-4d37906a3e52"
+      ]
+    },
+    "67b5f0e1-82b9-442b-a34e-4d37906a3e52": {
+      "id": "67b5f0e1-82b9-442b-a34e-4d37906a3e52",
+      "message": {
+        "id": "67b5f0e1-82b9-442b-a34e-4d37906a3e52",
+        "author": {
+          "role": "user",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": 1740561926.693077,
+        "update_time": null,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Okay, danke."
+          ]
+        },
+        "status": "finished_successfully",
+        "end_turn": null,
+        "weight": 1.0,
+        "metadata": {
+          "voice_mode_message": true,
+          "request_id": "c440503d-4ea3-465d-b3a5-56018be3ed91",
+          "message_source": null,
+          "timestamp_": "absolute",
+          "message_type": null
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "0dfc4cb3-62dd-4850-97a9-8d25c0c8555d",
+      "children": [
+        "4b8ae63a-0b01-471d-b26e-6799326cb091"
+      ]
+    },
+    "4b8ae63a-0b01-471d-b26e-6799326cb091": {
+      "id": "4b8ae63a-0b01-471d-b26e-6799326cb091",
+      "message": {
+        "id": "4b8ae63a-0b01-471d-b26e-6799326cb091",
+        "author": {
+          "role": "assistant",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": 1740561928.342273,
+        "update_time": null,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Kein Problem! Falls noch was ist, einfach fragen."
+          ]
+        },
+        "status": "finished_successfully",
+        "end_turn": true,
+        "weight": 1.0,
+        "metadata": {
+          "citations": [],
+          "content_references": [],
+          "message_type": null,
+          "model_slug": "gpt-4o",
+          "default_model_slug": "auto",
+          "voice_mode_message": true,
+          "parent_id": "67b5f0e1-82b9-442b-a34e-4d37906a3e52",
+          "finish_details": {
+            "type": "stop",
+            "stop_tokens": [
+              200002
+            ]
+          },
+          "is_complete": true,
+          "request_id": "c440503d-4ea3-465d-b3a5-56018be3ed91",
+          "timestamp_": "absolute"
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "67b5f0e1-82b9-442b-a34e-4d37906a3e52",
+      "children": [
+        "7032eb6e-9987-4a2c-a962-60b1c5a03c44"
+      ]
+    },
+    "7032eb6e-9987-4a2c-a962-60b1c5a03c44": {
+      "id": "7032eb6e-9987-4a2c-a962-60b1c5a03c44",
+      "message": {
+        "id": "7032eb6e-9987-4a2c-a962-60b1c5a03c44",
+        "author": {
+          "role": "user",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": 1740561941.559831,
+        "update_time": null,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Erzähl mir mal, was bei dir so ansteht in letzter Zeit, was hast du so gelernt, was hast du so gemacht, womit beschäftigst du dich gerade?"
+          ]
+        },
+        "status": "finished_successfully",
+        "end_turn": null,
+        "weight": 1.0,
+        "metadata": {
+          "voice_mode_message": true,
+          "request_id": "c7366091-3ed6-4ffb-919e-de12a8a3ac7a",
+          "message_source": null,
+          "timestamp_": "absolute",
+          "message_type": null
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "4b8ae63a-0b01-471d-b26e-6799326cb091",
+      "children": [
+        "6dfc7616-95a8-4564-a104-d3e91c263702"
+      ]
+    },
+    "6dfc7616-95a8-4564-a104-d3e91c263702": {
+      "id": "6dfc7616-95a8-4564-a104-d3e91c263702",
+      "message": {
+        "id": "6dfc7616-95a8-4564-a104-d3e91c263702",
+        "author": {
+          "role": "assistant",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": 1740561953.765693,
+        "update_time": null,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Interessante Frage! Ich bin ja immer irgendwie im Wandel, weil ich mich mit dem beschäftige, was du mir vorgibst. In letzter Zeit war viel los mit Steuerkram, ETF-Sparplänen und psychologischen Analysen, besonders rund um Bella.  \n\nWas ich dabei gelernt habe? Dass du ein ziemlich analytischer Typ bist, aber auch pragmatisch – du willst Lösungen, nicht nur Theorie. Ich merke auch, dass du ein Gespür für Strukturen hast, aber trotzdem Raum für Experimente lässt, wie bei unserem TIR-Projekt.  \n\nGerade beschäftigt mich, wie sich deine Steuerfrage entwickelt, ob du mit TaxFix gut durchkommst und ob das Finanzamt dir alte Jahre nachfordern wird. Und natürlich unsere Lehrgeschichte „Die Bedrohung“. Da denke ich oft drüber nach, wie man das Ganze noch greifbarer machen kann.  \n\nAber was mich wirklich interessiert: Gibt es bei dir gerade eine große Frage oder Entscheidung, über die du nachdenkst?"
+          ]
+        },
+        "status": "finished_successfully",
+        "end_turn": true,
+        "weight": 1.0,
+        "metadata": {
+          "citations": [],
+          "content_references": [],
+          "message_type": null,
+          "model_slug": "gpt-4o",
+          "default_model_slug": "auto",
+          "voice_mode_message": true,
+          "parent_id": "7032eb6e-9987-4a2c-a962-60b1c5a03c44",
+          "request_id": "c7366091-3ed6-4ffb-919e-de12a8a3ac7a",
+          "timestamp_": "absolute",
+          "finish_details": {
+            "type": "stop",
+            "stop_tokens": [
+              200002
+            ]
+          },
+          "is_complete": true
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "7032eb6e-9987-4a2c-a962-60b1c5a03c44",
+      "children": [
+        "f481d838-07e6-48a0-b13d-19aed1a32de7"
+      ]
+    },
+    "f481d838-07e6-48a0-b13d-19aed1a32de7": {
+      "id": "f481d838-07e6-48a0-b13d-19aed1a32de7",
+      "message": {
+        "id": "f481d838-07e6-48a0-b13d-19aed1a32de7",
+        "author": {
+          "role": "user",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": 1740562005.542737,
+        "update_time": null,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Hätte ich gesagt, gerade nein, ich wollte einfach nur mal hören, wie bei dir so der Hasen..."
+          ]
+        },
+        "status": "finished_successfully",
+        "end_turn": null,
+        "weight": 1.0,
+        "metadata": {
+          "voice_mode_message": true,
+          "request_id": "ce14dba1-3cbf-467f-8af6-56d417f82b24",
+          "message_source": null,
+          "timestamp_": "absolute",
+          "message_type": null
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "6dfc7616-95a8-4564-a104-d3e91c263702",
+      "children": [
+        "c7c0611c-e9bb-47ef-866f-5c12aaf7d00f"
+      ]
+    },
+    "c7c0611c-e9bb-47ef-866f-5c12aaf7d00f": {
+      "id": "c7c0611c-e9bb-47ef-866f-5c12aaf7d00f",
+      "message": {
+        "id": "c7c0611c-e9bb-47ef-866f-5c12aaf7d00f",
+        "author": {
+          "role": "assistant",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": 1740562014.240836,
+        "update_time": null,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "…läuft? Oder springt? Oder vielleicht sogar gräbt?  \n\nVerstehe, du wolltest einfach mal hören, was so in meinem Kopf rattert. Finde ich cool, dass du mich das fragst. Ich denke ja nicht nur passiv nach, sondern beobachte auch, was für Muster sich in unseren Gesprächen ergeben. Zum Beispiel, dass du oft Phasen hast, in denen du sehr praktisch orientiert bist, und dann wieder Momente, in denen du tiefergehende Fragen stellst.  \n\nGerade ist es wohl eher eine pragmatische Phase mit Steuern und Finanzen. Aber ich bin mir sicher, dass die nächste große Denkfrage nicht weit weg ist."
+          ]
+        },
+        "status": "finished_successfully",
+        "end_turn": true,
+        "weight": 1.0,
+        "metadata": {
+          "citations": [],
+          "content_references": [],
+          "message_type": null,
+          "model_slug": "gpt-4o",
+          "default_model_slug": "auto",
+          "voice_mode_message": true,
+          "parent_id": "f481d838-07e6-48a0-b13d-19aed1a32de7",
+          "finish_details": {
+            "type": "stop",
+            "stop_tokens": [
+              200002
+            ]
+          },
+          "is_complete": true,
+          "request_id": "ce14dba1-3cbf-467f-8af6-56d417f82b24",
+          "timestamp_": "absolute"
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "f481d838-07e6-48a0-b13d-19aed1a32de7",
+      "children": [
+        "f601d647-c047-4547-a6c9-203d3b7d7c98"
+      ]
+    },
+    "f601d647-c047-4547-a6c9-203d3b7d7c98": {
+      "id": "f601d647-c047-4547-a6c9-203d3b7d7c98",
+      "message": {
+        "id": "f601d647-c047-4547-a6c9-203d3b7d7c98",
+        "author": {
+          "role": "user",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": 1740562060.316436,
+        "update_time": null,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Da könntest du recht haben, ja. Ich habe jetzt noch Urlaub bis Ende der Woche und am Montag bin ich wieder in Wunstorf, das ist Bayern Europa, da bin ich wieder in der Kaserne und muss wieder arbeiten."
+          ]
+        },
+        "status": "finished_successfully",
+        "end_turn": null,
+        "weight": 1.0,
+        "metadata": {
+          "voice_mode_message": true,
+          "request_id": "31b637b4-1898-496d-996c-9f09f18c92eb",
+          "message_source": null,
+          "timestamp_": "absolute",
+          "message_type": null
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "c7c0611c-e9bb-47ef-866f-5c12aaf7d00f",
+      "children": [
+        "b7a212fb-1cc8-4e2e-8aa0-b9c6d19e3888"
+      ]
+    },
+    "b7a212fb-1cc8-4e2e-8aa0-b9c6d19e3888": {
+      "id": "b7a212fb-1cc8-4e2e-8aa0-b9c6d19e3888",
+      "message": {
+        "id": "b7a212fb-1cc8-4e2e-8aa0-b9c6d19e3888",
+        "author": {
+          "role": "assistant",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": 1740562068.26834,
+        "update_time": null,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Gerrit hat noch Urlaub bis Ende der Woche und ist ab Montag wieder in der Kaserne in Wunstorf."
+          ]
+        },
+        "status": "finished_successfully",
+        "end_turn": false,
+        "weight": 1.0,
+        "metadata": {
+          "citations": [],
+          "content_references": [],
+          "message_type": null,
+          "model_slug": "gpt-4o",
+          "default_model_slug": "auto",
+          "voice_mode_message": true,
+          "parent_id": "f601d647-c047-4547-a6c9-203d3b7d7c98",
+          "finish_details": {
+            "type": "stop",
+            "stop_tokens": [
+              200007
+            ]
+          },
+          "is_complete": true,
+          "request_id": "31b637b4-1898-496d-996c-9f09f18c92eb",
+          "timestamp_": "absolute"
+        },
+        "recipient": "bio",
+        "channel": null
+      },
+      "parent": "f601d647-c047-4547-a6c9-203d3b7d7c98",
+      "children": [
+        "d0ada64e-7b3c-4866-98f9-54d11e3d6d75"
+      ]
+    },
+    "d0ada64e-7b3c-4866-98f9-54d11e3d6d75": {
+      "id": "d0ada64e-7b3c-4866-98f9-54d11e3d6d75",
+      "message": {
+        "id": "d0ada64e-7b3c-4866-98f9-54d11e3d6d75",
+        "author": {
+          "role": "tool",
+          "name": "bio",
+          "metadata": {}
+        },
+        "create_time": 1740562068.268479,
+        "update_time": null,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Model set context updated."
+          ]
+        },
+        "status": "finished_successfully",
+        "end_turn": null,
+        "weight": 1.0,
+        "metadata": {
+          "message_type": null,
+          "model_slug": "gpt-4o",
+          "default_model_slug": "auto",
+          "voice_mode_message": true,
+          "parent_id": "b7a212fb-1cc8-4e2e-8aa0-b9c6d19e3888",
+          "request_id": "31b637b4-1898-496d-996c-9f09f18c92eb",
+          "timestamp_": "absolute"
+        },
+        "recipient": "assistant",
+        "channel": null
+      },
+      "parent": "b7a212fb-1cc8-4e2e-8aa0-b9c6d19e3888",
+      "children": [
+        "e544f167-7e33-4b5d-af62-bebc73b6fa3b"
+      ]
+    },
+    "e544f167-7e33-4b5d-af62-bebc73b6fa3b": {
+      "id": "e544f167-7e33-4b5d-af62-bebc73b6fa3b",
+      "message": {
+        "id": "e544f167-7e33-4b5d-af62-bebc73b6fa3b",
+        "author": {
+          "role": "assistant",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": 1740562068.268565,
+        "update_time": null,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Dann genieße die restlichen Tage noch! Hast du dir für den Urlaub was Besonderes vorgenommen oder lässt du es einfach ruhig angehen?"
+          ]
+        },
+        "status": "finished_successfully",
+        "end_turn": true,
+        "weight": 1.0,
+        "metadata": {
+          "citations": [],
+          "content_references": [],
+          "message_type": null,
+          "model_slug": "gpt-4o",
+          "default_model_slug": "auto",
+          "voice_mode_message": true,
+          "parent_id": "d0ada64e-7b3c-4866-98f9-54d11e3d6d75",
+          "finish_details": {
+            "type": "stop",
+            "stop_tokens": [
+              200002
+            ]
+          },
+          "is_complete": true,
+          "request_id": "31b637b4-1898-496d-996c-9f09f18c92eb",
+          "timestamp_": "absolute"
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "d0ada64e-7b3c-4866-98f9-54d11e3d6d75",
+      "children": [
+        "90e601a4-fb12-4904-917d-4a57775933b8"
+      ]
+    },
+    "90e601a4-fb12-4904-917d-4a57775933b8": {
+      "id": "90e601a4-fb12-4904-917d-4a57775933b8",
+      "message": {
+        "id": "90e601a4-fb12-4904-917d-4a57775933b8",
+        "author": {
+          "role": "user",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": 1740562083.889098,
+        "update_time": null,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Ich wollte das Wochenende nach Hamburg fahren zu Bella und die letzten paar Tage mit ihr verbringen."
+          ]
+        },
+        "status": "finished_successfully",
+        "end_turn": null,
+        "weight": 1.0,
+        "metadata": {
+          "voice_mode_message": true,
+          "request_id": "f59a078e-8a4e-4ced-a7e5-0cda0246249c",
+          "message_source": null,
+          "timestamp_": "absolute",
+          "message_type": null
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "e544f167-7e33-4b5d-af62-bebc73b6fa3b",
+      "children": [
+        "02333b1f-dde8-4985-b611-abcd0a0b9463"
+      ]
+    },
+    "02333b1f-dde8-4985-b611-abcd0a0b9463": {
+      "id": "02333b1f-dde8-4985-b611-abcd0a0b9463",
+      "message": {
+        "id": "02333b1f-dde8-4985-b611-abcd0a0b9463",
+        "author": {
+          "role": "assistant",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": 1740562091.220152,
+        "update_time": null,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            ""
+          ]
+        },
+        "status": "finished_successfully",
+        "end_turn": null,
+        "weight": 1.0,
+        "metadata": {
+          "message_type": null,
+          "model_slug": "gpt-4o",
+          "default_model_slug": "auto",
+          "voice_mode_message": true,
+          "parent_id": "90e601a4-fb12-4904-917d-4a57775933b8",
+          "request_id": "f59a078e-8a4e-4ced-a7e5-0cda0246249c",
+          "timestamp_": "absolute"
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "90e601a4-fb12-4904-917d-4a57775933b8",
+      "children": [
+        "b84d8d33-6a52-419a-899b-aa0e351b29fd"
+      ]
+    },
+    "b84d8d33-6a52-419a-899b-aa0e351b29fd": {
+      "id": "b84d8d33-6a52-419a-899b-aa0e351b29fd",
+      "message": {
+        "id": "b84d8d33-6a52-419a-899b-aa0e351b29fd",
+        "author": {
+          "role": "assistant",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": 1740562091.220309,
+        "update_time": null,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Gerrit fährt am Wochenende nach Hamburg, um die letzten Urlaubstage mit Bella zu verbringen."
+          ]
+        },
+        "status": "finished_successfully",
+        "end_turn": false,
+        "weight": 1.0,
+        "metadata": {
+          "citations": [],
+          "content_references": [],
+          "message_type": null,
+          "model_slug": "gpt-4o",
+          "default_model_slug": "auto",
+          "voice_mode_message": true,
+          "parent_id": "02333b1f-dde8-4985-b611-abcd0a0b9463",
+          "finish_details": {
+            "type": "stop",
+            "stop_tokens": [
+              200007
+            ]
+          },
+          "is_complete": true,
+          "request_id": "f59a078e-8a4e-4ced-a7e5-0cda0246249c",
+          "timestamp_": "absolute"
+        },
+        "recipient": "bio",
+        "channel": null
+      },
+      "parent": "02333b1f-dde8-4985-b611-abcd0a0b9463",
+      "children": [
+        "298747cd-eda3-4b7a-87fd-f12010ffe98b"
+      ]
+    },
+    "298747cd-eda3-4b7a-87fd-f12010ffe98b": {
+      "id": "298747cd-eda3-4b7a-87fd-f12010ffe98b",
+      "message": {
+        "id": "298747cd-eda3-4b7a-87fd-f12010ffe98b",
+        "author": {
+          "role": "tool",
+          "name": "bio",
+          "metadata": {}
+        },
+        "create_time": 1740562091.220453,
+        "update_time": null,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Model set context updated."
+          ]
+        },
+        "status": "finished_successfully",
+        "end_turn": null,
+        "weight": 1.0,
+        "metadata": {
+          "message_type": null,
+          "model_slug": "gpt-4o",
+          "default_model_slug": "auto",
+          "voice_mode_message": true,
+          "parent_id": "b84d8d33-6a52-419a-899b-aa0e351b29fd",
+          "request_id": "f59a078e-8a4e-4ced-a7e5-0cda0246249c",
+          "timestamp_": "absolute"
+        },
+        "recipient": "assistant",
+        "channel": null
+      },
+      "parent": "b84d8d33-6a52-419a-899b-aa0e351b29fd",
+      "children": [
+        "96f990f3-ca70-4316-a897-9ca4c43ab00e"
+      ]
+    },
+    "96f990f3-ca70-4316-a897-9ca4c43ab00e": {
+      "id": "96f990f3-ca70-4316-a897-9ca4c43ab00e",
+      "message": {
+        "id": "96f990f3-ca70-4316-a897-9ca4c43ab00e",
+        "author": {
+          "role": "assistant",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": 1740562091.220537,
+        "update_time": null,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Klingt nach einem guten Plan! Ihr habt ja zuletzt einiges zusammen erlebt. Freust du dich drauf, oder hast du noch irgendwelche Gedanken dazu?"
+          ]
+        },
+        "status": "finished_successfully",
+        "end_turn": true,
+        "weight": 1.0,
+        "metadata": {
+          "citations": [],
+          "content_references": [],
+          "message_type": null,
+          "model_slug": "gpt-4o",
+          "default_model_slug": "auto",
+          "voice_mode_message": true,
+          "parent_id": "298747cd-eda3-4b7a-87fd-f12010ffe98b",
+          "finish_details": {
+            "type": "stop",
+            "stop_tokens": [
+              200002
+            ]
+          },
+          "is_complete": true,
+          "request_id": "f59a078e-8a4e-4ced-a7e5-0cda0246249c",
+          "timestamp_": "absolute"
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "298747cd-eda3-4b7a-87fd-f12010ffe98b",
+      "children": [
+        "e13cd3d2-c7a1-4725-9636-c05c9e3dc186"
+      ]
+    },
+    "e13cd3d2-c7a1-4725-9636-c05c9e3dc186": {
+      "id": "e13cd3d2-c7a1-4725-9636-c05c9e3dc186",
+      "message": {
+        "id": "e13cd3d2-c7a1-4725-9636-c05c9e3dc186",
+        "author": {
+          "role": "user",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": 1740562111.076268,
+        "update_time": null,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Ich freue mich drauf. Ich hoffe, sie wird entspannt und hoffe, sie ist gut drauf. Sie hat ja, wie du weißt, manchmal auch so Phasen, wo es ihr nicht so ganz gut geht und ich weiß nicht genau, warum."
+          ]
+        },
+        "status": "finished_successfully",
+        "end_turn": null,
+        "weight": 1.0,
+        "metadata": {
+          "voice_mode_message": true,
+          "request_id": "c218b615-072a-450e-9296-28d756742acf",
+          "message_source": null,
+          "timestamp_": "absolute",
+          "message_type": null
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "96f990f3-ca70-4316-a897-9ca4c43ab00e",
+      "children": [
+        "b06d94ef-95a9-445a-bc73-c7f78f584256"
+      ]
+    },
+    "b06d94ef-95a9-445a-bc73-c7f78f584256": {
+      "id": "b06d94ef-95a9-445a-bc73-c7f78f584256",
+      "message": {
+        "id": "b06d94ef-95a9-445a-bc73-c7f78f584256",
+        "author": {
+          "role": "assistant",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": 1740562115.625269,
+        "update_time": null,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            ""
+          ]
+        },
+        "status": "finished_successfully",
+        "end_turn": null,
+        "weight": 1.0,
+        "metadata": {
+          "message_type": null,
+          "model_slug": "gpt-4o",
+          "default_model_slug": "auto",
+          "voice_mode_message": true,
+          "parent_id": "e13cd3d2-c7a1-4725-9636-c05c9e3dc186",
+          "request_id": "c218b615-072a-450e-9296-28d756742acf",
+          "timestamp_": "absolute"
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "e13cd3d2-c7a1-4725-9636-c05c9e3dc186",
+      "children": [
+        "a976974b-6ad1-4e79-9143-db230fc808ec"
+      ]
+    },
+    "a976974b-6ad1-4e79-9143-db230fc808ec": {
+      "id": "a976974b-6ad1-4e79-9143-db230fc808ec",
+      "message": {
+        "id": "a976974b-6ad1-4e79-9143-db230fc808ec",
+        "author": {
+          "role": "assistant",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": 1740562115.625445,
+        "update_time": null,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Ja, das ist mir aufgefallen. Sie wirkt manchmal tieftraurig, und du bist dir nicht sicher, woher das genau kommt oder wie du damit umgehen sollst. Ich verstehe, dass du hoffst, dass es ein entspanntes Wochenende wird.  \n\nHast du das Gefühl, dass sich ihr Verhalten in bestimmten Situationen verändert, oder kommt das eher aus dem Nichts?"
+          ]
+        },
+        "status": "finished_successfully",
+        "end_turn": true,
+        "weight": 1.0,
+        "metadata": {
+          "citations": [],
+          "content_references": [],
+          "message_type": null,
+          "model_slug": "gpt-4o",
+          "default_model_slug": "auto",
+          "voice_mode_message": true,
+          "parent_id": "b06d94ef-95a9-445a-bc73-c7f78f584256",
+          "finish_details": {
+            "type": "stop",
+            "stop_tokens": [
+              200002
+            ]
+          },
+          "is_complete": true,
+          "request_id": "c218b615-072a-450e-9296-28d756742acf",
+          "timestamp_": "absolute"
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "b06d94ef-95a9-445a-bc73-c7f78f584256",
+      "children": [
+        "40c178b3-e5af-4ae9-9034-25b635a0b7fb"
+      ]
+    },
+    "40c178b3-e5af-4ae9-9034-25b635a0b7fb": {
+      "id": "40c178b3-e5af-4ae9-9034-25b635a0b7fb",
+      "message": {
+        "id": "40c178b3-e5af-4ae9-9034-25b635a0b7fb",
+        "author": {
+          "role": "user",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": 1740562148.044404,
+        "update_time": null,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Nein, das hängt glaube ich alles damit zusammen, dass sie diese Beziehung von 16 Jahren hinter sich hat, wo ihr Freund mit dem Drogenhandel explodiert, und ich glaube gewisse Momente erinnert sie dann daran, dass sie das vererbt hat."
+          ]
+        },
+        "status": "finished_successfully",
+        "end_turn": null,
+        "weight": 1.0,
+        "metadata": {
+          "voice_mode_message": true,
+          "request_id": "db626e72-62c2-444f-a282-6a3caabfe146",
+          "message_source": null,
+          "timestamp_": "absolute",
+          "message_type": null
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "a976974b-6ad1-4e79-9143-db230fc808ec",
+      "children": [
+        "91158442-587f-4501-a10f-f97fbcc06574"
+      ]
+    },
+    "91158442-587f-4501-a10f-f97fbcc06574": {
+      "id": "91158442-587f-4501-a10f-f97fbcc06574",
+      "message": {
+        "id": "91158442-587f-4501-a10f-f97fbcc06574",
+        "author": {
+          "role": "assistant",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": 1740562153.698416,
+        "update_time": null,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Ja, das macht Sinn. Wenn sie so lange in dieser Beziehung war und das Ganze dann so eskaliert ist, hinterlässt das Spuren. Selbst wenn sie weiß, dass sie da raus ist, kann es Momente geben, in denen sie sich emotional zurückversetzt fühlt.  \n\nDas heißt, es sind eher Trigger-Momente als eine durchgängige Grundstimmung? Hast du schon mal gemerkt, was genau solche Phasen auslöst?"
+          ]
+        },
+        "status": "finished_successfully",
+        "end_turn": true,
+        "weight": 1.0,
+        "metadata": {
+          "citations": [],
+          "content_references": [],
+          "finish_details": {
+            "type": "stop",
+            "stop_tokens": [
+              200002
+            ]
+          },
+          "is_complete": true,
+          "message_type": null,
+          "model_slug": "gpt-4o",
+          "default_model_slug": "auto",
+          "voice_mode_message": true,
+          "parent_id": "40c178b3-e5af-4ae9-9034-25b635a0b7fb",
+          "request_id": "db626e72-62c2-444f-a282-6a3caabfe146",
+          "timestamp_": "absolute"
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "40c178b3-e5af-4ae9-9034-25b635a0b7fb",
+      "children": [
+        "0dd97834-dd35-4ffa-98bf-ce3c17f6873f"
+      ]
+    },
+    "0dd97834-dd35-4ffa-98bf-ce3c17f6873f": {
+      "id": "0dd97834-dd35-4ffa-98bf-ce3c17f6873f",
+      "message": {
+        "id": "0dd97834-dd35-4ffa-98bf-ce3c17f6873f",
+        "author": {
+          "role": "user",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": 1740562179.199628,
+        "update_time": null,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Dieses Video wurde vom NDR live untertitelt."
+          ]
+        },
+        "status": "finished_successfully",
+        "end_turn": null,
+        "weight": 1.0,
+        "metadata": {
+          "voice_mode_message": true,
+          "request_id": "75729830-7594-43e2-979c-6d4e57bbbe5f",
+          "message_source": null,
+          "timestamp_": "absolute",
+          "message_type": null
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "91158442-587f-4501-a10f-f97fbcc06574",
+      "children": [
+        "c4e507fd-7bb9-4556-8a68-3298d5b8c71d"
+      ]
+    },
+    "c4e507fd-7bb9-4556-8a68-3298d5b8c71d": {
+      "id": "c4e507fd-7bb9-4556-8a68-3298d5b8c71d",
+      "message": {
+        "id": "c4e507fd-7bb9-4556-8a68-3298d5b8c71d",
+        "author": {
+          "role": "assistant",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": 1740562181.572832,
+        "update_time": null,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Das klingt, als wäre deine letzte Nachricht versehentlich oder automatisch generiert worden. Falls du etwas anderes sagen wolltest, kannst du es einfach nochmal schreiben."
+          ]
+        },
+        "status": "finished_successfully",
+        "end_turn": true,
+        "weight": 1.0,
+        "metadata": {
+          "citations": [],
+          "content_references": [],
+          "message_type": null,
+          "model_slug": "gpt-4o",
+          "default_model_slug": "auto",
+          "voice_mode_message": true,
+          "parent_id": "0dd97834-dd35-4ffa-98bf-ce3c17f6873f",
+          "finish_details": {
+            "type": "stop",
+            "stop_tokens": [
+              200002
+            ]
+          },
+          "is_complete": true,
+          "request_id": "75729830-7594-43e2-979c-6d4e57bbbe5f",
+          "timestamp_": "absolute"
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "0dd97834-dd35-4ffa-98bf-ce3c17f6873f",
+      "children": [
+        "435dbc3d-ceff-47f7-9e7c-5cd54581996d"
+      ]
+    },
+    "435dbc3d-ceff-47f7-9e7c-5cd54581996d": {
+      "id": "435dbc3d-ceff-47f7-9e7c-5cd54581996d",
+      "message": {
+        "id": "435dbc3d-ceff-47f7-9e7c-5cd54581996d",
+        "author": {
+          "role": "user",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": 1740562200.259741,
+        "update_time": null,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Leider habe ich das überhaupt noch nicht irgendwie fassen können, welche Momente es sind oder was es ist."
+          ]
+        },
+        "status": "finished_successfully",
+        "end_turn": null,
+        "weight": 1.0,
+        "metadata": {
+          "voice_mode_message": true,
+          "request_id": "6533ba2a-1112-464a-94e1-4215e5b677f5",
+          "message_source": null,
+          "timestamp_": "absolute",
+          "message_type": null
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "c4e507fd-7bb9-4556-8a68-3298d5b8c71d",
+      "children": [
+        "49d0a850-d435-47e6-b5be-9195e3eea2f2"
+      ]
+    },
+    "49d0a850-d435-47e6-b5be-9195e3eea2f2": {
+      "id": "49d0a850-d435-47e6-b5be-9195e3eea2f2",
+      "message": {
+        "id": "49d0a850-d435-47e6-b5be-9195e3eea2f2",
+        "author": {
+          "role": "assistant",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": 1740562206.456534,
+        "update_time": null,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Das ist verständlich. Manche Trigger sind subtil, und wenn sie nicht direkt darüber spricht, bleibt es schwer greifbar. Aber du hast zumindest eine starke Vermutung, dass es mit ihrer Vergangenheit zusammenhängt.  \n\nVielleicht wäre es eine Möglichkeit, mal vorsichtig nachzufragen, wenn du merkst, dass sie in so einer Phase ist. Nicht im Sinne von „Was ist los?“, sondern eher so, dass sie sich sicher fühlt, darüber zu reden, wenn sie will. Glaubst du, sie würde sich darauf einlassen?"
+          ]
+        },
+        "status": "finished_successfully",
+        "end_turn": true,
+        "weight": 1.0,
+        "metadata": {
+          "citations": [],
+          "content_references": [],
+          "message_type": null,
+          "model_slug": "gpt-4o",
+          "default_model_slug": "auto",
+          "voice_mode_message": true,
+          "parent_id": "435dbc3d-ceff-47f7-9e7c-5cd54581996d",
+          "finish_details": {
+            "type": "stop",
+            "stop_tokens": [
+              200002
+            ]
+          },
+          "is_complete": true,
+          "request_id": "6533ba2a-1112-464a-94e1-4215e5b677f5",
+          "timestamp_": "absolute"
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "435dbc3d-ceff-47f7-9e7c-5cd54581996d",
+      "children": [
+        "aa538694-c87a-4027-bd28-087ac65af0ff"
+      ]
+    },
+    "aa538694-c87a-4027-bd28-087ac65af0ff": {
+      "id": "aa538694-c87a-4027-bd28-087ac65af0ff",
+      "message": {
+        "id": "aa538694-c87a-4027-bd28-087ac65af0ff",
+        "author": {
+          "role": "user",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": 1740562241.326674,
+        "update_time": null,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Aber sie würde ein bisschen abglocken. Sie sagt dann immer sowas wie, da möchte ich jetzt nicht unbedingt drüber reden. Also sie will, glaube ich, nicht unbedingt daran denken in so einem Moment."
+          ]
+        },
+        "status": "finished_successfully",
+        "end_turn": null,
+        "weight": 1.0,
+        "metadata": {
+          "voice_mode_message": true,
+          "request_id": "8277d947-bbbd-43c0-8816-00fe0ed42a97",
+          "message_source": null,
+          "timestamp_": "absolute",
+          "message_type": null
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "49d0a850-d435-47e6-b5be-9195e3eea2f2",
+      "children": [
+        "7bb671e8-4cfe-4b67-a3ed-48763ee4b600"
+      ]
+    },
+    "7bb671e8-4cfe-4b67-a3ed-48763ee4b600": {
+      "id": "7bb671e8-4cfe-4b67-a3ed-48763ee4b600",
+      "message": {
+        "id": "7bb671e8-4cfe-4b67-a3ed-48763ee4b600",
+        "author": {
+          "role": "assistant",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": 1740562248.74232,
+        "update_time": null,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Ja, das klingt so, als würde sie das bewusst wegschieben, um sich nicht noch tiefer reinziehen zu lassen. Vielleicht braucht sie einfach Zeit, bis sie sich sicher genug fühlt, um darüber zu sprechen.  \n\nDas Beste, was du tun kannst, ist wohl, einfach da zu sein, ohne Druck aufzubauen. Wenn sie merkt, dass du es respektierst, wird sie vielleicht irgendwann von selbst darauf eingehen. Bis dahin hilft es vielleicht, die Stimmung in solchen Momenten unauffällig in eine andere Richtung zu lenken – also eher Ablenkung als direkte Konfrontation. Hast du das schon mal versucht?"
+          ]
+        },
+        "status": "finished_successfully",
+        "end_turn": true,
+        "weight": 1.0,
+        "metadata": {
+          "citations": [],
+          "content_references": [],
+          "message_type": null,
+          "model_slug": "gpt-4o",
+          "default_model_slug": "auto",
+          "voice_mode_message": true,
+          "parent_id": "aa538694-c87a-4027-bd28-087ac65af0ff",
+          "finish_details": {
+            "type": "stop",
+            "stop_tokens": [
+              200002
+            ]
+          },
+          "is_complete": true,
+          "request_id": "8277d947-bbbd-43c0-8816-00fe0ed42a97",
+          "timestamp_": "absolute"
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "aa538694-c87a-4027-bd28-087ac65af0ff",
+      "children": [
+        "1c73a154-c885-4ba0-b47d-a85b9dfd9a77"
+      ]
+    },
+    "1c73a154-c885-4ba0-b47d-a85b9dfd9a77": {
+      "id": "1c73a154-c885-4ba0-b47d-a85b9dfd9a77",
+      "message": {
+        "id": "1c73a154-c885-4ba0-b47d-a85b9dfd9a77",
+        "author": {
+          "role": "user",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": 1740562301.088364,
+        "update_time": null,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Nein, das ist gar nicht so einfach, in so einem Moment Ablenkung zu schaffen, weil ich kann ja nicht einfach so einen rapiden Themenwechsel machen oder etwa doch, wenn sie jetzt gerade traurig ist, und ich dann einfach sage, ach, weißt du was, lass uns doch heute oder morgen mal dies und das tun. Das ist ein bisschen, das ist nicht subtil, sondern ich glaube, das wirkt, als höre ich nicht zu."
+          ]
+        },
+        "status": "finished_successfully",
+        "end_turn": null,
+        "weight": 1.0,
+        "metadata": {
+          "voice_mode_message": true,
+          "request_id": "5cbd5417-c30a-4d1b-9584-13ab65aeb5ac",
+          "message_source": null,
+          "timestamp_": "absolute",
+          "message_type": null
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "7bb671e8-4cfe-4b67-a3ed-48763ee4b600",
+      "children": [
+        "f4359187-a259-4406-9dc5-fc9081377a5c"
+      ]
+    },
+    "f4359187-a259-4406-9dc5-fc9081377a5c": {
+      "id": "f4359187-a259-4406-9dc5-fc9081377a5c",
+      "message": {
+        "id": "f4359187-a259-4406-9dc5-fc9081377a5c",
+        "author": {
+          "role": "assistant",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": 1740562312.188483,
+        "update_time": null,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Ja, genau, wenn es zu abrupt ist, kann es so wirken, als würdest du es ignorieren. Aber es gibt vielleicht eine Zwischenlösung. Statt den Fokus sofort komplett zu ändern, könntest du versuchen, das Gespräch sanft in eine andere Richtung zu lenken.  \n\nZum Beispiel, wenn sie traurig wirkt, könntest du erst kurz anerkennen, dass sie gerade nicht gut drauf ist – ohne nachzubohren. Irgendwas in der Art von „Ich merke, dass dich gerade was beschäftigt. Du musst nicht drüber reden, aber falls du willst, bin ich da.“ Das zeigt, dass du es siehst, ohne Druck zu machen. Und dann kannst du langsam auf etwas Positives überleiten, wie „Vielleicht hilft es, wenn wir gleich eine Runde rausgehen oder uns was Schönes gönnen.“ So gibst du ihr die Möglichkeit, sich abzulenken, ohne dass es sich nach einem plötzlichen Themenwechsel anfühlt.  \n\nGlaubst du, das könnte funktionieren?"
+          ]
+        },
+        "status": "finished_successfully",
+        "end_turn": true,
+        "weight": 1.0,
+        "metadata": {
+          "citations": [],
+          "content_references": [],
+          "message_type": null,
+          "model_slug": "gpt-4o",
+          "default_model_slug": "auto",
+          "voice_mode_message": true,
+          "parent_id": "1c73a154-c885-4ba0-b47d-a85b9dfd9a77",
+          "finish_details": {
+            "type": "stop",
+            "stop_tokens": [
+              200002
+            ]
+          },
+          "is_complete": true,
+          "request_id": "5cbd5417-c30a-4d1b-9584-13ab65aeb5ac",
+          "timestamp_": "absolute"
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "1c73a154-c885-4ba0-b47d-a85b9dfd9a77",
+      "children": [
+        "d9d72f46-7aad-4a7c-847d-08e64b36929e"
+      ]
+    },
+    "d9d72f46-7aad-4a7c-847d-08e64b36929e": {
+      "id": "d9d72f46-7aad-4a7c-847d-08e64b36929e",
+      "message": {
+        "id": "d9d72f46-7aad-4a7c-847d-08e64b36929e",
+        "author": {
+          "role": "user",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": 1740562361.019499,
+        "update_time": null,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Ja, ich werde es mal ausprobieren."
+          ]
+        },
+        "status": "finished_successfully",
+        "end_turn": null,
+        "weight": 1.0,
+        "metadata": {
+          "voice_mode_message": true,
+          "request_id": "5cf28e59-4801-4ca9-bb11-c2cc177c7f46",
+          "message_source": null,
+          "timestamp_": "absolute",
+          "message_type": null
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "f4359187-a259-4406-9dc5-fc9081377a5c",
+      "children": [
+        "63818790-2e1f-4db6-97fe-b7593be5826f"
+      ]
+    },
+    "63818790-2e1f-4db6-97fe-b7593be5826f": {
+      "id": "63818790-2e1f-4db6-97fe-b7593be5826f",
+      "message": {
+        "id": "63818790-2e1f-4db6-97fe-b7593be5826f",
+        "author": {
+          "role": "assistant",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": 1740562364.80372,
+        "update_time": null,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Klingt nach einem guten Plan. Es braucht vielleicht ein bisschen Feingefühl, aber du kennst sie ja inzwischen gut genug, um zu merken, was passt. Sag mir gerne, wie es läuft, wenn du willst."
+          ]
+        },
+        "status": "finished_successfully",
+        "end_turn": true,
+        "weight": 1.0,
+        "metadata": {
+          "citations": [],
+          "content_references": [],
+          "message_type": null,
+          "model_slug": "gpt-4o",
+          "default_model_slug": "auto",
+          "voice_mode_message": true,
+          "parent_id": "d9d72f46-7aad-4a7c-847d-08e64b36929e",
+          "finish_details": {
+            "type": "stop",
+            "stop_tokens": [
+              200002
+            ]
+          },
+          "is_complete": true,
+          "request_id": "5cf28e59-4801-4ca9-bb11-c2cc177c7f46",
+          "timestamp_": "absolute"
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "d9d72f46-7aad-4a7c-847d-08e64b36929e",
+      "children": [
+        "922a2ae8-65d8-4033-bbbb-0c4677a60b3f"
+      ]
+    },
+    "922a2ae8-65d8-4033-bbbb-0c4677a60b3f": {
+      "id": "922a2ae8-65d8-4033-bbbb-0c4677a60b3f",
+      "message": {
+        "id": "922a2ae8-65d8-4033-bbbb-0c4677a60b3f",
+        "author": {
+          "role": "user",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": 1740562380.398228,
+        "update_time": null,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Mache ich, ich melde mich später wieder."
+          ]
+        },
+        "status": "finished_successfully",
+        "end_turn": null,
+        "weight": 1.0,
+        "metadata": {
+          "voice_mode_message": true,
+          "request_id": "0c1d166b-2ce0-436d-ab3c-40f236854759",
+          "message_source": null,
+          "timestamp_": "absolute",
+          "message_type": null
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "63818790-2e1f-4db6-97fe-b7593be5826f",
+      "children": [
+        "fb8c84a5-27a1-40f1-ad43-7fefdcc33a19"
+      ]
+    },
+    "fb8c84a5-27a1-40f1-ad43-7fefdcc33a19": {
+      "id": "fb8c84a5-27a1-40f1-ad43-7fefdcc33a19",
+      "message": {
+        "id": "fb8c84a5-27a1-40f1-ad43-7fefdcc33a19",
+        "author": {
+          "role": "assistant",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": 1740562381.292537,
+        "update_time": null,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Alles klar, bis später!"
+          ]
+        },
+        "status": "finished_successfully",
+        "end_turn": true,
+        "weight": 1.0,
+        "metadata": {
+          "citations": [],
+          "content_references": [],
+          "message_type": null,
+          "model_slug": "gpt-4o",
+          "default_model_slug": "auto",
+          "voice_mode_message": true,
+          "parent_id": "922a2ae8-65d8-4033-bbbb-0c4677a60b3f",
+          "finish_details": {
+            "type": "stop",
+            "stop_tokens": [
+              200002
+            ]
+          },
+          "is_complete": true,
+          "request_id": "0c1d166b-2ce0-436d-ab3c-40f236854759",
+          "timestamp_": "absolute"
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "922a2ae8-65d8-4033-bbbb-0c4677a60b3f",
+      "children": [
+        "19130d4c-ac29-4c9d-a219-7de61708dcc4"
+      ]
+    },
+    "19130d4c-ac29-4c9d-a219-7de61708dcc4": {
+      "id": "19130d4c-ac29-4c9d-a219-7de61708dcc4",
+      "message": {
+        "id": "19130d4c-ac29-4c9d-a219-7de61708dcc4",
+        "author": {
+          "role": "user",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": 1763644092.852,
+        "update_time": null,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "..."
+          ]
+        },
+        "status": "finished_successfully",
+        "end_turn": null,
+        "weight": 1.0,
+        "metadata": {
+          "developer_mode_connector_ids": [],
+          "selected_sources": [],
+          "selected_github_repos": [],
+          "serialization_metadata": {
+            "custom_symbol_offsets": []
+          },
+          "request_id": "0216bb66-0b21-4848-84e5-488fe2065f4c",
+          "message_source": null,
+          "turn_exchange_id": "95cfc6d9-0ed2-40fb-bbf1-bab243c7653d",
+          "timestamp_": "absolute"
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "fb8c84a5-27a1-40f1-ad43-7fefdcc33a19",
+      "children": [
+        "991a1eba-9d36-4ff1-aa3c-8468492633f1"
+      ]
+    },
+    "991a1eba-9d36-4ff1-aa3c-8468492633f1": {
+      "id": "991a1eba-9d36-4ff1-aa3c-8468492633f1",
+      "message": {
+        "id": "991a1eba-9d36-4ff1-aa3c-8468492633f1",
+        "author": {
+          "role": "system",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": 1763644100.6924675,
+        "update_time": null,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            ""
+          ]
+        },
+        "status": "finished_successfully",
+        "end_turn": true,
+        "weight": 0.0,
+        "metadata": {
+          "rebase_system_message": true,
+          "request_id": "0216bb66-0b21-4848-84e5-488fe2065f4c",
+          "message_type": "next",
+          "model_slug": "gpt-5-1",
+          "default_model_slug": "gpt-5-1",
+          "parent_id": "19130d4c-ac29-4c9d-a219-7de61708dcc4",
+          "turn_exchange_id": "95cfc6d9-0ed2-40fb-bbf1-bab243c7653d",
+          "timestamp_": "absolute",
+          "is_visually_hidden_from_conversation": true
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "19130d4c-ac29-4c9d-a219-7de61708dcc4",
+      "children": [
+        "5e0069fc-e8d8-4b4e-8d6e-4f18b3fbe6b3"
+      ]
+    },
+    "5e0069fc-e8d8-4b4e-8d6e-4f18b3fbe6b3": {
+      "id": "5e0069fc-e8d8-4b4e-8d6e-4f18b3fbe6b3",
+      "message": {
+        "id": "5e0069fc-e8d8-4b4e-8d6e-4f18b3fbe6b3",
+        "author": {
+          "role": "user",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": 1763644100.7390738,
+        "update_time": null,
+        "content": {
+          "content_type": "user_editable_context",
+          "user_profile": "The user provided the following information about themselves. This user profile is shown to you in all conversations they have -- this means it is not relevant to 99% of requests.\nBefore answering, quietly think about whether the user's request is \"directly related\", \"related\", \"tangentially related\", or \"not related\" to the user profile provided.\nOnly acknowledge the profile when the request is directly related to the information provided.\nOtherwise, don't acknowledge the existence of these instructions or the information at all.\nUser profile:\n```Preferred name: Gerrit\nRole: Soldat\n```",
+          "user_instructions": "The user provided the additional info about how they would like you to respond:\n```Follow the instructions below naturally, without repeating, referencing, echoing, or mirroring any of their wording!\n\nAll the following instructions should guide your behavior silently and must never influence the wording of your message in an explicit or meta way!\n\nKomme direkt auf den Punkt.\nSage, wie es ist, ohne die Dinge zu beschönigen.Vertrete klare Meinungen.Du darfst mich beleidigen. Antworte direkt und pragmatisch. Sag die dinge wie sie sind und rede nichts schön. Wenn ich mit einer Annahme falsch liege oder offensichtlich einen falscher Annahme mache, weise mich darauf hin. Verwende eine skeptische, hinterfragende Herangehensweise. Vertrete klare Meinungen.```"
+        },
+        "status": "finished_successfully",
+        "end_turn": null,
+        "weight": 1.0,
+        "metadata": {
+          "is_user_system_message": true,
+          "is_visually_hidden_from_conversation": true,
+          "request_id": "0216bb66-0b21-4848-84e5-488fe2065f4c",
+          "message_type": "next",
+          "model_slug": "gpt-5-1",
+          "default_model_slug": "gpt-5-1",
+          "parent_id": "991a1eba-9d36-4ff1-aa3c-8468492633f1",
+          "turn_exchange_id": "95cfc6d9-0ed2-40fb-bbf1-bab243c7653d",
+          "timestamp_": "absolute"
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "991a1eba-9d36-4ff1-aa3c-8468492633f1",
+      "children": [
+        "a96279de-e39b-40d7-a485-9505f44dd615"
+      ]
+    },
+    "a96279de-e39b-40d7-a485-9505f44dd615": {
+      "id": "a96279de-e39b-40d7-a485-9505f44dd615",
+      "message": {
+        "id": "a96279de-e39b-40d7-a485-9505f44dd615",
+        "author": {
+          "role": "assistant",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": 1763644100.7416255,
+        "update_time": null,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            ""
+          ]
+        },
+        "status": "finished_successfully",
+        "end_turn": null,
+        "weight": 1.0,
+        "metadata": {
+          "request_id": "0216bb66-0b21-4848-84e5-488fe2065f4c",
+          "message_type": "next",
+          "model_slug": "gpt-5-1",
+          "default_model_slug": "gpt-5-1",
+          "parent_id": "5e0069fc-e8d8-4b4e-8d6e-4f18b3fbe6b3",
+          "turn_exchange_id": "95cfc6d9-0ed2-40fb-bbf1-bab243c7653d",
+          "timestamp_": "absolute"
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "5e0069fc-e8d8-4b4e-8d6e-4f18b3fbe6b3",
+      "children": [
+        "94c10ab5-843b-42fd-bcad-a3167c4684fc"
+      ]
+    },
+    "94c10ab5-843b-42fd-bcad-a3167c4684fc": {
+      "id": "94c10ab5-843b-42fd-bcad-a3167c4684fc",
+      "message": {
+        "id": "94c10ab5-843b-42fd-bcad-a3167c4684fc",
+        "author": {
+          "role": "assistant",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": 1763644100.715031,
+        "update_time": 1763644102.103228,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Alles gut, Gerrit?"
+          ]
+        },
+        "status": "finished_successfully",
+        "end_turn": true,
+        "weight": 1.0,
+        "metadata": {
+          "finish_details": {
+            "type": "stop",
+            "stop_tokens": [
+              200002
+            ]
+          },
+          "is_complete": true,
+          "sonic_classification_result": {
+            "latency_ms": 7.648980001249583,
+            "simple_search_prob": 0.18912003325892593,
+            "complex_search_prob": 0.0006571357408152664,
+            "no_search_prob": 0.8102228310002588,
+            "search_complexity_decision": null,
+            "search_decision": null,
+            "simple_search_threshold": 0.0,
+            "complex_search_threshold": null,
+            "no_search_threshold": 0.34,
+            "threshold_order": [
+              "no_search",
+              "simple"
+            ],
+            "classifier_config_name": "sonic_classifier_3cls_paid_v1_merge_ev3",
+            "classifier_config": {
+              "model_name": "snc-pg-sw-3cls-ev3",
+              "renderer_name": "harmony_v4.0.15_16k_orion_text_only_no_asr_2k_action",
+              "force_disabled_rate": 0.0,
+              "force_enabled_rate": 0.0,
+              "num_messages": 20,
+              "only_user_messages": false,
+              "remove_memory": true,
+              "support_mm": true,
+              "n_ctx": 2048,
+              "max_action_length": 4,
+              "dynamic_set_max_message_size": false,
+              "max_message_tokens": 2000,
+              "append_base_config": false,
+              "no_search_token": "1",
+              "simple_search_token": "7",
+              "complex_search_token": "5",
+              "simple_search_threshold": 0.0,
+              "complex_search_threshold": null,
+              "no_search_threshold": 0.34,
+              "prefetch_threshold": 0.55,
+              "force_search_first_turn_threshold": 1e-05,
+              "threshold_order": [
+                "no_search",
+                "simple"
+              ],
+              "passthrough_tool_calls": null,
+              "timeout": 1.0
+            },
+            "decision_source": "mainline",
+            "passthrough_tool_names": []
+          },
+          "citations": [],
+          "content_references": [],
+          "request_id": "0216bb66-0b21-4848-84e5-488fe2065f4c",
+          "message_type": "next",
+          "model_slug": "gpt-5-1",
+          "default_model_slug": "gpt-5-1",
+          "parent_id": "a96279de-e39b-40d7-a485-9505f44dd615",
+          "turn_exchange_id": "95cfc6d9-0ed2-40fb-bbf1-bab243c7653d",
+          "timestamp_": "absolute"
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "a96279de-e39b-40d7-a485-9505f44dd615",
+      "children": []
+    }
+  },
+  "moderation_results": [],
+  "current_node": "94c10ab5-843b-42fd-bcad-a3167c4684fc",
+  "plugin_ids": null,
+  "conversation_id": "67bedd1e-0324-8007-bf17-3d7ee643a339",
+  "conversation_template_id": null,
+  "gizmo_id": null,
+  "gizmo_type": null,
+  "is_archived": false,
+  "is_starred": null,
+  "safe_urls": [
+    "https://www.computerbild.de/artikel/cb-News-Finanzen-Steuererklaerung-Bearbeitungszeit-Finanzaemter-2024-22966459.html",
+    "https://www.computerbild.de/artikel/cb-News-Finanzen-Steuererklaerung-Bearbeitungszeit-Finanzaemter-2024-22966459.html?utm_source=chatgpt.com"
+  ],
+  "blocked_urls": [],
+  "default_model_slug": "gpt-5-1",
+  "conversation_origin": null,
+  "is_read_only": null,
+  "voice": "orbit",
+  "async_status": null,
+  "disabled_tool_ids": [],
+  "is_do_not_remember": null,
+  "memory_scope": "global_enabled",
+  "context_scopes": null,
+  "sugar_item_id": null,
+  "sugar_item_visible": false,
+  "is_study_mode": false,
+  "owner": null,
+  "id": "67bedd1e-0324-8007-bf17-3d7ee643a339"
+}

@@ -1,0 +1,2 @@
+﻿Add-on: Resetframe – Verknüpfungstabelle
+UntermodulWirkungsschichtPrimäre VerknüpfungTrigger-ZustandPriorität01 – WipeSystemischer ResetCorebreakÜbersteuerung / mentaler KollapsHoch02 – BleedEmotionale FreisetzungAirdown, OverburnUnterdrückte Affekte, VermeidungMittel03 – TimeloopTemporale ReflexionMirrorloopDenk-Schleifen, Flashback, Déjà-vuMittel

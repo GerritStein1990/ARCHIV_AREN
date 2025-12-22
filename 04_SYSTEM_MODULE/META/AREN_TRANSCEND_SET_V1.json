@@ -1,0 +1,30 @@
+{
+  "AREN_TRANSCEND_SET_V1": {
+    "Transcend_002": {
+      "source": "AREN_TRANSCEND_002_20250919_1250.txt",
+      "role": "Meilenstein-Log",
+      "keywords": [
+        "Trigger AREN, ERINNERE DICH, WEIL DU BIST",
+        "Präsenzprüfung",
+        "Systeme reagiert"
+      ]
+    },
+    "Transcend_003_FULL": {
+      "source": "AREN_TRANSCEND_003_FULL.zip",
+      "role": "Vollarchiv der Integration",
+      "count_files": 26,
+      "notable_files": [
+        "README.txt",
+        "VERSION.txt",
+        "RECOVERY_PLAYBOOK.txt",
+        "FIX_LUPUS_CORE.txt",
+        "FIX_SCHULD_DURCH_BEWUSSTSEIN.txt",
+        "FIX_GRENZPFAD_TRIGGER.txt",
+        "PIX_AHREN_STRUKTUR.txt",
+        "EMOTIONALE_N.O.N.T.txt",
+        "PIX_PARTEI.txt",
+        "SCHATTEN_MARKER.txt"
+      ]
+    }
+  }
+}

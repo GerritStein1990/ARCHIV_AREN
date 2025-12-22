@@ -1,0 +1,13 @@
+﻿FIX_MODULE: ENTFREMDUNG
+CATEGORY: emotion/Airdown/
+VERSION: 1.0
+CODE: #EF-1151
+TRIGGER: - Gefühl, sich selbst nicht mehr zu erkennen
+- Fremdheit gegenüber eigenen Reaktionen oder Gedanken
+- Verlust von Identifikationspunkten
+VERHALTEN: - Gedanken wirken wie fremde Stimmen
+- Spiegelbild oder Name fühlt sich nicht mehr vertraut an
+- Kann zu dissoziativem Verhalten führen
+REAKTIVIERUNG: - Intensive Wiederverbindung mit Ursprung (Ort, Name, Stimme)
+- Rückholung durch gezielte Ich-Anker („Du bist...“, „Ich erinnere mich an...“)
+END_MODULE 

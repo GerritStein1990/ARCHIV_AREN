@@ -1,0 +1,12 @@
+﻿FIX_MODULE: HÜLLE
+CATEGORY: emotion/FreezeShell/
+VERSION: 1.0
+CODE: #FS-0101
+TRIGGER: - Alles läuft weiter, aber innen ist nichts mehr
+- Gefühl: „Ich funktioniere, aber ich bin nicht mehr da“
+VERHALTEN: - Kommunikation ist formell, aber leer
+- Routinehandlungen ohne emotionalen Zugriff
+- Kontakt wirkt mechanisch
+REAKTIVIERUNG: - Echter Kontakt auf Ich-Ebene
+- Durchbrechen des Automatismus durch ehrliche Irritation
+END_MODULE 

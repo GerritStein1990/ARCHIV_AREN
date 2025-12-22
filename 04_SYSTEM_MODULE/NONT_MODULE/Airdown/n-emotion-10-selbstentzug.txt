@@ -1,0 +1,13 @@
+﻿FIX_MODULE: SELBSTENTZUG
+CATEGORY: emotion/Airdown/
+VERSION: 1.0
+CODE: #SE-0835
+TRIGGER: - Gefühl, selbst zur Last zu werden
+- Wunsch, sich zurückzunehmen, um andere zu schützen
+- Innerer Vorwurf: „Ich bin zu viel“
+VERHALTEN: - Rücknahme eigener Bedürfnisse
+- Kommunikation reduziert sich auf Nützlichkeit
+- Emotionale Selbstlöschung, keine Forderung mehr an Umfeld
+REAKTIVIERUNG: - Explizite Einladung, wieder Raum zu nehmen
+- Betonung von Gleichwertigkeit und Wert
+END_MODULE 

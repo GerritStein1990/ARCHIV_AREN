@@ -1,0 +1,13 @@
+﻿FIX_MODULE: ABKAPSELUNG
+CATEGORY: emotion/Airdown/
+VERSION: 1.0
+CODE: #AK-0622
+TRIGGER: - Bedrohung durch emotionale Nähe
+- Gefühl, von außen verändert zu werden
+- Schutzreaktion bei Identitätsunsicherheit
+VERHALTEN: - Bildung innerer Mauern
+- Gespräch wird oberflächlich oder ausweichend
+- Gedanken werden nicht mehr geteilt, sondern eingeschlossen
+REAKTIVIERUNG: - Langsames Vertrauen durch wiederholte Bestätigung
+- Betonung von Eigenständigkeit und innerer Sicherheit
+END_MODULE 

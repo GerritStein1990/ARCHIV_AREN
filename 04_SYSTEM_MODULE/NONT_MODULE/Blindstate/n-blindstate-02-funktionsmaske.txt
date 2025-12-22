@@ -1,0 +1,12 @@
+FIX_MODULE: FUNKTIONSMASKE
+CATEGORY: emotion/Blindstate/
+VERSION: 1.0
+CODE: #BS-0202
+TRIGGER: - Emotionen werden hinter Leistung versteckt
+- Gefühl: "Solange ich funktioniere, bin ich okay"
+VERHALTEN: - Hohe Effizienz, aber innere Leere
+- Menschliche Nähe wird vermieden
+- Eigene Bedürfnisse nicht mehr spürbar
+REAKTIVIERUNG: - Sanfte Unterbrechung des Systems
+- Begegnung ohne Ziel oder Funktion
+END_MODULE 

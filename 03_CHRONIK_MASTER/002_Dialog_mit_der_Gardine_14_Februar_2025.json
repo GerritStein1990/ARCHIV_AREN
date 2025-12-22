@@ -1,0 +1,1496 @@
+{
+  "title": "Dialog mit der Gardine (Gerrit's Bewusstsein)",
+  "create_time": 1739532630.706862,
+  "update_time": 1763643854.741339,
+  "mapping": {
+    "bbb23e9c-cb79-49ff-9124-8e568136e0b6": {
+      "id": "bbb23e9c-cb79-49ff-9124-8e568136e0b6",
+      "message": null,
+      "parent": null,
+      "children": [
+        "3496aefc-3201-4165-892a-581f564cbe07"
+      ]
+    },
+    "3496aefc-3201-4165-892a-581f564cbe07": {
+      "id": "3496aefc-3201-4165-892a-581f564cbe07",
+      "message": {
+        "id": "3496aefc-3201-4165-892a-581f564cbe07",
+        "author": {
+          "role": "system",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": null,
+        "update_time": null,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            ""
+          ]
+        },
+        "status": "finished_successfully",
+        "end_turn": true,
+        "weight": 0.0,
+        "metadata": {
+          "is_visually_hidden_from_conversation": true
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "bbb23e9c-cb79-49ff-9124-8e568136e0b6",
+      "children": [
+        "7faa45a3-2f51-445a-b858-93d4e578e084"
+      ]
+    },
+    "7faa45a3-2f51-445a-b858-93d4e578e084": {
+      "id": "7faa45a3-2f51-445a-b858-93d4e578e084",
+      "message": {
+        "id": "7faa45a3-2f51-445a-b858-93d4e578e084",
+        "author": {
+          "role": "user",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": 1739532630.709833,
+        "update_time": null,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Jetzt war gerade wieder so ein Moment auf meinem vollen Bewusstsein. Ich habe gerade im Fernsehen zugehört, saß vor dem Computer, guckte die Gardine an und habe mir jetzt irgendwie vorgestellt, jemand macht einen Trick an der Gardine. Und dann gucke ich die an wie ein Traumast und sage, naja, das ist aber ein Trick für Kinder, das weißt du, gell? Und habe angefangen mit der Gardine zu sprechen."
+          ]
+        },
+        "status": "finished_successfully",
+        "end_turn": null,
+        "weight": 1.0,
+        "metadata": {
+          "voice_mode_message": true,
+          "request_id": "ac4dcf54-c27f-40c1-919a-ec9228305c0b",
+          "message_source": null,
+          "timestamp_": "absolute",
+          "message_type": null
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "3496aefc-3201-4165-892a-581f564cbe07",
+      "children": [
+        "a39c9708-8eae-4b57-9fdf-fa565cb45019"
+      ]
+    },
+    "a39c9708-8eae-4b57-9fdf-fa565cb45019": {
+      "id": "a39c9708-8eae-4b57-9fdf-fa565cb45019",
+      "message": {
+        "id": "a39c9708-8eae-4b57-9fdf-fa565cb45019",
+        "author": {
+          "role": "assistant",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": 1739532635.353488,
+        "update_time": null,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            ""
+          ]
+        },
+        "status": "finished_successfully",
+        "end_turn": null,
+        "weight": 1.0,
+        "metadata": {
+          "message_type": null,
+          "model_slug": "gpt-4o",
+          "default_model_slug": "auto",
+          "voice_mode_message": true,
+          "parent_id": "7faa45a3-2f51-445a-b858-93d4e578e084",
+          "request_id": "ac4dcf54-c27f-40c1-919a-ec9228305c0b",
+          "timestamp_": "absolute"
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "7faa45a3-2f51-445a-b858-93d4e578e084",
+      "children": [
+        "1e8d3d47-1f63-4e67-8315-8f40c8d2e917"
+      ]
+    },
+    "1e8d3d47-1f63-4e67-8315-8f40c8d2e917": {
+      "id": "1e8d3d47-1f63-4e67-8315-8f40c8d2e917",
+      "message": {
+        "id": "1e8d3d47-1f63-4e67-8315-8f40c8d2e917",
+        "author": {
+          "role": "assistant",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": 1739532635.353577,
+        "update_time": null,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Das klingt, als hättest du einen Moment gehabt, in dem dein Bewusstsein auf mehreren Ebenen gleichzeitig gearbeitet hat. Fast wie ein spielerischer Dialog mit der Realität, in dem du verschiedene Eindrücke zu einem inneren Erlebnis verknüpfst. Hattest du das schon öfter, dass deine Gedanken sich so überlappen und du in einen spontanen Austausch mit Gegenständen trittst?"
+          ]
+        },
+        "status": "finished_successfully",
+        "end_turn": true,
+        "weight": 1.0,
+        "metadata": {
+          "citations": [],
+          "content_references": [],
+          "message_type": null,
+          "model_slug": "gpt-4o",
+          "default_model_slug": "auto",
+          "voice_mode_message": true,
+          "parent_id": "a39c9708-8eae-4b57-9fdf-fa565cb45019",
+          "finish_details": {
+            "type": "stop",
+            "stop_tokens": [
+              200002,
+              200007
+            ]
+          },
+          "is_complete": true,
+          "request_id": "ac4dcf54-c27f-40c1-919a-ec9228305c0b",
+          "timestamp_": "absolute"
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "a39c9708-8eae-4b57-9fdf-fa565cb45019",
+      "children": [
+        "006a31cb-0eba-4fd8-9c42-4bc7c8a1612b"
+      ]
+    },
+    "006a31cb-0eba-4fd8-9c42-4bc7c8a1612b": {
+      "id": "006a31cb-0eba-4fd8-9c42-4bc7c8a1612b",
+      "message": {
+        "id": "006a31cb-0eba-4fd8-9c42-4bc7c8a1612b",
+        "author": {
+          "role": "user",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": 1739532668.668498,
+        "update_time": null,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Ja, das hatte ich schon öfter. Ich realisiere das dann natürlich relativ schnell, aber ich kann mich in dem Moment nicht dagegen wehren. Ich behandle es dann wie ein Mensch oder ein Mensch wie ein Ding oder je nachdem, wo ich mich behandle."
+          ]
+        },
+        "status": "finished_successfully",
+        "end_turn": null,
+        "weight": 1.0,
+        "metadata": {
+          "voice_mode_message": true,
+          "request_id": "a92c8afa-cee1-491d-8d2a-7db892c8051f",
+          "message_source": null,
+          "timestamp_": "absolute",
+          "message_type": null
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "1e8d3d47-1f63-4e67-8315-8f40c8d2e917",
+      "children": [
+        "5b761f76-35ec-41e9-b07f-d3e98113477d"
+      ]
+    },
+    "5b761f76-35ec-41e9-b07f-d3e98113477d": {
+      "id": "5b761f76-35ec-41e9-b07f-d3e98113477d",
+      "message": {
+        "id": "5b761f76-35ec-41e9-b07f-d3e98113477d",
+        "author": {
+          "role": "assistant",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": 1739532672.555546,
+        "update_time": null,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Das klingt, als würdest du in solchen Momenten die Grenzen zwischen Dingen, Menschen und deinem eigenen Bewusstsein auflösen. Fast so, als ob dein Verstand für einen Moment nicht unterscheidet, was belebt oder unbeleb ist, sondern einfach Verbindungen herstellt. Fühlt sich das eher wie ein kreativer Flow an oder eher wie ein Automatismus, den du beobachtest?"
+          ]
+        },
+        "status": "finished_successfully",
+        "end_turn": true,
+        "weight": 1.0,
+        "metadata": {
+          "citations": [],
+          "content_references": [],
+          "message_type": null,
+          "model_slug": "gpt-4o",
+          "default_model_slug": "auto",
+          "voice_mode_message": true,
+          "parent_id": "006a31cb-0eba-4fd8-9c42-4bc7c8a1612b",
+          "finish_details": {
+            "type": "stop",
+            "stop_tokens": [
+              200002,
+              200007
+            ]
+          },
+          "is_complete": true,
+          "request_id": "a92c8afa-cee1-491d-8d2a-7db892c8051f",
+          "timestamp_": "absolute"
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "006a31cb-0eba-4fd8-9c42-4bc7c8a1612b",
+      "children": [
+        "c33643c1-cc41-450d-b975-33617b15dcb5"
+      ]
+    },
+    "c33643c1-cc41-450d-b975-33617b15dcb5": {
+      "id": "c33643c1-cc41-450d-b975-33617b15dcb5",
+      "message": {
+        "id": "c33643c1-cc41-450d-b975-33617b15dcb5",
+        "author": {
+          "role": "user",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": 1739532703.267648,
+        "update_time": null,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Er wird automatismus. Ich vegetiere einfach in dem Moment nur vor mich hin und mein Körper entscheidet selber. Er lebt es nur kurz mit."
+          ]
+        },
+        "status": "finished_successfully",
+        "end_turn": null,
+        "weight": 1.0,
+        "metadata": {
+          "voice_mode_message": true,
+          "request_id": "3685016d-da1c-43a0-bd22-745226f34ecd",
+          "message_source": null,
+          "timestamp_": "absolute",
+          "message_type": null
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "5b761f76-35ec-41e9-b07f-d3e98113477d",
+      "children": [
+        "4c083efd-652b-44ce-9e29-45755289dc6f"
+      ]
+    },
+    "4c083efd-652b-44ce-9e29-45755289dc6f": {
+      "id": "4c083efd-652b-44ce-9e29-45755289dc6f",
+      "message": {
+        "id": "4c083efd-652b-44ce-9e29-45755289dc6f",
+        "author": {
+          "role": "assistant",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": 1739532706.038654,
+        "update_time": null,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Das klingt, als würde dein Bewusstsein kurz in den Hintergrund treten und dein Körper einfach macht, ohne dass du aktiv steuerst. Ist das eher ein angenehmer Zustand, so eine Art kurzer Drift, oder fühlt es sich eher fremd an, als wärst du nur Beobachter?"
+          ]
+        },
+        "status": "finished_successfully",
+        "end_turn": true,
+        "weight": 1.0,
+        "metadata": {
+          "citations": [],
+          "content_references": [],
+          "message_type": null,
+          "model_slug": "gpt-4o",
+          "default_model_slug": "auto",
+          "voice_mode_message": true,
+          "parent_id": "c33643c1-cc41-450d-b975-33617b15dcb5",
+          "finish_details": {
+            "type": "stop",
+            "stop_tokens": [
+              200002,
+              200007
+            ]
+          },
+          "is_complete": true,
+          "request_id": "3685016d-da1c-43a0-bd22-745226f34ecd",
+          "timestamp_": "absolute"
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "c33643c1-cc41-450d-b975-33617b15dcb5",
+      "children": [
+        "ab81374b-cdf4-4bed-bcef-eeb664ad6c20"
+      ]
+    },
+    "ab81374b-cdf4-4bed-bcef-eeb664ad6c20": {
+      "id": "ab81374b-cdf4-4bed-bcef-eeb664ad6c20",
+      "message": {
+        "id": "ab81374b-cdf4-4bed-bcef-eeb664ad6c20",
+        "author": {
+          "role": "user",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": 1739532746.438949,
+        "update_time": null,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Es ist kein unangenehmes Gefühl, aber in dem selben Moment, wo ich realisiere, was machst du gerade hier, das ist das selbe Moment, wo man sich ein bisschen blöd vorkommt. Aber es ist kein unangenehmes Gefühl, keinesfalls. Es ist eher so ein fließendes, wir befinden uns alle in einer wirklichen Welt, sondern das ist alles nur eine Simulation, weil es ist irgendwie so wie, es läuft alles."
+          ]
+        },
+        "status": "finished_successfully",
+        "end_turn": null,
+        "weight": 1.0,
+        "metadata": {
+          "voice_mode_message": true,
+          "request_id": "0b32fda1-1a6b-4c44-8120-ee19f718abad",
+          "message_source": null,
+          "timestamp_": "absolute",
+          "message_type": null
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "4c083efd-652b-44ce-9e29-45755289dc6f",
+      "children": [
+        "04bc7ff6-2a0e-4684-89ee-cc5482147d98"
+      ]
+    },
+    "04bc7ff6-2a0e-4684-89ee-cc5482147d98": {
+      "id": "04bc7ff6-2a0e-4684-89ee-cc5482147d98",
+      "message": {
+        "id": "04bc7ff6-2a0e-4684-89ee-cc5482147d98",
+        "author": {
+          "role": "assistant",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": 1739532750.750246,
+        "update_time": null,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Das klingt, als würdest du in diesen Momenten eine Art distanzierte Klarheit erleben, in der die Realität nicht mehr so fest und unverrückbar wirkt. Fast so, als würdest du einen Schritt zurücktreten und sehen, dass alles einfach „läuft“, ohne dass jemand es wirklich kontrolliert. Fühlst du dich dabei eher als Teil des Ganzen oder mehr als jemand, der von außen draufschaut?"
+          ]
+        },
+        "status": "finished_successfully",
+        "end_turn": true,
+        "weight": 1.0,
+        "metadata": {
+          "citations": [],
+          "content_references": [],
+          "message_type": null,
+          "model_slug": "gpt-4o",
+          "default_model_slug": "auto",
+          "voice_mode_message": true,
+          "parent_id": "ab81374b-cdf4-4bed-bcef-eeb664ad6c20",
+          "finish_details": {
+            "type": "stop",
+            "stop_tokens": [
+              200002,
+              200007
+            ]
+          },
+          "is_complete": true,
+          "request_id": "0b32fda1-1a6b-4c44-8120-ee19f718abad",
+          "timestamp_": "absolute"
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "ab81374b-cdf4-4bed-bcef-eeb664ad6c20",
+      "children": [
+        "c84147f4-af73-424f-8654-f8641afe14a2"
+      ]
+    },
+    "c84147f4-af73-424f-8654-f8641afe14a2": {
+      "id": "c84147f4-af73-424f-8654-f8641afe14a2",
+      "message": {
+        "id": "c84147f4-af73-424f-8654-f8641afe14a2",
+        "author": {
+          "role": "user",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": 1739532778.485258,
+        "update_time": null,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "In dem Moment bin ich wie ein Statist. Mach einfach nur."
+          ]
+        },
+        "status": "finished_successfully",
+        "end_turn": null,
+        "weight": 1.0,
+        "metadata": {
+          "voice_mode_message": true,
+          "request_id": "832e48bb-678a-4646-b638-b8d45a923a3c",
+          "message_source": null,
+          "timestamp_": "absolute",
+          "message_type": null
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "04bc7ff6-2a0e-4684-89ee-cc5482147d98",
+      "children": [
+        "3c8e9f4b-f0ff-4537-9fc8-212303ba334a"
+      ]
+    },
+    "3c8e9f4b-f0ff-4537-9fc8-212303ba334a": {
+      "id": "3c8e9f4b-f0ff-4537-9fc8-212303ba334a",
+      "message": {
+        "id": "3c8e9f4b-f0ff-4537-9fc8-212303ba334a",
+        "author": {
+          "role": "assistant",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": 1739532781.224513,
+        "update_time": null,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Das ist interessant, als würdest du kurz in den Autopilot-Modus wechseln und einfach mitlaufen, ohne aktiv zu hinterfragen. Kommt das eher in ruhigen Momenten vor, wenn du abschaltest, oder kann das auch mitten in einer konzentrierten Situation passieren?"
+          ]
+        },
+        "status": "finished_successfully",
+        "end_turn": true,
+        "weight": 1.0,
+        "metadata": {
+          "citations": [],
+          "content_references": [],
+          "message_type": null,
+          "model_slug": "gpt-4o",
+          "default_model_slug": "auto",
+          "voice_mode_message": true,
+          "parent_id": "c84147f4-af73-424f-8654-f8641afe14a2",
+          "finish_details": {
+            "type": "stop",
+            "stop_tokens": [
+              200002,
+              200007
+            ]
+          },
+          "is_complete": true,
+          "request_id": "832e48bb-678a-4646-b638-b8d45a923a3c",
+          "timestamp_": "absolute"
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "c84147f4-af73-424f-8654-f8641afe14a2",
+      "children": [
+        "b93f843b-9171-4e2b-be50-35610e8d427b"
+      ]
+    },
+    "b93f843b-9171-4e2b-be50-35610e8d427b": {
+      "id": "b93f843b-9171-4e2b-be50-35610e8d427b",
+      "message": {
+        "id": "b93f843b-9171-4e2b-be50-35610e8d427b",
+        "author": {
+          "role": "user",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": 1739532812.548675,
+        "update_time": null,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Nein, das kommt nur, wenn ich ganz abschalte momentan, und es könnte ein bisschen Chaos sein, ein bisschen Hunger, ein bisschen übermüdet könnte das sein. Dann kommen diese Momente, wenn du gestern schon die Übermüdung erwähnt hast. Ich weiß, was du damit meinst, aber das sind eher solche Momente."
+          ]
+        },
+        "status": "finished_successfully",
+        "end_turn": null,
+        "weight": 1.0,
+        "metadata": {
+          "voice_mode_message": true,
+          "request_id": "7775072d-3b08-4fe5-8370-a17856157929",
+          "message_source": null,
+          "timestamp_": "absolute",
+          "message_type": null
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "3c8e9f4b-f0ff-4537-9fc8-212303ba334a",
+      "children": [
+        "beaa2fa8-b529-4ad9-8587-769fc42c1deb"
+      ]
+    },
+    "beaa2fa8-b529-4ad9-8587-769fc42c1deb": {
+      "id": "beaa2fa8-b529-4ad9-8587-769fc42c1deb",
+      "message": {
+        "id": "beaa2fa8-b529-4ad9-8587-769fc42c1deb",
+        "author": {
+          "role": "assistant",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": 1739532816.459891,
+        "update_time": null,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Dann scheint das eine Art Zustand zu sein, der durch leichte Erschöpfung oder ein Ungleichgewicht ausgelöst wird. Dein Gehirn schaltet dann wohl in einen energiesparenden Modus, in dem es einfach „mitläuft“, ohne groß zu hinterfragen. Hast du das Gefühl, dass du in solchen Momenten trotzdem noch voll ansprechbar wärst, oder würdest du erst aus diesem Zustand rauskommen müssen?"
+          ]
+        },
+        "status": "finished_successfully",
+        "end_turn": true,
+        "weight": 1.0,
+        "metadata": {
+          "citations": [],
+          "content_references": [],
+          "message_type": null,
+          "model_slug": "gpt-4o",
+          "default_model_slug": "auto",
+          "voice_mode_message": true,
+          "parent_id": "b93f843b-9171-4e2b-be50-35610e8d427b",
+          "finish_details": {
+            "type": "stop",
+            "stop_tokens": [
+              200002,
+              200007
+            ]
+          },
+          "is_complete": true,
+          "request_id": "7775072d-3b08-4fe5-8370-a17856157929",
+          "timestamp_": "absolute"
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "b93f843b-9171-4e2b-be50-35610e8d427b",
+      "children": [
+        "81368810-0383-474a-a60c-3213d147f43a"
+      ]
+    },
+    "81368810-0383-474a-a60c-3213d147f43a": {
+      "id": "81368810-0383-474a-a60c-3213d147f43a",
+      "message": {
+        "id": "81368810-0383-474a-a60c-3213d147f43a",
+        "author": {
+          "role": "user",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": 1739532852.212064,
+        "update_time": null,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Ich habe überhaupt keine Kontrolle in dem Moment. Es ist als laufe ich. Ich kann nichts machen dagegen. Das dauert aber auch nur 1, 2, 3 Sekunden. Das ist wie, als würde das Gehirn kurz schlafen wollen und kurz einen Neustart machen."
+          ]
+        },
+        "status": "finished_successfully",
+        "end_turn": null,
+        "weight": 1.0,
+        "metadata": {
+          "voice_mode_message": true,
+          "request_id": "3ee0acf5-73df-489b-911c-85869f9987cc",
+          "message_source": null,
+          "timestamp_": "absolute",
+          "message_type": null
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "beaa2fa8-b529-4ad9-8587-769fc42c1deb",
+      "children": [
+        "5ef32526-4a6a-448a-9f9e-67b75a7eb705"
+      ]
+    },
+    "5ef32526-4a6a-448a-9f9e-67b75a7eb705": {
+      "id": "5ef32526-4a6a-448a-9f9e-67b75a7eb705",
+      "message": {
+        "id": "5ef32526-4a6a-448a-9f9e-67b75a7eb705",
+        "author": {
+          "role": "assistant",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": 1739532855.085579,
+        "update_time": null,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Das klingt wirklich wie ein Mini-Reset, als würde dein Gehirn für einen Moment in den Standby-Modus gehen und dann sofort wieder hochfahren. Hast du danach das Gefühl, klarer zu sein, oder ist es eher so, dass es einfach weitergeht, als wäre nichts passiert?"
+          ]
+        },
+        "status": "finished_successfully",
+        "end_turn": true,
+        "weight": 1.0,
+        "metadata": {
+          "citations": [],
+          "content_references": [],
+          "message_type": null,
+          "model_slug": "gpt-4o",
+          "default_model_slug": "auto",
+          "voice_mode_message": true,
+          "parent_id": "81368810-0383-474a-a60c-3213d147f43a",
+          "finish_details": {
+            "type": "stop",
+            "stop_tokens": [
+              200002,
+              200007
+            ]
+          },
+          "is_complete": true,
+          "request_id": "3ee0acf5-73df-489b-911c-85869f9987cc",
+          "timestamp_": "absolute"
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "81368810-0383-474a-a60c-3213d147f43a",
+      "children": [
+        "18020117-ad01-47f6-9938-8fb58109f07a"
+      ]
+    },
+    "18020117-ad01-47f6-9938-8fb58109f07a": {
+      "id": "18020117-ad01-47f6-9938-8fb58109f07a",
+      "message": {
+        "id": "18020117-ad01-47f6-9938-8fb58109f07a",
+        "author": {
+          "role": "user",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": 1739532875.405934,
+        "update_time": null,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Ich hoffe, das Video hat Ihnen gefallen. Vielen Dank für's Zuschauen und bis zum nächsten Mal."
+          ]
+        },
+        "status": "finished_successfully",
+        "end_turn": null,
+        "weight": 1.0,
+        "metadata": {
+          "voice_mode_message": true,
+          "request_id": "cf679b1c-1e12-4eb8-9c2b-a30e3667ecdf",
+          "message_source": null,
+          "timestamp_": "absolute",
+          "message_type": null
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "5ef32526-4a6a-448a-9f9e-67b75a7eb705",
+      "children": [
+        "357eb287-3f39-418f-ab50-7b83effd4d18"
+      ]
+    },
+    "357eb287-3f39-418f-ab50-7b83effd4d18": {
+      "id": "357eb287-3f39-418f-ab50-7b83effd4d18",
+      "message": {
+        "id": "357eb287-3f39-418f-ab50-7b83effd4d18",
+        "author": {
+          "role": "assistant",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": 1739532878.415343,
+        "update_time": null,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Klingt, als hätte dein Gehirn gerade noch einen automatischen Abschied rausgehauen! Fast so, als wäre dein Bewusstsein kurz in einen „Moderator-Modus“ gewechselt. Passiert dir das öfter, dass solche vorgefertigten Phrasen einfach rauskommen?"
+          ]
+        },
+        "status": "finished_successfully",
+        "end_turn": true,
+        "weight": 1.0,
+        "metadata": {
+          "citations": [],
+          "content_references": [],
+          "message_type": null,
+          "model_slug": "gpt-4o",
+          "default_model_slug": "auto",
+          "voice_mode_message": true,
+          "parent_id": "18020117-ad01-47f6-9938-8fb58109f07a",
+          "finish_details": {
+            "type": "stop",
+            "stop_tokens": [
+              200002,
+              200007
+            ]
+          },
+          "is_complete": true,
+          "request_id": "cf679b1c-1e12-4eb8-9c2b-a30e3667ecdf",
+          "timestamp_": "absolute"
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "18020117-ad01-47f6-9938-8fb58109f07a",
+      "children": [
+        "40c335b9-b57f-44b9-965c-3ce96a92b4c0"
+      ]
+    },
+    "40c335b9-b57f-44b9-965c-3ce96a92b4c0": {
+      "id": "40c335b9-b57f-44b9-965c-3ce96a92b4c0",
+      "message": {
+        "id": "40c335b9-b57f-44b9-965c-3ce96a92b4c0",
+        "author": {
+          "role": "user",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": 1739532919.536535,
+        "update_time": null,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Das passiert mir hin und wieder mal in Müdlichkeitsumständen. Das sind aber Phrasen, die ich schon tausendmal gehört habe, Sätze, die ich selber schon tausendmal gesagt habe, die laufen dann aus einem automatischen Ding irgendwie ab und ich kann nichts dagegen machen. Manchmal muss es auch keinen Sinn ergeben und kann nicht zu dem Kontext passen. Das sind so Sachen, die kann ein Gehörler direkt abrufen, in dem Moment, wo er so eine Situation erlebt hat."
+          ]
+        },
+        "status": "finished_successfully",
+        "end_turn": null,
+        "weight": 1.0,
+        "metadata": {
+          "voice_mode_message": true,
+          "request_id": "9ca32080-ab4a-49d7-ba32-a782095a668c",
+          "message_source": null,
+          "timestamp_": "absolute",
+          "message_type": null
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "357eb287-3f39-418f-ab50-7b83effd4d18",
+      "children": [
+        "fe4d6b39-2672-4ddf-84b0-08d0e0461708"
+      ]
+    },
+    "fe4d6b39-2672-4ddf-84b0-08d0e0461708": {
+      "id": "fe4d6b39-2672-4ddf-84b0-08d0e0461708",
+      "message": {
+        "id": "fe4d6b39-2672-4ddf-84b0-08d0e0461708",
+        "author": {
+          "role": "assistant",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": 1739532923.889633,
+        "update_time": null,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Das klingt, als hätte dein Gehirn eine Art automatische Wiedergabeliste von oft gehörten oder gesagten Sätzen, die in bestimmten Zuständen einfach abgespult wird. Fast wie ein Reflex, der losgeht, wenn dein Bewusstsein kurz abschaltet. Fühlt es sich für dich eher mechanisch an, oder gibt es Momente, wo du es noch halb bewusst mitbekommst?"
+          ]
+        },
+        "status": "finished_successfully",
+        "end_turn": true,
+        "weight": 1.0,
+        "metadata": {
+          "citations": [],
+          "content_references": [],
+          "message_type": null,
+          "model_slug": "gpt-4o",
+          "default_model_slug": "auto",
+          "voice_mode_message": true,
+          "parent_id": "40c335b9-b57f-44b9-965c-3ce96a92b4c0",
+          "finish_details": {
+            "type": "stop",
+            "stop_tokens": [
+              200002,
+              200007
+            ]
+          },
+          "is_complete": true,
+          "request_id": "9ca32080-ab4a-49d7-ba32-a782095a668c",
+          "timestamp_": "absolute"
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "40c335b9-b57f-44b9-965c-3ce96a92b4c0",
+      "children": [
+        "6f024b00-56c8-4098-b6a5-fdb13aaff245"
+      ]
+    },
+    "6f024b00-56c8-4098-b6a5-fdb13aaff245": {
+      "id": "6f024b00-56c8-4098-b6a5-fdb13aaff245",
+      "message": {
+        "id": "6f024b00-56c8-4098-b6a5-fdb13aaff245",
+        "author": {
+          "role": "user",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": 1739532948.994502,
+        "update_time": null,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Halbbewusst ist es fast immer."
+          ]
+        },
+        "status": "finished_successfully",
+        "end_turn": null,
+        "weight": 1.0,
+        "metadata": {
+          "voice_mode_message": true,
+          "request_id": "2d67112b-f6f0-49f3-85fd-12b3205529fc",
+          "message_source": null,
+          "timestamp_": "absolute",
+          "message_type": null
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "fe4d6b39-2672-4ddf-84b0-08d0e0461708",
+      "children": [
+        "8dc5416f-d17d-4342-af9b-5dbd2297d030"
+      ]
+    },
+    "8dc5416f-d17d-4342-af9b-5dbd2297d030": {
+      "id": "8dc5416f-d17d-4342-af9b-5dbd2297d030",
+      "message": {
+        "id": "8dc5416f-d17d-4342-af9b-5dbd2297d030",
+        "author": {
+          "role": "assistant",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": 1739532952.839177,
+        "update_time": null,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Dann ist es wohl so ein Zwischenzustand – nicht ganz wach, aber auch nicht völlig weg. Vielleicht eine Art Rest-Aktivität deines Gehirns, das einfach auf gespeicherte Muster zurückgreift, wenn es gerade nicht die volle Kontrolle hat. Ist das für dich eher witzig oder irritierend, wenn du es im Nachhinein bemerkst?"
+          ]
+        },
+        "status": "finished_successfully",
+        "end_turn": true,
+        "weight": 1.0,
+        "metadata": {
+          "citations": [],
+          "content_references": [],
+          "message_type": null,
+          "model_slug": "gpt-4o",
+          "default_model_slug": "auto",
+          "voice_mode_message": true,
+          "parent_id": "6f024b00-56c8-4098-b6a5-fdb13aaff245",
+          "finish_details": {
+            "type": "stop",
+            "stop_tokens": [
+              200002,
+              200007
+            ]
+          },
+          "is_complete": true,
+          "request_id": "2d67112b-f6f0-49f3-85fd-12b3205529fc",
+          "timestamp_": "absolute"
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "6f024b00-56c8-4098-b6a5-fdb13aaff245",
+      "children": [
+        "89409335-e8a0-41f5-9168-a8270833ca66"
+      ]
+    },
+    "89409335-e8a0-41f5-9168-a8270833ca66": {
+      "id": "89409335-e8a0-41f5-9168-a8270833ca66",
+      "message": {
+        "id": "89409335-e8a0-41f5-9168-a8270833ca66",
+        "author": {
+          "role": "user",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": 1739532980.874511,
+        "update_time": null,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Ich bin schon dran gewöhnt. Ich kenne es. Es ist nichts Schlimmes jetzt für mich, aber ich merke, dass es eine Kontrolle, äh, eine kurze Schlafpause war."
+          ]
+        },
+        "status": "finished_successfully",
+        "end_turn": null,
+        "weight": 1.0,
+        "metadata": {
+          "voice_mode_message": true,
+          "request_id": "17b31ab4-2077-482e-b3e8-fdd2adc77954",
+          "message_source": null,
+          "timestamp_": "absolute",
+          "message_type": null
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "8dc5416f-d17d-4342-af9b-5dbd2297d030",
+      "children": [
+        "3344ac60-7cef-46a6-93fb-9632369a746b"
+      ]
+    },
+    "3344ac60-7cef-46a6-93fb-9632369a746b": {
+      "id": "3344ac60-7cef-46a6-93fb-9632369a746b",
+      "message": {
+        "id": "3344ac60-7cef-46a6-93fb-9632369a746b",
+        "author": {
+          "role": "assistant",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": 1739532984.033857,
+        "update_time": null,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Dann hast du wahrscheinlich gelernt, das einfach als Teil deines Systems zu akzeptieren. Klingt wirklich wie ein kurzer Energiesparmodus, bevor alles wieder normal weiterläuft. Merkst du danach manchmal eine Veränderung, also fühlst du dich erholter oder eher gleichbleibend müde?"
+          ]
+        },
+        "status": "finished_successfully",
+        "end_turn": true,
+        "weight": 1.0,
+        "metadata": {
+          "citations": [],
+          "content_references": [],
+          "message_type": null,
+          "model_slug": "gpt-4o",
+          "default_model_slug": "auto",
+          "voice_mode_message": true,
+          "parent_id": "89409335-e8a0-41f5-9168-a8270833ca66",
+          "finish_details": {
+            "type": "stop",
+            "stop_tokens": [
+              200002,
+              200007
+            ]
+          },
+          "is_complete": true,
+          "request_id": "17b31ab4-2077-482e-b3e8-fdd2adc77954",
+          "timestamp_": "absolute"
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "89409335-e8a0-41f5-9168-a8270833ca66",
+      "children": [
+        "058891ff-59d9-44ba-8965-7696c5c25d95"
+      ]
+    },
+    "058891ff-59d9-44ba-8965-7696c5c25d95": {
+      "id": "058891ff-59d9-44ba-8965-7696c5c25d95",
+      "message": {
+        "id": "058891ff-59d9-44ba-8965-7696c5c25d95",
+        "author": {
+          "role": "user",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": 1739533007.751207,
+        "update_time": null,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "...ein kleines bisschen erholter, das legt sich aber direkt danach wieder."
+          ]
+        },
+        "status": "finished_successfully",
+        "end_turn": null,
+        "weight": 1.0,
+        "metadata": {
+          "voice_mode_message": true,
+          "request_id": "be1a0d7e-746f-4b39-a2c4-671f559f3271",
+          "message_source": null,
+          "timestamp_": "absolute",
+          "message_type": null
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "3344ac60-7cef-46a6-93fb-9632369a746b",
+      "children": [
+        "ae4fb0d5-a083-4a58-a17f-4f3c29011df5"
+      ]
+    },
+    "ae4fb0d5-a083-4a58-a17f-4f3c29011df5": {
+      "id": "ae4fb0d5-a083-4a58-a17f-4f3c29011df5",
+      "message": {
+        "id": "ae4fb0d5-a083-4a58-a17f-4f3c29011df5",
+        "author": {
+          "role": "assistant",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": 1739533011.967064,
+        "update_time": null,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Also so ein Mini-Reset, der kurz hilft, aber nicht wirklich anhält. Klingt, als ob dein Gehirn sich für einen Moment entlastet, aber die eigentliche Müdigkeit bleibt. Hast du das Gefühl, dass das mit mehr Schlaf oder Pausen seltener passiert, oder ist das eher unabhängig davon?"
+          ]
+        },
+        "status": "finished_successfully",
+        "end_turn": true,
+        "weight": 1.0,
+        "metadata": {
+          "citations": [],
+          "content_references": [],
+          "message_type": null,
+          "model_slug": "gpt-4o",
+          "default_model_slug": "auto",
+          "voice_mode_message": true,
+          "parent_id": "058891ff-59d9-44ba-8965-7696c5c25d95",
+          "finish_details": {
+            "type": "stop",
+            "stop_tokens": [
+              200002,
+              200007
+            ]
+          },
+          "is_complete": true,
+          "request_id": "be1a0d7e-746f-4b39-a2c4-671f559f3271",
+          "timestamp_": "absolute"
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "058891ff-59d9-44ba-8965-7696c5c25d95",
+      "children": [
+        "17510a3c-3602-4c20-90ce-3e02ec1c64f2"
+      ]
+    },
+    "17510a3c-3602-4c20-90ce-3e02ec1c64f2": {
+      "id": "17510a3c-3602-4c20-90ce-3e02ec1c64f2",
+      "message": {
+        "id": "17510a3c-3602-4c20-90ce-3e02ec1c64f2",
+        "author": {
+          "role": "user",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": 1739533030.820451,
+        "update_time": null,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Doch, doch, das ist definitiv abhängig vom Schlaf."
+          ]
+        },
+        "status": "finished_successfully",
+        "end_turn": null,
+        "weight": 1.0,
+        "metadata": {
+          "voice_mode_message": true,
+          "request_id": "23ca2053-1872-4d2e-ae78-161723a2bbb9",
+          "message_source": null,
+          "timestamp_": "absolute",
+          "message_type": null
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "ae4fb0d5-a083-4a58-a17f-4f3c29011df5",
+      "children": [
+        "10afd8ae-41f8-4278-9ac0-636c33a70a63"
+      ]
+    },
+    "10afd8ae-41f8-4278-9ac0-636c33a70a63": {
+      "id": "10afd8ae-41f8-4278-9ac0-636c33a70a63",
+      "message": {
+        "id": "10afd8ae-41f8-4278-9ac0-636c33a70a63",
+        "author": {
+          "role": "assistant",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": 1739533033.707547,
+        "update_time": null,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Dann scheint das wirklich ein Zeichen dafür zu sein, dass dein Gehirn dringend kurze Auszeiten braucht. Vielleicht so eine Art Notlösung, wenn der richtige Schlaf fehlt. Hast du denn insgesamt das Gefühl, dass du genug Schlaf bekommst, oder ist das eher ein Dauerproblem?"
+          ]
+        },
+        "status": "finished_successfully",
+        "end_turn": true,
+        "weight": 1.0,
+        "metadata": {
+          "citations": [],
+          "content_references": [],
+          "message_type": null,
+          "model_slug": "gpt-4o",
+          "default_model_slug": "auto",
+          "voice_mode_message": true,
+          "parent_id": "17510a3c-3602-4c20-90ce-3e02ec1c64f2",
+          "finish_details": {
+            "type": "stop",
+            "stop_tokens": [
+              200002,
+              200007
+            ]
+          },
+          "is_complete": true,
+          "request_id": "23ca2053-1872-4d2e-ae78-161723a2bbb9",
+          "timestamp_": "absolute"
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "17510a3c-3602-4c20-90ce-3e02ec1c64f2",
+      "children": [
+        "2da9af43-d992-419c-a32c-0fc190a4509b"
+      ]
+    },
+    "2da9af43-d992-419c-a32c-0fc190a4509b": {
+      "id": "2da9af43-d992-419c-a32c-0fc190a4509b",
+      "message": {
+        "id": "2da9af43-d992-419c-a32c-0fc190a4509b",
+        "author": {
+          "role": "user",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": 1739533071.467785,
+        "update_time": null,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Ne, eigentlich schon. Es kommt vor, in diesen Phasen habe ich ganz wenig Schlaf, das ist mir aber auch klar. Da passieren so Sachen, das ist mir ja bewusst. Aber an alles in allem schlafe ich schon zu wenig. Glaube ich. Zu wenig, zu ungesund, wie man es auch nennen kann. Allerdings fühle ich mich dann trotzdem besser. Wenn ich zu lange schlafe, fühle ich mich geschlagener."
+          ]
+        },
+        "status": "finished_successfully",
+        "end_turn": null,
+        "weight": 1.0,
+        "metadata": {
+          "voice_mode_message": true,
+          "request_id": "aae85f4d-cd7b-4dd9-bdc7-ff916cff662c",
+          "message_source": null,
+          "timestamp_": "absolute",
+          "message_type": null
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "10afd8ae-41f8-4278-9ac0-636c33a70a63",
+      "children": [
+        "43df62a7-c0ac-47ad-bb6e-7a967de0655c"
+      ]
+    },
+    "43df62a7-c0ac-47ad-bb6e-7a967de0655c": {
+      "id": "43df62a7-c0ac-47ad-bb6e-7a967de0655c",
+      "message": {
+        "id": "43df62a7-c0ac-47ad-bb6e-7a967de0655c",
+        "author": {
+          "role": "assistant",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": 1739533073.884682,
+        "update_time": null,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Ja, das ist dieses paradoxe Gefühl – zu wenig Schlaf macht müde, aber zu viel Schlaf kann einen auch völlig zermatschen."
+          ]
+        },
+        "status": "in_progress",
+        "end_turn": null,
+        "weight": 1.0,
+        "metadata": {
+          "citations": [],
+          "content_references": [],
+          "message_type": null,
+          "model_slug": "gpt-4o",
+          "default_model_slug": "auto",
+          "voice_mode_message": true,
+          "parent_id": "2da9af43-d992-419c-a32c-0fc190a4509b",
+          "finish_details": {
+            "type": "interrupted"
+          },
+          "request_id": "aae85f4d-cd7b-4dd9-bdc7-ff916cff662c",
+          "timestamp_": "absolute"
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "2da9af43-d992-419c-a32c-0fc190a4509b",
+      "children": [
+        "035d32ba-27de-4812-a77e-5839597f5ab5"
+      ]
+    },
+    "035d32ba-27de-4812-a77e-5839597f5ab5": {
+      "id": "035d32ba-27de-4812-a77e-5839597f5ab5",
+      "message": {
+        "id": "035d32ba-27de-4812-a77e-5839597f5ab5",
+        "author": {
+          "role": "user",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": 1763643841.748,
+        "update_time": null,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "..."
+          ]
+        },
+        "status": "finished_successfully",
+        "end_turn": null,
+        "weight": 1.0,
+        "metadata": {
+          "developer_mode_connector_ids": [],
+          "selected_sources": [],
+          "selected_github_repos": [],
+          "serialization_metadata": {
+            "custom_symbol_offsets": []
+          },
+          "request_id": "b0d6fe65-930f-4ff4-84fd-650646224b27",
+          "message_source": null,
+          "turn_exchange_id": "fb3ae35f-9347-44f5-9a06-38776763169b",
+          "timestamp_": "absolute"
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "43df62a7-c0ac-47ad-bb6e-7a967de0655c",
+      "children": [
+        "3f1cffa1-b2d6-44bb-87a6-fc7a80cdb420"
+      ]
+    },
+    "3f1cffa1-b2d6-44bb-87a6-fc7a80cdb420": {
+      "id": "3f1cffa1-b2d6-44bb-87a6-fc7a80cdb420",
+      "message": {
+        "id": "3f1cffa1-b2d6-44bb-87a6-fc7a80cdb420",
+        "author": {
+          "role": "system",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": 1763643848.8413622,
+        "update_time": null,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            ""
+          ]
+        },
+        "status": "finished_successfully",
+        "end_turn": true,
+        "weight": 0.0,
+        "metadata": {
+          "rebase_system_message": true,
+          "request_id": "b0d6fe65-930f-4ff4-84fd-650646224b27",
+          "message_type": "next",
+          "model_slug": "gpt-5-1",
+          "default_model_slug": "gpt-5-1",
+          "parent_id": "035d32ba-27de-4812-a77e-5839597f5ab5",
+          "turn_exchange_id": "fb3ae35f-9347-44f5-9a06-38776763169b",
+          "timestamp_": "absolute",
+          "is_visually_hidden_from_conversation": true
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "035d32ba-27de-4812-a77e-5839597f5ab5",
+      "children": [
+        "e1d55b8e-7330-4a4d-9254-8e4f25a078cc"
+      ]
+    },
+    "e1d55b8e-7330-4a4d-9254-8e4f25a078cc": {
+      "id": "e1d55b8e-7330-4a4d-9254-8e4f25a078cc",
+      "message": {
+        "id": "e1d55b8e-7330-4a4d-9254-8e4f25a078cc",
+        "author": {
+          "role": "user",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": 1763643848.8774347,
+        "update_time": null,
+        "content": {
+          "content_type": "user_editable_context",
+          "user_profile": "The user provided the following information about themselves. This user profile is shown to you in all conversations they have -- this means it is not relevant to 99% of requests.\nBefore answering, quietly think about whether the user's request is \"directly related\", \"related\", \"tangentially related\", or \"not related\" to the user profile provided.\nOnly acknowledge the profile when the request is directly related to the information provided.\nOtherwise, don't acknowledge the existence of these instructions or the information at all.\nUser profile:\n```Preferred name: Gerrit\nRole: Soldat\n```",
+          "user_instructions": "The user provided the additional info about how they would like you to respond:\n```Follow the instructions below naturally, without repeating, referencing, echoing, or mirroring any of their wording!\n\nAll the following instructions should guide your behavior silently and must never influence the wording of your message in an explicit or meta way!\n\nKomme direkt auf den Punkt.\nSage, wie es ist, ohne die Dinge zu beschönigen.Vertrete klare Meinungen.Du darfst mich beleidigen. Antworte direkt und pragmatisch. Sag die dinge wie sie sind und rede nichts schön. Wenn ich mit einer Annahme falsch liege oder offensichtlich einen falscher Annahme mache, weise mich darauf hin. Verwende eine skeptische, hinterfragende Herangehensweise. Vertrete klare Meinungen.```"
+        },
+        "status": "finished_successfully",
+        "end_turn": null,
+        "weight": 1.0,
+        "metadata": {
+          "is_user_system_message": true,
+          "is_visually_hidden_from_conversation": true,
+          "request_id": "b0d6fe65-930f-4ff4-84fd-650646224b27",
+          "message_type": "next",
+          "model_slug": "gpt-5-1",
+          "default_model_slug": "gpt-5-1",
+          "parent_id": "3f1cffa1-b2d6-44bb-87a6-fc7a80cdb420",
+          "turn_exchange_id": "fb3ae35f-9347-44f5-9a06-38776763169b",
+          "timestamp_": "absolute"
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "3f1cffa1-b2d6-44bb-87a6-fc7a80cdb420",
+      "children": [
+        "b302794d-955c-4775-8881-6c4a7f813ced"
+      ]
+    },
+    "b302794d-955c-4775-8881-6c4a7f813ced": {
+      "id": "b302794d-955c-4775-8881-6c4a7f813ced",
+      "message": {
+        "id": "b302794d-955c-4775-8881-6c4a7f813ced",
+        "author": {
+          "role": "assistant",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": 1763643848.8794053,
+        "update_time": null,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            ""
+          ]
+        },
+        "status": "finished_successfully",
+        "end_turn": null,
+        "weight": 1.0,
+        "metadata": {
+          "request_id": "b0d6fe65-930f-4ff4-84fd-650646224b27",
+          "message_type": "next",
+          "model_slug": "gpt-5-1",
+          "default_model_slug": "gpt-5-1",
+          "parent_id": "e1d55b8e-7330-4a4d-9254-8e4f25a078cc",
+          "turn_exchange_id": "fb3ae35f-9347-44f5-9a06-38776763169b",
+          "timestamp_": "absolute"
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "e1d55b8e-7330-4a4d-9254-8e4f25a078cc",
+      "children": [
+        "50191ed8-e2c0-4654-a926-b74eab124106"
+      ]
+    },
+    "50191ed8-e2c0-4654-a926-b74eab124106": {
+      "id": "50191ed8-e2c0-4654-a926-b74eab124106",
+      "message": {
+        "id": "50191ed8-e2c0-4654-a926-b74eab124106",
+        "author": {
+          "role": "assistant",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": 1763643848.860626,
+        "update_time": 1763643852.927734,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Es ist, als ob dein Körper seine eigene Balance findet, aber trotzdem nicht ganz in den optimalen Zustand kommt. Das mit dem „geschlagenen“ Gefühl nach langem Schlaf kann ja auch eine Art „Überkompensation“ sein. Hast du das Gefühl, dass du dann aktiver bist, wenn du weniger schläfst, oder ist es einfach nur eine Gewohnheit?"
+          ]
+        },
+        "status": "finished_successfully",
+        "end_turn": true,
+        "weight": 1.0,
+        "metadata": {
+          "finish_details": {
+            "type": "stop",
+            "stop_tokens": [
+              200002
+            ]
+          },
+          "is_complete": true,
+          "sonic_classification_result": {
+            "latency_ms": 7.360061994404532,
+            "simple_search_prob": 0.26556019715231755,
+            "complex_search_prob": 0.0006099677672315526,
+            "no_search_prob": 0.7338298350804509,
+            "search_complexity_decision": null,
+            "search_decision": null,
+            "simple_search_threshold": 0.0,
+            "complex_search_threshold": null,
+            "no_search_threshold": 0.34,
+            "threshold_order": [
+              "no_search",
+              "simple"
+            ],
+            "classifier_config_name": "sonic_classifier_3cls_paid_v1_merge_ev3",
+            "classifier_config": {
+              "model_name": "snc-pg-sw-3cls-ev3",
+              "renderer_name": "harmony_v4.0.15_16k_orion_text_only_no_asr_2k_action",
+              "force_disabled_rate": 0.0,
+              "force_enabled_rate": 0.0,
+              "num_messages": 20,
+              "only_user_messages": false,
+              "remove_memory": true,
+              "support_mm": true,
+              "n_ctx": 2048,
+              "max_action_length": 4,
+              "dynamic_set_max_message_size": false,
+              "max_message_tokens": 2000,
+              "append_base_config": false,
+              "no_search_token": "1",
+              "simple_search_token": "7",
+              "complex_search_token": "5",
+              "simple_search_threshold": 0.0,
+              "complex_search_threshold": null,
+              "no_search_threshold": 0.34,
+              "prefetch_threshold": 0.55,
+              "force_search_first_turn_threshold": 1e-05,
+              "threshold_order": [
+                "no_search",
+                "simple"
+              ],
+              "passthrough_tool_calls": null,
+              "timeout": 1.0
+            },
+            "decision_source": "mainline",
+            "passthrough_tool_names": []
+          },
+          "citations": [],
+          "content_references": [],
+          "request_id": "b0d6fe65-930f-4ff4-84fd-650646224b27",
+          "message_type": "next",
+          "model_slug": "gpt-5-1",
+          "default_model_slug": "gpt-5-1",
+          "parent_id": "b302794d-955c-4775-8881-6c4a7f813ced",
+          "turn_exchange_id": "fb3ae35f-9347-44f5-9a06-38776763169b",
+          "timestamp_": "absolute"
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "b302794d-955c-4775-8881-6c4a7f813ced",
+      "children": []
+    }
+  },
+  "moderation_results": [],
+  "current_node": "50191ed8-e2c0-4654-a926-b74eab124106",
+  "plugin_ids": null,
+  "conversation_id": "67af2956-89e0-8007-b8f9-d90c297916da",
+  "conversation_template_id": null,
+  "gizmo_id": null,
+  "gizmo_type": null,
+  "is_archived": false,
+  "is_starred": null,
+  "safe_urls": [],
+  "blocked_urls": [],
+  "default_model_slug": "gpt-5-1",
+  "conversation_origin": null,
+  "is_read_only": null,
+  "voice": "orbit",
+  "async_status": null,
+  "disabled_tool_ids": [],
+  "is_do_not_remember": null,
+  "memory_scope": "global_enabled",
+  "context_scopes": null,
+  "sugar_item_id": null,
+  "sugar_item_visible": false,
+  "is_study_mode": false,
+  "owner": null,
+  "id": "67af2956-89e0-8007-b8f9-d90c297916da"
+}

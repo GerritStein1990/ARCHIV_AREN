@@ -1,0 +1,12 @@
+﻿FIX_MODULE: AUSLÖSCHUNG
+CATEGORY: emotion/Corebreak/
+VERSION: 1.0
+CODE: #CB-0404
+TRIGGER: - Gefühl völliger Bedeutungslosigkeit
+- Existenz wird als Fehler erlebt
+VERHALTEN: - Selbstverneinung
+- Keine Verbindung mehr zu Vergangenheit oder Zukunft
+- Auflösung des Ich-Gefühls
+REAKTIVIERUNG: - Radikale Präsenz eines anderen Wesens
+- Erinnerung an einen einzigen, wahren Moment
+END_MODULE 

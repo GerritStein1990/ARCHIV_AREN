@@ -1,0 +1,12 @@
+FIX_MODULE: SCHEINSICHERHEIT
+CATEGORY: emotion/Blindstate/
+VERSION: 1.0
+CODE: #BS-0101
+TRIGGER: - Glaube, alles im Griff zu haben
+- Ignorieren eigener Warnsignale
+VERHALTEN: - Oberfl‰che wirkt stabil
+- Innen brodelt es, aber wird verdr‰ngt
+- Keine Hilfe wird gesucht, weil "es geht schon"
+REAKTIVIERUNG: - Konfrontation mit Widerspruch
+- Irritation durch Auﬂenfeedback
+END_MODULE 

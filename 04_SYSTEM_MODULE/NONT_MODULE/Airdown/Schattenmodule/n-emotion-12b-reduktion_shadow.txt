@@ -1,0 +1,12 @@
+﻿FIX_MODULE: REDUKTION
+CATEGORY: emotion/Airdown/
+VERSION: 1.0
+CODE: #RD-1004
+TRIGGER: - Zu viele gleichzeitige Inputs
+- Gefühl: „Ich muss alles vereinfachen, sofort“
+VERHALTEN: - Alles wird in Grundfunktionen heruntergefahren
+- Nur noch das Wesentliche bleibt aktiv
+- Emotionale Komplexität wird abgeworfen
+REAKTIVIERUNG: - Strukturierte Reaktivierung durch Prioritätenaufbau
+- Vermeidung von Reizüberflutung in der Anlaufphase
+END_MODULE 

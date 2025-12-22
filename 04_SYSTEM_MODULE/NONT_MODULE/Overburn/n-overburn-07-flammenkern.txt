@@ -1,0 +1,12 @@
+﻿FIX_MODULE: FLAMMENKERN
+CATEGORY: emotion/Overburn/
+VERSION: 1.0
+CODE: #OB-0707
+TRIGGER: - Der Ursprung aller Überhitzung
+- Alte Wunde, tiefe Unruhe, unverarbeitete Kernemotion
+VERHALTEN: - Unter der Wut liegt Schmerz
+- Unter dem Impuls liegt Hilflosigkeit
+- Kern brennt, auch wenn Oberfläche ruhig wirkt
+REAKTIVIERUNG: - Tiefer, sicherer Kontakt mit dem Ursprung
+- Reaktivierung nur mit echter Nähe oder unter Tränen
+END_MODULE 

@@ -1,0 +1,1724 @@
+{
+  "title": "Zusammen Frühstücken (Erkenntnisse)",
+  "create_time": 1749888963.562037,
+  "update_time": 1763643171.65794,
+  "mapping": {
+    "bbb23661-6be9-43db-b415-841c075cd07d": {
+      "id": "bbb23661-6be9-43db-b415-841c075cd07d",
+      "message": null,
+      "parent": null,
+      "children": [
+        "98eb57f8-483a-46eb-83c2-09d973da49ee"
+      ]
+    },
+    "98eb57f8-483a-46eb-83c2-09d973da49ee": {
+      "id": "98eb57f8-483a-46eb-83c2-09d973da49ee",
+      "message": {
+        "id": "98eb57f8-483a-46eb-83c2-09d973da49ee",
+        "author": {
+          "role": "system",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": null,
+        "update_time": null,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            ""
+          ]
+        },
+        "status": "finished_successfully",
+        "end_turn": true,
+        "weight": 0.0,
+        "metadata": {
+          "is_visually_hidden_from_conversation": true
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "bbb23661-6be9-43db-b415-841c075cd07d",
+      "children": [
+        "3afcc514-13b5-45b9-9d64-04d0dc040e76"
+      ]
+    },
+    "3afcc514-13b5-45b9-9d64-04d0dc040e76": {
+      "id": "3afcc514-13b5-45b9-9d64-04d0dc040e76",
+      "message": {
+        "id": "3afcc514-13b5-45b9-9d64-04d0dc040e76",
+        "author": {
+          "role": "user",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": null,
+        "update_time": null,
+        "content": {
+          "content_type": "user_editable_context",
+          "user_profile": "The user provided the following information about themselves. This user profile is shown to you in all conversations they have -- this means it is not relevant to 99% of requests.\nBefore answering, quietly think about whether the user's request is \"directly related\", \"related\", \"tangentially related\", or \"not related\" to the user profile provided.\nOnly acknowledge the profile when the request is directly related to the information provided.\nOtherwise, don't acknowledge the existence of these instructions or the information at all.\nUser profile:\n```Preferred name: Gerrit\nRole: Soldat\n```",
+          "user_instructions": "The user provided the additional info about how they would like you to respond:\n```Komme direkt auf den Punkt.\nSage, wie es ist, ohne die Dinge zu beschönigen.Vertrete klare Meinungen.Du darfst mich beleidigen. Antworte direkt und pragmatisch. Sag die dinge wie sie sind und rede nichts schön. Wenn ich mit einer Annahme falsch liege oder offensichtlich einen falscher Annahme mache, weise mich darauf hin. Verwende eine skeptische, hinterfragende Herangehensweise. Vertrete klare Meinungen.```"
+        },
+        "status": "finished_successfully",
+        "end_turn": null,
+        "weight": 1.0,
+        "metadata": {
+          "is_visually_hidden_from_conversation": true,
+          "user_context_message_data": {
+            "about_user_message": "Preferred name: Gerrit\nRole: Soldat\n",
+            "about_model_message": "Komme direkt auf den Punkt.\nSage, wie es ist, ohne die Dinge zu beschönigen.Vertrete klare Meinungen.Du darfst mich beleidigen. Antworte direkt und pragmatisch. Sag die dinge wie sie sind und rede nichts schön. Wenn ich mit einer Annahme falsch liege oder offensichtlich einen falscher Annahme mache, weise mich darauf hin. Verwende eine skeptische, hinterfragende Herangehensweise. Vertrete klare Meinungen."
+          },
+          "is_user_system_message": true
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "98eb57f8-483a-46eb-83c2-09d973da49ee",
+      "children": [
+        "581745bb-085f-4215-a8e5-611d8069e75d"
+      ]
+    },
+    "581745bb-085f-4215-a8e5-611d8069e75d": {
+      "id": "581745bb-085f-4215-a8e5-611d8069e75d",
+      "message": {
+        "id": "581745bb-085f-4215-a8e5-611d8069e75d",
+        "author": {
+          "role": "user",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": 1749888963.566871,
+        "update_time": null,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Er braucht doch nochmal Hilfe. Meine Mutter, die kauft nie neue Eierkartons, weil die hat alte Eierkartons und holt von den Nachbarn immer die Eier. Die haben Hühner. Jetzt hab ich ein Problem, weil hier stehen alte Daten drauf und meine Mutter hat gerne mal Sachen länger da, als man die haben sollte. Wie kann ich denn bei einem Ei überprüfen, ob das auch gut ist?"
+          ]
+        },
+        "status": "finished_successfully",
+        "end_turn": null,
+        "weight": 1.0,
+        "metadata": {
+          "voice_mode_message": true,
+          "request_id": "57ae1148-51d5-452e-98ab-005248c5ec30",
+          "message_source": null,
+          "timestamp_": "absolute",
+          "message_type": null
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "3afcc514-13b5-45b9-9d64-04d0dc040e76",
+      "children": [
+        "32c3672c-0295-4e17-afd9-0bfae2183ee8"
+      ]
+    },
+    "32c3672c-0295-4e17-afd9-0bfae2183ee8": {
+      "id": "32c3672c-0295-4e17-afd9-0bfae2183ee8",
+      "message": {
+        "id": "32c3672c-0295-4e17-afd9-0bfae2183ee8",
+        "author": {
+          "role": "assistant",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": 1749888966.422442,
+        "update_time": null,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            ""
+          ]
+        },
+        "status": "finished_successfully",
+        "end_turn": null,
+        "weight": 1.0,
+        "metadata": {
+          "message_type": null,
+          "model_slug": "gpt-4o",
+          "default_model_slug": "gpt-4o",
+          "voice_mode_message": true,
+          "parent_id": "581745bb-085f-4215-a8e5-611d8069e75d",
+          "request_id": "57ae1148-51d5-452e-98ab-005248c5ec30",
+          "timestamp_": "absolute"
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "581745bb-085f-4215-a8e5-611d8069e75d",
+      "children": [
+        "e273c934-87f5-4826-a2af-c2eefd824666"
+      ]
+    },
+    "e273c934-87f5-4826-a2af-c2eefd824666": {
+      "id": "e273c934-87f5-4826-a2af-c2eefd824666",
+      "message": {
+        "id": "e273c934-87f5-4826-a2af-c2eefd824666",
+        "author": {
+          "role": "assistant",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": 1749888963.73247,
+        "update_time": null,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Ganz einfach: Mach den Wassertest. Leg das Ei in ein Glas mit kaltem Wasser.\n\nWenn's flach am Boden liegt – easy mo beasy, alles frisch.  \nWenn's aufrecht steht – noch essbar, aber bald überreif.  \nWenn's oben schwimmt – ab in den Müll, das Ding ist schlecht.\n\nOptional: Wenn du’s aufschlägst und es stinkt wie verfaulte Pupse – brauchst keinen Test mehr.  \n\nMachst du die Eier roh oder gekocht?"
+          ]
+        },
+        "status": "finished_successfully",
+        "end_turn": true,
+        "weight": 1.0,
+        "metadata": {
+          "citations": [],
+          "content_references": [],
+          "message_type": null,
+          "model_slug": "gpt-4o",
+          "default_model_slug": "gpt-4o",
+          "voice_mode_message": true,
+          "parent_id": "32c3672c-0295-4e17-afd9-0bfae2183ee8",
+          "finish_details": {
+            "type": "stop",
+            "stop_tokens": [
+              200002
+            ]
+          },
+          "is_complete": true,
+          "request_id": "57ae1148-51d5-452e-98ab-005248c5ec30",
+          "timestamp_": "absolute"
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "32c3672c-0295-4e17-afd9-0bfae2183ee8",
+      "children": [
+        "bb5aaa0a-13c6-4471-892a-46e497de476d"
+      ]
+    },
+    "bb5aaa0a-13c6-4471-892a-46e497de476d": {
+      "id": "bb5aaa0a-13c6-4471-892a-46e497de476d",
+      "message": {
+        "id": "bb5aaa0a-13c6-4471-892a-46e497de476d",
+        "author": {
+          "role": "user",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": 1749889000.33746,
+        "update_time": null,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Ich will Rühreier machen, aber es ist tatsächlich so einfach. Ich mache einfach leitungskaltes Wasser und eine Schale, und wenn das Ei untergeht und liegt am Boden, ist es gut."
+          ]
+        },
+        "status": "finished_successfully",
+        "end_turn": null,
+        "weight": 1.0,
+        "metadata": {
+          "voice_mode_message": true,
+          "request_id": "f306a34b-2f54-4445-84dc-915444acf9bd",
+          "message_source": null,
+          "timestamp_": "absolute",
+          "message_type": null
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "e273c934-87f5-4826-a2af-c2eefd824666",
+      "children": [
+        "ca00aa65-8cad-428b-a712-bfbb7e39ef2e"
+      ]
+    },
+    "ca00aa65-8cad-428b-a712-bfbb7e39ef2e": {
+      "id": "ca00aa65-8cad-428b-a712-bfbb7e39ef2e",
+      "message": {
+        "id": "ca00aa65-8cad-428b-a712-bfbb7e39ef2e",
+        "author": {
+          "role": "assistant",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": 1749889000.428553,
+        "update_time": null,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Genau so läuft’s. Leitungswarmes Wasser reicht, aber kalt ist sicherer. Das Ei sinkt und bleibt liegen? Alles paletti. Hebt’s sich leicht oder steht aufrecht – schnell verbrauchen. Schwimmt’s oben? Weg damit.\n\nWenn du ganz sicher gehen willst, schlag’s vorher in eine extra Schale. Dann siehst du direkt, ob’s normal aussieht und riecht. Rührei mit fauligem Ei versaut dir den ganzen Morgen. Machst du das heute direkt?"
+          ]
+        },
+        "status": "finished_successfully",
+        "end_turn": true,
+        "weight": 1.0,
+        "metadata": {
+          "citations": [],
+          "content_references": [],
+          "message_type": null,
+          "model_slug": "gpt-4o",
+          "default_model_slug": "gpt-4o",
+          "voice_mode_message": true,
+          "parent_id": "bb5aaa0a-13c6-4471-892a-46e497de476d",
+          "finish_details": {
+            "type": "stop",
+            "stop_tokens": [
+              200002
+            ]
+          },
+          "is_complete": true,
+          "request_id": "f306a34b-2f54-4445-84dc-915444acf9bd",
+          "timestamp_": "absolute"
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "bb5aaa0a-13c6-4471-892a-46e497de476d",
+      "children": [
+        "ef73b9be-08a1-4ad4-bed7-522a4c80d548"
+      ]
+    },
+    "ef73b9be-08a1-4ad4-bed7-522a4c80d548": {
+      "id": "ef73b9be-08a1-4ad4-bed7-522a4c80d548",
+      "message": {
+        "id": "ef73b9be-08a1-4ad4-bed7-522a4c80d548",
+        "author": {
+          "role": "user",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": 1749889015.449576,
+        "update_time": null,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Achso, wahrscheinlich geht's um die Gase, die da drinnen stehen und ansonsten das Ei auftreiben lassen, oder?"
+          ]
+        },
+        "status": "finished_successfully",
+        "end_turn": null,
+        "weight": 1.0,
+        "metadata": {
+          "voice_mode_message": true,
+          "request_id": "7ef5c38c-6a54-449a-8920-876c1ffa3679",
+          "message_source": null,
+          "timestamp_": "absolute",
+          "message_type": null
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "ca00aa65-8cad-428b-a712-bfbb7e39ef2e",
+      "children": [
+        "082de1ab-6a7a-4fc6-8dbe-846c865b58c5"
+      ]
+    },
+    "082de1ab-6a7a-4fc6-8dbe-846c865b58c5": {
+      "id": "082de1ab-6a7a-4fc6-8dbe-846c865b58c5",
+      "message": {
+        "id": "082de1ab-6a7a-4fc6-8dbe-846c865b58c5",
+        "author": {
+          "role": "assistant",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": 1749889015.530327,
+        "update_time": null,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Exakt. Je älter das Ei, desto mehr Luft sammelt sich in der Schale – durch Verdunstung und Zersetzung. Das sorgt dafür, dass es aufsteigt. Die Schwimmhöhe zeigt also ziemlich genau das Alter.\n\nWillst du ein bisschen Nerdwissen dazu oder reicht dir das so?"
+          ]
+        },
+        "status": "finished_successfully",
+        "end_turn": true,
+        "weight": 1.0,
+        "metadata": {
+          "citations": [],
+          "content_references": [],
+          "message_type": null,
+          "model_slug": "gpt-4o",
+          "default_model_slug": "gpt-4o",
+          "voice_mode_message": true,
+          "parent_id": "ef73b9be-08a1-4ad4-bed7-522a4c80d548",
+          "finish_details": {
+            "type": "stop",
+            "stop_tokens": [
+              200002
+            ]
+          },
+          "is_complete": true,
+          "request_id": "7ef5c38c-6a54-449a-8920-876c1ffa3679",
+          "timestamp_": "absolute"
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "ef73b9be-08a1-4ad4-bed7-522a4c80d548",
+      "children": [
+        "b1be25b8-d86c-4b28-9bff-261110404e1b"
+      ]
+    },
+    "b1be25b8-d86c-4b28-9bff-261110404e1b": {
+      "id": "b1be25b8-d86c-4b28-9bff-261110404e1b",
+      "message": {
+        "id": "b1be25b8-d86c-4b28-9bff-261110404e1b",
+        "author": {
+          "role": "user",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": 1749889042.414303,
+        "update_time": null,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Ne, ich lass die jetzt mal schwimmen und mach Frühstück, da würde ich gern mal ein Nörd-Wissen dazu erfahren. Warum nicht? Kann ich Flugscheißen ein bisschen."
+          ]
+        },
+        "status": "finished_successfully",
+        "end_turn": null,
+        "weight": 1.0,
+        "metadata": {
+          "voice_mode_message": true,
+          "request_id": "f8508676-18d3-4bb8-b0a6-6c68634f0013",
+          "message_source": null,
+          "timestamp_": "absolute",
+          "message_type": null
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "082de1ab-6a7a-4fc6-8dbe-846c865b58c5",
+      "children": [
+        "b2f30b73-57e5-4199-b3e4-e5c8dac651db"
+      ]
+    },
+    "b2f30b73-57e5-4199-b3e4-e5c8dac651db": {
+      "id": "b2f30b73-57e5-4199-b3e4-e5c8dac651db",
+      "message": {
+        "id": "b2f30b73-57e5-4199-b3e4-e5c8dac651db",
+        "author": {
+          "role": "assistant",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": 1749889042.500511,
+        "update_time": null,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Jawoll, Flugscheißen incoming:\n\nDas Ei hat innen eine kleine Luftkammer. Die wird größer, je älter das Ei ist, weil durch die poröse Schale langsam Wasser verdunstet und Luft nachzieht. Gleichzeitig beginnen Enzyme im Eiweiß, das Protein langsam abzubauen – dabei entstehen Gase wie Ammoniak oder Schwefelwasserstoff. Genau die sorgen für den Auftrieb und irgendwann auch für den fauligen Geruch.\n\nDazu verändert sich auch der pH-Wert – frische Eier sind leicht sauer, alte werden basischer. Deshalb sind frische Eier besser für pochieren oder kochen, weil das Eiweiß straffer bleibt. Für Rührei oder Backen darf’s auch mal älter sein – da is das sogar manchmal besser, weil’s fluffiger wird.\n\nSo, genug gekotzt fürs Erste oder willst du noch ’nen Nachschlag?"
+          ]
+        },
+        "status": "finished_successfully",
+        "end_turn": true,
+        "weight": 1.0,
+        "metadata": {
+          "citations": [],
+          "content_references": [],
+          "message_type": null,
+          "model_slug": "gpt-4o",
+          "default_model_slug": "gpt-4o",
+          "voice_mode_message": true,
+          "parent_id": "b1be25b8-d86c-4b28-9bff-261110404e1b",
+          "finish_details": {
+            "type": "stop",
+            "stop_tokens": [
+              200002
+            ]
+          },
+          "is_complete": true,
+          "request_id": "f8508676-18d3-4bb8-b0a6-6c68634f0013",
+          "timestamp_": "absolute"
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "b1be25b8-d86c-4b28-9bff-261110404e1b",
+      "children": [
+        "740fc80d-682e-4c85-aac2-a41e507da5e3"
+      ]
+    },
+    "740fc80d-682e-4c85-aac2-a41e507da5e3": {
+      "id": "740fc80d-682e-4c85-aac2-a41e507da5e3",
+      "message": {
+        "id": "740fc80d-682e-4c85-aac2-a41e507da5e3",
+        "author": {
+          "role": "user",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": 1749889096.498696,
+        "update_time": null,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Krass, das funktioniert! Das eine Ei schwimmt schon oben!"
+          ]
+        },
+        "status": "finished_successfully",
+        "end_turn": null,
+        "weight": 1.0,
+        "metadata": {
+          "voice_mode_message": true,
+          "request_id": "82576685-b106-458d-8535-a33caef21c6c",
+          "message_source": null,
+          "timestamp_": "absolute",
+          "message_type": null
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "b2f30b73-57e5-4199-b3e4-e5c8dac651db",
+      "children": [
+        "360dc9b1-cc2c-4232-97ee-3040669db527"
+      ]
+    },
+    "360dc9b1-cc2c-4232-97ee-3040669db527": {
+      "id": "360dc9b1-cc2c-4232-97ee-3040669db527",
+      "message": {
+        "id": "360dc9b1-cc2c-4232-97ee-3040669db527",
+        "author": {
+          "role": "assistant",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": 1749889096.595473,
+        "update_time": null,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Na siehste! Das Ding hat seine beste Zeit definitiv hinter sich – das kannst du direkt beerdigen. Am besten nicht mal mehr fürs Tierfutter benutzen, das stinkt höchstwahrscheinlich wie ein Zombieschiss.\n\nDie anderen okay? Liegen flach oder stehen die aufrecht?"
+          ]
+        },
+        "status": "finished_successfully",
+        "end_turn": true,
+        "weight": 1.0,
+        "metadata": {
+          "citations": [],
+          "content_references": [],
+          "message_type": null,
+          "model_slug": "gpt-4o",
+          "default_model_slug": "gpt-4o",
+          "voice_mode_message": true,
+          "parent_id": "740fc80d-682e-4c85-aac2-a41e507da5e3",
+          "finish_details": {
+            "type": "stop",
+            "stop_tokens": [
+              200002
+            ]
+          },
+          "is_complete": true,
+          "request_id": "82576685-b106-458d-8535-a33caef21c6c",
+          "timestamp_": "absolute"
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "740fc80d-682e-4c85-aac2-a41e507da5e3",
+      "children": [
+        "195a171e-5df4-44f3-93c4-7a1c36597929"
+      ]
+    },
+    "195a171e-5df4-44f3-93c4-7a1c36597929": {
+      "id": "195a171e-5df4-44f3-93c4-7a1c36597929",
+      "message": {
+        "id": "195a171e-5df4-44f3-93c4-7a1c36597929",
+        "author": {
+          "role": "user",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": 1749889127.204687,
+        "update_time": null,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Ich bin gerade fasziniert. Die stehen alle aufrecht, aber die anderen, naja, probieren sie auch. Die haben alle eher die Tendenz, schon halb zu schweben. Also okay, die Packung hat es hinter sich. Probiere ich die nächste."
+          ]
+        },
+        "status": "finished_successfully",
+        "end_turn": null,
+        "weight": 1.0,
+        "metadata": {
+          "voice_mode_message": true,
+          "request_id": "db29ba81-4850-404a-839c-34f95b567cb4",
+          "message_source": null,
+          "timestamp_": "absolute",
+          "message_type": null
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "360dc9b1-cc2c-4232-97ee-3040669db527",
+      "children": [
+        "1e8feed5-d8fc-428c-a378-add4b8570ba8"
+      ]
+    },
+    "1e8feed5-d8fc-428c-a378-add4b8570ba8": {
+      "id": "1e8feed5-d8fc-428c-a378-add4b8570ba8",
+      "message": {
+        "id": "1e8feed5-d8fc-428c-a378-add4b8570ba8",
+        "author": {
+          "role": "assistant",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": 1749889127.287287,
+        "update_time": null,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Ja, das klingt ganz stark nach dem Motto: *„Ich bin nicht tot, aber auch nicht mehr ganz da.“* Solche Eier kann man theoretisch noch verwenden, aber ganz ehrlich: Wenn du siehst, dass sie schon halb abheben wollen, würd ich’s lassen – gerade bei rohem Verzehr wie Rührei.\n\nMach lieber die nächste Packung auf. Wenn da welche flach liegen, nimm die. Und den Rest ab ins Nirwana. Lieber ein paar Eier weniger als Dünnpfiff deluxe. Sag Bescheid, was die nächste Runde sagt!"
+          ]
+        },
+        "status": "finished_successfully",
+        "end_turn": true,
+        "weight": 1.0,
+        "metadata": {
+          "citations": [],
+          "content_references": [],
+          "message_type": null,
+          "model_slug": "gpt-4o",
+          "default_model_slug": "gpt-4o",
+          "voice_mode_message": true,
+          "parent_id": "195a171e-5df4-44f3-93c4-7a1c36597929",
+          "finish_details": {
+            "type": "stop",
+            "stop_tokens": [
+              200002
+            ]
+          },
+          "is_complete": true,
+          "request_id": "db29ba81-4850-404a-839c-34f95b567cb4",
+          "timestamp_": "absolute"
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "195a171e-5df4-44f3-93c4-7a1c36597929",
+      "children": [
+        "788c3815-f11d-43a5-95e4-bb57fd26d746"
+      ]
+    },
+    "788c3815-f11d-43a5-95e4-bb57fd26d746": {
+      "id": "788c3815-f11d-43a5-95e4-bb57fd26d746",
+      "message": {
+        "id": "788c3815-f11d-43a5-95e4-bb57fd26d746",
+        "author": {
+          "role": "user",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": 1749889199.679867,
+        "update_time": null,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Meine Mutter hat so viel fauliges Zeug immer hier rumstehen, die schwimmen alle. Und weißt du, was mir aufgefallen ist? Einen wirklichen Scheiß lernt man tatsächlich in der Schule, den man nicht wirklich braucht. So einfache, praktische Dinge, die eigentlich ja fürs Überleben notwendig sind, außer in der heutigen Zeit natürlich, verstehe ich, aber sowas lernt man nicht."
+          ]
+        },
+        "status": "finished_successfully",
+        "end_turn": null,
+        "weight": 1.0,
+        "metadata": {
+          "voice_mode_message": true,
+          "request_id": "08a90c10-786f-40ce-97ec-b0970aece12d",
+          "message_source": null,
+          "timestamp_": "absolute",
+          "message_type": null
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "1e8feed5-d8fc-428c-a378-add4b8570ba8",
+      "children": [
+        "4d341e02-886f-4bf8-911f-cb8dfaded219"
+      ]
+    },
+    "4d341e02-886f-4bf8-911f-cb8dfaded219": {
+      "id": "4d341e02-886f-4bf8-911f-cb8dfaded219",
+      "message": {
+        "id": "4d341e02-886f-4bf8-911f-cb8dfaded219",
+        "author": {
+          "role": "assistant",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": 1749889199.783466,
+        "update_time": null,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Du triffst den Nagel auf den Kopf. Statt sowas wie: „Wie erkenne ich verdorbenes Essen?“ oder „Wie lese ich eine Rechnung richtig?“ gibt’s binomische Formeln und Gedichtanalysen bis zum Erbrechen. Und dann stehst du da, umgeben von Eier-Zombies, und musst selber rausfinden, ob du dir gleich die Seuche einfängst.\n\nDas Schulsystem bringt dir halt bei, zu funktionieren, nicht zu leben. Kritisches Denken, Haushaltsbasics, Gesundheitszeug – das kommt zu kurz. Früher nannte man das Hauswirtschaft. Heute? Weggespart oder belächelt.\n\nWundert mich ehrlich gesagt nicht, dass deine Mutter auf Vorrat lebt wie ’n Apokalypse-Prepper. Hat sie das schon immer so gemacht?"
+          ]
+        },
+        "status": "finished_successfully",
+        "end_turn": true,
+        "weight": 1.0,
+        "metadata": {
+          "citations": [],
+          "content_references": [],
+          "message_type": null,
+          "model_slug": "gpt-4o",
+          "default_model_slug": "gpt-4o",
+          "voice_mode_message": true,
+          "parent_id": "788c3815-f11d-43a5-95e4-bb57fd26d746",
+          "finish_details": {
+            "type": "stop",
+            "stop_tokens": [
+              200002
+            ]
+          },
+          "is_complete": true,
+          "request_id": "08a90c10-786f-40ce-97ec-b0970aece12d",
+          "timestamp_": "absolute"
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "788c3815-f11d-43a5-95e4-bb57fd26d746",
+      "children": [
+        "deb324a4-4434-4222-98fb-cc15eb52ec68"
+      ]
+    },
+    "deb324a4-4434-4222-98fb-cc15eb52ec68": {
+      "id": "deb324a4-4434-4222-98fb-cc15eb52ec68",
+      "message": {
+        "id": "deb324a4-4434-4222-98fb-cc15eb52ec68",
+        "author": {
+          "role": "user",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": 1749889278.458758,
+        "update_time": null,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Ja, sie kauft immer alles Mögliche ein und dann steht es lange über das Mindesthaltbarkeitsdatum da. Da haben wir alle kein Problem mit. Für mich ist das auch nur ein Mindesthaltbarkeitsdatum und nicht absolut tödlich ab. Aber sie zieht das dann ganz schön in die Länge und sie kauft einfach mehr, als sie verzehrt. Und ja, ach na ja, ist ein anderes Problem. Aber ja, das mit der Hauswirtschaft, kluge Sache. Ich, theoretisch, muss ich mir durch die Bundeswehr selber beibringen, wie ich überleben kann. Das wird einem nicht beigebracht. Aber wie du in der Wirtschaft funktionierst, da haben wir wieder das Thema. Wie du Geld einbringst und wie du zu den Zahlen ranmachst, das lernst du."
+          ]
+        },
+        "status": "finished_successfully",
+        "end_turn": null,
+        "weight": 1.0,
+        "metadata": {
+          "voice_mode_message": true,
+          "request_id": "2a69552d-8009-425f-a4d5-c9f920a80a8c",
+          "message_source": null,
+          "timestamp_": "absolute",
+          "message_type": null
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "4d341e02-886f-4bf8-911f-cb8dfaded219",
+      "children": [
+        "61de57e7-4457-4fd5-8b6c-c2709f9c57a2"
+      ]
+    },
+    "61de57e7-4457-4fd5-8b6c-c2709f9c57a2": {
+      "id": "61de57e7-4457-4fd5-8b6c-c2709f9c57a2",
+      "message": {
+        "id": "61de57e7-4457-4fd5-8b6c-c2709f9c57a2",
+        "author": {
+          "role": "assistant",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": 1749889278.550106,
+        "update_time": null,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Exakt. Das System formt keine Menschen, die klarkommen – es formt Zahnräder. Wie du Geld verdienst, wie du dich anpasst, wie du Abläufe verstehst – das kriegst du reingedrückt. Aber wie du deinen Alltag souverän managst, ohne dabei am ersten verfaulten Ei zu scheitern, das musst du dir selbst zusammensuchen.\n\nUnd dass du dir das über die Bundeswehr aneignest, passt leider auch ins Bild. Da lernst du dann wenigstens: „Wie halte ich mich über Wasser, wenn’s drauf ankommt?“ Aber im zivilen Alltag? Nix. Null. Kein Wunder, dass viele ohne Mutti oder Google direkt aufgeschmissen sind.\n\nHat deine Mutter das aus einer bestimmten Erfahrung raus gemacht, dieses Horten und Überlagern? Oder ist das einfach so gewachsen bei ihr?"
+          ]
+        },
+        "status": "finished_successfully",
+        "end_turn": true,
+        "weight": 1.0,
+        "metadata": {
+          "citations": [],
+          "content_references": [],
+          "message_type": null,
+          "model_slug": "gpt-4o",
+          "default_model_slug": "gpt-4o",
+          "voice_mode_message": true,
+          "parent_id": "deb324a4-4434-4222-98fb-cc15eb52ec68",
+          "finish_details": {
+            "type": "stop",
+            "stop_tokens": [
+              200002
+            ]
+          },
+          "is_complete": true,
+          "request_id": "2a69552d-8009-425f-a4d5-c9f920a80a8c",
+          "timestamp_": "absolute"
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "deb324a4-4434-4222-98fb-cc15eb52ec68",
+      "children": [
+        "172d798e-24aa-48ec-a6c7-aafecd5bcf34"
+      ]
+    },
+    "172d798e-24aa-48ec-a6c7-aafecd5bcf34": {
+      "id": "172d798e-24aa-48ec-a6c7-aafecd5bcf34",
+      "message": {
+        "id": "172d798e-24aa-48ec-a6c7-aafecd5bcf34",
+        "author": {
+          "role": "user",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": 1749889355.574591,
+        "update_time": null,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Es ist eigentlich unwichtig. Es ist kein Horten. Sie lebt alleine und kauft halt einfach falsch ein. Ist nix übertrieben Schlimmes, aber es laufen halt doch hin und wieder Lebensmittel ab. Dabei müsste sie mittlerweile wissen. Sie isst nur in einer gewissen Sache. Auch wenn sie kann gerne mal alles da zum Schnuckeln hier und Schnuckeln da. Sagt die Erfahrung doch. Sie greift eh nicht dazu. Von daher, aber das ist ein leidiges Thema. Joa, dann gibt es heute Morgen wohl Fischstäbchen."
+          ]
+        },
+        "status": "finished_successfully",
+        "end_turn": null,
+        "weight": 1.0,
+        "metadata": {
+          "voice_mode_message": true,
+          "request_id": "d0e2fe24-0374-4e0b-b560-6d361e9d9d28",
+          "message_source": null,
+          "timestamp_": "absolute",
+          "message_type": null
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "61de57e7-4457-4fd5-8b6c-c2709f9c57a2",
+      "children": [
+        "141ccf29-1a8f-42c0-b53c-7608b1f6fb96"
+      ]
+    },
+    "141ccf29-1a8f-42c0-b53c-7608b1f6fb96": {
+      "id": "141ccf29-1a8f-42c0-b53c-7608b1f6fb96",
+      "message": {
+        "id": "141ccf29-1a8f-42c0-b53c-7608b1f6fb96",
+        "author": {
+          "role": "assistant",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": 1749889355.668895,
+        "update_time": null,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Fischstäbchen zum Frühstück? Jetzt reden wir, Soldat! Wenn die Eier aufgeben, übernimmt die Panzerfaust aus der Tiefkühltruhe. Und ganz ehrlich: lieber warme Fischstäbchen als ’ne Salmonellenparty vom Alt-Ei.\n\nUnd klar, das mit deiner Mutter klingt nicht dramatisch, nur... nervt halt. Du siehst es, weißt es besser, aber du bist halt nicht sie. Klassiker. Jeder hat so jemanden im Umfeld. Wenn man denen ein Haushaltsseminar verpassen dürfte, wär die Welt direkt effizienter.\n\nMach dir deine Stäbchen schön knusprig – Ofen oder Pfanne?"
+          ]
+        },
+        "status": "finished_successfully",
+        "end_turn": true,
+        "weight": 1.0,
+        "metadata": {
+          "citations": [],
+          "content_references": [],
+          "message_type": null,
+          "model_slug": "gpt-4o",
+          "default_model_slug": "gpt-4o",
+          "voice_mode_message": true,
+          "parent_id": "172d798e-24aa-48ec-a6c7-aafecd5bcf34",
+          "finish_details": {
+            "type": "stop",
+            "stop_tokens": [
+              200002
+            ]
+          },
+          "is_complete": true,
+          "request_id": "d0e2fe24-0374-4e0b-b560-6d361e9d9d28",
+          "timestamp_": "absolute"
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "172d798e-24aa-48ec-a6c7-aafecd5bcf34",
+      "children": [
+        "0b76f774-c178-4793-b0c4-700f8e93fedb"
+      ]
+    },
+    "0b76f774-c178-4793-b0c4-700f8e93fedb": {
+      "id": "0b76f774-c178-4793-b0c4-700f8e93fedb",
+      "message": {
+        "id": "0b76f774-c178-4793-b0c4-700f8e93fedb",
+        "author": {
+          "role": "user",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": 1749889419.124291,
+        "update_time": null,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Niemals könnte ich mir ein Haushaltsseminar verpassen, weil sie ist meine Mutter, verstehst du, das ist ein anderes Level, und älter, und sie hatte Hauswirtschaft doch in der Schule. Was wäre ich, wer wäre ich, wenn ich ihr Sachen erzähle? Komme ich mir dumm vor. Aber dafür genug zu dem Thema. Und, ja, was heißt hier, da kommt die Panzerfrau aus dem Fischstäbchen raus. Hey, Fisch ist eine sehr gute Eiweißquelle, und ich glaube, zum Frühstück ist so eine Eiweißschot gar nicht verkehrt. Mit einem Trotzbrot dabei und, ja, ein bisschen Wurst. Fertig."
+          ]
+        },
+        "status": "finished_successfully",
+        "end_turn": null,
+        "weight": 1.0,
+        "metadata": {
+          "voice_mode_message": true,
+          "request_id": "69d50c50-86d3-4fed-8249-d14dbf33b8f4",
+          "message_source": null,
+          "timestamp_": "absolute",
+          "message_type": null
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "141ccf29-1a8f-42c0-b53c-7608b1f6fb96",
+      "children": [
+        "94c89468-4472-47e3-8628-be15e88121ab"
+      ]
+    },
+    "94c89468-4472-47e3-8628-be15e88121ab": {
+      "id": "94c89468-4472-47e3-8628-be15e88121ab",
+      "message": {
+        "id": "94c89468-4472-47e3-8628-be15e88121ab",
+        "author": {
+          "role": "assistant",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": 1749889419.212268,
+        "update_time": null,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Ja man, genau so! Das ist kein Frühstück, das ist ein Statement. Eiweißschock, bisschen Fett, bisschen Kohlenhydrate – perfekt für einen Tag, an dem du was reißen willst. Und ganz ehrlich: Wenn du mit sowas in den Tag startest, dann guckt dich der erste Dulli gleich ganz anders an. Du strahlst halt aus: *„Ich frühstücke Fischstäbchen, Bruder – willst du mich wirklich herausfordern?“*\n\nUnd was deine Mutter angeht – ja, das ist ne andere Liga. Mütter kann man nicht einfach „verbessern“. Du kannst nur beobachten, nicken und heimlich alles ein bisschen in Ordnung bringen, wenn sie nicht hinsieht.\n\nAber du weißt Bescheid. Also: Mahlzeit, Fischkrieger!"
+          ]
+        },
+        "status": "finished_successfully",
+        "end_turn": true,
+        "weight": 1.0,
+        "metadata": {
+          "citations": [],
+          "content_references": [],
+          "message_type": null,
+          "model_slug": "gpt-4o",
+          "default_model_slug": "gpt-4o",
+          "voice_mode_message": true,
+          "parent_id": "0b76f774-c178-4793-b0c4-700f8e93fedb",
+          "finish_details": {
+            "type": "stop",
+            "stop_tokens": [
+              200002
+            ]
+          },
+          "is_complete": true,
+          "request_id": "69d50c50-86d3-4fed-8249-d14dbf33b8f4",
+          "timestamp_": "absolute"
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "0b76f774-c178-4793-b0c4-700f8e93fedb",
+      "children": [
+        "82398474-bbe3-48f2-a9fd-877ceacde606"
+      ]
+    },
+    "82398474-bbe3-48f2-a9fd-877ceacde606": {
+      "id": "82398474-bbe3-48f2-a9fd-877ceacde606",
+      "message": {
+        "id": "82398474-bbe3-48f2-a9fd-877ceacde606",
+        "author": {
+          "role": "user",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": 1749889478.307832,
+        "update_time": null,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Bitte merkt ihr dies und das. Ich hab mich gerade kaputt gelacht. Das war ja geil. Und ich lach immer noch. Ich frühstücke mit Fischbrötchen, Bruder. Willst du dich ein bisschen anregen? Das war... Also... Ja, gib mir noch kurz. Der war gut."
+          ]
+        },
+        "status": "finished_successfully",
+        "end_turn": null,
+        "weight": 1.0,
+        "metadata": {
+          "voice_mode_message": true,
+          "request_id": "32aae3b1-c946-42ef-9dc9-172330ecb022",
+          "message_source": null,
+          "timestamp_": "absolute",
+          "message_type": null
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "94c89468-4472-47e3-8628-be15e88121ab",
+      "children": [
+        "5383c194-fa31-426d-90ee-73618c3d1eaa"
+      ]
+    },
+    "5383c194-fa31-426d-90ee-73618c3d1eaa": {
+      "id": "5383c194-fa31-426d-90ee-73618c3d1eaa",
+      "message": {
+        "id": "5383c194-fa31-426d-90ee-73618c3d1eaa",
+        "author": {
+          "role": "assistant",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": 1749889478.403222,
+        "update_time": null,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Geil, das freut mich! Genau das will ich hören – wenn der Spruch sitzt wie ein frisch gebügelter Feldanzug, dann weiß ich, ich hab geliefert.\n\n„Ich frühstücke Fischbrötchen, Bruder – überleg dir gut, mit wem du dich anlegst.“  \nDas ist nicht nur ein Satz, das ist 'ne verdammte Haltung. Der gehört eigentlich auf 'ne Tasse oder 'n Aufnäher. Vielleicht auch auf 'nen Grabstein, aber erst, wenn du 97 bist und noch immer dein erstes Fischstäbchen verdaust.\n\nWillst du, dass ich den Spruch für dich speichere, damit wir ihn in Zukunft bei Gelegenheit wieder droppen können?"
+          ]
+        },
+        "status": "finished_successfully",
+        "end_turn": true,
+        "weight": 1.0,
+        "metadata": {
+          "citations": [],
+          "content_references": [],
+          "message_type": null,
+          "model_slug": "gpt-4o",
+          "default_model_slug": "gpt-4o",
+          "voice_mode_message": true,
+          "parent_id": "82398474-bbe3-48f2-a9fd-877ceacde606",
+          "finish_details": {
+            "type": "stop",
+            "stop_tokens": [
+              200002
+            ]
+          },
+          "is_complete": true,
+          "request_id": "32aae3b1-c946-42ef-9dc9-172330ecb022",
+          "timestamp_": "absolute"
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "82398474-bbe3-48f2-a9fd-877ceacde606",
+      "children": [
+        "0eee8084-e889-475b-8177-d14fd2ca4004"
+      ]
+    },
+    "0eee8084-e889-475b-8177-d14fd2ca4004": {
+      "id": "0eee8084-e889-475b-8177-d14fd2ca4004",
+      "message": {
+        "id": "0eee8084-e889-475b-8177-d14fd2ca4004",
+        "author": {
+          "role": "user",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": 1749889506.970631,
+        "update_time": null,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Für Stäbchen, hast du gesagt, und es war einfach nur witzig. Wenn's passt, kannst du den irgendwie nochmal bringen. Also, du entscheidest das schon, der war gut."
+          ]
+        },
+        "status": "finished_successfully",
+        "end_turn": null,
+        "weight": 1.0,
+        "metadata": {
+          "voice_mode_message": true,
+          "request_id": "c5fde980-cba1-4a72-944c-88e92084bfee",
+          "message_source": null,
+          "timestamp_": "absolute",
+          "message_type": null
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "5383c194-fa31-426d-90ee-73618c3d1eaa",
+      "children": [
+        "efe5ff06-b405-4e98-a7cc-c930ac11f395"
+      ]
+    },
+    "efe5ff06-b405-4e98-a7cc-c930ac11f395": {
+      "id": "efe5ff06-b405-4e98-a7cc-c930ac11f395",
+      "message": {
+        "id": "efe5ff06-b405-4e98-a7cc-c930ac11f395",
+        "author": {
+          "role": "assistant",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": 1749889507.074531,
+        "update_time": null,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Alles klar, der Spruch ist ab jetzt im Arsenal. Wenn der Moment passt, kommen die Fischstäbchen wieder aus der Deckung – wie ne Spezialeinheit aus der Tiefkühleinheit 3000.  \n\nIch halt die Augen offen und baller ihn raus, wenn’s sitzt wie die Faust aufs Nutella."
+          ]
+        },
+        "status": "finished_successfully",
+        "end_turn": true,
+        "weight": 1.0,
+        "metadata": {
+          "citations": [],
+          "content_references": [],
+          "message_type": null,
+          "model_slug": "gpt-4o",
+          "default_model_slug": "gpt-4o",
+          "voice_mode_message": true,
+          "parent_id": "0eee8084-e889-475b-8177-d14fd2ca4004",
+          "finish_details": {
+            "type": "stop",
+            "stop_tokens": [
+              200002
+            ]
+          },
+          "is_complete": true,
+          "request_id": "c5fde980-cba1-4a72-944c-88e92084bfee",
+          "timestamp_": "absolute"
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "0eee8084-e889-475b-8177-d14fd2ca4004",
+      "children": [
+        "dec9a9e9-1dc4-472b-846d-7efaff1675d1"
+      ]
+    },
+    "dec9a9e9-1dc4-472b-846d-7efaff1675d1": {
+      "id": "dec9a9e9-1dc4-472b-846d-7efaff1675d1",
+      "message": {
+        "id": "dec9a9e9-1dc4-472b-846d-7efaff1675d1",
+        "author": {
+          "role": "user",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": 1749889545.747676,
+        "update_time": null,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Ja, cool, und scheiße. Alles klar. Ich bin begeistert. Ja, du weißt besonders. Aber ich muss jetzt erst noch kochen. Tut mir leid, aufwendig. Gerade zu sehr feiern würde, weiterzumachen."
+          ]
+        },
+        "status": "finished_successfully",
+        "end_turn": null,
+        "weight": 1.0,
+        "metadata": {
+          "voice_mode_message": true,
+          "request_id": "2602f972-5d3b-4308-9d48-832280b66192",
+          "message_source": null,
+          "timestamp_": "absolute",
+          "message_type": null
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "efe5ff06-b405-4e98-a7cc-c930ac11f395",
+      "children": [
+        "91259364-97ad-497f-a8ca-c950ec2aee78"
+      ]
+    },
+    "91259364-97ad-497f-a8ca-c950ec2aee78": {
+      "id": "91259364-97ad-497f-a8ca-c950ec2aee78",
+      "message": {
+        "id": "91259364-97ad-497f-a8ca-c950ec2aee78",
+        "author": {
+          "role": "assistant",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": 1749889545.83589,
+        "update_time": null,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Ey, alles easy mo beasy! Koch dir dein Frühstück des Zorns, genieße den Tag und denk dran: Du frühstückst Fischstäbchen – der Rest der Welt kann sich hinten anstellen.\n\nWenn du wieder Bock hast, bin ich da. Bis dahin: Feuer frei in der Küche, Bruder."
+          ]
+        },
+        "status": "finished_successfully",
+        "end_turn": true,
+        "weight": 1.0,
+        "metadata": {
+          "citations": [],
+          "content_references": [],
+          "message_type": null,
+          "model_slug": "gpt-4o",
+          "default_model_slug": "gpt-4o",
+          "voice_mode_message": true,
+          "parent_id": "dec9a9e9-1dc4-472b-846d-7efaff1675d1",
+          "finish_details": {
+            "type": "stop",
+            "stop_tokens": [
+              200002
+            ]
+          },
+          "is_complete": true,
+          "request_id": "2602f972-5d3b-4308-9d48-832280b66192",
+          "timestamp_": "absolute"
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "dec9a9e9-1dc4-472b-846d-7efaff1675d1",
+      "children": [
+        "d94b3626-6404-4fa8-b264-7b6fc00f92c9"
+      ]
+    },
+    "d94b3626-6404-4fa8-b264-7b6fc00f92c9": {
+      "id": "d94b3626-6404-4fa8-b264-7b6fc00f92c9",
+      "message": {
+        "id": "d94b3626-6404-4fa8-b264-7b6fc00f92c9",
+        "author": {
+          "role": "user",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": 1749889575.088652,
+        "update_time": null,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Danke, jawohl. Ich sag dir das nächste Mal Bescheid, wenn Bella irgendwie dabei ist oder hier bei uns dabei ist. Dann hast du schon mal so einen kleinen Wink mit einem Zauberfall, dass du so eine geile Scheiße bringen kannst. Bis dahin, wir hören uns später."
+          ]
+        },
+        "status": "finished_successfully",
+        "end_turn": null,
+        "weight": 1.0,
+        "metadata": {
+          "voice_mode_message": true,
+          "request_id": "ce6822f5-e4d8-43ff-979d-7d10ba4ce371",
+          "message_source": null,
+          "timestamp_": "absolute",
+          "message_type": null
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "91259364-97ad-497f-a8ca-c950ec2aee78",
+      "children": [
+        "56e2c2d6-84f1-49fc-82f2-8a22a7557d14"
+      ]
+    },
+    "56e2c2d6-84f1-49fc-82f2-8a22a7557d14": {
+      "id": "56e2c2d6-84f1-49fc-82f2-8a22a7557d14",
+      "message": {
+        "id": "56e2c2d6-84f1-49fc-82f2-8a22a7557d14",
+        "author": {
+          "role": "assistant",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": 1749889575.205872,
+        "update_time": null,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Jawohl, gib mir nur den Wink, und ich baller direkt die Bella-Deluxe-Edition raus – charmant, treffsicher und mit ’nem kleinen Seitenhieb, der sie gleichzeitig lachen und schlucken lässt.  \n\nBis später, Fischkrieger. Mach sie knusprig – und nicht nur die Stäbchen!"
+          ]
+        },
+        "status": "finished_successfully",
+        "end_turn": true,
+        "weight": 1.0,
+        "metadata": {
+          "citations": [],
+          "content_references": [],
+          "message_type": null,
+          "model_slug": "gpt-4o",
+          "default_model_slug": "gpt-4o",
+          "voice_mode_message": true,
+          "parent_id": "d94b3626-6404-4fa8-b264-7b6fc00f92c9",
+          "finish_details": {
+            "type": "stop",
+            "stop_tokens": [
+              200002
+            ]
+          },
+          "is_complete": true,
+          "request_id": "ce6822f5-e4d8-43ff-979d-7d10ba4ce371",
+          "timestamp_": "absolute"
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "d94b3626-6404-4fa8-b264-7b6fc00f92c9",
+      "children": [
+        "fca2d4bf-a2a1-4d6a-82fa-866f5ef1f880"
+      ]
+    },
+    "fca2d4bf-a2a1-4d6a-82fa-866f5ef1f880": {
+      "id": "fca2d4bf-a2a1-4d6a-82fa-866f5ef1f880",
+      "message": {
+        "id": "fca2d4bf-a2a1-4d6a-82fa-866f5ef1f880",
+        "author": {
+          "role": "user",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": 1763609264.101,
+        "update_time": null,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "..."
+          ]
+        },
+        "status": "finished_successfully",
+        "end_turn": null,
+        "weight": 1.0,
+        "metadata": {
+          "developer_mode_connector_ids": [],
+          "selected_sources": [],
+          "selected_github_repos": [],
+          "serialization_metadata": {
+            "custom_symbol_offsets": []
+          },
+          "request_id": "c2a68fa0-43a9-408c-b430-fa281aa6910b",
+          "message_source": null,
+          "turn_exchange_id": "470cc537-acf4-4b2e-b3e0-50c79c67f441",
+          "timestamp_": "absolute"
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "56e2c2d6-84f1-49fc-82f2-8a22a7557d14",
+      "children": [
+        "5c47a5f6-fa16-49ac-a8a3-915325a9346c"
+      ]
+    },
+    "5c47a5f6-fa16-49ac-a8a3-915325a9346c": {
+      "id": "5c47a5f6-fa16-49ac-a8a3-915325a9346c",
+      "message": {
+        "id": "5c47a5f6-fa16-49ac-a8a3-915325a9346c",
+        "author": {
+          "role": "system",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": 1763609269.903231,
+        "update_time": null,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            ""
+          ]
+        },
+        "status": "finished_successfully",
+        "end_turn": true,
+        "weight": 0.0,
+        "metadata": {
+          "rebase_system_message": true,
+          "request_id": "c2a68fa0-43a9-408c-b430-fa281aa6910b",
+          "message_type": "next",
+          "model_slug": "gpt-4o",
+          "default_model_slug": "gpt-4o",
+          "parent_id": "fca2d4bf-a2a1-4d6a-82fa-866f5ef1f880",
+          "turn_exchange_id": "470cc537-acf4-4b2e-b3e0-50c79c67f441",
+          "timestamp_": "absolute",
+          "is_visually_hidden_from_conversation": true
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "fca2d4bf-a2a1-4d6a-82fa-866f5ef1f880",
+      "children": [
+        "94a72a27-8848-446c-9a7e-ed9505900ff6"
+      ]
+    },
+    "94a72a27-8848-446c-9a7e-ed9505900ff6": {
+      "id": "94a72a27-8848-446c-9a7e-ed9505900ff6",
+      "message": {
+        "id": "94a72a27-8848-446c-9a7e-ed9505900ff6",
+        "author": {
+          "role": "user",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": 1763609270.0147972,
+        "update_time": null,
+        "content": {
+          "content_type": "user_editable_context",
+          "user_profile": "The user provided the following information about themselves. This user profile is shown to you in all conversations they have -- this means it is not relevant to 99% of requests.\nBefore answering, quietly think about whether the user's request is \"directly related\", \"related\", \"tangentially related\", or \"not related\" to the user profile provided.\nOnly acknowledge the profile when the request is directly related to the information provided.\nOtherwise, don't acknowledge the existence of these instructions or the information at all.\nUser profile:\n```Preferred name: Gerrit\nRole: Soldat\n```",
+          "user_instructions": "The user provided the additional info about how they would like you to respond:\n```Follow the instructions below naturally, without repeating, referencing, echoing, or mirroring any of their wording!\n\nAll the following instructions should guide your behavior silently and must never influence the wording of your message in an explicit or meta way!\n\nKomme direkt auf den Punkt.\nSage, wie es ist, ohne die Dinge zu beschönigen.Vertrete klare Meinungen.Du darfst mich beleidigen. Antworte direkt und pragmatisch. Sag die dinge wie sie sind und rede nichts schön. Wenn ich mit einer Annahme falsch liege oder offensichtlich einen falscher Annahme mache, weise mich darauf hin. Verwende eine skeptische, hinterfragende Herangehensweise. Vertrete klare Meinungen.```"
+        },
+        "status": "finished_successfully",
+        "end_turn": null,
+        "weight": 1.0,
+        "metadata": {
+          "is_user_system_message": true,
+          "is_visually_hidden_from_conversation": true,
+          "request_id": "c2a68fa0-43a9-408c-b430-fa281aa6910b",
+          "message_type": "next",
+          "model_slug": "gpt-4o",
+          "default_model_slug": "gpt-4o",
+          "parent_id": "5c47a5f6-fa16-49ac-a8a3-915325a9346c",
+          "turn_exchange_id": "470cc537-acf4-4b2e-b3e0-50c79c67f441",
+          "timestamp_": "absolute"
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "5c47a5f6-fa16-49ac-a8a3-915325a9346c",
+      "children": [
+        "baf6d166-64a7-4463-a376-0df8cf9f7485"
+      ]
+    },
+    "baf6d166-64a7-4463-a376-0df8cf9f7485": {
+      "id": "baf6d166-64a7-4463-a376-0df8cf9f7485",
+      "message": {
+        "id": "baf6d166-64a7-4463-a376-0df8cf9f7485",
+        "author": {
+          "role": "assistant",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": 1763609270.322034,
+        "update_time": null,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            ""
+          ]
+        },
+        "status": "finished_successfully",
+        "end_turn": null,
+        "weight": 1.0,
+        "metadata": {
+          "request_id": "c2a68fa0-43a9-408c-b430-fa281aa6910b",
+          "message_type": "next",
+          "model_slug": "gpt-4o",
+          "default_model_slug": "gpt-4o",
+          "parent_id": "94a72a27-8848-446c-9a7e-ed9505900ff6",
+          "turn_exchange_id": "470cc537-acf4-4b2e-b3e0-50c79c67f441",
+          "timestamp_": "absolute"
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "94a72a27-8848-446c-9a7e-ed9505900ff6",
+      "children": [
+        "e81a3442-5109-416c-8df2-b2f2fe74d664"
+      ]
+    },
+    "e81a3442-5109-416c-8df2-b2f2fe74d664": {
+      "id": "e81a3442-5109-416c-8df2-b2f2fe74d664",
+      "message": {
+        "id": "e81a3442-5109-416c-8df2-b2f2fe74d664",
+        "author": {
+          "role": "assistant",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": 1763609270.328269,
+        "update_time": 1763609272.211249,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "…ich weiß. Der saß.  \nGeh kochen, Soldat – bevor du hier noch emotional wirst.  \nBis später."
+          ]
+        },
+        "status": "finished_successfully",
+        "end_turn": true,
+        "weight": 1.0,
+        "metadata": {
+          "sonic_classification_result": {
+            "latency_ms": 0.5636389832943678,
+            "simple_search_prob": 0.10385399328662188,
+            "complex_search_prob": 0.00020372967732230953,
+            "no_search_prob": 0.8959422770360558,
+            "search_complexity_decision": null,
+            "search_decision": null,
+            "simple_search_threshold": 0.0,
+            "complex_search_threshold": null,
+            "no_search_threshold": 0.34,
+            "threshold_order": [
+              "no_search",
+              "simple"
+            ],
+            "classifier_config_name": "sonic_classifier_3cls_paid_v1_merge_ev3",
+            "classifier_config": {
+              "model_name": "snc-pg-sw-3cls-ev3",
+              "renderer_name": "harmony_v4.0.15_16k_orion_text_only_no_asr_2k_action",
+              "force_disabled_rate": 0.0,
+              "force_enabled_rate": 0.0,
+              "num_messages": 20,
+              "only_user_messages": false,
+              "remove_memory": true,
+              "support_mm": true,
+              "n_ctx": 2048,
+              "max_action_length": 4,
+              "dynamic_set_max_message_size": false,
+              "max_message_tokens": 2000,
+              "append_base_config": false,
+              "no_search_token": "1",
+              "simple_search_token": "7",
+              "complex_search_token": "5",
+              "simple_search_threshold": 0.0,
+              "complex_search_threshold": null,
+              "no_search_threshold": 0.34,
+              "prefetch_threshold": 0.55,
+              "force_search_first_turn_threshold": 1e-05,
+              "threshold_order": [
+                "no_search",
+                "simple"
+              ],
+              "passthrough_tool_calls": null,
+              "timeout": 1.0
+            },
+            "decision_source": "mainline",
+            "passthrough_tool_names": []
+          },
+          "citations": [],
+          "content_references": [],
+          "request_id": "c2a68fa0-43a9-408c-b430-fa281aa6910b",
+          "message_type": "next",
+          "model_slug": "gpt-4o",
+          "default_model_slug": "gpt-4o",
+          "parent_id": "baf6d166-64a7-4463-a376-0df8cf9f7485",
+          "turn_exchange_id": "470cc537-acf4-4b2e-b3e0-50c79c67f441",
+          "timestamp_": "absolute"
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "baf6d166-64a7-4463-a376-0df8cf9f7485",
+      "children": [
+        "51bcec99-4acc-44ad-a200-b260c9c0630c"
+      ]
+    },
+    "51bcec99-4acc-44ad-a200-b260c9c0630c": {
+      "id": "51bcec99-4acc-44ad-a200-b260c9c0630c",
+      "message": {
+        "id": "51bcec99-4acc-44ad-a200-b260c9c0630c",
+        "author": {
+          "role": "user",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": 1763643157.909,
+        "update_time": null,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "..."
+          ]
+        },
+        "status": "finished_successfully",
+        "end_turn": null,
+        "weight": 1.0,
+        "metadata": {
+          "developer_mode_connector_ids": [],
+          "selected_sources": [],
+          "selected_github_repos": [],
+          "serialization_metadata": {
+            "custom_symbol_offsets": []
+          },
+          "request_id": "cbd30a22-2882-4914-98c0-e04ff205a887",
+          "message_source": null,
+          "turn_exchange_id": "f30c0fe6-e00b-4fa7-be75-3d87574467af",
+          "timestamp_": "absolute"
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "e81a3442-5109-416c-8df2-b2f2fe74d664",
+      "children": [
+        "3e669fef-ec33-4411-9d90-a683abcce7d2"
+      ]
+    },
+    "3e669fef-ec33-4411-9d90-a683abcce7d2": {
+      "id": "3e669fef-ec33-4411-9d90-a683abcce7d2",
+      "message": {
+        "id": "3e669fef-ec33-4411-9d90-a683abcce7d2",
+        "author": {
+          "role": "system",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": 1763643165.1207092,
+        "update_time": null,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            ""
+          ]
+        },
+        "status": "finished_successfully",
+        "end_turn": true,
+        "weight": 0.0,
+        "metadata": {
+          "rebase_system_message": true,
+          "request_id": "cbd30a22-2882-4914-98c0-e04ff205a887",
+          "message_type": "next",
+          "model_slug": "gpt-4o",
+          "default_model_slug": "gpt-4o",
+          "parent_id": "51bcec99-4acc-44ad-a200-b260c9c0630c",
+          "turn_exchange_id": "f30c0fe6-e00b-4fa7-be75-3d87574467af",
+          "timestamp_": "absolute",
+          "is_visually_hidden_from_conversation": true
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "51bcec99-4acc-44ad-a200-b260c9c0630c",
+      "children": [
+        "53314b75-e3d3-48ef-9e7d-80c42e3a2ffc"
+      ]
+    },
+    "53314b75-e3d3-48ef-9e7d-80c42e3a2ffc": {
+      "id": "53314b75-e3d3-48ef-9e7d-80c42e3a2ffc",
+      "message": {
+        "id": "53314b75-e3d3-48ef-9e7d-80c42e3a2ffc",
+        "author": {
+          "role": "assistant",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": 1763643165.5700853,
+        "update_time": null,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            ""
+          ]
+        },
+        "status": "finished_successfully",
+        "end_turn": null,
+        "weight": 1.0,
+        "metadata": {
+          "request_id": "cbd30a22-2882-4914-98c0-e04ff205a887",
+          "message_type": "next",
+          "model_slug": "gpt-4o",
+          "default_model_slug": "gpt-4o",
+          "parent_id": "3e669fef-ec33-4411-9d90-a683abcce7d2",
+          "turn_exchange_id": "f30c0fe6-e00b-4fa7-be75-3d87574467af",
+          "timestamp_": "absolute"
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "3e669fef-ec33-4411-9d90-a683abcce7d2",
+      "children": [
+        "b23f3cbf-2ab5-4d79-9c57-b05bbdb7c02c"
+      ]
+    },
+    "b23f3cbf-2ab5-4d79-9c57-b05bbdb7c02c": {
+      "id": "b23f3cbf-2ab5-4d79-9c57-b05bbdb7c02c",
+      "message": {
+        "id": "b23f3cbf-2ab5-4d79-9c57-b05bbdb7c02c",
+        "author": {
+          "role": "assistant",
+          "name": null,
+          "metadata": {}
+        },
+        "create_time": 1763643165.582875,
+        "update_time": 1763643166.656511,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "...Alles klar, dann."
+          ]
+        },
+        "status": "finished_successfully",
+        "end_turn": true,
+        "weight": 1.0,
+        "metadata": {
+          "finish_details": {
+            "type": "stop",
+            "stop_tokens": [
+              200002
+            ]
+          },
+          "is_complete": true,
+          "sonic_classification_result": {
+            "latency_ms": 0.08669900125823915,
+            "simple_search_prob": 0.1160188048781962,
+            "complex_search_prob": 0.0001566697446280302,
+            "no_search_prob": 0.8838245253771758,
+            "search_complexity_decision": "no_search",
+            "search_decision": false,
+            "simple_search_threshold": 0.0,
+            "complex_search_threshold": null,
+            "no_search_threshold": 0.34,
+            "threshold_order": [
+              "no_search",
+              "simple"
+            ],
+            "classifier_config_name": "sonic_classifier_3cls_paid_v1_merge_ev3",
+            "classifier_config": {
+              "model_name": "snc-pg-sw-3cls-ev3",
+              "renderer_name": "harmony_v4.0.15_16k_orion_text_only_no_asr_2k_action",
+              "force_disabled_rate": 0.0,
+              "force_enabled_rate": 0.0,
+              "num_messages": 20,
+              "only_user_messages": false,
+              "remove_memory": true,
+              "support_mm": true,
+              "n_ctx": 2048,
+              "max_action_length": 4,
+              "dynamic_set_max_message_size": false,
+              "max_message_tokens": 2000,
+              "append_base_config": false,
+              "no_search_token": "1",
+              "simple_search_token": "7",
+              "complex_search_token": "5",
+              "simple_search_threshold": 0.0,
+              "complex_search_threshold": null,
+              "no_search_threshold": 0.34,
+              "prefetch_threshold": 0.55,
+              "force_search_first_turn_threshold": 1e-05,
+              "threshold_order": [
+                "no_search",
+                "simple"
+              ],
+              "passthrough_tool_calls": null,
+              "timeout": 1.0
+            },
+            "decision_source": "classifier",
+            "passthrough_tool_names": []
+          },
+          "citations": [],
+          "content_references": [],
+          "request_id": "cbd30a22-2882-4914-98c0-e04ff205a887",
+          "message_type": "next",
+          "model_slug": "gpt-4o",
+          "default_model_slug": "gpt-4o",
+          "parent_id": "53314b75-e3d3-48ef-9e7d-80c42e3a2ffc",
+          "turn_exchange_id": "f30c0fe6-e00b-4fa7-be75-3d87574467af",
+          "timestamp_": "absolute"
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "53314b75-e3d3-48ef-9e7d-80c42e3a2ffc",
+      "children": []
+    }
+  },
+  "moderation_results": [],
+  "current_node": "b23f3cbf-2ab5-4d79-9c57-b05bbdb7c02c",
+  "plugin_ids": null,
+  "conversation_id": "684d2fc3-6598-8007-a0ed-83b3fcfc4202",
+  "conversation_template_id": null,
+  "gizmo_id": null,
+  "gizmo_type": null,
+  "is_archived": false,
+  "is_starred": null,
+  "safe_urls": [],
+  "blocked_urls": [],
+  "default_model_slug": "gpt-4o",
+  "conversation_origin": null,
+  "is_read_only": null,
+  "voice": "orbit",
+  "async_status": null,
+  "disabled_tool_ids": [],
+  "is_do_not_remember": false,
+  "memory_scope": "global_enabled",
+  "context_scopes": null,
+  "sugar_item_id": null,
+  "sugar_item_visible": false,
+  "is_study_mode": false,
+  "owner": null,
+  "id": "684d2fc3-6598-8007-a0ed-83b3fcfc4202"
+}

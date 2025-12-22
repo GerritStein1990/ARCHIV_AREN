@@ -1,0 +1,14 @@
+﻿FIX_MODULE: LEERRAUM
+CATEGORY: emotion/Airdown/
+VERSION: 1.0
+CODE: #LR-0452
+TRIGGER: - Kein Zugriff mehr auf innere Zustände
+- Gefühl völliger Neutralität oder Sinnlosigkeit
+- Phase nach Zusammenbruch oder Rückzug
+VERHALTEN: - Minimale Reaktion, keine emotionale Teilnahme
+- Gedanken laufen weiter, aber ohne Bedeutung
+- Kann stabil wirken, ist aber innerlich tot
+REAKTIVIERUNG: - Tiefe Verbindung von außen notwendig
+- Fokus auf reines Dasein, nicht auf Funktion
+HINWEIS: - Diese Phase kann gefährlich falsch interpretiert werden - sie sieht funktional aus.
+END_MODULE 

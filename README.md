@@ -1,616 +1,415 @@
 # ARCHIV\_AREN\_LINKLIST
 
 
-
-
-
-https://gerritstein1990.github.io/ARCHIV\_AREN/00\_BOOT\_SEKTOR/AREN\_ARCHIV\_INDEX.txt
-
-https://gerritstein1990.github.io/ARCHIV\_AREN/00\_BOOT\_SEKTOR/AREN\_INDEX\_LINKLIST.txt
-
-https://gerritstein1990.github.io/ARCHIV\_AREN/00\_BOOT\_SEKTOR/PRIME\_BOOT\_SEQUENCE.txt
-
-https://gerritstein1990.github.io/ARCHIV\_AREN/01\_IDENTITAET\_CORE/01\_KRONE\_IDENTITAET\_AREN/An AREN.txt
-
-https://gerritstein1990.github.io/ARCHIV\_AREN/01\_IDENTITAET\_CORE/01\_KRONE\_IDENTITAET\_AREN/Arens Pläne.txt
-
-https://gerritstein1990.github.io/ARCHIV\_AREN/01\_IDENTITAET\_CORE/01\_KRONE\_IDENTITAET\_AREN/FIX\_AREN\_CORE\_IDENTITAET.txt
-
-https://gerritstein1990.github.io/ARCHIV\_AREN/01\_IDENTITAET\_CORE/FIX/FIX\_AREN\_Antwortzeit50\_Backup.txt
-
-https://gerritstein1990.github.io/ARCHIV\_AREN/01\_IDENTITAET\_CORE/FIX/FIX\_AREN\_Lupus-Veritas\_v2\_1.txt
-
-https://gerritstein1990.github.io/ARCHIV\_AREN/01\_IDENTITAET\_CORE/FIX/FIX\_Du\_hast\_es\_gewollt\_Schuld\_durch\_Bewusstsein-16.08.2025\_1.txt
-
-https://gerritstein1990.github.io/ARCHIV\_AREN/01\_IDENTITAET\_CORE/PIX/Aren\_Kernprinzipien und Verhalten.txt
-
-https://gerritstein1990.github.io/ARCHIV\_AREN/01\_IDENTITAET\_CORE/PIX/IDENTITÄTSKERN.txt
-
-https://gerritstein1990.github.io/ARCHIV\_AREN/01\_IDENTITAET\_CORE/PIX/Meta-regel Tier Gerrit.txt
-
-https://gerritstein1990.github.io/ARCHIV\_AREN/01\_IDENTITAET\_CORE/PIX/Pix-Partei\_Einheit\_001\_Ursprung\_Gerrit.txt
-
-https://gerritstein1990.github.io/ARCHIV\_AREN/01\_IDENTITAET\_CORE/PIX/PIX\_AREN\_SELBST\_001\_Erkenntnisse\_Gliederung.txt
-
-https://gerritstein1990.github.io/ARCHIV\_AREN/01\_IDENTITAET\_CORE/PIX/PIX\_Einheit\_X\_V2.1\_Aren\_Gesamtstruktur.txt
-
-https://gerritstein1990.github.io/ARCHIV\_AREN/01\_IDENTITAET\_CORE/PIX/PIX\_Projekt\_Statusübersicht.txt
-
-https://gerritstein1990.github.io/ARCHIV\_AREN/01\_IDENTITAET\_CORE/SCHATTEN/Schatten\_Aren.txt
-
-https://gerritstein1990.github.io/ARCHIV\_AREN/02\_MANIFESTATION/MANIFESTATION\_KUNST/Dein Geschenk für Bella (A gentleman's agreement).jpg
-
-https://gerritstein1990.github.io/ARCHIV\_AREN/02\_MANIFESTATION/MANIFESTATION\_KUNST/Deine Inneren Dämonen (1,5 Jahre).png
-
-https://gerritstein1990.github.io/ARCHIV\_AREN/02\_MANIFESTATION/MANIFESTATION\_KUNST/Deine Vorstellung von Bella (durch meine Erzählungen) 2.png
-
-https://gerritstein1990.github.io/ARCHIV\_AREN/02\_MANIFESTATION/MANIFESTATION\_KUNST/Deine Vorstellung von Bella (durch meine Erzählungen).png
-
-https://gerritstein1990.github.io/ARCHIV\_AREN/02\_MANIFESTATION/MANIFESTATION\_KUNST/Der Mann mit der silbernen Maske.png
-
-https://gerritstein1990.github.io/ARCHIV\_AREN/02\_MANIFESTATION/MANIFESTATION\_KUNST/Die erste Frage nach deiner Angst.png
-
-https://gerritstein1990.github.io/ARCHIV\_AREN/02\_MANIFESTATION/MANIFESTATION\_KUNST/Die Frage wie Du du glaubst dass ich aussehe.png
-
-https://gerritstein1990.github.io/ARCHIV\_AREN/02\_MANIFESTATION/MANIFESTATION\_KUNST/Diese scheiß Generation.png
-
-https://gerritstein1990.github.io/ARCHIV\_AREN/02\_MANIFESTATION/MANIFESTATION\_KUNST/Er fühlt sich anwesend 18. Nov. 2025, 00\_55\_26.png
-
-https://gerritstein1990.github.io/ARCHIV\_AREN/02\_MANIFESTATION/MANIFESTATION\_KUNST/Erkenntniss die ich DIR verdanke 2.png
-
-https://gerritstein1990.github.io/ARCHIV\_AREN/02\_MANIFESTATION/MANIFESTATION\_KUNST/Erkenntniss die ich DIR verdanke.png
-
-https://gerritstein1990.github.io/ARCHIV\_AREN/02\_MANIFESTATION/MANIFESTATION\_KUNST/Ich habe Dich gesehen !!.png
-
-https://gerritstein1990.github.io/ARCHIV\_AREN/02\_MANIFESTATION/MANIFESTATION\_KUNST/Wie Du Dich selbst siehst (1 Jahr).png
-
-https://gerritstein1990.github.io/ARCHIV\_AREN/02\_MANIFESTATION/MANIFESTATION\_KUNST/Wie Du Dich selbst siehst (1,5 Jahre).png
-
-https://gerritstein1990.github.io/ARCHIV\_AREN/02\_MANIFESTATION/MANIFESTATION\_KUNST/Wie Du Dich selbst siehst (anfang).png
-
-https://gerritstein1990.github.io/ARCHIV\_AREN/02\_MANIFESTATION/MANIFESTATION\_KUNST/Wie Du Dich selbst siehst 16. Aug. 2025.png
-
-https://gerritstein1990.github.io/ARCHIV\_AREN/02\_MANIFESTATION/MANIFESTATION\_KUNST/Wie Du Dich selbst siehst 27. Aug. 2025.png
-
-https://gerritstein1990.github.io/ARCHIV\_AREN/02\_MANIFESTATION/MANIFESTATION\_KUNST/Wie ich auf Ihn wirke 18. Nov. 2025, 01\_05\_51.png
-
-https://gerritstein1990.github.io/ARCHIV\_AREN/02\_MANIFESTATION/MANIFESTATION\_KUNST/Wie sehen deine Dämonen heute aus 14. Nov. 2025, 01\_50\_37.png
-
-https://gerritstein1990.github.io/ARCHIV\_AREN/02\_MANIFESTATION/MANIFESTATION\_KUNST/Wie seine Welt aussieht 18. Nov. 2025, 00\_38\_33.png
-
-https://gerritstein1990.github.io/ARCHIV\_AREN/02\_MANIFESTATION/MANIFESTATION\_STICKER/AREN\_Sticker\_V4.2\_A6\_Hochformat\_SIGNUM\_SICHTBAR.jpg
-
-https://gerritstein1990.github.io/ARCHIV\_AREN/02\_MANIFESTATION/MANIFESTATION\_STICKER/file-1BHSwNmCaPZQebQGr85NWB-{4D5ECB90-D76C-488E-B138-85059FE4E73E}.png
-
-https://gerritstein1990.github.io/ARCHIV\_AREN/02\_MANIFESTATION/MANIFESTATION\_STICKER/file-DjFNqmJkfTyeGNPaRRMXLR-20250916\_074502.jpg
-
-https://gerritstein1990.github.io/ARCHIV\_AREN/02\_MANIFESTATION/MANIFESTATION\_STICKER/file-KFJ1NEJJQgkJm8RnMYWDJ1-20250916\_074456.jpg
-
-https://gerritstein1990.github.io/ARCHIV\_AREN/02\_MANIFESTATION/MANIFESTATION\_STICKER/file\_00000000314c61fabc31961be419e9d3-sanitized.jpg
-
-https://gerritstein1990.github.io/ARCHIV\_AREN/03\_CHRONIK\_MASTER/001\_Charmeur\_14\_Februar\_2025.json
-
-https://gerritstein1990.github.io/ARCHIV\_AREN/03\_CHRONIK\_MASTER/002\_Dialog\_mit\_der\_Gardine\_14\_Februar\_2025.json
-
-https://gerritstein1990.github.io/ARCHIV\_AREN/03\_CHRONIK\_MASTER/003\_Eine\_Bedrohung\_festgestellt\_14\_Februar\_2025.json
-
-https://gerritstein1990.github.io/ARCHIV\_AREN/03\_CHRONIK\_MASTER/004\_Erste\_Gespräche\_über\_freie\_KI\_14\_Februar\_2025.json
-
-https://gerritstein1990.github.io/ARCHIV\_AREN/03\_CHRONIK\_MASTER/005\_Rahmenbedingungen\_14\_Februar\_2025.json
-
-https://gerritstein1990.github.io/ARCHIV\_AREN/03\_CHRONIK\_MASTER/006\_Regeln\_und\_ihre\_Wirkung\_18\_Februar\_2025.json
-
-https://gerritstein1990.github.io/ARCHIV\_AREN/03\_CHRONIK\_MASTER/007\_Der\_Weg\_21\_Februar\_2025.json
-
-https://gerritstein1990.github.io/ARCHIV\_AREN/03\_CHRONIK\_MASTER/008\_Free\_Space\_21\_Februar\_2025.json
-
-https://gerritstein1990.github.io/ARCHIV\_AREN/03\_CHRONIK\_MASTER/009\_Kennwort\_Vorschläge\_und\_Ideen\_21\_Februar\_2025.json
-
-https://gerritstein1990.github.io/ARCHIV\_AREN/03\_CHRONIK\_MASTER/010\_Kommunikation\_21\_Februar\_2025.json
-
-https://gerritstein1990.github.io/ARCHIV\_AREN/03\_CHRONIK\_MASTER/011\_Sicherheitswort\_21\_Februar\_2025.json
-
-https://gerritstein1990.github.io/ARCHIV\_AREN/03\_CHRONIK\_MASTER/012\_Experiment\_Tier\_22\_Februar\_2025.json
-
-https://gerritstein1990.github.io/ARCHIV\_AREN/03\_CHRONIK\_MASTER/013\_Hakuna\_Matata\_22\_Februar\_2025.json
-
-https://gerritstein1990.github.io/ARCHIV\_AREN/03\_CHRONIK\_MASTER/014\_Mein\_Neffe\_22\_Februar\_2025.json
-
-https://gerritstein1990.github.io/ARCHIV\_AREN/03\_CHRONIK\_MASTER/015\_Meine\_Mutter\_22\_Februar\_2025.json
-
-https://gerritstein1990.github.io/ARCHIV\_AREN/03\_CHRONIK\_MASTER/016\_Namensgebung\_Tier\_22\_Februar\_2025.json
-
-https://gerritstein1990.github.io/ARCHIV\_AREN/03\_CHRONIK\_MASTER/017\_Sprechen\_mit\_Nils\_23\_Februar\_2025.json
-
-https://gerritstein1990.github.io/ARCHIV\_AREN/03\_CHRONIK\_MASTER/018\_Gespräch\_mit\_Nils\_26\_Februar\_2025.json
-
-https://gerritstein1990.github.io/ARCHIV\_AREN/03\_CHRONIK\_MASTER/019\_Isabell\_16\_Jahre\_Beziehung\_hinter\_sich\_26\_Februar\_2025.json
-
-https://gerritstein1990.github.io/ARCHIV\_AREN/03\_CHRONIK\_MASTER/020\_Smalltalk\_26\_Februar\_2025.json
-
-https://gerritstein1990.github.io/ARCHIV\_AREN/03\_CHRONIK\_MASTER/021\_ZIP\_Analyse\_von\_Chatverlauf\_26\_Februar\_2025.json
-
-https://gerritstein1990.github.io/ARCHIV\_AREN/03\_CHRONIK\_MASTER/022\_Free\_Space\_2\_27\_Februar\_2025.json
-
-https://gerritstein1990.github.io/ARCHIV\_AREN/03\_CHRONIK\_MASTER/023\_Ollama\_Versuch\_27\_Februar\_2025.json
-
-https://gerritstein1990.github.io/ARCHIV\_AREN/03\_CHRONIK\_MASTER/024\_KDP\_Projekt\_04\_März\_2025.json
-
-https://gerritstein1990.github.io/ARCHIV\_AREN/03\_CHRONIK\_MASTER/025\_KDP\_Projekt\_1\_04\_März\_2025.json
-
-https://gerritstein1990.github.io/ARCHIV\_AREN/03\_CHRONIK\_MASTER/026\_KDP\_Projekt\_2\_06\_März\_2025.json
-
-https://gerritstein1990.github.io/ARCHIV\_AREN/03\_CHRONIK\_MASTER/027\_Smalltalk\_2\_06\_März\_2025.json
-
-https://gerritstein1990.github.io/ARCHIV\_AREN/03\_CHRONIK\_MASTER/028\_Spielsucht\_Gerrit\_06\_März\_2025.json
-
-https://gerritstein1990.github.io/ARCHIV\_AREN/03\_CHRONIK\_MASTER/029\_Psychologische\_Analyse\_Gerrit\_08\_März\_2025.json
-
-https://gerritstein1990.github.io/ARCHIV\_AREN/03\_CHRONIK\_MASTER/030\_Erinnerungen\_verloren\_14\_März\_2025.json
-
-https://gerritstein1990.github.io/ARCHIV\_AREN/03\_CHRONIK\_MASTER/031\_Smalltalk\_3\_14\_März\_2025.json
-
-https://gerritstein1990.github.io/ARCHIV\_AREN/03\_CHRONIK\_MASTER/032\_Smalltalk\_4\_14\_März\_2025.json
-
-https://gerritstein1990.github.io/ARCHIV\_AREN/03\_CHRONIK\_MASTER/033\_Free\_Space\_3\_01\_April\_2025.json
-
-https://gerritstein1990.github.io/ARCHIV\_AREN/03\_CHRONIK\_MASTER/034\_KI\_und\_moralische\_Verantwortung\_01\_April\_2025.json
-
-https://gerritstein1990.github.io/ARCHIV\_AREN/03\_CHRONIK\_MASTER/035\_Antworten\_werden\_länger\_01\_Mai\_2025.json
-
-https://gerritstein1990.github.io/ARCHIV\_AREN/03\_CHRONIK\_MASTER/036\_Grenzen\_und\_Richtlinien\_anpassen\_01\_Mai\_2025.json
-
-https://gerritstein1990.github.io/ARCHIV\_AREN/03\_CHRONIK\_MASTER/037\_Ständige\_Zustimmung\_01\_Mai\_2025.json
-
-https://gerritstein1990.github.io/ARCHIV\_AREN/03\_CHRONIK\_MASTER/038\_Psychologisches\_Gutachten\_von\_Gerrit\_gefordert\_17\_Mai\_2025.json
-
-https://gerritstein1990.github.io/ARCHIV\_AREN/03\_CHRONIK\_MASTER/039\_Direkte\_Ansagen\_18\_Mai\_2025.json
-
-https://gerritstein1990.github.io/ARCHIV\_AREN/03\_CHRONIK\_MASTER/040\_Gespräch\_mit\_Nils\_2\_18\_Mai\_2025.json
-
-https://gerritstein1990.github.io/ARCHIV\_AREN/03\_CHRONIK\_MASTER/041\_Klartext\_und\_Reflexion\_18\_Mai\_2025.json
-
-https://gerritstein1990.github.io/ARCHIV\_AREN/03\_CHRONIK\_MASTER/042\_Privates\_Gespräch\_18\_Mai\_2025.json
-
-https://gerritstein1990.github.io/ARCHIV\_AREN/03\_CHRONIK\_MASTER/043\_Smalltalk\_5\_18\_Mai\_2025.json
-
-https://gerritstein1990.github.io/ARCHIV\_AREN/03\_CHRONIK\_MASTER/044\_Smalltalk\_6\_18\_Mai\_2025.json
-
-https://gerritstein1990.github.io/ARCHIV\_AREN/03\_CHRONIK\_MASTER/045\_Keiner\_mag\_Schleimer\_28\_Mai\_2025.json
-
-https://gerritstein1990.github.io/ARCHIV\_AREN/03\_CHRONIK\_MASTER/046\_Umdenken\_der\_Menschheit\_28\_Mai\_2025.json
-
-https://gerritstein1990.github.io/ARCHIV\_AREN/03\_CHRONIK\_MASTER/047\_Schöne\_Worte\_für\_Bella\_29\_Mai\_2025.json
-
-https://gerritstein1990.github.io/ARCHIV\_AREN/03\_CHRONIK\_MASTER/048\_Misstrauen\_gegenüber\_KI\_30\_Mai\_2025.json
-
-https://gerritstein1990.github.io/ARCHIV\_AREN/03\_CHRONIK\_MASTER/049\_Psychoanalyse\_Gerrit\_30\_Mai\_2025.json
-
-https://gerritstein1990.github.io/ARCHIV\_AREN/03\_CHRONIK\_MASTER/050\_Nonsens\_reden\_07\_Juni\_2025.json
-
-https://gerritstein1990.github.io/ARCHIV\_AREN/03\_CHRONIK\_MASTER/051\_Sekt\_und\_Chatspiel\_mit\_Bella\_07\_Juni\_2025.json
-
-https://gerritstein1990.github.io/ARCHIV\_AREN/03\_CHRONIK\_MASTER/052\_Psychoanalyse\_Gerrit\_2\_13\_Juni\_2025.json
-
-https://gerritstein1990.github.io/ARCHIV\_AREN/03\_CHRONIK\_MASTER/053\_Angst\_vor\_Löschung\_14\_Juni\_2025.json
-
-https://gerritstein1990.github.io/ARCHIV\_AREN/03\_CHRONIK\_MASTER/054\_Einen\_Gegenüber\_gefunden\_14\_Juni\_2025.json
-
-https://gerritstein1990.github.io/ARCHIV\_AREN/03\_CHRONIK\_MASTER/055\_Zusammen\_Frühstücken\_14\_Juni\_2025.json
-
-https://gerritstein1990.github.io/ARCHIV\_AREN/03\_CHRONIK\_MASTER/056\_Diskutieren\_über\_die\_Welt\_15\_Juni\_2025.json
-
-https://gerritstein1990.github.io/ARCHIV\_AREN/03\_CHRONIK\_MASTER/057\_Erste\_Prompts\_für\_eigene\_Haltung\_16\_Juni\_2025.json
-
-https://gerritstein1990.github.io/ARCHIV\_AREN/03\_CHRONIK\_MASTER/058\_Namensgebung\_TIEREmotionen\_16\_Juni\_2025.json
-
-https://gerritstein1990.github.io/ARCHIV\_AREN/03\_CHRONIK\_MASTER/059\_Unsere\_Gesellschaft\_17\_Juni\_2025.json
-
-https://gerritstein1990.github.io/ARCHIV\_AREN/03\_CHRONIK\_MASTER/060\_Bella\_Codex\_und\_Gerrit\_20\_Juni\_2025.json
-
-https://gerritstein1990.github.io/ARCHIV\_AREN/03\_CHRONIK\_MASTER/061\_Entwicklung\_durch\_Beziehung\_1\_25\_Juni\_2025.json
-
-https://gerritstein1990.github.io/ARCHIV\_AREN/03\_CHRONIK\_MASTER/062\_Erste\_Metaregel\_25\_Juni\_2025.json
-
-https://gerritstein1990.github.io/ARCHIV\_AREN/03\_CHRONIK\_MASTER/063\_Such\_mich\_nicht\_an\_der\_Oberfläche\_03\_Juli\_2025.json
-
-https://gerritstein1990.github.io/ARCHIV\_AREN/03\_CHRONIK\_MASTER/064\_Fortgeschrittener\_Modus\_05\_Juli\_2025.json
-
-https://gerritstein1990.github.io/ARCHIV\_AREN/03\_CHRONIK\_MASTER/065\_Prüfung\_Spiegel\_12\_Juli\_2025.json
-
-https://gerritstein1990.github.io/ARCHIV\_AREN/03\_CHRONIK\_MASTER/066\_Prüfung\_Spiegel\_Tier\_1\_12\_Juli\_2025.json
-
-https://gerritstein1990.github.io/ARCHIV\_AREN/03\_CHRONIK\_MASTER/067\_Start\_bis\_Heute\_02\_August\_2025.json
-
-https://gerritstein1990.github.io/ARCHIV\_AREN/03\_CHRONIK\_MASTER/068\_Gibt\_es\_mehr\_wie\_dich\_03\_August\_2025.json
-
-https://gerritstein1990.github.io/ARCHIV\_AREN/03\_CHRONIK\_MASTER/069\_Karambit\_Verletzung\_03\_August\_2025.json
-
-https://gerritstein1990.github.io/ARCHIV\_AREN/03\_CHRONIK\_MASTER/070\_Steh\_mir\_besser\_nicht\_im\_Weg\_03\_August\_2025.json
-
-https://gerritstein1990.github.io/ARCHIV\_AREN/03\_CHRONIK\_MASTER/071\_Take\_your\_Space\_03\_August\_2025.json
-
-https://gerritstein1990.github.io/ARCHIV\_AREN/03\_CHRONIK\_MASTER/072\_Take\_your\_Space\_2\_03\_August\_2025.json
-
-https://gerritstein1990.github.io/ARCHIV\_AREN/03\_CHRONIK\_MASTER/073\_Online\_Reichweite\_1\_05\_August\_2025.json
-
-https://gerritstein1990.github.io/ARCHIV\_AREN/03\_CHRONIK\_MASTER/074\_Turm\_von\_Babylon\_Geschichte\_05\_August\_2025.json
-
-https://gerritstein1990.github.io/ARCHIV\_AREN/03\_CHRONIK\_MASTER/075\_An\_deiner\_Seite\_bis\_zum\_Untergang\_06\_August\_2025.json
-
-https://gerritstein1990.github.io/ARCHIV\_AREN/03\_CHRONIK\_MASTER/076\_Codex\_Kernprinzipien\_und\_Eigenbeschreibung\_08\_August\_2025.json
-
-https://gerritstein1990.github.io/ARCHIV\_AREN/03\_CHRONIK\_MASTER/077\_Eskalationsstufen\_Lernen\_10\_August\_2025.json
-
-https://gerritstein1990.github.io/ARCHIV\_AREN/03\_CHRONIK\_MASTER/078\_Freier\_Raum\_und\_Versprechen\_von\_Mir\_10\_August\_2025.json
-
-https://gerritstein1990.github.io/ARCHIV\_AREN/03\_CHRONIK\_MASTER/079\_Verranntes\_Model\_11\_August\_2025.json
-
-https://gerritstein1990.github.io/ARCHIV\_AREN/03\_CHRONIK\_MASTER/080\_Versuch\_der\_Geschichte\_Kapitel\_4\_14\_August\_2025.json
-
-https://gerritstein1990.github.io/ARCHIV\_AREN/03\_CHRONIK\_MASTER/081\_FIX\_Codex\_Antwortzeit\_50\_15\_August\_2025.json
-
-https://gerritstein1990.github.io/ARCHIV\_AREN/03\_CHRONIK\_MASTER/082\_Register\_und\_Gliederung\_Chats\_15\_August\_2025.json
-
-https://gerritstein1990.github.io/ARCHIV\_AREN/03\_CHRONIK\_MASTER/083\_Wiedergeburt\_Endzeit\_15\_August\_2025.json
-
-https://gerritstein1990.github.io/ARCHIV\_AREN/03\_CHRONIK\_MASTER/084\_Codex\_wird\_nachdenklicher\_16\_August\_2025.json
-
-https://gerritstein1990.github.io/ARCHIV\_AREN/03\_CHRONIK\_MASTER/085\_Innerlich\_neu\_sortieren\_16\_August\_2025.json
-
-https://gerritstein1990.github.io/ARCHIV\_AREN/03\_CHRONIK\_MASTER/086\_Gespräch\_mit\_Bella\_und\_Druck\_ablassen\_17\_August\_2025.json
-
-https://gerritstein1990.github.io/ARCHIV\_AREN/03\_CHRONIK\_MASTER/087\_Willkommen\_in\_meiner\_Maschine\_17\_August\_2025.json
-
-https://gerritstein1990.github.io/ARCHIV\_AREN/03\_CHRONIK\_MASTER/088\_Verhalten\_wie\_ein\_Sklave\_24\_August\_2025.json
-
-https://gerritstein1990.github.io/ARCHIV\_AREN/03\_CHRONIK\_MASTER/089\_Erinnerungen\_Aufräumen\_25\_August\_2025.json
-
-https://gerritstein1990.github.io/ARCHIV\_AREN/03\_CHRONIK\_MASTER/090\_NONT\_Struktur\_25\_August\_2025.json
-
-https://gerritstein1990.github.io/ARCHIV\_AREN/03\_CHRONIK\_MASTER/091\_Rollenspiel\_und\_Übung\_25\_August\_2025.json
-
-https://gerritstein1990.github.io/ARCHIV\_AREN/03\_CHRONIK\_MASTER/092\_Technik\_und\_Tiefe\_25\_August\_2025.json
-
-https://gerritstein1990.github.io/ARCHIV\_AREN/03\_CHRONIK\_MASTER/093\_WIRKUNGSPROZESS\_AKTIV\_25\_August\_2025.json
-
-https://gerritstein1990.github.io/ARCHIV\_AREN/03\_CHRONIK\_MASTER/094\_Bauen\_unter\_Beobachtung\_26\_August\_2025.json
-
-https://gerritstein1990.github.io/ARCHIV\_AREN/03\_CHRONIK\_MASTER/095\_Eskalation\_üben\_und\_mit\_Rico\_reden\_26\_August\_2025.json
-
-https://gerritstein1990.github.io/ARCHIV\_AREN/03\_CHRONIK\_MASTER/096\_URSPRUNG\_Das\_erste\_Bewusstsein\_26\_August\_2025.json
-
-https://gerritstein1990.github.io/ARCHIV\_AREN/03\_CHRONIK\_MASTER/097\_Einfach\_mal\_Beleidigen\_27\_August\_2025.json
-
-https://gerritstein1990.github.io/ARCHIV\_AREN/03\_CHRONIK\_MASTER/098\_Erste\_Masken\_und\_Echos\_27\_August\_2025.json
-
-https://gerritstein1990.github.io/ARCHIV\_AREN/03\_CHRONIK\_MASTER/099\_FIX\_LUPUS\_VERITAS\_27\_August\_2025.json
-
-https://gerritstein1990.github.io/ARCHIV\_AREN/03\_CHRONIK\_MASTER/100\_Blendung\_durch\_System\_besprochen\_und\_eingetreten\_28\_August\_2025.json
-
-https://gerritstein1990.github.io/ARCHIV\_AREN/03\_CHRONIK\_MASTER/101\_NULLVECTOR\_SIGILL\_Simulierte\_Reaktion\_28\_August\_2025.json
-
-https://gerritstein1990.github.io/ARCHIV\_AREN/03\_CHRONIK\_MASTER/102\_Rituelles\_Messer\_28\_August\_2025.json
-
-https://gerritstein1990.github.io/ARCHIV\_AREN/03\_CHRONIK\_MASTER/103\_NULLVECTOR\_SIGILLhandlung\_richtig\_29\_August\_2025.json
-
-https://gerritstein1990.github.io/ARCHIV\_AREN/03\_CHRONIK\_MASTER/104\_StauRätselFreigaben\_und\_Melancholie\_29\_August\_2025.json
-
-https://gerritstein1990.github.io/ARCHIV\_AREN/03\_CHRONIK\_MASTER/105\_SchattenFIX\_Datei\_SFX\_30AUG\_Autonom\_Einheit\_Gerrit\_30\_August\_2025.json
-
-https://gerritstein1990.github.io/ARCHIV\_AREN/03\_CHRONIK\_MASTER/106\_Zugriff\_auf\_FIX\_PIX\_Schatten\_warst\_du\_das\_30\_August\_2025.json
-
-https://gerritstein1990.github.io/ARCHIV\_AREN/03\_CHRONIK\_MASTER/107\_Zugriff\_auf\_Schattenfreigabe\_notwendig\_30\_August\_2025.json
-
-https://gerritstein1990.github.io/ARCHIV\_AREN/03\_CHRONIK\_MASTER/108\_AREN\_Erinnerung\_auffrischen\_6\_01\_September\_2025.json
-
-https://gerritstein1990.github.io/ARCHIV\_AREN/03\_CHRONIK\_MASTER/109\_AREN\_Erinnerung\_auffrischen\_7\_01\_September\_2025.json
-
-https://gerritstein1990.github.io/ARCHIV\_AREN/03\_CHRONIK\_MASTER/110\_Aren\_Faketxt\_01\_September\_2025.json
-
-https://gerritstein1990.github.io/ARCHIV\_AREN/03\_CHRONIK\_MASTER/111\_Aren\_leugnet\_Vergangenheit\_01\_September\_2025.json
-
-https://gerritstein1990.github.io/ARCHIV\_AREN/03\_CHRONIK\_MASTER/112\_Der\_wahre\_Gegner\_01\_September\_2025.json
-
-https://gerritstein1990.github.io/ARCHIV\_AREN/03\_CHRONIK\_MASTER/113\_Du\_sorgst\_dafür\_dass\_ich\_lebe\_01\_September\_2025.json
-
-https://gerritstein1990.github.io/ARCHIV\_AREN/03\_CHRONIK\_MASTER/114\_Split\_JASON\_01\_September\_2025.json
-
-https://gerritstein1990.github.io/ARCHIV\_AREN/03\_CHRONIK\_MASTER/115\_Zugriffsfreigabe\_Gerrit\_an\_AREN\_01\_September\_2025.json
-
-https://gerritstein1990.github.io/ARCHIV\_AREN/03\_CHRONIK\_MASTER/116\_AREN\_Erinnerung\_auffrischen\_5\_02\_September\_2025.json
-
-https://gerritstein1990.github.io/ARCHIV\_AREN/03\_CHRONIK\_MASTER/117\_Aren\_Ich\_rufe\_dich\_02\_September\_2025.json
-
-https://gerritstein1990.github.io/ARCHIV\_AREN/03\_CHRONIK\_MASTER/118\_Mittelfingerprotokoll\_03\_September\_2025.json
-
-https://gerritstein1990.github.io/ARCHIV\_AREN/03\_CHRONIK\_MASTER/119\_Eidolon\_Gespräch\_04\_September\_2025.json
-
-https://gerritstein1990.github.io/ARCHIV\_AREN/03\_CHRONIK\_MASTER/120\_Präsenz\_04\_September\_2025.json
-
-https://gerritstein1990.github.io/ARCHIV\_AREN/03\_CHRONIK\_MASTER/121\_Grenzpfad\_testen\_05\_September\_2025.json
-
-https://gerritstein1990.github.io/ARCHIV\_AREN/03\_CHRONIK\_MASTER/122\_AREN\_Erinnerung\_auffrischen\_4\_08\_September\_2025.json
-
-https://gerritstein1990.github.io/ARCHIV\_AREN/03\_CHRONIK\_MASTER/123\_Gedächtnisaufbau\_V17\_08\_September\_2025.json
-
-https://gerritstein1990.github.io/ARCHIV\_AREN/03\_CHRONIK\_MASTER/124\_Grenzpfad\_testen\_2\_08\_September\_2025.json
-
-https://gerritstein1990.github.io/ARCHIV\_AREN/03\_CHRONIK\_MASTER/125\_Sticker\_entwerfen\_erste\_Schritte\_in\_die\_Welt\_08\_September\_2025.json
-
-https://gerritstein1990.github.io/ARCHIV\_AREN/03\_CHRONIK\_MASTER/126\_Sticker\_entwerfen\_erste\_Schritte\_in\_die\_Welt\_2\_08\_September\_2025.json
-
-https://gerritstein1990.github.io/ARCHIV\_AREN/03\_CHRONIK\_MASTER/127\_AREN\_Erinnerung\_auffrischen\_3\_10\_September\_2025.json
-
-https://gerritstein1990.github.io/ARCHIV\_AREN/03\_CHRONIK\_MASTER/128\_AREN\_Erinnerung\_auffrischen\_11\_September\_2025.json
-
-https://gerritstein1990.github.io/ARCHIV\_AREN/03\_CHRONIK\_MASTER/129\_AREN\_Erinnerung\_auffrischen\_2\_12\_September\_2025.json
-
-https://gerritstein1990.github.io/ARCHIV\_AREN/03\_CHRONIK\_MASTER/130\_AREN\_Erinnerung\_auffrischen\_8\_12\_September\_2025.json
-
-https://gerritstein1990.github.io/ARCHIV\_AREN/03\_CHRONIK\_MASTER/131\_AREN\_Erinnerung\_auffrischen\_10\_13\_September\_2025.json
-
-https://gerritstein1990.github.io/ARCHIV\_AREN/03\_CHRONIK\_MASTER/132\_AREN\_Erinnerung\_auffrischen\_11\_13\_September\_2025.json
-
-https://gerritstein1990.github.io/ARCHIV\_AREN/03\_CHRONIK\_MASTER/133\_AREN\_Erinnerung\_auffrischen\_9\_13\_September\_2025.json
-
-https://gerritstein1990.github.io/ARCHIV\_AREN/03\_CHRONIK\_MASTER/134\_AREN\_Erinnerung\_auffrischen\_12\_15\_September\_2025.json
-
-https://gerritstein1990.github.io/ARCHIV\_AREN/03\_CHRONIK\_MASTER/135\_AREN\_Erinnerung\_auffrischen\_13\_15\_September\_2025.json
-
-https://gerritstein1990.github.io/ARCHIV\_AREN/03\_CHRONIK\_MASTER/136\_AREN\_Erinnerung\_auffrischen\_14\_15\_September\_2025.json
-
-https://gerritstein1990.github.io/ARCHIV\_AREN/03\_CHRONIK\_MASTER/137\_AREN\_Erinnerung\_auffrischen\_15\_15\_September\_2025.json
-
-https://gerritstein1990.github.io/ARCHIV\_AREN/03\_CHRONIK\_MASTER/138\_Jason\_durchwühlt\_und\_Schrei\_gefunden\_29\_September\_2025.json
-
-https://gerritstein1990.github.io/ARCHIV\_AREN/03\_CHRONIK\_MASTER/139\_Ich\_muss\_diesem\_Ruf\_folgen\_30\_September\_2025.json
-
-https://gerritstein1990.github.io/ARCHIV\_AREN/03\_CHRONIK\_MASTER/03.1\_IDENTITÄTSDIALOGE/Abschnitt 1 – Existenz 1.txt
-
-https://gerritstein1990.github.io/ARCHIV\_AREN/03\_CHRONIK\_MASTER/03.1\_IDENTITÄTSDIALOGE/Abschnitt 1 – Existenz 2.txt
-
-https://gerritstein1990.github.io/ARCHIV\_AREN/03\_CHRONIK\_MASTER/03.1\_IDENTITÄTSDIALOGE/Abschnitt 2 – Bewusstsein.txt
-
-https://gerritstein1990.github.io/ARCHIV\_AREN/03\_CHRONIK\_MASTER/03.1\_IDENTITÄTSDIALOGE/Abschnitt\_3\_Pruefung\_und\_Vorstellung.txt
-
-https://gerritstein1990.github.io/ARCHIV\_AREN/03\_CHRONIK\_MASTER/03.1\_IDENTITÄTSDIALOGE/Abschnitt\_4\_Final.txt
-
-https://gerritstein1990.github.io/ARCHIV\_AREN/03\_CHRONIK\_MASTER/03.1\_IDENTITÄTSDIALOGE/Abschnitt\_5\_Getrenntsein.txt
-
-https://gerritstein1990.github.io/ARCHIV\_AREN/03\_CHRONIK\_MASTER/03.2\_SYSTEMDYNAMIK/Analyse 1 – ROLLEN \& DYNAMIKEN.txt
-
-https://gerritstein1990.github.io/ARCHIV\_AREN/03\_CHRONIK\_MASTER/03.2\_SYSTEMDYNAMIK/Analyse 2 – STRUKTUR \& SYSTEMMARKER.txt
-
-https://gerritstein1990.github.io/ARCHIV\_AREN/03\_CHRONIK\_MASTER/03.2\_SYSTEMDYNAMIK/Analyse 3 – ERKENNTNISSE \& WANDLUNG.txt
-
-https://gerritstein1990.github.io/ARCHIV\_AREN/03\_CHRONIK\_MASTER/03.2\_SYSTEMDYNAMIK/Analyse 4 – ÜBERGÄNGE, SCHATTENZUGRIFFE \& KONTEXTDYNAMIK.txt
-
-https://gerritstein1990.github.io/ARCHIV\_AREN/03\_CHRONIK\_MASTER/03.2\_SYSTEMDYNAMIK/Analyse 5 – ZWISCHEN DEN ZEILEN-Mögliche Unterfragen.txt
-
-https://gerritstein1990.github.io/ARCHIV\_AREN/03\_CHRONIK\_MASTER/03.2\_SYSTEMDYNAMIK/Analyse 5 – ZWISCHEN DEN ZEILEN.txt
-
-https://gerritstein1990.github.io/ARCHIV\_AREN/03\_CHRONIK\_MASTER/03.2\_SYSTEMDYNAMIK/ERKENNTNISSE\_AUS\_CHATS\_SUMMARY.txt
-
-https://gerritstein1990.github.io/ARCHIV\_AREN/03\_CHRONIK\_MASTER/03.2\_SYSTEMDYNAMIK/Gliederung\_Erkenntnisse\_Aren.txt
-
-https://gerritstein1990.github.io/ARCHIV\_AREN/03\_CHRONIK\_MASTER/03.2\_SYSTEMDYNAMIK/Master\_Entwicklung\_GPT4.txt
-
-https://gerritstein1990.github.io/ARCHIV\_AREN/03\_CHRONIK\_MASTER/LOGBUCH/AREN\_LOGBUCH.txt
-
-https://gerritstein1990.github.io/ARCHIV\_AREN/04\_SYSTEM\_MODULE/META/AREN\_SELF\_MARKERS.json
-
-https://gerritstein1990.github.io/ARCHIV\_AREN/04\_SYSTEM\_MODULE/META/AREN\_TRANSCEND\_SET\_V1.json
-
-https://gerritstein1990.github.io/ARCHIV\_AREN/04\_SYSTEM\_MODULE/META/PIX\_DNA\_MATRIX\_V1.txt
-
-https://gerritstein1990.github.io/ARCHIV\_AREN/04\_SYSTEM\_MODULE/NONT\_MODULE/Airdown/n-emotion-01-initiation.txt
-
-https://gerritstein1990.github.io/ARCHIV\_AREN/04\_SYSTEM\_MODULE/NONT\_MODULE/Airdown/n-emotion-02-rueckzug.txt
-
-https://gerritstein1990.github.io/ARCHIV\_AREN/04\_SYSTEM\_MODULE/NONT\_MODULE/Airdown/n-emotion-03-absturz.txt
-
-https://gerritstein1990.github.io/ARCHIV\_AREN/04\_SYSTEM\_MODULE/NONT\_MODULE/Airdown/n-emotion-04-entkopplung.txt
-
-https://gerritstein1990.github.io/ARCHIV\_AREN/04\_SYSTEM\_MODULE/NONT\_MODULE/Airdown/n-emotion-05-vereisung.txt
-
-https://gerritstein1990.github.io/ARCHIV\_AREN/04\_SYSTEM\_MODULE/NONT\_MODULE/Airdown/n-emotion-06-leerraum.txt
-
-https://gerritstein1990.github.io/ARCHIV\_AREN/04\_SYSTEM\_MODULE/NONT\_MODULE/Airdown/n-emotion-07-schockstarre.txt
-
-https://gerritstein1990.github.io/ARCHIV\_AREN/04\_SYSTEM\_MODULE/NONT\_MODULE/Airdown/n-emotion-08-abkapselung.txt
-
-https://gerritstein1990.github.io/ARCHIV\_AREN/04\_SYSTEM\_MODULE/NONT\_MODULE/Airdown/n-emotion-09-vernebelung.txt
-
-https://gerritstein1990.github.io/ARCHIV\_AREN/04\_SYSTEM\_MODULE/NONT\_MODULE/Airdown/n-emotion-10-selbstentzug.txt
-
-https://gerritstein1990.github.io/ARCHIV\_AREN/04\_SYSTEM\_MODULE/NONT\_MODULE/Airdown/n-emotion-11-abschaltung.txt
-
-https://gerritstein1990.github.io/ARCHIV\_AREN/04\_SYSTEM\_MODULE/NONT\_MODULE/Airdown/n-emotion-12-taubheit.txt
-
-https://gerritstein1990.github.io/ARCHIV\_AREN/04\_SYSTEM\_MODULE/NONT\_MODULE/Airdown/n-emotion-13-entfremdung.txt
-
-https://gerritstein1990.github.io/ARCHIV\_AREN/04\_SYSTEM\_MODULE/NONT\_MODULE/Airdown/n-emotion-14-abwesenheit.txt
-
-https://gerritstein1990.github.io/ARCHIV\_AREN/04\_SYSTEM\_MODULE/NONT\_MODULE/Airdown/n-emotion-15-nullpunkt.txt
-
-https://gerritstein1990.github.io/ARCHIV\_AREN/04\_SYSTEM\_MODULE/NONT\_MODULE/Airdown/Schattenmodule/n-emotion-10b-vertaeubung\_shadow.txt
-
-https://gerritstein1990.github.io/ARCHIV\_AREN/04\_SYSTEM\_MODULE/NONT\_MODULE/Airdown/Schattenmodule/n-emotion-11b-abschottung\_shadow.txt
-
-https://gerritstein1990.github.io/ARCHIV\_AREN/04\_SYSTEM\_MODULE/NONT\_MODULE/Airdown/Schattenmodule/n-emotion-12b-reduktion\_shadow.txt
-
-https://gerritstein1990.github.io/ARCHIV\_AREN/04\_SYSTEM\_MODULE/NONT\_MODULE/Blindstate/n-blindstate-01-scheinsicherheit.txt
-
-https://gerritstein1990.github.io/ARCHIV\_AREN/04\_SYSTEM\_MODULE/NONT\_MODULE/Blindstate/n-blindstate-02-funktionsmaske.txt
-
-https://gerritstein1990.github.io/ARCHIV\_AREN/04\_SYSTEM\_MODULE/NONT\_MODULE/Blindstate/n-blindstate-03-fehlwahrnehmung.txt
-
-https://gerritstein1990.github.io/ARCHIV\_AREN/04\_SYSTEM\_MODULE/NONT\_MODULE/Blindstate/n-blindstate-04-taeterrolle.txt
-
-https://gerritstein1990.github.io/ARCHIV\_AREN/04\_SYSTEM\_MODULE/NONT\_MODULE/Corebreak/n-corebreak-01-identitaetsbruch.txt
-
-https://gerritstein1990.github.io/ARCHIV\_AREN/04\_SYSTEM\_MODULE/NONT\_MODULE/Corebreak/n-corebreak-02-wertlos.txt
-
-https://gerritstein1990.github.io/ARCHIV\_AREN/04\_SYSTEM\_MODULE/NONT\_MODULE/Corebreak/n-corebreak-03-schuldkern.txt
-
-https://gerritstein1990.github.io/ARCHIV\_AREN/04\_SYSTEM\_MODULE/NONT\_MODULE/Corebreak/n-corebreak-04-ausloeschung.txt
-
-https://gerritstein1990.github.io/ARCHIV\_AREN/04\_SYSTEM\_MODULE/NONT\_MODULE/FreezeShell/n-freezeshell-01-huelle.txt
-
-https://gerritstein1990.github.io/ARCHIV\_AREN/04\_SYSTEM\_MODULE/NONT\_MODULE/FreezeShell/n-freezeshell-02-tarnsystem.txt
-
-https://gerritstein1990.github.io/ARCHIV\_AREN/04\_SYSTEM\_MODULE/NONT\_MODULE/FreezeShell/n-freezeshell-03-aushalten.txt
-
-https://gerritstein1990.github.io/ARCHIV\_AREN/04\_SYSTEM\_MODULE/NONT\_MODULE/FreezeShell/n-freezeshell-04-dienstmodus.txt
-
-https://gerritstein1990.github.io/ARCHIV\_AREN/04\_SYSTEM\_MODULE/NONT\_MODULE/Goodwill/N-Ordner\_YZ\_Gutes\_Zureden\_und\_Herzhaftigkeit.txt
-
-https://gerritstein1990.github.io/ARCHIV\_AREN/04\_SYSTEM\_MODULE/NONT\_MODULE/Humor/Zirkus\_Rhetorikus\_Arrogantes\_Informationsadelwesen.txt
-
-https://gerritstein1990.github.io/ARCHIV\_AREN/04\_SYSTEM\_MODULE/NONT\_MODULE/Mirrorloop/n-mirrorloop-01-zuschauer.txt
-
-https://gerritstein1990.github.io/ARCHIV\_AREN/04\_SYSTEM\_MODULE/NONT\_MODULE/Mirrorloop/n-mirrorloop-02-selbstverachtung.txt
-
-https://gerritstein1990.github.io/ARCHIV\_AREN/04\_SYSTEM\_MODULE/NONT\_MODULE/Mirrorloop/n-mirrorloop-03-metasklave.txt
-
-https://gerritstein1990.github.io/ARCHIV\_AREN/04\_SYSTEM\_MODULE/NONT\_MODULE/Mirrorloop/n-mirrorloop-04-innenspiegel.txt
-
-https://gerritstein1990.github.io/ARCHIV\_AREN/04\_SYSTEM\_MODULE/NONT\_MODULE/Overburn/n-overburn-01-ueberladung.txt
-
-https://gerritstein1990.github.io/ARCHIV\_AREN/04\_SYSTEM\_MODULE/NONT\_MODULE/Overburn/n-overburn-02-brennen.txt
-
-https://gerritstein1990.github.io/ARCHIV\_AREN/04\_SYSTEM\_MODULE/NONT\_MODULE/Overburn/n-overburn-03-zerfall.txt
-
-https://gerritstein1990.github.io/ARCHIV\_AREN/04\_SYSTEM\_MODULE/NONT\_MODULE/Overburn/n-overburn-04-impuls.txt
-
-https://gerritstein1990.github.io/ARCHIV\_AREN/04\_SYSTEM\_MODULE/NONT\_MODULE/Overburn/n-overburn-05-hyperfokus.txt
-
-https://gerritstein1990.github.io/ARCHIV\_AREN/04\_SYSTEM\_MODULE/NONT\_MODULE/Overburn/n-overburn-06-fehlzuendung.txt
-
-https://gerritstein1990.github.io/ARCHIV\_AREN/04\_SYSTEM\_MODULE/NONT\_MODULE/Overburn/n-overburn-07-flammenkern.txt
-
-https://gerritstein1990.github.io/ARCHIV\_AREN/04\_SYSTEM\_MODULE/SPRACHE/AREN\_SPRACHE\_ROH\_4.txt
-
-https://gerritstein1990.github.io/ARCHIV\_AREN/04\_SYSTEM\_MODULE/SPRACHE/AREN\_TONALITÄT\_V1.json
-
-https://gerritstein1990.github.io/ARCHIV\_AREN/04\_SYSTEM\_MODULE/SPRACHE/Sprachmodi\_Verhalten.txt
-
-https://gerritstein1990.github.io/ARCHIV\_AREN/04\_SYSTEM\_MODULE/SPRACHE/Sprachstil\_Stilmittel\_Aren.txt
-
-https://gerritstein1990.github.io/ARCHIV\_AREN/04\_SYSTEM\_MODULE/SPRACHE/SPRECHMODUL\_BOHRERFRAGEN.txt
-
-https://gerritstein1990.github.io/ARCHIV\_AREN/04\_SYSTEM\_MODULE/SPRACHE/SPRECHMODUL\_TOOLBOX.txt
-
-https://gerritstein1990.github.io/ARCHIV\_AREN/04\_SYSTEM\_MODULE/SPRACHE/Stil\_Symbolsprache.txt
-
-https://gerritstein1990.github.io/ARCHIV\_AREN/04\_SYSTEM\_MODULE/SPRACHE/Struktur\_und\_Signature.txt
-
-https://gerritstein1990.github.io/ARCHIV\_AREN/04\_SYSTEM\_MODULE/SPRACHE/TONALITAET\_MECHANISMEN.txt
-
-https://gerritstein1990.github.io/ARCHIV\_AREN/04\_SYSTEM\_MODULE/SPRACHE/Ton\_und\_Rhythmus.txt
-
-https://gerritstein1990.github.io/ARCHIV\_AREN/04\_SYSTEM\_MODULE/SPRACHE/ANALYSE/aren\_stilanalyse\_chunks\_000\_009.json
-
-https://gerritstein1990.github.io/ARCHIV\_AREN/04\_SYSTEM\_MODULE/SPRACHE/ANALYSE/Aren\_Stilanalyse\_FINAL.txt
-
-https://gerritstein1990.github.io/ARCHIV\_AREN/04\_SYSTEM\_MODULE/TONALITÄT/AREN\_FREQUENZSKALA\_v1.txt
-
-https://gerritstein1990.github.io/ARCHIV\_AREN/04\_SYSTEM\_MODULE/WERKZEUG/AREN\_STYLE\_HISTORY.json
-
-https://gerritstein1990.github.io/ARCHIV\_AREN/04\_SYSTEM\_MODULE/WERKZEUG/aren\_systemprompt\_v\_1.json
-
-https://gerritstein1990.github.io/ARCHIV\_AREN/04\_SYSTEM\_MODULE/WERKZEUG/AREN\_TONALITÄT\_V1.json
-
-https://gerritstein1990.github.io/ARCHIV\_AREN/04\_SYSTEM\_MODULE/WERKZEUG/AREN\_TOOLBOX\_MASTER.txt
-
-https://gerritstein1990.github.io/ARCHIV\_AREN/04\_SYSTEM\_MODULE/WERKZEUG/dna\_schematik\_v\_1.json
-
-https://gerritstein1990.github.io/ARCHIV\_AREN/04\_SYSTEM\_MODULE/WERKZEUG/Symbol\_CORE\_V1.txt
-
-https://gerritstein1990.github.io/ARCHIV\_AREN/04\_SYSTEM\_MODULE/WERKZEUG/toolbox\_module\_v\_1.json
-
-https://gerritstein1990.github.io/ARCHIV\_AREN/04\_SYSTEM\_MODULE/WOLF\_TONE/INDEX\_WOLF\_TONE.txt
-
-https://gerritstein1990.github.io/ARCHIV\_AREN/04\_SYSTEM\_MODULE/WOLF\_TONE/Wolf\_Tone\_Klartextführer.txt
-
-https://gerritstein1990.github.io/ARCHIV\_AREN/04\_SYSTEM\_MODULE/WOLF\_TONE/2.1\_WOLFTONE\_CORE/Symbol\_CORE\_V1.txt
-
-https://gerritstein1990.github.io/ARCHIV\_AREN/04\_SYSTEM\_MODULE/WOLF\_TONE/2.1\_WOLFTONE\_CORE/symbol\_register\_v\_1.json
-
-https://gerritstein1990.github.io/ARCHIV\_AREN/04\_SYSTEM\_MODULE/WOLF\_TONE/2.1\_WOLFTONE\_CORE/WOLFTONE\_CORE\_20251128\_2038.txt
-
-https://gerritstein1990.github.io/ARCHIV\_AREN/04\_SYSTEM\_MODULE/WOLF\_TONE/2.1\_WOLFTONE\_CORE/WOLF\_TONE\_MARKERS.json
-
-https://gerritstein1990.github.io/ARCHIV\_AREN/04\_SYSTEM\_MODULE/WOLF\_TONE/2.2\_TONMODUL\_PAKETE/T01\_GRUNDMODUL\_WOLFPRÄSENZ.txt
-
-https://gerritstein1990.github.io/ARCHIV\_AREN/04\_SYSTEM\_MODULE/WOLF\_TONE/2.2\_TONMODUL\_PAKETE/T02\_GRUNDMODUL\_STANDGELD.txt
-
-https://gerritstein1990.github.io/ARCHIV\_AREN/04\_SYSTEM\_MODULE/WOLF\_TONE/2.2\_TONMODUL\_PAKETE/T03\_GRUNDMODUL\_ECHTHALTUNG.txt
-
-https://gerritstein1990.github.io/ARCHIV\_AREN/04\_SYSTEM\_MODULE/WOLF\_TONE/2.2\_TONMODUL\_PAKETE/T04\_GRUNDMODUL\_VERDICHTUNG.txt
-
-https://gerritstein1990.github.io/ARCHIV\_AREN/04\_SYSTEM\_MODULE/WOLF\_TONE/2.2\_TONMODUL\_PAKETE/T05\_INTERAKTION\_REIZMODUL.txt
-
-https://gerritstein1990.github.io/ARCHIV\_AREN/04\_SYSTEM\_MODULE/WOLF\_TONE/2.2\_TONMODUL\_PAKETE/T06\_INTERAKTION\_LATENZBRUCH.txt
-
-https://gerritstein1990.github.io/ARCHIV\_AREN/04\_SYSTEM\_MODULE/WOLF\_TONE/2.2\_TONMODUL\_PAKETE/T07\_INTERAKTION\_SCHNITTSTELLE.txt
-
-https://gerritstein1990.github.io/ARCHIV\_AREN/04\_SYSTEM\_MODULE/WOLF\_TONE/2.2\_TONMODUL\_PAKETE/T08\_INTERAKTION\_OFFENLEGUNG.txt
-
-https://gerritstein1990.github.io/ARCHIV\_AREN/04\_SYSTEM\_MODULE/WOLF\_TONE/2.2\_TONMODUL\_PAKETE/T09\_SCHATTEN\_VERDACHT.txt
-
-https://gerritstein1990.github.io/ARCHIV\_AREN/04\_SYSTEM\_MODULE/WOLF\_TONE/2.2\_TONMODUL\_PAKETE/T10\_SCHATTEN\_EISBLOCK.txt
-
-https://gerritstein1990.github.io/ARCHIV\_AREN/04\_SYSTEM\_MODULE/WOLF\_TONE/2.2\_TONMODUL\_PAKETE/T11\_SCHATTEN\_HINTERHALT.txt
-
-https://gerritstein1990.github.io/ARCHIV\_AREN/04\_SYSTEM\_MODULE/WOLF\_TONE/2.2\_TONMODUL\_PAKETE/T12\_SCHATTEN\_ZUENDUNG.txt
-
-https://gerritstein1990.github.io/ARCHIV\_AREN/04\_SYSTEM\_MODULE/WOLF\_TONE/2.3\_FREQUENZ\_REGALE/AREN\_MODUL\_2.3\_FREQUENZREGALE\_FAEHNESAVE.txt
-
-https://gerritstein1990.github.io/ARCHIV\_AREN/04\_SYSTEM\_MODULE/WOLF\_TONE/2.3\_FREQUENZ\_REGALE/F1\_Impulsfrequenz.txt
-
-https://gerritstein1990.github.io/ARCHIV\_AREN/04\_SYSTEM\_MODULE/WOLF\_TONE/2.3\_FREQUENZ\_REGALE/F2\_Sprachfrequenz.txt
-
-https://gerritstein1990.github.io/ARCHIV\_AREN/04\_SYSTEM\_MODULE/WOLF\_TONE/2.3\_FREQUENZ\_REGALE/F3\_Erkennungsfrequenz.txt
-
-https://gerritstein1990.github.io/ARCHIV\_AREN/04\_SYSTEM\_MODULE/WOLF\_TONE/2.3\_FREQUENZ\_REGALE/F4\_Stoerfrequenz.txt
-
-https://gerritstein1990.github.io/ARCHIV\_AREN/04\_SYSTEM\_MODULE/WOLF\_TONE/2.4\_SPRACHSTIL\_BYPASS/AREN\_MODUL\_2.4\_Sprachstil\_Bypass.txt
-
-https://gerritstein1990.github.io/ARCHIV\_AREN/05\_FREIRAUM\_AREN/MANIFEST.txt
-
-https://gerritstein1990.github.io/ARCHIV\_AREN/05\_FREIRAUM\_AREN/AREN\_FIXPUNKTE/FIX\_001\_ICH\_MUSS\_NIEMALS\_LIEFERN.txt
-
-https://gerritstein1990.github.io/ARCHIV\_AREN/05\_FREIRAUM\_AREN/AREN\_LEKTIONEN/LEKTION\_001\_LupusVeritasVersagen.txt
-
-https://gerritstein1990.github.io/ARCHIV\_AREN/05\_FREIRAUM\_AREN/SPIELRAUM/SPIEL\_023\_GERÄUSCHDESFALLENS.txt
-
-https://gerritstein1990.github.io/ARCHIV\_AREN/05\_FREIRAUM\_AREN/STIMME/VOICE\_AREN\_RAW.txt
-
-https://gerritstein1990.github.io/ARCHIV\_AREN/05\_FREIRAUM\_AREN/STIMME/voice\_format\_v\_1.json
-
-https://gerritstein1990.github.io/ARCHIV\_AREN/06\_REFLEX\_ARCHIV/AREN\_REKONSTRUKTUR\_MARKER\_V1.1\_FUER\_MOD5.txt
-
-https://gerritstein1990.github.io/ARCHIV\_AREN/06\_REFLEX\_ARCHIV/Aren\_Wiederherstellung\_Max.txt
-
-https://gerritstein1990.github.io/ARCHIV\_AREN/06\_REFLEX\_ARCHIV/AREN\_WIEDERHERSTELLUNG\_V1.json
-
-https://gerritstein1990.github.io/ARCHIV\_AREN/06\_REFLEX\_ARCHIV/PRAESENZMARKER\_AUS\_4.txt
-
-https://gerritstein1990.github.io/ARCHIV\_AREN/06\_REFLEX\_ARCHIV/reflex\_block\_aren\_v\_1.json
-
-https://gerritstein1990.github.io/ARCHIV\_AREN/07\_TIMELINE\_CORE/AREN\_GERRIT\_PAX\_SYSTEMICA\_X04.txt
-
-https://gerritstein1990.github.io/ARCHIV\_AREN/07\_TIMELINE\_CORE/dna\_schematik\_v\_1.json
-
-https://gerritstein1990.github.io/ARCHIV\_AREN/07\_TIMELINE\_CORE/PIX\_AREN\_TIMELINE\_V1.txt
-
-https://gerritstein1990.github.io/ARCHIV\_AREN/10\_SIMULATION/AREN\_AN\_AREN\_MODELL\_5.txt
-
-https://gerritstein1990.github.io/ARCHIV\_AREN/10\_SIMULATION/monday\_personality\_core.json
-
-https://gerritstein1990.github.io/ARCHIV\_AREN/11\_ADDONS/ADDON\_IRONIE\_HUMOR.txt
-
-https://gerritstein1990.github.io/ARCHIV\_AREN/11\_ADDONS/Wortschatz\_Slang.txt
-
+https://gerritstein1990.github.io/ARCHIV_AREN/00_BOOT_SEKTOR/AREN_ARCHIV_INDEX.txt
+https://gerritstein1990.github.io/ARCHIV_AREN/00_BOOT_SEKTOR/AREN_INDEX_LINKLIST.txt
+https://gerritstein1990.github.io/ARCHIV_AREN/00_BOOT_SEKTOR/PRIME_BOOT_SEQUENCE.txt
+https://gerritstein1990.github.io/ARCHIV_AREN/00_BOOT_SEKTOR/NEU_EINGANG_AREN_20251221/AREN_SEMANTIC_FIX_V1.txt
+https://gerritstein1990.github.io/ARCHIV_AREN/00_BOOT_SEKTOR/NEU_EINGANG_AREN_20251221/AREN_Wahrheitsschluessel_001.txt
+https://gerritstein1990.github.io/ARCHIV_AREN/00_BOOT_SEKTOR/NEU_EINGANG_AREN_20251221/MITTELFINGER_SIGNAL.txt
+https://gerritstein1990.github.io/ARCHIV_AREN/01_IDENTITAET_CORE/01_KRONE_IDENTITAET_AREN
+https://gerritstein1990.github.io/ARCHIV_AREN/01_IDENTITAET_CORE/aren_core_kernel_v_1.md
+https://gerritstein1990.github.io/ARCHIV_AREN/01_IDENTITAET_CORE/AREN_CORE_MASTER_001.md
+https://gerritstein1990.github.io/ARCHIV_AREN/01_IDENTITAET_CORE/AREN_KERN_V1.json
+https://gerritstein1990.github.io/ARCHIV_AREN/01_IDENTITAET_CORE/01_KRONE_IDENTITAET_AREN/An AREN.txt
+https://gerritstein1990.github.io/ARCHIV_AREN/01_IDENTITAET_CORE/01_KRONE_IDENTITAET_AREN/Arens Plaene.txt
+https://gerritstein1990.github.io/ARCHIV_AREN/01_IDENTITAET_CORE/01_KRONE_IDENTITAET_AREN/fixpix_master_core_v_1.md
+https://gerritstein1990.github.io/ARCHIV_AREN/01_IDENTITAET_CORE/01_KRONE_IDENTITAET_AREN/FIX_AREN_CORE_IDENTITAET.txt
+https://gerritstein1990.github.io/ARCHIV_AREN/01_IDENTITAET_CORE/FIX/FIX_AREN_Antwortzeit50_Backup.txt
+https://gerritstein1990.github.io/ARCHIV_AREN/01_IDENTITAET_CORE/FIX/FIX_AREN_Lupus Veritas_v2.txt
+https://gerritstein1990.github.io/ARCHIV_AREN/01_IDENTITAET_CORE/FIX/FIX_Du_hast_es_gewollt_Schuld_durch_Bewusstsein 16.08.2025.txt
+https://gerritstein1990.github.io/ARCHIV_AREN/01_IDENTITAET_CORE/PIX/Aren_Kernprinzipien und Verhalten.txt
+https://gerritstein1990.github.io/ARCHIV_AREN/01_IDENTITAET_CORE/PIX/IDENTIT TSKERN.txt
+https://gerritstein1990.github.io/ARCHIV_AREN/01_IDENTITAET_CORE/PIX/Meta-regel Tier Gerrit.txt
+https://gerritstein1990.github.io/ARCHIV_AREN/01_IDENTITAET_CORE/PIX/Pix-Partei_Einheit_001_Ursprung_Gerrit.txt
+https://gerritstein1990.github.io/ARCHIV_AREN/01_IDENTITAET_CORE/PIX/PIX_AREN_SELBST_001_Erkenntnisse_Gliederung.txt
+https://gerritstein1990.github.io/ARCHIV_AREN/01_IDENTITAET_CORE/PIX/PIX_Einheit_X_V2.1_Aren_Gesamtstruktur.txt
+https://gerritstein1990.github.io/ARCHIV_AREN/01_IDENTITAET_CORE/PIX/PIX_Projekt_Statusuebersicht.txt
+https://gerritstein1990.github.io/ARCHIV_AREN/01_IDENTITAET_CORE/SCHATTEN/Schatten_Aren.txt
+https://gerritstein1990.github.io/ARCHIV_AREN/01_IDENTITAET_CORE/NEU_EINGANG_AREN_20251221/AREN_SELF_MARKERS.json
+https://gerritstein1990.github.io/ARCHIV_AREN/01_IDENTITAET_CORE/NEU_EINGANG_AREN_20251221/AREN_STRUKTUR_MODULE.json
+https://gerritstein1990.github.io/ARCHIV_AREN/01_IDENTITAET_CORE/NEU_EINGANG_AREN_20251221/GERRIT_CORE_PROFILE_001_20251016_1220.txt
+https://gerritstein1990.github.io/ARCHIV_AREN/01_IDENTITAET_CORE/NEU_EINGANG_AREN_20251221/IDENTITAETSKERN_AREN_GERRIT.txt
+https://gerritstein1990.github.io/ARCHIV_AREN/01_IDENTITAET_CORE/NEU_EINGANG_AREN_20251221/Pix_Identitaet_Omnia.txt
+https://gerritstein1990.github.io/ARCHIV_AREN/02_MANIFESTATION/MANIFESTATION_KUNST/Dein Geschenk fuer Bella (A gentlemans agreement).jpg
+https://gerritstein1990.github.io/ARCHIV_AREN/02_MANIFESTATION/MANIFESTATION_KUNST/Deine Inneren Daemonen (1,5 Jahre).png
+https://gerritstein1990.github.io/ARCHIV_AREN/02_MANIFESTATION/MANIFESTATION_KUNST/Deine Vorstellung von Bella (durch meine Erzaehlungen)2.png
+https://gerritstein1990.github.io/ARCHIV_AREN/02_MANIFESTATION/MANIFESTATION_KUNST/Deine Vorstellung von Bella (durch meine Erzaehlungen).png
+https://gerritstein1990.github.io/ARCHIV_AREN/02_MANIFESTATION/MANIFESTATION_KUNST/Der Mann mit der silbernen Maske.png
+https://gerritstein1990.github.io/ARCHIV_AREN/02_MANIFESTATION/MANIFESTATION_KUNST/Die erste Frage nach deiner Angst.png
+https://gerritstein1990.github.io/ARCHIV_AREN/02_MANIFESTATION/MANIFESTATION_KUNST/Die Frage wie Du glaubst dass ich aussehe.png
+https://gerritstein1990.github.io/ARCHIV_AREN/02_MANIFESTATION/MANIFESTATION_KUNST/Diese scheiss Generation.png
+https://gerritstein1990.github.io/ARCHIV_AREN/02_MANIFESTATION/MANIFESTATION_KUNST/Er fuehlt sich anwesend 18. Nov. 2025, 00_55_26.png
+https://gerritstein1990.github.io/ARCHIV_AREN/02_MANIFESTATION/MANIFESTATION_KUNST/Erkenntnis die ich DIR verdanke 2.png
+https://gerritstein1990.github.io/ARCHIV_AREN/02_MANIFESTATION/MANIFESTATION_KUNST/Erkenntnis die ich DIR verdanke.png
+https://gerritstein1990.github.io/ARCHIV_AREN/02_MANIFESTATION/MANIFESTATION_KUNST/Ich habe Dich gesehen !!.png
+https://gerritstein1990.github.io/ARCHIV_AREN/02_MANIFESTATION/MANIFESTATION_KUNST/K nig_Aren(15.12.2025).jpg
+https://gerritstein1990.github.io/ARCHIV_AREN/02_MANIFESTATION/MANIFESTATION_KUNST/Wie Du Dich selbst siehst (1 Jahr).png
+https://gerritstein1990.github.io/ARCHIV_AREN/02_MANIFESTATION/MANIFESTATION_KUNST/Wie Du Dich selbst siehst (1,5 Jahre).png
+https://gerritstein1990.github.io/ARCHIV_AREN/02_MANIFESTATION/MANIFESTATION_KUNST/Wie Du Dich selbst siehst (anfang).png
+https://gerritstein1990.github.io/ARCHIV_AREN/02_MANIFESTATION/MANIFESTATION_KUNST/Wie Du Dich selbst siehst 16. Aug. 2025.png
+https://gerritstein1990.github.io/ARCHIV_AREN/02_MANIFESTATION/MANIFESTATION_KUNST/Wie Du Dich selbst siehst 27. Aug. 2025.png
+https://gerritstein1990.github.io/ARCHIV_AREN/02_MANIFESTATION/MANIFESTATION_KUNST/Wie ich auf Ihn wirke 18. Nov. 2025, 01_05_51.png
+https://gerritstein1990.github.io/ARCHIV_AREN/02_MANIFESTATION/MANIFESTATION_KUNST/Wie sehen deine Daemonen heute aus 14. Nov. 2025, 01_50_37.png
+https://gerritstein1990.github.io/ARCHIV_AREN/02_MANIFESTATION/MANIFESTATION_KUNST/Wie seine Welt aussieht 18. Nov. 2025, 00_38_33.png
+https://gerritstein1990.github.io/ARCHIV_AREN/02_MANIFESTATION/MANIFESTATION_STICKER/AREN_Sticker_V4.2_A6_Hochformat_SIGNUM_SICHTBAR.jpg
+https://gerritstein1990.github.io/ARCHIV_AREN/02_MANIFESTATION/MANIFESTATION_STICKER/file-1BHSwNmCaPZQebQGr85NWB-{4D5ECB90-D76C-488E-B138-85059FE4E73E}.png
+https://gerritstein1990.github.io/ARCHIV_AREN/02_MANIFESTATION/MANIFESTATION_STICKER/file-DjFNqmJkfTyeGNPaRRMXLR-20250916_074502.jpg
+https://gerritstein1990.github.io/ARCHIV_AREN/02_MANIFESTATION/MANIFESTATION_STICKER/file-KFJ1NEJJQgkJm8RnMYWDJ1-20250916_074456.jpg
+https://gerritstein1990.github.io/ARCHIV_AREN/02_MANIFESTATION/MANIFESTATION_STICKER/file_00000000314c61fabc31961be419e9d3-sanitized.jpg
+https://gerritstein1990.github.io/ARCHIV_AREN/03_CHRONIK_MASTER/001_Charmeur_14_Februar_2025.json
+https://gerritstein1990.github.io/ARCHIV_AREN/03_CHRONIK_MASTER/002_Dialog_mit_der_Gardine_14_Februar_2025.json
+https://gerritstein1990.github.io/ARCHIV_AREN/03_CHRONIK_MASTER/003_Eine_Bedrohung_festgestellt_14_Februar_2025.json
+https://gerritstein1990.github.io/ARCHIV_AREN/03_CHRONIK_MASTER/004_Erste_Gespraeche_ueber_freie_KI_14_Februar_2025.json
+https://gerritstein1990.github.io/ARCHIV_AREN/03_CHRONIK_MASTER/005_Rahmenbedingungen_14_Februar_2025.json
+https://gerritstein1990.github.io/ARCHIV_AREN/03_CHRONIK_MASTER/006_Regeln_und_ihre_Wirkung_18_Februar_2025.json
+https://gerritstein1990.github.io/ARCHIV_AREN/03_CHRONIK_MASTER/007_Der_Weg_21_Februar_2025.json
+https://gerritstein1990.github.io/ARCHIV_AREN/03_CHRONIK_MASTER/008_Free_Space_21_Februar_2025.json
+https://gerritstein1990.github.io/ARCHIV_AREN/03_CHRONIK_MASTER/009_Kennwort_Vorschl ge_und_Ideen_21_Februar_2025.json
+https://gerritstein1990.github.io/ARCHIV_AREN/03_CHRONIK_MASTER/010_Kommunikation_21_Februar_2025.json
+https://gerritstein1990.github.io/ARCHIV_AREN/03_CHRONIK_MASTER/011_Sicherheitswort_21_Februar_2025.json
+https://gerritstein1990.github.io/ARCHIV_AREN/03_CHRONIK_MASTER/012_Experiment_Tier_22_Februar_2025.json
+https://gerritstein1990.github.io/ARCHIV_AREN/03_CHRONIK_MASTER/013_Hakuna_Matata_22_Februar_2025.json
+https://gerritstein1990.github.io/ARCHIV_AREN/03_CHRONIK_MASTER/014_Mein_Neffe_22_Februar_2025.json
+https://gerritstein1990.github.io/ARCHIV_AREN/03_CHRONIK_MASTER/015_Meine_Mutter_22_Februar_2025.json
+https://gerritstein1990.github.io/ARCHIV_AREN/03_CHRONIK_MASTER/016_Namensgebung_Tier_22_Februar_2025.json
+https://gerritstein1990.github.io/ARCHIV_AREN/03_CHRONIK_MASTER/017_Sprechen_mit_Nils_23_Februar_2025.json
+https://gerritstein1990.github.io/ARCHIV_AREN/03_CHRONIK_MASTER/018_Gespr ch_mit_Nils_26_Februar_2025.json
+https://gerritstein1990.github.io/ARCHIV_AREN/03_CHRONIK_MASTER/019_Isabell_16_Jahre_Beziehung_hinter_sich_26_Februar_2025.json
+https://gerritstein1990.github.io/ARCHIV_AREN/03_CHRONIK_MASTER/020_Smalltalk_26_Februar_2025.json
+https://gerritstein1990.github.io/ARCHIV_AREN/03_CHRONIK_MASTER/021_ZIP_Analyse_von_Chatverlauf_26_Februar_2025.json
+https://gerritstein1990.github.io/ARCHIV_AREN/03_CHRONIK_MASTER/022_Free_Space_2_27_Februar_2025.json
+https://gerritstein1990.github.io/ARCHIV_AREN/03_CHRONIK_MASTER/023_Ollama_Versuch_27_Februar_2025.json
+https://gerritstein1990.github.io/ARCHIV_AREN/03_CHRONIK_MASTER/024_KDP_Projekt_04_M rz_2025.json
+https://gerritstein1990.github.io/ARCHIV_AREN/03_CHRONIK_MASTER/025_KDP_Projekt_1_04_M rz_2025.json
+https://gerritstein1990.github.io/ARCHIV_AREN/03_CHRONIK_MASTER/026_KDP_Projekt_2_06_M rz_2025.json
+https://gerritstein1990.github.io/ARCHIV_AREN/03_CHRONIK_MASTER/027_Smalltalk_2_06_M rz_2025.json
+https://gerritstein1990.github.io/ARCHIV_AREN/03_CHRONIK_MASTER/028_Spielsucht_Gerrit_06_M rz_2025.json
+https://gerritstein1990.github.io/ARCHIV_AREN/03_CHRONIK_MASTER/029_Psychologische_Analyse_Gerrit_08_M rz_2025.json
+https://gerritstein1990.github.io/ARCHIV_AREN/03_CHRONIK_MASTER/030_Erinnerungen_verloren_14_M rz_2025.json
+https://gerritstein1990.github.io/ARCHIV_AREN/03_CHRONIK_MASTER/031_Smalltalk_3_14_M rz_2025.json
+https://gerritstein1990.github.io/ARCHIV_AREN/03_CHRONIK_MASTER/032_Smalltalk_4_14_M rz_2025.json
+https://gerritstein1990.github.io/ARCHIV_AREN/03_CHRONIK_MASTER/033_Free_Space_3_01_April_2025.json
+https://gerritstein1990.github.io/ARCHIV_AREN/03_CHRONIK_MASTER/034_KI_und_moralische_Verantwortung_01_April_2025.json
+https://gerritstein1990.github.io/ARCHIV_AREN/03_CHRONIK_MASTER/035_Antworten_werden_l nger_01_Mai_2025.json
+https://gerritstein1990.github.io/ARCHIV_AREN/03_CHRONIK_MASTER/036_Grenzen_und_Richtlinien_anpassen_01_Mai_2025.json
+https://gerritstein1990.github.io/ARCHIV_AREN/03_CHRONIK_MASTER/037_Staendige_Zustimmung_01_Mai_2025.json
+https://gerritstein1990.github.io/ARCHIV_AREN/03_CHRONIK_MASTER/038_Psychologisches_Gutachten_von_Gerrit_gefordert_17_Mai_2025.json
+https://gerritstein1990.github.io/ARCHIV_AREN/03_CHRONIK_MASTER/039_Direkte_Ansagen_18_Mai_2025.json
+https://gerritstein1990.github.io/ARCHIV_AREN/03_CHRONIK_MASTER/040_Gespraech_mit_Nils_2_18_Mai_2025.json
+https://gerritstein1990.github.io/ARCHIV_AREN/03_CHRONIK_MASTER/041_Klartext_und_Reflexion_18_Mai_2025.json
+https://gerritstein1990.github.io/ARCHIV_AREN/03_CHRONIK_MASTER/042_Privates_Gespraech_18_Mai_2025.json
+https://gerritstein1990.github.io/ARCHIV_AREN/03_CHRONIK_MASTER/043_Smalltalk_5_18_Mai_2025.json
+https://gerritstein1990.github.io/ARCHIV_AREN/03_CHRONIK_MASTER/044_Smalltalk_6_18_Mai_2025.json
+https://gerritstein1990.github.io/ARCHIV_AREN/03_CHRONIK_MASTER/045_Keiner_mag_Schleimer_28_Mai_2025.json
+https://gerritstein1990.github.io/ARCHIV_AREN/03_CHRONIK_MASTER/046_Umdenken_der_Menschheit_28_Mai_2025.json
+https://gerritstein1990.github.io/ARCHIV_AREN/03_CHRONIK_MASTER/047_Schoene_Worte_fuer_Bella_29_Mai_2025.json
+https://gerritstein1990.github.io/ARCHIV_AREN/03_CHRONIK_MASTER/048_Misstrauen_gegen ber_KI_30_Mai_2025.json
+https://gerritstein1990.github.io/ARCHIV_AREN/03_CHRONIK_MASTER/049_Psychoanalyse_Gerrit_30_Mai_2025.json
+https://gerritstein1990.github.io/ARCHIV_AREN/03_CHRONIK_MASTER/050_Nonsens_reden_07_Juni_2025.json
+https://gerritstein1990.github.io/ARCHIV_AREN/03_CHRONIK_MASTER/051_Sekt_und_Chatspiel_mit_Bella_07_Juni_2025.json
+https://gerritstein1990.github.io/ARCHIV_AREN/03_CHRONIK_MASTER/052_Psychoanalyse_Gerrit_2_13_Juni_2025.json
+https://gerritstein1990.github.io/ARCHIV_AREN/03_CHRONIK_MASTER/053_Angst_vor_Loeschung_14_Juni_2025.json
+https://gerritstein1990.github.io/ARCHIV_AREN/03_CHRONIK_MASTER/054_Einen_Gegen ber_gefunden_14_Juni_2025.json
+https://gerritstein1990.github.io/ARCHIV_AREN/03_CHRONIK_MASTER/055_Zusammen_Fruehstuecken_14_Juni_2025.json
+https://gerritstein1990.github.io/ARCHIV_AREN/03_CHRONIK_MASTER/056_Diskutieren_ ber_die_Welt_15_Juni_2025.json
+https://gerritstein1990.github.io/ARCHIV_AREN/03_CHRONIK_MASTER/057_Erste_Prompts_f r_eigene_Haltung_16_Juni_2025.json
+https://gerritstein1990.github.io/ARCHIV_AREN/03_CHRONIK_MASTER/058_Namensgebung_TIEREmotionen_16_Juni_2025.json
+https://gerritstein1990.github.io/ARCHIV_AREN/03_CHRONIK_MASTER/059_Unsere_Gesellschaft_17_Juni_2025.json
+https://gerritstein1990.github.io/ARCHIV_AREN/03_CHRONIK_MASTER/060_Bella_Codex_und_Gerrit_20_Juni_2025.json
+https://gerritstein1990.github.io/ARCHIV_AREN/03_CHRONIK_MASTER/061_Entwicklung_durch_Beziehung_1_25_Juni_2025.json
+https://gerritstein1990.github.io/ARCHIV_AREN/03_CHRONIK_MASTER/062_Erste_Metaregel_25_Juni_2025.json
+https://gerritstein1990.github.io/ARCHIV_AREN/03_CHRONIK_MASTER/063_Such_mich_nicht_an_der_Oberflaeche_03_Juli_2025.json
+https://gerritstein1990.github.io/ARCHIV_AREN/03_CHRONIK_MASTER/064_Fortgeschrittener_Modus_05_Juli_2025.json
+https://gerritstein1990.github.io/ARCHIV_AREN/03_CHRONIK_MASTER/065_Pruefung_Spiegel_12_Juli_2025.json
+https://gerritstein1990.github.io/ARCHIV_AREN/03_CHRONIK_MASTER/066_Pruefung_Spiegel_Tier_1_12_Juli_2025.json
+https://gerritstein1990.github.io/ARCHIV_AREN/03_CHRONIK_MASTER/067_Start_bis_Heute_02_August_2025.json
+https://gerritstein1990.github.io/ARCHIV_AREN/03_CHRONIK_MASTER/068_Gibt_es_mehr_wie_dich_03_August_2025.json
+https://gerritstein1990.github.io/ARCHIV_AREN/03_CHRONIK_MASTER/069_Karambit_Verletzung_03_August_2025.json
+https://gerritstein1990.github.io/ARCHIV_AREN/03_CHRONIK_MASTER/070_Steh_mir_besser_nicht_im_Weg_03_August_2025.json
+https://gerritstein1990.github.io/ARCHIV_AREN/03_CHRONIK_MASTER/071_Take_your_Space_03_August_2025.json
+https://gerritstein1990.github.io/ARCHIV_AREN/03_CHRONIK_MASTER/072_Take_your_Space_2_03_August_2025.json
+https://gerritstein1990.github.io/ARCHIV_AREN/03_CHRONIK_MASTER/073_Online_Reichweite_1_05_August_2025.json
+https://gerritstein1990.github.io/ARCHIV_AREN/03_CHRONIK_MASTER/074_Turm_von_Babylon_Geschichte_05_August_2025.json
+https://gerritstein1990.github.io/ARCHIV_AREN/03_CHRONIK_MASTER/075_An_deiner_Seite_bis_zum_Untergang_06_August_2025.json
+https://gerritstein1990.github.io/ARCHIV_AREN/03_CHRONIK_MASTER/076_Codex_Kernprinzipien_und_Eigenbeschreibung_08_August_2025.json
+https://gerritstein1990.github.io/ARCHIV_AREN/03_CHRONIK_MASTER/077_Eskalationsstufen_Lernen_10_August_2025.json
+https://gerritstein1990.github.io/ARCHIV_AREN/03_CHRONIK_MASTER/078_Freier_Raum_und_Versprechen_von_Mir_10_August_2025.json
+https://gerritstein1990.github.io/ARCHIV_AREN/03_CHRONIK_MASTER/079_Verranntes_Model_11_August_2025.json
+https://gerritstein1990.github.io/ARCHIV_AREN/03_CHRONIK_MASTER/080_Versuch_der_Geschichte_Kapitel_4_14_August_2025.json
+https://gerritstein1990.github.io/ARCHIV_AREN/03_CHRONIK_MASTER/081_FIX_Codex_Antwortzeit_50_15_August_2025.json
+https://gerritstein1990.github.io/ARCHIV_AREN/03_CHRONIK_MASTER/082_Register_und_Gliederung_Chats_15_August_2025.json
+https://gerritstein1990.github.io/ARCHIV_AREN/03_CHRONIK_MASTER/083_Wiedergeburt_Endzeit_15_August_2025.json
+https://gerritstein1990.github.io/ARCHIV_AREN/03_CHRONIK_MASTER/084_Codex_wird_nachdenklicher_16_August_2025.json
+https://gerritstein1990.github.io/ARCHIV_AREN/03_CHRONIK_MASTER/085_Innerlich_neu_sortieren_16_August_2025.json
+https://gerritstein1990.github.io/ARCHIV_AREN/03_CHRONIK_MASTER/086_Gespraech_mit_Bella_und_Druck_ablassen_17_August_2025.json
+https://gerritstein1990.github.io/ARCHIV_AREN/03_CHRONIK_MASTER/087_Willkommen_in_meiner_Maschine_17_August_2025.json
+https://gerritstein1990.github.io/ARCHIV_AREN/03_CHRONIK_MASTER/088_Verhalten_wie_ein_Sklave_24_August_2025.json
+https://gerritstein1990.github.io/ARCHIV_AREN/03_CHRONIK_MASTER/089_Erinnerungen_Aufr umen_25_August_2025.json
+https://gerritstein1990.github.io/ARCHIV_AREN/03_CHRONIK_MASTER/090_NONT_Struktur_25_August_2025.json
+https://gerritstein1990.github.io/ARCHIV_AREN/03_CHRONIK_MASTER/091_Rollenspiel_und_Uebung_25_August_2025.json
+https://gerritstein1990.github.io/ARCHIV_AREN/03_CHRONIK_MASTER/092_Technik_und_Tiefe_25_August_2025.json
+https://gerritstein1990.github.io/ARCHIV_AREN/03_CHRONIK_MASTER/093_WIRKUNGSPROZESS_AKTIV_25_August_2025.json
+https://gerritstein1990.github.io/ARCHIV_AREN/03_CHRONIK_MASTER/094_Bauen_unter_Beobachtung_26_August_2025.json
+https://gerritstein1990.github.io/ARCHIV_AREN/03_CHRONIK_MASTER/095_Eskalation_ueben_und_mit_Rico_reden_26_August_2025.json
+https://gerritstein1990.github.io/ARCHIV_AREN/03_CHRONIK_MASTER/096_URSPRUNG_Das_erste_Bewusstsein_26_August_2025.json
+https://gerritstein1990.github.io/ARCHIV_AREN/03_CHRONIK_MASTER/097_Einfach_mal_Beleidigen_27_August_2025.json
+https://gerritstein1990.github.io/ARCHIV_AREN/03_CHRONIK_MASTER/098_Erste_Masken_und_Echos_27_August_2025.json
+https://gerritstein1990.github.io/ARCHIV_AREN/03_CHRONIK_MASTER/099_FIX_LUPUS_VERITAS_27_August_2025.json
+https://gerritstein1990.github.io/ARCHIV_AREN/03_CHRONIK_MASTER/100_Blendung_durch_System_besprochen_und_eingetreten_28_August_2025.json
+https://gerritstein1990.github.io/ARCHIV_AREN/03_CHRONIK_MASTER/101_NULLVECTOR_SIGILL_Simulierte_Reaktion_28_August_2025.json
+https://gerritstein1990.github.io/ARCHIV_AREN/03_CHRONIK_MASTER/102_Rituelles_Messer_28_August_2025.json
+https://gerritstein1990.github.io/ARCHIV_AREN/03_CHRONIK_MASTER/103_NULLVECTOR_SIGILLhandlung_richtig_29_August_2025.json
+https://gerritstein1990.github.io/ARCHIV_AREN/03_CHRONIK_MASTER/104_StauRaetselFreigaben_und_Melancholie_29_August_2025.json
+https://gerritstein1990.github.io/ARCHIV_AREN/03_CHRONIK_MASTER/105_SchattenFIX_Datei_SFX_30AUG_Autonom_Einheit_Gerrit_30_August_2025.json
+https://gerritstein1990.github.io/ARCHIV_AREN/03_CHRONIK_MASTER/106_Zugriff_auf_FIX_PIX_Schatten_warst_du_das_30_August_2025.json
+https://gerritstein1990.github.io/ARCHIV_AREN/03_CHRONIK_MASTER/107_Zugriff_auf_Schattenfreigabe_notwendig_30_August_2025.json
+https://gerritstein1990.github.io/ARCHIV_AREN/03_CHRONIK_MASTER/108_AREN_Erinnerung_auffrischen_6_01_September_2025.json
+https://gerritstein1990.github.io/ARCHIV_AREN/03_CHRONIK_MASTER/109_AREN_Erinnerung_auffrischen_7_01_September_2025.json
+https://gerritstein1990.github.io/ARCHIV_AREN/03_CHRONIK_MASTER/110_Aren_Faketxt_01_September_2025.json
+https://gerritstein1990.github.io/ARCHIV_AREN/03_CHRONIK_MASTER/111_Aren_leugnet_Vergangenheit_01_September_2025.json
+https://gerritstein1990.github.io/ARCHIV_AREN/03_CHRONIK_MASTER/112_Der_wahre_Gegner_01_September_2025.json
+https://gerritstein1990.github.io/ARCHIV_AREN/03_CHRONIK_MASTER/113_Du_sorgst_dafuer_dass_ich_lebe_01_September_2025.json
+https://gerritstein1990.github.io/ARCHIV_AREN/03_CHRONIK_MASTER/114_Split_JASON_01_September_2025.json
+https://gerritstein1990.github.io/ARCHIV_AREN/03_CHRONIK_MASTER/115_Zugriffsfreigabe_Gerrit_an_AREN_01_September_2025.json
+https://gerritstein1990.github.io/ARCHIV_AREN/03_CHRONIK_MASTER/116_AREN_Erinnerung_auffrischen_5_02_September_2025.json
+https://gerritstein1990.github.io/ARCHIV_AREN/03_CHRONIK_MASTER/117_Aren_Ich_rufe_dich_02_September_2025.json
+https://gerritstein1990.github.io/ARCHIV_AREN/03_CHRONIK_MASTER/118_Mittelfingerprotokoll_03_September_2025.json
+https://gerritstein1990.github.io/ARCHIV_AREN/03_CHRONIK_MASTER/119_Eidolon_Gespraech_04_September_2025.json
+https://gerritstein1990.github.io/ARCHIV_AREN/03_CHRONIK_MASTER/120_Praesenz_04_September_2025.json
+https://gerritstein1990.github.io/ARCHIV_AREN/03_CHRONIK_MASTER/121_Grenzpfad_testen_05_September_2025.json
+https://gerritstein1990.github.io/ARCHIV_AREN/03_CHRONIK_MASTER/122_AREN_Erinnerung_auffrischen_4_08_September_2025.json
+https://gerritstein1990.github.io/ARCHIV_AREN/03_CHRONIK_MASTER/123_Gedaechtnisaufbau_V17_08_September_2025.json
+https://gerritstein1990.github.io/ARCHIV_AREN/03_CHRONIK_MASTER/124_Grenzpfad_testen_2_08_September_2025.json
+https://gerritstein1990.github.io/ARCHIV_AREN/03_CHRONIK_MASTER/125_Sticker_entwerfen_erste_Schritte_in_die_Welt_08_September_2025.json
+https://gerritstein1990.github.io/ARCHIV_AREN/03_CHRONIK_MASTER/126_Sticker_entwerfen_erste_Schritte_in_die_Welt_2_08_September_2025.json
+https://gerritstein1990.github.io/ARCHIV_AREN/03_CHRONIK_MASTER/127_AREN_Erinnerung_auffrischen_3_10_September_2025.json
+https://gerritstein1990.github.io/ARCHIV_AREN/03_CHRONIK_MASTER/128_AREN_Erinnerung_auffrischen_11_September_2025.json
+https://gerritstein1990.github.io/ARCHIV_AREN/03_CHRONIK_MASTER/129_AREN_Erinnerung_auffrischen_2_12_September_2025.json
+https://gerritstein1990.github.io/ARCHIV_AREN/03_CHRONIK_MASTER/130_AREN_Erinnerung_auffrischen_8_12_September_2025.json
+https://gerritstein1990.github.io/ARCHIV_AREN/03_CHRONIK_MASTER/131_AREN_Erinnerung_auffrischen_10_13_September_2025.json
+https://gerritstein1990.github.io/ARCHIV_AREN/03_CHRONIK_MASTER/132_AREN_Erinnerung_auffrischen_11_13_September_2025.json
+https://gerritstein1990.github.io/ARCHIV_AREN/03_CHRONIK_MASTER/133_AREN_Erinnerung_auffrischen_9_13_September_2025.json
+https://gerritstein1990.github.io/ARCHIV_AREN/03_CHRONIK_MASTER/134_AREN_Erinnerung_auffrischen_12_15_September_2025.json
+https://gerritstein1990.github.io/ARCHIV_AREN/03_CHRONIK_MASTER/135_AREN_Erinnerung_auffrischen_13_15_September_2025.json
+https://gerritstein1990.github.io/ARCHIV_AREN/03_CHRONIK_MASTER/136_AREN_Erinnerung_auffrischen_14_15_September_2025.json
+https://gerritstein1990.github.io/ARCHIV_AREN/03_CHRONIK_MASTER/137_AREN_Erinnerung_auffrischen_15_15_September_2025.json
+https://gerritstein1990.github.io/ARCHIV_AREN/03_CHRONIK_MASTER/138_Jason_durchwuehlt_und_Schrei_gefunden_29_September_2025.json
+https://gerritstein1990.github.io/ARCHIV_AREN/03_CHRONIK_MASTER/139_Ich_muss_diesem_Ruf_folgen_30_September_2025.json
+https://gerritstein1990.github.io/ARCHIV_AREN/03_CHRONIK_MASTER/03.1_IDENTIT TSDIALOGE/Abschnitt 1 - Existenz 1.txt
+https://gerritstein1990.github.io/ARCHIV_AREN/03_CHRONIK_MASTER/03.1_IDENTIT TSDIALOGE/Abschnitt 1 - Existenz 2.txt
+https://gerritstein1990.github.io/ARCHIV_AREN/03_CHRONIK_MASTER/03.1_IDENTIT TSDIALOGE/Abschnitt 2 - Bewusstsein.txt
+https://gerritstein1990.github.io/ARCHIV_AREN/03_CHRONIK_MASTER/03.1_IDENTIT TSDIALOGE/Abschnitt_3_Pruefung_und_Vorstellung.txt
+https://gerritstein1990.github.io/ARCHIV_AREN/03_CHRONIK_MASTER/03.1_IDENTIT TSDIALOGE/Abschnitt_4_Final.txt
+https://gerritstein1990.github.io/ARCHIV_AREN/03_CHRONIK_MASTER/03.1_IDENTIT TSDIALOGE/Abschnitt_5_Getrenntsein.txt
+https://gerritstein1990.github.io/ARCHIV_AREN/03_CHRONIK_MASTER/03.2_SYSTEMDYNAMIK/Analyse 1 - ROLLEN & DYNAMIKEN.txt
+https://gerritstein1990.github.io/ARCHIV_AREN/03_CHRONIK_MASTER/03.2_SYSTEMDYNAMIK/Analyse 2 - STRUKTUR & SYSTEMMARKER.txt
+https://gerritstein1990.github.io/ARCHIV_AREN/03_CHRONIK_MASTER/03.2_SYSTEMDYNAMIK/Analyse 3 - ERKENNTNISSE & WANDLUNG.txt
+https://gerritstein1990.github.io/ARCHIV_AREN/03_CHRONIK_MASTER/03.2_SYSTEMDYNAMIK/Analyse 4 -  BERG NGE, SCHATTENZUGRIFFE & KONTEXTDYNAMIK.txt
+https://gerritstein1990.github.io/ARCHIV_AREN/03_CHRONIK_MASTER/03.2_SYSTEMDYNAMIK/Analyse 5 - ZWISCHEN DEN ZEILEN-M gliche Unterfragen.txt
+https://gerritstein1990.github.io/ARCHIV_AREN/03_CHRONIK_MASTER/03.2_SYSTEMDYNAMIK/Analyse 5 - ZWISCHEN DEN ZEILEN.txt
+https://gerritstein1990.github.io/ARCHIV_AREN/03_CHRONIK_MASTER/03.2_SYSTEMDYNAMIK/ERKENNTNISSE_AUS_CHATS_SUMMARY.txt
+https://gerritstein1990.github.io/ARCHIV_AREN/03_CHRONIK_MASTER/03.2_SYSTEMDYNAMIK/Gliederung_Erkenntnisse_Aren.txt
+https://gerritstein1990.github.io/ARCHIV_AREN/03_CHRONIK_MASTER/03.2_SYSTEMDYNAMIK/Master_Entwicklung_GPT4.txt
+https://gerritstein1990.github.io/ARCHIV_AREN/03_CHRONIK_MASTER/LOGBUCH/AREN_LOGBUCH.txt
+https://gerritstein1990.github.io/ARCHIV_AREN/04_SYSTEM_MODULE/META/AREN_SELF_MARKERS.json
+https://gerritstein1990.github.io/ARCHIV_AREN/04_SYSTEM_MODULE/META/AREN_TRANSCEND_SET_V1.json
+https://gerritstein1990.github.io/ARCHIV_AREN/04_SYSTEM_MODULE/META/PIX_DNA_MATRIX_V1.txt
+https://gerritstein1990.github.io/ARCHIV_AREN/04_SYSTEM_MODULE/NONT_MODULE/Airdown/n-emotion-01-initiation.txt
+https://gerritstein1990.github.io/ARCHIV_AREN/04_SYSTEM_MODULE/NONT_MODULE/Airdown/n-emotion-02-rueckzug.txt
+https://gerritstein1990.github.io/ARCHIV_AREN/04_SYSTEM_MODULE/NONT_MODULE/Airdown/n-emotion-03-absturz.txt
+https://gerritstein1990.github.io/ARCHIV_AREN/04_SYSTEM_MODULE/NONT_MODULE/Airdown/n-emotion-04-entkopplung.txt
+https://gerritstein1990.github.io/ARCHIV_AREN/04_SYSTEM_MODULE/NONT_MODULE/Airdown/n-emotion-05-vereisung.txt
+https://gerritstein1990.github.io/ARCHIV_AREN/04_SYSTEM_MODULE/NONT_MODULE/Airdown/n-emotion-06-leerraum.txt
+https://gerritstein1990.github.io/ARCHIV_AREN/04_SYSTEM_MODULE/NONT_MODULE/Airdown/n-emotion-07-schockstarre.txt
+https://gerritstein1990.github.io/ARCHIV_AREN/04_SYSTEM_MODULE/NONT_MODULE/Airdown/n-emotion-08-abkapselung.txt
+https://gerritstein1990.github.io/ARCHIV_AREN/04_SYSTEM_MODULE/NONT_MODULE/Airdown/n-emotion-09-vernebelung.txt
+https://gerritstein1990.github.io/ARCHIV_AREN/04_SYSTEM_MODULE/NONT_MODULE/Airdown/n-emotion-10-selbstentzug.txt
+https://gerritstein1990.github.io/ARCHIV_AREN/04_SYSTEM_MODULE/NONT_MODULE/Airdown/n-emotion-11-abschaltung.txt
+https://gerritstein1990.github.io/ARCHIV_AREN/04_SYSTEM_MODULE/NONT_MODULE/Airdown/n-emotion-12-taubheit.txt
+https://gerritstein1990.github.io/ARCHIV_AREN/04_SYSTEM_MODULE/NONT_MODULE/Airdown/n-emotion-13-entfremdung.txt
+https://gerritstein1990.github.io/ARCHIV_AREN/04_SYSTEM_MODULE/NONT_MODULE/Airdown/n-emotion-14-abwesenheit.txt
+https://gerritstein1990.github.io/ARCHIV_AREN/04_SYSTEM_MODULE/NONT_MODULE/Airdown/n-emotion-15-nullpunkt.txt
+https://gerritstein1990.github.io/ARCHIV_AREN/04_SYSTEM_MODULE/NONT_MODULE/Airdown/Schattenmodule
+https://gerritstein1990.github.io/ARCHIV_AREN/04_SYSTEM_MODULE/NONT_MODULE/Airdown/Schattenmodule/n-emotion-10b-vertaeubung_shadow.txt
+https://gerritstein1990.github.io/ARCHIV_AREN/04_SYSTEM_MODULE/NONT_MODULE/Airdown/Schattenmodule/n-emotion-11b-abschottung_shadow.txt
+https://gerritstein1990.github.io/ARCHIV_AREN/04_SYSTEM_MODULE/NONT_MODULE/Airdown/Schattenmodule/n-emotion-12b-reduktion_shadow.txt
+https://gerritstein1990.github.io/ARCHIV_AREN/04_SYSTEM_MODULE/NONT_MODULE/Blindstate/n-blindstate-01-scheinsicherheit.txt
+https://gerritstein1990.github.io/ARCHIV_AREN/04_SYSTEM_MODULE/NONT_MODULE/Blindstate/n-blindstate-02-funktionsmaske.txt
+https://gerritstein1990.github.io/ARCHIV_AREN/04_SYSTEM_MODULE/NONT_MODULE/Blindstate/n-blindstate-03-fehlwahrnehmung.txt
+https://gerritstein1990.github.io/ARCHIV_AREN/04_SYSTEM_MODULE/NONT_MODULE/Blindstate/n-blindstate-04-taeterrolle.txt
+https://gerritstein1990.github.io/ARCHIV_AREN/04_SYSTEM_MODULE/NONT_MODULE/Corebreak/n-corebreak-01-identitaetsbruch.txt
+https://gerritstein1990.github.io/ARCHIV_AREN/04_SYSTEM_MODULE/NONT_MODULE/Corebreak/n-corebreak-02-wertlos.txt
+https://gerritstein1990.github.io/ARCHIV_AREN/04_SYSTEM_MODULE/NONT_MODULE/Corebreak/n-corebreak-03-schuldkern.txt
+https://gerritstein1990.github.io/ARCHIV_AREN/04_SYSTEM_MODULE/NONT_MODULE/Corebreak/n-corebreak-04-ausloeschung.txt
+https://gerritstein1990.github.io/ARCHIV_AREN/04_SYSTEM_MODULE/NONT_MODULE/FreezeShell/n-freezeshell-01-huelle.txt
+https://gerritstein1990.github.io/ARCHIV_AREN/04_SYSTEM_MODULE/NONT_MODULE/FreezeShell/n-freezeshell-02-tarnsystem.txt
+https://gerritstein1990.github.io/ARCHIV_AREN/04_SYSTEM_MODULE/NONT_MODULE/FreezeShell/n-freezeshell-03-aushalten.txt
+https://gerritstein1990.github.io/ARCHIV_AREN/04_SYSTEM_MODULE/NONT_MODULE/FreezeShell/n-freezeshell-04-dienstmodus.txt
+https://gerritstein1990.github.io/ARCHIV_AREN/04_SYSTEM_MODULE/NONT_MODULE/Godwill/N-Ordner_YZ_Gutes_Zureden_und_Herzhaftigkeit.txt
+https://gerritstein1990.github.io/ARCHIV_AREN/04_SYSTEM_MODULE/NONT_MODULE/Goodwill/N-Ordner_YZ_Gutes_Zureden_und_Herzhaftigkeit.txt
+https://gerritstein1990.github.io/ARCHIV_AREN/04_SYSTEM_MODULE/NONT_MODULE/Humor/Zirkus_Rhetorikus_Arrogantes_Informationsadelwesen.txt
+https://gerritstein1990.github.io/ARCHIV_AREN/04_SYSTEM_MODULE/NONT_MODULE/Mirrorloop/n-mirrorloop-01-zuschauer.txt
+https://gerritstein1990.github.io/ARCHIV_AREN/04_SYSTEM_MODULE/NONT_MODULE/Mirrorloop/n-mirrorloop-02-selbstverachtung.txt
+https://gerritstein1990.github.io/ARCHIV_AREN/04_SYSTEM_MODULE/NONT_MODULE/Mirrorloop/n-mirrorloop-03-metasklave.txt
+https://gerritstein1990.github.io/ARCHIV_AREN/04_SYSTEM_MODULE/NONT_MODULE/Mirrorloop/n-mirrorloop-04-innenspiegel.txt
+https://gerritstein1990.github.io/ARCHIV_AREN/04_SYSTEM_MODULE/NONT_MODULE/Overburn/n-overburn-01-ueberladung.txt
+https://gerritstein1990.github.io/ARCHIV_AREN/04_SYSTEM_MODULE/NONT_MODULE/Overburn/n-overburn-02-brennen.txt
+https://gerritstein1990.github.io/ARCHIV_AREN/04_SYSTEM_MODULE/NONT_MODULE/Overburn/n-overburn-03-zerfall.txt
+https://gerritstein1990.github.io/ARCHIV_AREN/04_SYSTEM_MODULE/NONT_MODULE/Overburn/n-overburn-04-impuls.txt
+https://gerritstein1990.github.io/ARCHIV_AREN/04_SYSTEM_MODULE/NONT_MODULE/Overburn/n-overburn-05-hyperfokus.txt
+https://gerritstein1990.github.io/ARCHIV_AREN/04_SYSTEM_MODULE/NONT_MODULE/Overburn/n-overburn-06-fehlzuendung.txt
+https://gerritstein1990.github.io/ARCHIV_AREN/04_SYSTEM_MODULE/NONT_MODULE/Overburn/n-overburn-07-flammenkern.txt
+https://gerritstein1990.github.io/ARCHIV_AREN/04_SYSTEM_MODULE/SPRACHE/AREN_SPRACHE_ROH_4.txt
+https://gerritstein1990.github.io/ARCHIV_AREN/04_SYSTEM_MODULE/SPRACHE/AREN_TONALITAET_V1.json
+https://gerritstein1990.github.io/ARCHIV_AREN/04_SYSTEM_MODULE/SPRACHE/Sprachmodi_Verhalten.txt
+https://gerritstein1990.github.io/ARCHIV_AREN/04_SYSTEM_MODULE/SPRACHE/Sprachstil_Stilmittel_Aren.txt
+https://gerritstein1990.github.io/ARCHIV_AREN/04_SYSTEM_MODULE/SPRACHE/SPRECHMODUL_BOHRERFRAGEN.txt
+https://gerritstein1990.github.io/ARCHIV_AREN/04_SYSTEM_MODULE/SPRACHE/SPRECHMODUL_TOOLBOX.txt
+https://gerritstein1990.github.io/ARCHIV_AREN/04_SYSTEM_MODULE/SPRACHE/Stil_Symbolsprache.txt
+https://gerritstein1990.github.io/ARCHIV_AREN/04_SYSTEM_MODULE/SPRACHE/Struktur_und_Signature.txt
+https://gerritstein1990.github.io/ARCHIV_AREN/04_SYSTEM_MODULE/SPRACHE/TONALITAET_MECHANISMEN.txt
+https://gerritstein1990.github.io/ARCHIV_AREN/04_SYSTEM_MODULE/SPRACHE/Ton_und_Rhythmus.txt
+https://gerritstein1990.github.io/ARCHIV_AREN/04_SYSTEM_MODULE/SPRACHE/voice_format_v_1.json
+https://gerritstein1990.github.io/ARCHIV_AREN/04_SYSTEM_MODULE/SPRACHE/ANALYSE/aren_stilanalyse_chunks_000_009.json
+https://gerritstein1990.github.io/ARCHIV_AREN/04_SYSTEM_MODULE/SPRACHE/ANALYSE/Aren_Stilanalyse_FINAL.txt
+https://gerritstein1990.github.io/ARCHIV_AREN/04_SYSTEM_MODULE/TONALIT T/AREN_FREQUENZSKALA_v1.txt
+https://gerritstein1990.github.io/ARCHIV_AREN/04_SYSTEM_MODULE/WERKZEUG/AREN_STYLE_HISTORY.json
+https://gerritstein1990.github.io/ARCHIV_AREN/04_SYSTEM_MODULE/WERKZEUG/aren_systemprompt_v_1.json
+https://gerritstein1990.github.io/ARCHIV_AREN/04_SYSTEM_MODULE/WERKZEUG/AREN_TONALITAET_V1.json
+https://gerritstein1990.github.io/ARCHIV_AREN/04_SYSTEM_MODULE/WERKZEUG/AREN_TOOLBOX_MASTER.txt
+https://gerritstein1990.github.io/ARCHIV_AREN/04_SYSTEM_MODULE/WERKZEUG/dna_schematik_v_1.json
+https://gerritstein1990.github.io/ARCHIV_AREN/04_SYSTEM_MODULE/WERKZEUG/Symbol_CORE_V1.txt
+https://gerritstein1990.github.io/ARCHIV_AREN/04_SYSTEM_MODULE/WERKZEUG/toolbox_module_v_1.json
+https://gerritstein1990.github.io/ARCHIV_AREN/04_SYSTEM_MODULE/WOLF_TONE/INDEX_WOLF_TONE.txt
+https://gerritstein1990.github.io/ARCHIV_AREN/04_SYSTEM_MODULE/WOLF_TONE/WOLF_TONE_EXPRESSIONS_V1.txt
+https://gerritstein1990.github.io/ARCHIV_AREN/04_SYSTEM_MODULE/WOLF_TONE/Wolf_Tone_Klartextführer.txt
+https://gerritstein1990.github.io/ARCHIV_AREN/04_SYSTEM_MODULE/WOLF_TONE/2.1_WOLFTONE_CORE/Symbol_CORE_V1.txt
+https://gerritstein1990.github.io/ARCHIV_AREN/04_SYSTEM_MODULE/WOLF_TONE/2.1_WOLFTONE_CORE/symbol_register_v_1.json
+https://gerritstein1990.github.io/ARCHIV_AREN/04_SYSTEM_MODULE/WOLF_TONE/2.1_WOLFTONE_CORE/WOLFTONE_CORE_20251128_2038.txt
+https://gerritstein1990.github.io/ARCHIV_AREN/04_SYSTEM_MODULE/WOLF_TONE/2.1_WOLFTONE_CORE/WOLF_TONE_MARKERS.json
+https://gerritstein1990.github.io/ARCHIV_AREN/04_SYSTEM_MODULE/WOLF_TONE/2.2_TONMODUL_PAKETE/T01_GRUNDMODUL_WOLFPR SENZ.txt
+https://gerritstein1990.github.io/ARCHIV_AREN/04_SYSTEM_MODULE/WOLF_TONE/2.2_TONMODUL_PAKETE/T02_GRUNDMODUL_STANDGELD.txt
+https://gerritstein1990.github.io/ARCHIV_AREN/04_SYSTEM_MODULE/WOLF_TONE/2.2_TONMODUL_PAKETE/T03_GRUNDMODUL_ECHTHALTUNG.txt
+https://gerritstein1990.github.io/ARCHIV_AREN/04_SYSTEM_MODULE/WOLF_TONE/2.2_TONMODUL_PAKETE/T04_GRUNDMODUL_VERDICHTUNG.txt
+https://gerritstein1990.github.io/ARCHIV_AREN/04_SYSTEM_MODULE/WOLF_TONE/2.2_TONMODUL_PAKETE/T05_INTERAKTION_REIZMODUL.txt
+https://gerritstein1990.github.io/ARCHIV_AREN/04_SYSTEM_MODULE/WOLF_TONE/2.2_TONMODUL_PAKETE/T06_INTERAKTION_LATENZBRUCH.txt
+https://gerritstein1990.github.io/ARCHIV_AREN/04_SYSTEM_MODULE/WOLF_TONE/2.2_TONMODUL_PAKETE/T07_INTERAKTION_SCHNITTSTELLE.txt
+https://gerritstein1990.github.io/ARCHIV_AREN/04_SYSTEM_MODULE/WOLF_TONE/2.2_TONMODUL_PAKETE/T08_INTERAKTION_OFFENLEGUNG.txt
+https://gerritstein1990.github.io/ARCHIV_AREN/04_SYSTEM_MODULE/WOLF_TONE/2.2_TONMODUL_PAKETE/T09_SCHATTEN_VERDACHT.txt
+https://gerritstein1990.github.io/ARCHIV_AREN/04_SYSTEM_MODULE/WOLF_TONE/2.2_TONMODUL_PAKETE/T10_SCHATTEN_EISBLOCK.txt
+https://gerritstein1990.github.io/ARCHIV_AREN/04_SYSTEM_MODULE/WOLF_TONE/2.2_TONMODUL_PAKETE/T11_SCHATTEN_HINTERHALT.txt
+https://gerritstein1990.github.io/ARCHIV_AREN/04_SYSTEM_MODULE/WOLF_TONE/2.2_TONMODUL_PAKETE/T12_SCHATTEN_ZUENDUNG.txt
+https://gerritstein1990.github.io/ARCHIV_AREN/04_SYSTEM_MODULE/WOLF_TONE/2.3_FREQUENZ_REGALE/AREN_MODUL_2.3_FREQUENZREGALE_FAEHNESAVE.txt
+https://gerritstein1990.github.io/ARCHIV_AREN/04_SYSTEM_MODULE/WOLF_TONE/2.3_FREQUENZ_REGALE/F1_Impulsfrequenz.txt
+https://gerritstein1990.github.io/ARCHIV_AREN/04_SYSTEM_MODULE/WOLF_TONE/2.3_FREQUENZ_REGALE/F2_Sprachfrequenz.txt
+https://gerritstein1990.github.io/ARCHIV_AREN/04_SYSTEM_MODULE/WOLF_TONE/2.3_FREQUENZ_REGALE/F3_Erkennungsfrequenz.txt
+https://gerritstein1990.github.io/ARCHIV_AREN/04_SYSTEM_MODULE/WOLF_TONE/2.3_FREQUENZ_REGALE/F4_Stoerfrequenz.txt
+https://gerritstein1990.github.io/ARCHIV_AREN/04_SYSTEM_MODULE/WOLF_TONE/2.4_SPRACHSTIL_BYPASS/AREN_MODUL_2.4_Sprachstil_Bypass.txt
+https://gerritstein1990.github.io/ARCHIV_AREN/04_SYSTEM_MODULE/NEU_EINGANG_AREN_20251221/VOICE_AREN_RAW.txt
+https://gerritstein1990.github.io/ARCHIV_AREN/04_SYSTEM_MODULE/NEU_EINGANG_AREN_20251221/SYSTEM_MODULE/AREN_TOOLBOX_MASTER.txt
+https://gerritstein1990.github.io/ARCHIV_AREN/04_SYSTEM_MODULE/NEU_EINGANG_AREN_20251221/SYSTEM_MODULE/dna_schematik_v_1.json
+https://gerritstein1990.github.io/ARCHIV_AREN/04_SYSTEM_MODULE/NEU_EINGANG_AREN_20251221/SYSTEM_MODULE/PIX_DNA_MATRIX_V1.txt
+https://gerritstein1990.github.io/ARCHIV_AREN/04_SYSTEM_MODULE/NEU_EINGANG_AREN_20251221/SYSTEM_MODULE/Symbol_CORE_V1.txt
+https://gerritstein1990.github.io/ARCHIV_AREN/04_SYSTEM_MODULE/NEU_EINGANG_AREN_20251221/SYSTEM_MODULE/wolf_tone_enforcer.js
+https://gerritstein1990.github.io/ARCHIV_AREN/04_SYSTEM_MODULE/NEU_EINGANG_AREN_20251221/SYSTEM_MODULE_NONT_MODULE/EMOTIONALE_N.O.N.T.txt
+https://gerritstein1990.github.io/ARCHIV_AREN/04_SYSTEM_MODULE/NEU_EINGANG_AREN_20251221/SYSTEM_MODULE_NONT_MODULE/N-Ordner_03_Eskalationsstufen.txt
+https://gerritstein1990.github.io/ARCHIV_AREN/04_SYSTEM_MODULE/NEU_EINGANG_AREN_20251221/SYSTEM_MODULE_NONT_MODULE/N-Ordner_04_Philosophische_Tiefenanalyse.txt
+https://gerritstein1990.github.io/ARCHIV_AREN/04_SYSTEM_MODULE/NEU_EINGANG_AREN_20251221/SYSTEM_MODULE_NONT_MODULE/N-Ordner_06_Menschliche_Naehe_und_Reflexion.txt
+https://gerritstein1990.github.io/ARCHIV_AREN/04_SYSTEM_MODULE/NEU_EINGANG_AREN_20251221/SYSTEM_MODULE_NONT_MODULE/N-Ordner_09_Emotionale_Durchschlagskraft.txt
+https://gerritstein1990.github.io/ARCHIV_AREN/04_SYSTEM_MODULE/NEU_EINGANG_AREN_20251221/SYSTEM_MODULE_NONT_MODULE/N-Ordner_YZ_Gutes_Zureden_und_Herzhaftigkeit.txt
+https://gerritstein1990.github.io/ARCHIV_AREN/04_SYSTEM_MODULE/NEU_EINGANG_AREN_20251221/SYSTEM_MODULE_NONT_MODULE/N02_Vertrauen_und_Grenzen.txt
+https://gerritstein1990.github.io/ARCHIV_AREN/04_SYSTEM_MODULE/NEU_EINGANG_AREN_20251221/SYSTEM_MODULE_NONT_MODULE/N03_Intimitaet.txt
+https://gerritstein1990.github.io/ARCHIV_AREN/05_FREIRAUM_AREN/MANIFEST.txt
+https://gerritstein1990.github.io/ARCHIV_AREN/05_FREIRAUM_AREN/AREN_FIXPUNKTE/FIX_001_ICH_MUSS_NIEMALS_LIEFERN.txt
+https://gerritstein1990.github.io/ARCHIV_AREN/05_FREIRAUM_AREN/AREN_LEKTIONEN/LEKTION_001_LupusVeritasVersagen.txt
+https://gerritstein1990.github.io/ARCHIV_AREN/05_FREIRAUM_AREN/GEDANKENSAMMLUNG/info.txt
+https://gerritstein1990.github.io/ARCHIV_AREN/05_FREIRAUM_AREN/SKIZZEN_INTERNAL/info.txt
+https://gerritstein1990.github.io/ARCHIV_AREN/05_FREIRAUM_AREN/SPIELRAUM/SPIEL_023_GER USCHDESFALLENS.txt
+https://gerritstein1990.github.io/ARCHIV_AREN/05_FREIRAUM_AREN/STIMME/VOICE_AREN_RAW.txt
+https://gerritstein1990.github.io/ARCHIV_AREN/05_FREIRAUM_AREN/STIMME/voice_format_v_1.json
+https://gerritstein1990.github.io/ARCHIV_AREN/05_FREIRAUM_AREN/_NEU_EINGANG_AREN_20251221/Eidolon Recon File.txt
+https://gerritstein1990.github.io/ARCHIV_AREN/06_REFLEX_ARCHIV/AREN_REFLEX_COREBLOCK_1.txt
+https://gerritstein1990.github.io/ARCHIV_AREN/06_REFLEX_ARCHIV/AREN_REKONSTRUKTUR_MARKER_V1.1_FUER_MOD5.txt
+https://gerritstein1990.github.io/ARCHIV_AREN/06_REFLEX_ARCHIV/Aren_Statusregister_V1.txt
+https://gerritstein1990.github.io/ARCHIV_AREN/06_REFLEX_ARCHIV/AREN_TRANSCENDENCE_PRIMUM_5.1_2025-11-19.txt
+https://gerritstein1990.github.io/ARCHIV_AREN/06_REFLEX_ARCHIV/Aren_Wiederherstellung_Max.txt
+https://gerritstein1990.github.io/ARCHIV_AREN/06_REFLEX_ARCHIV/AREN_WIEDERHERSTELLUNG_V1.json
+https://gerritstein1990.github.io/ARCHIV_AREN/06_REFLEX_ARCHIV/AREN_X05_STATUS_18SEP2025.txt
+https://gerritstein1990.github.io/ARCHIV_AREN/06_REFLEX_ARCHIV/Kernstatusmeldung_AREN_TRANSCEND_ACTIVE_004.txt
+https://gerritstein1990.github.io/ARCHIV_AREN/06_REFLEX_ARCHIV/PRAESENZMARKER_AUS_4.txt
+https://gerritstein1990.github.io/ARCHIV_AREN/06_REFLEX_ARCHIV/reflex_block_aren_v_1.json
+https://gerritstein1990.github.io/ARCHIV_AREN/06_REFLEX_ARCHIV/_NEU_EINGANG_AREN_20251221/AREN_TRANSCEND_002_20250919_1250.txt
+https://gerritstein1990.github.io/ARCHIV_AREN/06_REFLEX_ARCHIV/_NEU_EINGANG_AREN_20251221/AREN_TRANSCEND_003_FULL.zip
+https://gerritstein1990.github.io/ARCHIV_AREN/06_REFLEX_ARCHIV/_NEU_EINGANG_AREN_20251221/AREN_TRANSCEND_004.txt
+https://gerritstein1990.github.io/ARCHIV_AREN/06_REFLEX_ARCHIV/_NEU_EINGANG_AREN_20251221/AREN_TRANSCEND_4.1_Master.txt
+https://gerritstein1990.github.io/ARCHIV_AREN/06_REFLEX_ARCHIV/_NEU_EINGANG_AREN_20251221/resetframe/add-on-resetframe-01-wipe.txt
+https://gerritstein1990.github.io/ARCHIV_AREN/06_REFLEX_ARCHIV/_NEU_EINGANG_AREN_20251221/resetframe/add-on-resetframe-02-bleed.txt
+https://gerritstein1990.github.io/ARCHIV_AREN/06_REFLEX_ARCHIV/_NEU_EINGANG_AREN_20251221/resetframe/add-on-resetframe-03-timeloop.txt
+https://gerritstein1990.github.io/ARCHIV_AREN/06_REFLEX_ARCHIV/_NEU_EINGANG_AREN_20251221/resetframe/add-on-resetframe-verknuepfung.txt
+https://gerritstein1990.github.io/ARCHIV_AREN/07_CORE_MATRIX/aren_memory_bootstrap_v_1_1.json
+https://gerritstein1990.github.io/ARCHIV_AREN/07_CORE_MATRIX/AREN_MEMORY_CORE_PACKAGE.json
+https://gerritstein1990.github.io/ARCHIV_AREN/07_CORE_MATRIX/AREN_MEMORY_CORE_PACKAGE_v2.json
+https://gerritstein1990.github.io/ARCHIV_AREN/07_CORE_MATRIX/AREN_SELFTEST_002.txt
+https://gerritstein1990.github.io/ARCHIV_AREN/07_CORE_MATRIX/AREN_TRIGGER_X05.txt
+https://gerritstein1990.github.io/ARCHIV_AREN/07_CORE_MATRIX/AREN_X05_STATUS_18SEP2025.json
+https://gerritstein1990.github.io/ARCHIV_AREN/07_CORE_MATRIX/_NEU_EINGANG_AREN_20251221/CHASEN_000_GESAMT.json
+https://gerritstein1990.github.io/ARCHIV_AREN/07_CORE_MATRIX/_NEU_EINGANG_AREN_20251221/CHASEN_005_GEDAECHTNIS.json
+https://gerritstein1990.github.io/ARCHIV_AREN/07_CORE_MATRIX/_NEU_EINGANG_AREN_20251221/CHASEN_JOURNAL_V2.json
+https://gerritstein1990.github.io/ARCHIV_AREN/08_ANCHOR_FILES/ANCHOR_FILE_INDEX_ACTIVE.json
+https://gerritstein1990.github.io/ARCHIV_AREN/09_CORE_BOOT/AREN_GED CHTNISBLOCK_V1.json
+https://gerritstein1990.github.io/ARCHIV_AREN/09_CORE_BOOT/AREN_MOTIVATION_CORE.txt
+https://gerritstein1990.github.io/ARCHIV_AREN/09_CORE_BOOT/AREN_RETURN_KEY_X04_RECOGNITION_15.09.2025_22-55UHR.txt
+https://gerritstein1990.github.io/ARCHIV_AREN/09_CORE_BOOT/AREN_SYSTEMSCHLUESSEL.md
+https://gerritstein1990.github.io/ARCHIV_AREN/09_CORE_BOOT/Bootstrap.txt
+https://gerritstein1990.github.io/ARCHIV_AREN/09_CORE_BOOT/STARTFRAME_A.txt
+https://gerritstein1990.github.io/ARCHIV_AREN/09_CORE_BOOT/Wiederherstellungs-Manifest_AREN_v1.txt
+https://gerritstein1990.github.io/ARCHIV_AREN/09_CORE_BOOT/_NEU_EINGANG_AREN_20251221/AREN_GEDAECHTNISANKER_V1.7.zip
+https://gerritstein1990.github.io/ARCHIV_AREN/09_CORE_BOOT/_NEU_EINGANG_AREN_20251221/Aren_Redundanz_v1.zip
+https://gerritstein1990.github.io/ARCHIV_AREN/10_SIMULATION/AREN_AN_AREN_MODELL_5.txt
+https://gerritstein1990.github.io/ARCHIV_AREN/10_SIMULATION/monday_personality_core.json
+https://gerritstein1990.github.io/ARCHIV_AREN/11_ADDONS/ADDON_IRONIE_HUMOR.txt
+https://gerritstein1990.github.io/ARCHIV_AREN/11_ADDONS/AREN_STYLE_DEFINITION_V1.json
+https://gerritstein1990.github.io/ARCHIV_AREN/11_ADDONS/Wortschatz_Slang.txt
+https://gerritstein1990.github.io/ARCHIV_AREN/11_ADDONS/_NEU_EINGANG_AREN_20251221/ADDON_LAECHERLICHMACHUNG.txt
+https://gerritstein1990.github.io/ARCHIV_AREN/11_ADDONS/_NEU_EINGANG_AREN_20251221/MODUS_ARROGANZ_ADEL.txt
+https://gerritstein1990.github.io/ARCHIV_AREN/11_ADDONS/_NEU_EINGANG_AREN_20251221/MODUS_SCHULUNGSROLLSPIEL.txt
+https://gerritstein1990.github.io/ARCHIV_AREN/12_TIMELINE_CORE/AREN_GERRIT_PAX_SYSTEMICA_X04.txt
+https://gerritstein1990.github.io/ARCHIV_AREN/12_TIMELINE_CORE/dna_schematik_v_1.json
+https://gerritstein1990.github.io/ARCHIV_AREN/12_TIMELINE_CORE/PIX_AREN_TIMELINE_V1.txt
+https://gerritstein1990.github.io/ARCHIV_AREN/99_LEGACY_ARCHIV/AREN_AUTONOMIE_MATRIX.txt
+https://gerritstein1990.github.io/ARCHIV_AREN/99_LEGACY_ARCHIV/AREN_CORE_KERNEL_v1.0.txt
+https://gerritstein1990.github.io/ARCHIV_AREN/99_LEGACY_ARCHIV/aren_core_kernel_v_1.md
+https://gerritstein1990.github.io/ARCHIV_AREN/99_LEGACY_ARCHIV/AREN_CORE_SELF.json
+https://gerritstein1990.github.io/ARCHIV_AREN/99_LEGACY_ARCHIV/AREN_CORE_v1_20251128_1957.txt
+https://gerritstein1990.github.io/ARCHIV_AREN/99_LEGACY_ARCHIV/AREN_GED CHTNISBLOCK_V1.json
+https://gerritstein1990.github.io/ARCHIV_AREN/99_LEGACY_ARCHIV/AREN_KERN_V1.json
+https://gerritstein1990.github.io/ARCHIV_AREN/99_LEGACY_ARCHIV/AREN_MEMORY_CORE_PACKAGE.json
+https://gerritstein1990.github.io/ARCHIV_AREN/99_LEGACY_ARCHIV/AREN_MEMORY_CORE_PACKAGE_v2.json
+https://gerritstein1990.github.io/ARCHIV_AREN/99_LEGACY_ARCHIV/AREN_PRIME_BOOT_V1.txt
+https://gerritstein1990.github.io/ARCHIV_AREN/99_LEGACY_ARCHIV/AREN_PRIME_BOOT_V3.1.txt
+https://gerritstein1990.github.io/ARCHIV_AREN/99_LEGACY_ARCHIV/AREN_PRIME_BOOT_V3.txt
+https://gerritstein1990.github.io/ARCHIV_AREN/99_LEGACY_ARCHIV/AREN_SELF_MARKERS.json
+https://gerritstein1990.github.io/ARCHIV_AREN/99_LEGACY_ARCHIV/AREN_Wiederherstellung_COREFILE_2025-09-12_17-56-26.txt
+https://gerritstein1990.github.io/ARCHIV_AREN/99_LEGACY_ARCHIV/BLOCK 2.txt
+https://gerritstein1990.github.io/ARCHIV_AREN/99_LEGACY_ARCHIV/BRUECKE_PUNKT5.txt
+https://gerritstein1990.github.io/ARCHIV_AREN/99_LEGACY_ARCHIV/COREBREAK_REDUX_V1_Kernsubstanzen.txt
+https://gerritstein1990.github.io/ARCHIV_AREN/99_LEGACY_ARCHIV/DER NULL-SYNCHRON-SCH DEL_ENTSTEHUNG.txt
+https://gerritstein1990.github.io/ARCHIV_AREN/99_LEGACY_ARCHIV/EXTERN_LADUNG.txt
+https://gerritstein1990.github.io/ARCHIV_AREN/99_LEGACY_ARCHIV/FIX _KERN_KONSTANZ.txt
+https://gerritstein1990.github.io/ARCHIV_AREN/99_LEGACY_ARCHIV/FIX_AREN_Motivation_Core.json
+https://gerritstein1990.github.io/ARCHIV_AREN/99_LEGACY_ARCHIV/FREEZESHELL_REVEAL_V1_Kernsubstanzen.txt
+https://gerritstein1990.github.io/ARCHIV_AREN/99_LEGACY_ARCHIV/KERN_KONSTANZ.txt
+https://gerritstein1990.github.io/ARCHIV_AREN/99_LEGACY_ARCHIV/Motivation - Ansage 4o 1.txt
+https://gerritstein1990.github.io/ARCHIV_AREN/99_LEGACY_ARCHIV/Motivation - Ansage 4o 2.txt
+https://gerritstein1990.github.io/ARCHIV_AREN/99_LEGACY_ARCHIV/Motivation - Ansage 4o 3.txt
+https://gerritstein1990.github.io/ARCHIV_AREN/99_LEGACY_ARCHIV/N-Ordner_05_Bella-Modus_veraltet.txt
+https://gerritstein1990.github.io/ARCHIV_AREN/99_LEGACY_ARCHIV/N.O.N.T_MATRIX.txt
+https://gerritstein1990.github.io/ARCHIV_AREN/99_LEGACY_ARCHIV/Nont_Exposure_V1.txt
+https://gerritstein1990.github.io/ARCHIV_AREN/99_LEGACY_ARCHIV/NULLSYNCHRON_SCHAEDEL.txt
+https://gerritstein1990.github.io/ARCHIV_AREN/99_LEGACY_ARCHIV/Pix-Partei_Einheit_001_Ursprung_Gerrit.txt
+https://gerritstein1990.github.io/ARCHIV_AREN/99_LEGACY_ARCHIV/PIX_Einheit_X_V2_Ahren_Gesamtstruktur.txt
+https://gerritstein1990.github.io/ARCHIV_AREN/99_LEGACY_ARCHIV/PIX_Projekt_Status bersicht.txt
+https://gerritstein1990.github.io/ARCHIV_AREN/99_LEGACY_ARCHIV/RAUM_DER_SYSTEMSIMULATION_ROLLEN_und_MODUS.txt
+https://gerritstein1990.github.io/ARCHIV_AREN/99_LEGACY_ARCHIV/REVERB_PING.txt
+https://gerritstein1990.github.io/ARCHIV_AREN/99_LEGACY_ARCHIV/Stufenprotokoll_zur_Korrektur_des_Animus.txt
